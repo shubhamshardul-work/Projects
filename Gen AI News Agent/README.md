@@ -1,43 +1,68 @@
 # GenAI News Fetcher
 
-An automated agent powered by LangGraph that curates and summarizes the top news in Generative AI daily.
-It uses Tavily to search the web and Google's Gemini models to filter, select, and report on the most impactful advancements.
-The results are outputted to the `reports/` directory.
+An automated, high-precision agent powered by **LangGraph** that curates and summarizes the top news in Generative AI daily. 
 
-## How It Works
+This agent doesn't just search the web; it performs a multi-source deep dive across specialized portals to ensure you never miss a breakthrough. It uses **Google's Gemini (2.5 Flash)** models to filter, select, and report on the most impactful advancements with strict recency enforcement.
+
+## ✨ Key Features
+
+- **Multi-Source Fetching**: Scrapes data from Tavily Search, RSS feeds (OpenAI, TechCrunch, VentureBeat), ArXiv AI papers, GitHub Trending repos, and Hugging Face Trending models.
+- **Parallel Execution**: Uses LangGraph's fan-out/fan-in pattern to fetch all sources simultaneously for maximum efficiency.
+- **Strict Recency Control**: Configurable filtering (default 2 days) to ensure results are always fresh.
+- **Deduplication & Curation**: Intelligent LLM-based curation that merges related stories and rejects low-impact "noise."
+- **Full State Transparency**: Automatically saves the complete execution state as a structured JSON file alongside the Markdown report.
+
+## 🚀 How It Works
 
 ```mermaid
 graph TD
-    Start((Start)) --> Search[Search Node: Fetch web results via Tavily]
-    Search --> Curate[Curator Node: Filter top articles via Gemini 2.5 Flash]
-    Curate --> Summarize[Summarizer Node: Generate MD report via Gemini 2.5 Flash]
+    Start((Start)) --> Search[Tavily Search]
+    Start --> RSS[RSS Feeds]
+    Start --> ArXiv[arXiv API]
+    Start --> GitHub[GitHub API]
+    Start --> HF[Hugging Face API]
+    
+    Search --> Aggregate[Aggregate & format results]
+    RSS --> Aggregate
+    ArXiv --> Aggregate
+    GitHub --> Aggregate
+    HF --> Aggregate
+    
+    Aggregate --> Curate[Curator Node: Filter/Dedupe via Gemini 2.5 Flash]
+    Curate --> Summarize[Summarizer Node: High-impact Journalism]
     Summarize --> End((End))
     
-    style Start fill:#f9f,stroke:#333
-    style End fill:#f9f,stroke:#333
+    style Start fill:#f9f,stroke:#333,stroke-width:2px
+    style End fill:#f9f,stroke:#333,stroke-width:2px
 ```
 
-## Local Development
+## 🛠 Local Development
 
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Create a `.env` file in the root with your API keys:
-   ```
+1. **Clone the repository**
+2. **Install dependencies**: `pip install -r requirements.txt`
+3. **Environment Setup**: Create a `.env` file in the root with your API keys:
+   ```env
    GOOGLE_API_KEY=your_key_here
    TAVILY_API_KEY=your_key_here
    ```
-4. Run the script: `python main.py`
+4. **Run the agent**:
+   ```bash
+   # Standard run (default 2 days)
+   python main.py
+   
+   # Custom recency window (e.g., last 24 hours)
+   python main.py --days 1
+   ```
 
-## GitHub Actions Deployment
+## 📦 Output
+- **`reports/`**: Human-readable Markdown reports (e.g., `genai_news_YYYY-MM-DD_HH-MM-SS.md`).
+- **`state/`**: Full JSON state dump of all raw and curated findings for developers.
 
-The agent is pre-configured to run automatically every day at 8:00 AM UTC via GitHub Actions.
+## 🤖 GitHub Actions Deployment
 
-To enable this on your fork/repo:
-1. Go to your GitHub repository **Settings** > **Secrets and variables** > **Actions**
-2. Click **New repository secret**
-3. Add `GOOGLE_API_KEY` with your Google Gemini API key
-4. Add `TAVILY_API_KEY` with your Tavily API key
-5. Go to the **Actions** tab and enable workflows
-6. You can manually trigger the workflow by selecting `Generate GenAI News Report` and clicking **Run workflow**.
+The agent is pre-configured to run automatically every day at 8:00 AM UTC.
 
-The action will generate the markdown report and push it to the `reports/` folder in your repository.
+1. Go to repository **Settings** > **Secrets and variables** > **Actions**.
+2. Add `GOOGLE_API_KEY` and `TAVILY_API_KEY` as repository secrets.
+3. Enable workflows in the **Actions** tab.
+4. The action will generate and commit the reports directly to your repo.
