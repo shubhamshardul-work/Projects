@@ -1,0 +1,35 @@
+name: Deploy MkDocs to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+    # Wait for the main genai_news action to commit its reports first!
+    paths:
+      - 'Gen AI News Agent/reports/**'
+      - 'docs/**'
+      - 'mkdocs.yml'
+  workflow_dispatch: # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Required by MkDocs for Git history plugins (if any)
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        working-directory: './Gen AI News Agent'
+        run: pip install -r requirements.txt
+
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
