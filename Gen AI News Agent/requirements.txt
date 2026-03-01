@@ -1,0 +1,8 @@
+langgraph
+langchain-google-genai
+langchain-community
+tavily-python
+python-dotenv
+pydantic<2.10.0
+packaging<24.0
+requests
