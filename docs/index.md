@@ -1,14 +1,14 @@
-# Generative AI News Radar
+# Project Portfolio
 
-Welcome to the automated news aggregator. 
+Welcome to my technical portfolio. This site hosts a collection of automated agents, AI experiments, and data-driven projects.
 
-This blog is updated daily using an AI agent (powered by LangGraph and Google's Gemini models) that scrapes, curates, and summarizes the top breakthroughs in Generative AI from across the web.
+## 🤖 Featured Projects
 
-It pulls from:
-- AI Company Blogs (OpenAI, Google DeepMind, Anthropic, Meta)
-- Tech News (TechCrunch, VentureBeat)
-- The latest cs.AI Research Papers (arXiv)
-- Trending Open Source Repositories (GitHub)
-- Trending Open Source Models (Hugging Face)
+### 📡 [GenAI News Agent](./reports/)
+An automated, high-precision agent powered by **LangGraph** that curates and summarizes the top breakthroughs in Generative AI daily.
+- **Technologies**: Python, LangChain, LangGraph, Google Gemini, Tavily API.
+- **Automation**: GitHub Actions (Daily @ 8:00 AM UTC).
 
-Navigate to the **Reports** tab at the top to read the latest daily digests.
+---
+
+*New projects coming soon...*

@@ -1,19 +1,19 @@
-site_name: Generative AI News
-site_description: An automated, curated daily report of the most impactful breakthroughs in Generative AI.
-site_author: GenAI Agent
+site_name: Shubham's Projects
+site_description: A portfolio of automated AI agents, data pipelines, and technical experiments.
+site_author: Shubham Shardul
 
 theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: dark)"
-      scheme: default
+      scheme: slate
       primary: black
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: slate
+      scheme: default
       primary: black
       accent: indigo
       toggle:
@@ -21,6 +21,7 @@ theme:
         name: Switch to dark mode
   features:
     - navigation.tabs
+    - navigation.sections
     - navigation.instant
     - search.suggest
     - search.highlight
