@@ -9,6 +9,8 @@ An automated, high-precision agent powered by **LangGraph** that curates and sum
 - **Technologies**: Python, LangChain, LangGraph, Google Gemini, Tavily API.
 - **Automation**: GitHub Actions (Daily @ 8:00 AM UTC).
 
+[**🔄 Refresh News Now**](https://github.com/shubhamshardul-work/Projects/actions/workflows/genai_news.yml){ .md-button .md-button--primary }
+
 ---
 
 *New projects coming soon...*
