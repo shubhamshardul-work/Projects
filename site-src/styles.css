@@ -650,7 +650,35 @@ a:hover {
 .subscribe-form {
     display: flex;
     justify-content: center;
+    gap: 12px;
     margin-bottom: 24px;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.subscribe-input {
+    flex: 1;
+    padding: 14px 20px;
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.05);
+    color: var(--text-primary);
+    font-size: 1rem;
+    outline: none;
+    transition: all var(--transition);
+}
+
+.subscribe-input:focus {
+    border-color: var(--accent);
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.subscribe-status {
+    margin-bottom: 20px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--success);
 }
 
 .subscribe-form .btn {

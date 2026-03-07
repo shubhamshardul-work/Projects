@@ -306,13 +306,41 @@ def email_node(state: AgentState):
         return {}
         
     # Load subscribers
+    subscribers = []
+    
+    # 1. Try to fetch from automated Google Sheet (if URL provided)
+    sheet_url = os.getenv("SUBSCRIBERS_SHEET_URL")
+    if sheet_url:
+        try:
+            import requests
+            import csv
+            from io import StringIO
+            response = requests.get(sheet_url, timeout=5)
+            if response.status_code == 200:
+                f = StringIO(response.text)
+                reader = csv.reader(f)
+                next(reader, None) # Skip header
+                # Usually email is 2nd column, index 1.
+                subscribers_from_sheet = [row[1] for row in reader if len(row) > 1 and '@' in row[1]]
+                subscribers.extend(subscribers_from_sheet)
+                print(f"Fetched {len(subscribers_from_sheet)} subscribers from Google Sheet.")
+        except Exception as e:
+            print(f"Error fetching from Google Sheet: {e}")
+
+    # 2. Fallback/Add from local subscribers.json
     try:
         subscribers_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "subscribers.json")
-        with open(subscribers_path, "r") as f:
-            subscribers = json.load(f)
+        if os.path.exists(subscribers_path):
+            with open(subscribers_path, "r") as f:
+                local_subs = json.load(f)
+                subscribers.extend(local_subs)
     except Exception as e:
-        print(f"Error loading subscribers: {e}")
-        subscribers = [sender_email] # Fallback to sender only
+        print(f"Error loading local subscribers: {e}")
+        
+    # Clean up list (unique and valid)
+    subscribers = list(set([s.strip().lower() for s in subscribers if s and "@" in s]))
+    if not subscribers:
+        subscribers = [sender_email]
         
     # Convert Markdown to HTML for the email
     html_content = markdown.markdown(final_report)

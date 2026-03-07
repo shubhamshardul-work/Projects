@@ -118,10 +118,12 @@
     <div class="subscribe-card">
       <h3>📧 Daily AI Insights in Your Inbox</h3>
       <p>Join other AI professionals receiving the top curated breakthroughs every morning at 8:00 AM IST.</p>
-      <div class="subscribe-form">
-        <a href="mailto:shubham.shardul.work@gmail.com?subject=Subscribe%20to%20GenAI%20News"
-          class="btn btn--primary">Subscribe via Email</a>
-      </div>
+      <form class="subscribe-form" id="subscribe-form">
+        <input type="email" id="subscriber-email" placeholder="Enter your email address" required
+          class="subscribe-input" />
+        <button type="submit" class="btn btn--primary">Join Newsletter</button>
+      </form>
+      <div id="subscribe-status" class="subscribe-status" hidden></div>
       <p class="subscribe-note">Pure signal. No noise. Unsubscribe anytime.</p>
     </div>
   </section>

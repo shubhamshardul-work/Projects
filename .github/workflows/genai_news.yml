@@ -33,6 +33,7 @@ jobs:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          SUBSCRIBERS_SHEET_URL: ${{ secrets.SUBSCRIBERS_SHEET_URL }}
         run: python main.py
         
       - name: Commit and Push Report

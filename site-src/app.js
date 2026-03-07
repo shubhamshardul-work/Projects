@@ -235,3 +235,24 @@ style.textContent = `
   .spin { animation: spin 1s linear infinite; }
 `;
 document.head.appendChild(style);
+
+// ── Newsletter Subscription ───────────────────
+const subscribeForm = document.getElementById('subscribe-form');
+const subscribeStatus = document.getElementById('subscribe-status');
+
+if (subscribeForm) {
+  subscribeForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const btn = subscribeForm.querySelector('button');
+
+    btn.disabled = true;
+    btn.innerText = 'Joining...';
+
+    // Simulate API request/submission for UI
+    setTimeout(() => {
+      subscribeForm.hidden = true;
+      subscribeStatus.innerText = '🎉 You are on the list! Welcome aboard. Be sure to check your spam folder just in case.';
+      subscribeStatus.hidden = false;
+    }, 1000);
+  });
+}
