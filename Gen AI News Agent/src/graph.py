@@ -1,6 +1,6 @@
 from langgraph.graph import StateGraph, START, END
 from src.state import AgentState
-from src.nodes import tavily_node, rss_node, arxiv_node, github_node, hf_node, aggregate_node, curate_node, summarize_node
+from src.nodes import tavily_node, rss_node, arxiv_node, github_node, hf_node, aggregate_node, curate_node, summarize_node, email_node
 
 def build_graph():
     builder = StateGraph(AgentState)
@@ -15,6 +15,7 @@ def build_graph():
     
     builder.add_node("curate", curate_node)
     builder.add_node("summarize", summarize_node)
+    builder.add_node("email", email_node)
     
     # Fan-out: Start all fetchers in parallel
     builder.add_edge(START, "tavily")
@@ -33,6 +34,7 @@ def build_graph():
     # Process aggregated news
     builder.add_edge("aggregate", "curate")
     builder.add_edge("curate", "summarize")
-    builder.add_edge("summarize", END)
+    builder.add_edge("summarize", "email")
+    builder.add_edge("email", END)
     
     return builder.compile()

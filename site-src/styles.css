@@ -614,6 +614,57 @@ a:hover {
     color: var(--accent);
 }
 
+/* ── Subscribe Section ───────────────────────── */
+.subscribe-section {
+    padding: 80px 20px;
+    background: radial-gradient(circle at center, rgba(99, 102, 241, 0.05) 0%, transparent 70%);
+}
+
+.subscribe-card {
+    max-width: 700px;
+    margin: 0 auto;
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--glass-border);
+    border-radius: 24px;
+    padding: 60px 40px;
+    text-align: center;
+    box-shadow: var(--shadow-lg);
+}
+
+.subscribe-card h3 {
+    font-size: 2rem;
+    margin-bottom: 16px;
+    background: linear-gradient(135deg, #fff 0%, #a5b4fc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.subscribe-card p {
+    color: var(--text-muted);
+    font-size: 1.1rem;
+    margin-bottom: 32px;
+}
+
+.subscribe-form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.subscribe-form .btn {
+    padding: 16px 40px;
+    font-size: 1.1rem;
+}
+
+.subscribe-note {
+    font-size: 0.85rem !important;
+    color: var(--text-muted);
+    opacity: 0.7;
+    margin-bottom: 0 !important;
+}
+
 /* ── Modal ───────────────────────────────────── */
 .modal-overlay {
     position: fixed;

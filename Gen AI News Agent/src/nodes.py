@@ -285,3 +285,78 @@ def summarize_node(state: AgentState):
     ])
     
     return {"final_report": response.content}
+
+def email_node(state: AgentState):
+    """Sends the final report to all subscribers via email."""
+    import smtplib
+    from email.mime.multipart import MIMEMultipart
+    from email.mime.text import MIMEText
+    import markdown
+    
+    final_report = state.get("final_report", "")
+    if not final_report or final_report == "No significant news found today.":
+        print("No report to email.")
+        return {}
+        
+    sender_email = os.getenv("GMAIL_USER")
+    sender_password = os.getenv("GMAIL_APP_PASSWORD")
+    
+    if not sender_email or not sender_password:
+        print("Email credentials not found. Skipping email node.")
+        return {}
+        
+    # Load subscribers
+    try:
+        subscribers_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "subscribers.json")
+        with open(subscribers_path, "r") as f:
+            subscribers = json.load(f)
+    except Exception as e:
+        print(f"Error loading subscribers: {e}")
+        subscribers = [sender_email] # Fallback to sender only
+        
+    # Convert Markdown to HTML for the email
+    html_content = markdown.markdown(final_report)
+    
+    # Add some basic styling to the HTML email
+    styled_html = f"""
+    <html>
+    <head>
+        <style>
+            body {{ font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px; }}
+            h1, h2, h3 {{ color: #1a73e8; }}
+            a {{ color: #1a73e8; text-decoration: none; font-weight: bold; }}
+            hr {{ border: 0; border-top: 1px solid #eee; margin: 20px 0; }}
+            .footer {{ font-size: 12px; color: #888; margin-top: 30px; text-align: center; border-top: 1px solid #eee; padding-top: 10px; }}
+        </style>
+    </head>
+    <body>
+        {html_content}
+        <div class="footer">
+            Sent by your automated GenAI News Agent.<br>
+            To unsubscribe, reply to this email with "Unsubscribe".
+        </div>
+    </body>
+    </html>
+    """
+    
+    try:
+        # Create message
+        msg = MIMEMultipart()
+        msg['From'] = f"GenAI News Agent <{sender_email}>"
+        msg['To'] = sender_email # Primary recipient
+        msg['Subject'] = f"🚀 Daily AI Highlights - {datetime.now().strftime('%b %d, %Y')}"
+        
+        msg.attach(MIMEText(styled_html, 'html'))
+        
+        # Connect and send
+        with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
+            server.login(sender_email, sender_password)
+            # Send to yourself + all subscribers as BCC to protect privacy
+            recipients = list(set([sender_email] + subscribers))
+            server.sendmail(sender_email, recipients, msg.as_string())
+            print(f"Successfully sent email to {len(recipients)} recipients.")
+            
+    except Exception as e:
+        print(f"Error sending email: {e}")
+        
+    return {}
