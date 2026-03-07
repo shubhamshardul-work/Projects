@@ -20,7 +20,7 @@ __pycache__/
 # Temporary / Debug Data
 state/
 reports/
-site/
+site-build/
 
 # Notebooks (Optional, but often good to clear outputs or ignore generated ones)
 .ipynb_checkpoints

@@ -1,15 +1,14 @@
-name: Deploy MkDocs to GitHub Pages
+name: Deploy Website to GitHub Pages
 
 on:
   push:
     branches:
       - main
-    # Wait for the main genai_news action to commit its reports first!
     paths:
       - 'Gen AI News Agent/reports/**'
-      - 'docs/**'
-      - 'mkdocs.yml'
-  workflow_dispatch: # Allow manual triggering
+      - 'site-src/**'
+      - 'build.py'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -20,16 +19,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Required by MkDocs for Git history plugins (if any)
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Install dependencies
-        working-directory: './Gen AI News Agent'
-        run: pip install -r requirements.txt
+      - name: Build Site
+        run: python build.py
 
       - name: Deploy to GitHub Pages
-        run: mkdocs gh-deploy --force
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./site-build
+          force_orphan: true
