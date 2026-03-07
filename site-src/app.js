@@ -1,23 +1,23 @@
 // ── Config ────────────────────────────────────
 const GITHUB_OWNER = 'shubhamshardul-work';
-const GITHUB_REPO  = 'Projects';
+const GITHUB_REPO = 'Projects';
 const WORKFLOW_FILE = 'genai_news.yml';
-const PAT_KEY      = 'genai_github_pat';
+const PAT_KEY = 'genai_github_pat';
 
 // ── DOM References ────────────────────────────
-const reportBody     = document.getElementById('report-body');
-const reportDate     = document.getElementById('report-date');
-const reportLabel    = document.getElementById('report-label');
-const archiveList    = document.getElementById('archive-list');
-const btnGenerate    = document.getElementById('btn-generate');
-const statusBanner   = document.getElementById('status-banner');
-const statusText     = document.getElementById('status-text');
-const statusClose    = document.getElementById('status-close');
-const patModal       = document.getElementById('pat-modal');
-const patInput       = document.getElementById('pat-input');
-const patSubmit      = document.getElementById('pat-submit');
-const patCancel      = document.getElementById('pat-cancel');
-const patClear       = document.getElementById('pat-clear');
+const reportBody = document.getElementById('report-body');
+const reportDate = document.getElementById('report-date');
+const reportLabel = document.getElementById('report-label');
+const archiveList = document.getElementById('archive-list');
+const btnGenerate = document.getElementById('btn-generate');
+const statusBanner = document.getElementById('status-banner');
+const statusText = document.getElementById('status-text');
+const statusClose = document.getElementById('status-close');
+const patModal = document.getElementById('pat-modal');
+const patInput = document.getElementById('pat-input');
+const patSubmit = document.getElementById('pat-submit');
+const patCancel = document.getElementById('pat-cancel');
+const patClear = document.getElementById('pat-clear');
 
 let reportsIndex = [];
 
@@ -108,23 +108,23 @@ function setupEventListeners() {
 
   // PAT modal
   patSubmit.addEventListener('click', handlePATSubmit);
-  patCancel.addEventListener('click', () => { patModal.hidden = true; });
+  patCancel.addEventListener('click', () => { patModal.classList.remove('show'); });
   patClear.addEventListener('click', () => {
     localStorage.removeItem(PAT_KEY);
     patClear.hidden = true;
     patInput.value = '';
     showStatus('Token cleared.', 'warning');
-    patModal.hidden = true;
+    patModal.classList.remove('show');
   });
 
   // Close modal on overlay click
   patModal.addEventListener('click', (e) => {
-    if (e.target === patModal) patModal.hidden = true;
+    if (e.target === patModal) patModal.classList.remove('show');
   });
 
   // Escape key closes modal
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && !patModal.hidden) patModal.hidden = true;
+    if (e.key === 'Escape' && patModal.classList.contains('show')) patModal.classList.remove('show');
   });
 }
 
@@ -137,7 +137,7 @@ function handleGenerate() {
     // Show modal
     patInput.value = '';
     patClear.hidden = true;
-    patModal.hidden = false;
+    patModal.classList.add('show');
     patInput.focus();
   }
 }
@@ -149,7 +149,7 @@ async function handlePATSubmit() {
     return;
   }
   localStorage.setItem(PAT_KEY, token);
-  patModal.hidden = true;
+  patModal.classList.remove('show');
   await triggerWorkflow(token);
 }
 
