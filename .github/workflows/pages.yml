@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - '.github/workflows/**'
       - 'Gen AI News Agent/reports/**'
       - 'site-src/**'
       - 'portfolio-src/**'
