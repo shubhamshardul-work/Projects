@@ -34,4 +34,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site-build
-          force_orphan: true
+          destination_dir: GenAIReport
+          keep_files: true

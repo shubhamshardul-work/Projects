@@ -243,16 +243,35 @@ const subscribeStatus = document.getElementById('subscribe-status');
 if (subscribeForm) {
   subscribeForm.addEventListener('submit', async (e) => {
     e.preventDefault();
+    const email = document.getElementById('subscriber-email').value;
     const btn = subscribeForm.querySelector('button');
 
     btn.disabled = true;
     btn.innerText = 'Joining...';
 
-    // Simulate API request/submission for UI
-    setTimeout(() => {
+    try {
+      const url = 'https://docs.google.com/forms/d/e/1FAIpQLSe4zr6n7rEdPx0mjMaLjf6RNAduE3yRhezOtPLtomrtwnz1fg/formResponse';
+      const formData = new URLSearchParams();
+      formData.append('entry.1045781291', email);
+
+      await fetch(url, {
+        method: 'POST',
+        mode: 'no-cors', // Bypass CORS since Google Forms doesn't return allowed headers
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        body: formData
+      });
+
       subscribeForm.hidden = true;
-      subscribeStatus.innerText = '🎉 You are on the list! Welcome aboard. Be sure to check your spam folder just in case.';
+      subscribeStatus.innerText = '🎉 You are on the list! Welcome aboard. Check your spam folder just in case.';
       subscribeStatus.hidden = false;
-    }, 1000);
+    } catch (err) {
+      console.error(err);
+      btn.disabled = false;
+      btn.innerText = 'Join Newsletter';
+      subscribeStatus.innerText = '❌ Something went wrong. Please try again.';
+      subscribeStatus.hidden = false;
+    }
   });
 }
