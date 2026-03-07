@@ -2,161 +2,140 @@
 <html lang="en">
 
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Shubham's Projects — GenAI News Agent</title>
-  <meta name="description"
-    content="An automated, high-precision GenAI news agent powered by LangGraph. Curates and summarizes the top breakthroughs in Generative AI daily." />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap"
-    rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shubham Shardul | Portfolio</title>
+    <meta name="description" content="Professional Portfolio of Shubham Shardul - Software Developer.">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <!-- Phosphor Icons for modern iconography -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
 </head>
 
 <body>
-  <!-- ───── Navbar ───── -->
-  <nav class="navbar" id="navbar">
-    <div class="nav-brand">
-      <span class="nav-logo">⚡</span>
-      <span class="nav-title">GenAI News Agent</span>
+
+    <!-- Animated Background Elements -->
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    <div class="bg-orb orb-3"></div>
+
+    <div class="container">
+
+        <!-- Header / Nav -->
+        <header class="glass-nav fade-in-up" style="animation-delay: 0.1s;">
+            <div class="logo">S.S.</div>
+            <nav>
+                <a href="#about">About</a>
+                <a href="#projects">Projects</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </header>
+
+        <main>
+            <!-- Hero Section -->
+            <section class="hero fade-in-up" style="animation-delay: 0.2s;" id="about">
+                <div class="hero-content">
+                    <div class="badge">👋 Welcome to my portfolio</div>
+                    <h1 class="gradient-text">Shubham Shardul</h1>
+                    <h2 class="subtitle">Software Engineer & Innovator</h2>
+                    <p class="bio">
+                        I build intelligent systems, dynamic web experiences, and scalable solutions.
+                        Passionate about Generative AI, modern web development, and solving complex problems with clean
+                        code.
+                    </p>
+                    <div class="social-links">
+                        <!-- Replace # with actual links when available -->
+                        <a href="#" class="social-btn" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+                            <i class="ph-fill ph-linkedin-logo"></i>
+                            <span>LinkedIn</span>
+                        </a>
+                        <a href="https://shubhamshardul.medium.com/" class="social-btn" target="_blank"
+                            rel="noopener noreferrer" title="Medium">
+                            <i class="ph-fill ph-medium-logo"></i>
+                            <span>Medium</span>
+                        </a>
+                        <a href="https://github.com/shubhamshardul-work" class="social-btn" target="_blank"
+                            rel="noopener noreferrer" title="GitHub">
+                            <i class="ph-fill ph-github-logo"></i>
+                            <span>GitHub</span>
+                        </a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects Section -->
+            <section class="projects-section fade-in-up" style="animation-delay: 0.4s;" id="projects">
+                <h3 class="section-title">Featured Work</h3>
+
+                <div class="projects-grid">
+
+                    <!-- Project Card 1: GenAI News -->
+                    <a href="GenAIReport/" class="project-card glass-panel">
+                        <div class="project-icon">
+                            <i class="ph-fill ph-robot"></i>
+                        </div>
+                        <div class="project-info">
+                            <h4>GenAI News Agent</h4>
+                            <p>An autonomous AI agent that curates, summarizes, and publishes the latest breakthroughs
+                                in Generative AI daily. Built with Python, LangChain, and GitHub Actions.</p>
+                            <div class="tags">
+                                <span class="tag">AI/LLMs</span>
+                                <span class="tag">Python</span>
+                                <span class="tag">Automation</span>
+                            </div>
+                        </div>
+                        <div class="project-link-arrow">
+                            <i class="ph ph-arrow-up-right"></i>
+                        </div>
+                    </a>
+
+                    <!-- Project Card Placeholder -->
+                    <a href="#" class="project-card glass-panel">
+                        <div class="project-icon">
+                            <i class="ph-fill ph-braces"></i>
+                        </div>
+                        <div class="project-info">
+                            <h4>Coming Soon</h4>
+                            <p>More exciting projects are currently in development and will be showcased here shortly.
+                            </p>
+                            <div class="tags">
+                                <span class="tag">Web</span>
+                                <span class="tag">Backend</span>
+                            </div>
+                        </div>
+                        <div class="project-link-arrow">
+                            <i class="ph ph-arrow-up-right"></i>
+                        </div>
+                    </a>
+
+                </div>
+            </section>
+
+            <!-- Contact Section -->
+            <section class="contact-section fade-in-up" style="animation-delay: 0.6s;" id="contact">
+                <div class="contact-card glass-panel">
+                    <h3>Let's build something great.</h3>
+                    <p>Interested in collaborating or have a proposition? Feel free to reach out.</p>
+                    <a href="mailto:shubhamshardul@example.com" class="primary-btn">
+                        <i class="ph ph-paper-plane-tilt"></i>
+                        Get in Touch
+                    </a>
+                </div>
+            </section>
+
+        </main>
+
+        <footer class="fade-in-up" style="animation-delay: 0.8s;">
+            <p>&copy; 2026 Shubham Shardul. All rights reserved.</p>
+        </footer>
+
     </div>
-    <div class="nav-links">
-      <a href="#latest" class="nav-link">Latest</a>
-      <a href="#archive" class="nav-link">Archive</a>
-      <a href="https://github.com/shubhamshardul-work/Projects" target="_blank" rel="noopener"
-        class="nav-link nav-link--github">
-        <svg width="18" height="18" viewBox="0 0 16 16" fill="currentColor">
-          <path
-            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z" />
-        </svg>
-        GitHub
-      </a>
-    </div>
-  </nav>
 
-  <!-- ───── Hero ───── -->
-  <header class="hero" id="hero">
-    <div class="hero-bg"></div>
-    <div class="hero-content">
-      <div class="hero-badge">🤖 Powered by LangGraph + Gemini 2.5 Flash</div>
-      <h1 class="hero-title">
-        Stay Ahead of the<br />
-        <span class="gradient-text">Generative AI</span> Revolution
-      </h1>
-      <p class="hero-subtitle">
-        An automated multi-source agent that curates, filters, and summarizes the most impactful AI breakthroughs —
-        delivered daily.
-      </p>
-      <div class="hero-actions">
-        <button class="btn btn--primary" id="btn-generate" title="Trigger a new report via GitHub Actions">
-          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
-            stroke-linecap="round" stroke-linejoin="round">
-            <polyline points="23 4 23 10 17 10" />
-            <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10" />
-          </svg>
-          Generate New Report
-        </button>
-        <a href="#latest" class="btn btn--ghost">
-          View Latest Report ↓
-        </a>
-      </div>
-      <div class="hero-sources">
-        <span class="source-tag">Tavily</span>
-        <span class="source-tag">ArXiv</span>
-        <span class="source-tag">TechCrunch</span>
-        <span class="source-tag">GitHub</span>
-        <span class="source-tag">Hugging Face</span>
-        <span class="source-tag">VentureBeat</span>
-        <span class="source-tag">OpenAI Blog</span>
-      </div>
-    </div>
-  </header>
-
-  <!-- ───── Status Banner (hidden by default) ───── -->
-  <div class="status-banner" id="status-banner" hidden>
-    <span id="status-text"></span>
-    <button class="status-close" id="status-close">&times;</button>
-  </div>
-
-  <!-- ───── Main Content ───── -->
-  <main class="main-content" id="latest">
-    <div class="content-grid">
-      <!-- Report View -->
-      <article class="report-card" id="report-card">
-        <div class="report-header">
-          <div>
-            <h2 class="report-label" id="report-label">📡 Latest Report</h2>
-            <p class="report-date" id="report-date"></p>
-          </div>
-        </div>
-        <div class="report-body" id="report-body">
-          <div class="loading-skeleton">
-            <div class="skeleton-line skeleton-line--title"></div>
-            <div class="skeleton-line"></div>
-            <div class="skeleton-line"></div>
-            <div class="skeleton-line skeleton-line--short"></div>
-            <div class="skeleton-line"></div>
-            <div class="skeleton-line skeleton-line--short"></div>
-          </div>
-        </div>
-      </article>
-
-      <!-- Archive Sidebar -->
-      <aside class="archive-sidebar" id="archive">
-        <h3 class="archive-title">📂 Report Archive</h3>
-        <ul class="archive-list" id="archive-list">
-          <!-- Dynamically populated -->
-        </ul>
-      </aside>
-    </div>
-  </main>
-
-  <!-- ───── Subscribe ───── -->
-  <section class="subscribe-section" id="subscribe">
-    <div class="subscribe-card">
-      <h3>📧 Daily AI Insights in Your Inbox</h3>
-      <p>Join other AI professionals receiving the top curated breakthroughs every morning at 8:00 AM IST.</p>
-      <form class="subscribe-form" id="subscribe-form">
-        <input type="email" id="subscriber-email" placeholder="Enter your email address" required
-          class="subscribe-input" />
-        <button type="submit" class="btn btn--primary">Join Newsletter</button>
-      </form>
-      <div id="subscribe-status" class="subscribe-status" hidden></div>
-      <p class="subscribe-note">Pure signal. No noise. Unsubscribe anytime.</p>
-    </div>
-  </section>
-
-  <!-- ───── Footer ───── -->
-  <footer class="footer">
-    <p>Built by <strong>Shubham Shardul</strong> · Powered by LangGraph, Google Gemini, and GitHub Actions</p>
-    <p class="footer-sub">
-      <a href="https://github.com/shubhamshardul-work/Projects" target="_blank" rel="noopener">Source Code</a>
-    </p>
-  </footer>
-
-  <!-- ───── PAT Modal ───── -->
-  <div class="modal-overlay" id="pat-modal">
-    <div class="modal">
-      <h3 class="modal-title">🔑 GitHub Personal Access Token</h3>
-      <p class="modal-desc">
-        To trigger a new report generation, a GitHub PAT with <code>repo</code> scope is required.
-        It is stored <strong>only in your browser's localStorage</strong> and never sent anywhere except the GitHub API.
-      </p>
-      <input type="password" id="pat-input" class="modal-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"
-        autocomplete="off" />
-      <div class="modal-actions">
-        <button class="btn btn--primary" id="pat-submit">Save &amp; Trigger</button>
-        <button class="btn btn--ghost" id="pat-cancel">Cancel</button>
-      </div>
-      <button class="modal-clear" id="pat-clear" hidden>Clear Saved Token</button>
-    </div>
-  </div>
-
-  <!-- ───── Lightweight MD Parser (marked.js) ───── -->
-  <script src="https://cdn.jsdelivr.net/npm/marked@12.0.0/marked.min.js"></script>
-  <script src="app.js"></script>
+    <script src="script.js"></script>
 </body>
 
 </html>
