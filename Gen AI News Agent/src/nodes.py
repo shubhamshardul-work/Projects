@@ -205,15 +205,18 @@ def curate_node(state: AgentState):
         convert_system_message_to_human=True
     )
     
+    from datetime import datetime
+    today_str = datetime.now().strftime('%Y-%m-%d')
     prompt = f"""
-    You are an expert AI news curator. Given the following list of news articles,
-    select the most important and impactful news stories in the field of Generative AI.
-    Filter out noise, clickbait, or less relevant articles. Keep all articles that meet a high threshold of importance or impact, regardless of how many there are.
+    You are an expert AI news curator evaluating articles on {today_str}.
+    Given the following list of raw news articles fetched from various sources,
+    select the most important and impactful news stories in the field of Generative AI published in the last {days} days.
     
-    IMPORTANT: 
-    - These articles have already been pre-filtered to ensure they were published in the last {days} days. You do NOT need to verify their age.
-    - If an article has a short or missing summary, judge it based on its title. 
-    - Focus on major releases, strategic partnerships (e.g. OpenAI/Pentagon), and frontier model updates.
+    IMPORTANT INSTRUCTIONS: 
+    1. Filter out noise, clickbait, or less relevant articles. Focus on major releases, strategic partnerships, and frontier model updates.
+    2. CRITICAL: Search engines sometimes return highly-ranked but OUTDATED news (e.g., Google rebranding Bard to Gemini in early 2024, or old OpenAI releases). 
+       You MUST actively filter out any news that is older than {days} days. If an article describes an event that clearly happened months or years ago relative to {today_str}, DISCARD IT.
+    3. If an article has a short or missing summary, judge its relevance and age based on its title and URL.
     
     News Articles:
     {raw_news}
