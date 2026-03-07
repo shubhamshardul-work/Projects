@@ -2,12 +2,6 @@
   "search_query": "latest breakthroughs, releases, and news in Generative AI",
   "tavily_news": [
     {
-      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
-      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
-      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
-      "source": "Tavily Search"
-    },
-    {
       "title": "[Tavily] Generative AI recent news | AI Business",
       "url": "https://aibusiness.com/generative-ai",
       "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
@@ -76,12 +70,6 @@
   ],
   "raw_news": [
     {
-      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
-      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
-      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
-      "source": "Tavily Search"
-    },
-    {
       "title": "[Tavily] Generative AI recent news | AI Business",
       "url": "https://aibusiness.com/generative-ai",
       "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
@@ -144,11 +132,6 @@
   ],
   "curated_news": [
     {
-      "title": "Generative AI Digest: A roundup of latest breakthroughs and ...",
-      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
-      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices."
-    },
-    {
       "title": "GPT-5.4 Thinking System Card",
       "url": "https://openai.com/index/gpt-5-4-thinking-system-card",
       "summary": "OpenAI releases a 'Thinking System Card' for its new GPT-5.4 frontier model, detailing its capabilities and safety aspects."
@@ -174,5 +157,5 @@
       "summary": "Qwen3.5-0.8B, a compact yet trending new model from the Qwen family, represents a notable open-source release."
     }
   ],
-  "final_report": "# Generative AI's Latest Leap: Gemini Evolves, GPT-5.4 Debuts, and Open-Source Thrives\n\nThe generative AI landscape continues its relentless evolution, marked by significant advancements from industry giants and a vibrant open-source community. This week brings major model upgrades, new transparency initiatives, and a surge in accessible AI power.\n\n---\n\n### **[Google Gemini Levels Up with Image Generation and Mobile App](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments)**\n\nGoogle's rebranding of Bard to Gemini signifies a pivotal upgrade, integrating powerful image generation capabilities and launching a dedicated mobile app. This move not only enhances Gemini's multimodal prowess but also pushes advanced AI directly into users' pockets, intensifying the race for mobile AI dominance and everyday utility.\n\n### **[OpenAI Details GPT-5.4's Inner Workings with \"Thinking System Card\"](https://openai.com/index/gpt-5-4-thinking-system-card)**\n\nThe release of a \"Thinking System Card\" for GPT-5.4 marks a crucial step towards greater transparency and responsible AI development. This document provides insights into the frontier model's capabilities and safety measures, setting a precedent for how powerful AI systems are introduced and understood by the public and developers alike.\n\n### **[GPT-5.4 Unveiled: A New Era for Professional AI with 1M-Token Context](https://openai.com/index/introducing-gpt-5-4)**\n\nOpenAI's introduction of GPT-5.4 represents a significant leap for professional applications, boasting state-of-the-art coding, computer use, and tool search capabilities, alongside an unprecedented 1-million-token context window. This massive context allows for deeper analysis and more complex problem-solving, potentially revolutionizing workflows across industries.\n\n### **[Alibaba's Qwen3.5 Series Dominates Open-Source AI with Diverse Models](https://huggingface.co/Qwen/Qwen3.5-9B)**\n\nThe rapid emergence and popularity of Alibaba's Qwen3.5 model family (including 0.8B, 9B, and 35B-A3B variants) on Hugging Face underscore the accelerating innovation within the open-source AI community. These diverse models offer powerful, accessible alternatives, fostering competition and democratizing advanced AI capabilities for developers worldwide.\n\n---\n\nFrom multimodal advancements and unprecedented context windows to a thriving open-source ecosystem, the generative AI landscape is rapidly maturing, promising increasingly sophisticated and accessible tools for everyone."
+  "final_report": "# Generative AI's Latest Leap: Gemini Evolves, GPT-5.4 Debuts, and Open-Source Thrives\n\nThe generative AI landscape continues its relentless evolution, marked by significant advancements from industry giants and a vibrant open-source community. This week brings major model upgrades, new transparency initiatives, and a surge in accessible AI power.\n\n---\n\n### **[OpenAI Details GPT-5.4's Inner Workings with \"Thinking System Card\"](https://openai.com/index/gpt-5-4-thinking-system-card)**\n\nThe release of a \"Thinking System Card\" for GPT-5.4 marks a crucial step towards greater transparency and responsible AI development. This document provides insights into the frontier model's capabilities and safety measures, setting a precedent for how powerful AI systems are introduced and understood by the public and developers alike.\n\n### **[GPT-5.4 Unveiled: A New Era for Professional AI with 1M-Token Context](https://openai.com/index/introducing-gpt-5-4)**\n\nOpenAI's introduction of GPT-5.4 represents a significant leap for professional applications, boasting state-of-the-art coding, computer use, and tool search capabilities, alongside an unprecedented 1-million-token context window. This massive context allows for deeper analysis and more complex problem-solving, potentially revolutionizing workflows across industries.\n\n### **[Alibaba's Qwen3.5 Series Dominates Open-Source AI with Diverse Models](https://huggingface.co/Qwen/Qwen3.5-9B)**\n\nThe rapid emergence and popularity of Alibaba's Qwen3.5 model family (including 0.8B, 9B, and 35B-A3B variants) on Hugging Face underscore the accelerating innovation within the open-source AI community. These diverse models offer powerful, accessible alternatives, fostering competition and democratizing advanced AI capabilities for developers worldwide.\n\n---\n\nFrom multimodal advancements and unprecedented context windows to a thriving open-source ecosystem, the generative AI landscape is rapidly maturing, promising increasingly sophisticated and accessible tools for everyone."
 }
