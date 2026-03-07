@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Shubham Shardul | Portfolio</title>
     <meta name="description" content="Professional Portfolio of Shubham Shardul - Software Developer.">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="portfolio-theme.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -48,12 +48,13 @@
                         code.
                     </p>
                     <div class="social-links">
-                        <!-- Replace # with actual links when available -->
-                        <a href="#" class="social-btn" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+                        <!-- User Provided Links -->
+                        <a href="https://www.linkedin.com/in/shubham-shardul-5b4802246/" class="social-btn"
+                            target="_blank" rel="noopener noreferrer" title="LinkedIn">
                             <i class="ph-fill ph-linkedin-logo"></i>
                             <span>LinkedIn</span>
                         </a>
-                        <a href="https://shubhamshardul.medium.com/" class="social-btn" target="_blank"
+                        <a href="https://medium.com/@shubham.shardul2019" class="social-btn" target="_blank"
                             rel="noopener noreferrer" title="Medium">
                             <i class="ph-fill ph-medium-logo"></i>
                             <span>Medium</span>
@@ -115,6 +116,17 @@
                 </div>
             </section>
 
+            <!-- Medium Articles Section -->
+            <section class="projects-section fade-in-up" style="animation-delay: 0.5s;" id="writing">
+                <h3 class="section-title">Recent Writing</h3>
+                <div id="medium-articles" class="articles-grid">
+                    <!-- Articles will be injected here via JS -->
+                    <div class="glass-panel" style="text-align: center; color: var(--text-muted); width: 100%;">
+                        Loading latest articles from Medium...
+                    </div>
+                </div>
+            </section>
+
             <!-- Contact Section -->
             <section class="contact-section fade-in-up" style="animation-delay: 0.6s;" id="contact">
                 <div class="contact-card glass-panel">
@@ -135,7 +147,7 @@
 
     </div>
 
-    <script src="script.js"></script>
+    <script src="portfolio-app.js?v=2"></script>
 </body>
 
 </html>

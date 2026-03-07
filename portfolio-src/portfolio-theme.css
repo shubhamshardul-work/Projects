@@ -342,6 +342,18 @@ h1 {
     font-weight: 500;
 }
 
+/* Articles Section */
+.articles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.article-card {
+    padding: 30px;
+    justify-content: flex-start;
+}
+
 .project-link-arrow {
     position: absolute;
     top: 40px;
