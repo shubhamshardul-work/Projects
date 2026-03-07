@@ -33,6 +33,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site-build
-          destination_dir: GenAIReport
+          publish_dir: ./dist
+          destination_dir: .
           keep_files: true

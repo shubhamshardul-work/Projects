@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 """
-Build script for the GenAI News Agent website.
+Build script for the unified Portfolio and GenAI News Agent website.
 
-Scans 'Gen AI News Agent/reports/' for markdown reports,
-generates a reports-index.json, and assembles the final
-site into 'site-build/'.
+Assembles the final site into 'dist/':
+1. Copies 'portfolio-src/' to 'dist/' (root portfolio)
+2. Copies 'site-src/' to 'dist/GenAIReport/'
+3. Scans 'Gen AI News Agent/reports/' for markdown reports,
+   generates a reports-index.json, and copies reports to 'dist/GenAIReport/reports/'
 """
 
 import json
@@ -14,8 +16,9 @@ import shutil
 from pathlib import Path
 
 REPORTS_DIR = Path("Gen AI News Agent/reports")
-SITE_SRC    = Path("site-src")
-SITE_BUILD  = Path("site-build")
+GENAI_SRC   = Path("site-src")
+PORTFOLIO_SRC = Path("portfolio-src")
+DIST_DIR    = Path("dist")
 
 
 def extract_title(filepath: Path) -> str:
@@ -42,18 +45,23 @@ def extract_date_from_filename(filename: str) -> str:
 
 
 def build():
-    print("🔨 Building site...")
+    print("🔨 Building unified site...")
 
     # Clean previous build
-    if SITE_BUILD.exists():
-        shutil.rmtree(SITE_BUILD)
+    if DIST_DIR.exists():
+        shutil.rmtree(DIST_DIR)
+    
+    # 1. Copy Portfolio to root of dist
+    shutil.copytree(PORTFOLIO_SRC, DIST_DIR)
+    print(f"  ✅ Copied {PORTFOLIO_SRC}/ → {DIST_DIR}/")
 
-    # Copy site source files
-    shutil.copytree(SITE_SRC, SITE_BUILD)
-    print(f"  ✅ Copied {SITE_SRC}/ → {SITE_BUILD}/")
+    # 2. Copy GenAI Report site source to dist/GenAIReport
+    genai_out = DIST_DIR / "GenAIReport"
+    shutil.copytree(GENAI_SRC, genai_out)
+    print(f"  ✅ Copied {GENAI_SRC}/ → {genai_out}/")
 
-    # Copy reports
-    reports_out = SITE_BUILD / "reports"
+    # 3. Process GenAI Reports
+    reports_out = genai_out / "reports"
     reports_out.mkdir(exist_ok=True)
 
     if not REPORTS_DIR.exists():
@@ -71,13 +79,13 @@ def build():
             })
         print(f"  ✅ Copied {len(report_files)} reports → {reports_out}/")
 
-    # Write reports index
-    index_path = SITE_BUILD / "reports-index.json"
+    # Write reports index for GenAIReport
+    index_path = genai_out / "reports-index.json"
     with open(index_path, "w", encoding="utf-8") as f:
         json.dump(index, f, indent=2)
     print(f"  ✅ Generated {index_path} ({len(index)} entries)")
 
-    print("🎉 Build complete! Output: site-build/")
+    print("🎉 Unified Build complete! Output: dist/")
 
 
 if __name__ == "__main__":
