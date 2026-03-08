@@ -19,12 +19,12 @@ function handleMouseMove(e) {
 
 // Handle About Me Toggle
 function initAboutToggle() {
-    const container = document.querySelector('.about-dropdown-container');
+    const card = document.getElementById('about-card');
     const toggle = document.getElementById('about-toggle');
 
-    if (toggle && container) {
+    if (toggle && card) {
         toggle.addEventListener('click', () => {
-            container.classList.toggle('active');
+            card.classList.toggle('active');
         });
     }
 }

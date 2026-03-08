@@ -27,7 +27,7 @@
 
         <!-- Header / Nav -->
         <header class="glass-nav fade-in-up" style="animation-delay: 0.1s;">
-            <div class="logo">S.S.</div>
+            <div></div> <!-- Empty div to keep nav items right-aligned -->
             <nav>
                 <a href="#about">About</a>
                 <a href="#projects">Projects</a>
@@ -39,7 +39,6 @@
             <!-- Hero Section -->
             <section class="hero fade-in-up" style="animation-delay: 0.2s;" id="about">
                 <div class="hero-content">
-                    <div class="hero-badge">🤖 Powered by LangGraph + Gemini 2.5 Flash</div>
                     <h1 class="gradient-text">Shubham Shardul</h1>
                     <h2 class="subtitle">Senior Developer & Gen AI Innovator</h2>
                     <p class="bio">
@@ -47,14 +46,17 @@
                         2023. Speaker and presenter at tech events and meetups.
                     </p>
 
-                    <!-- About Me Dropdown -->
-                    <div class="about-dropdown-container">
-                        <button class="about-toggle glass-panel" id="about-toggle">
-                            <span><i class="ph ph-user-circle"></i> View Professional Summary</span>
+                    <!-- Redesigned Cohesive About Me Card -->
+                    <div class="about-card glass-panel" id="about-card">
+                        <div class="about-header" id="about-toggle">
+                            <div class="about-title">
+                                <i class="ph ph-user-circle"></i>
+                                <span>Professional Summary</span>
+                            </div>
                             <i class="ph ph-caret-down toggle-icon"></i>
-                        </button>
-                        <div class="about-content glass-panel" id="about-content">
-                            <p>
+                        </div>
+                        <div class="about-body">
+                            <div class="about-text">
                                 Senior Data & AI Engineer with 2.5 years’ experience designing and delivering
                                 production-grade agentic AI workflows, RAG systems, and enterprise data platforms.
                                 Hands-on building scalable backend APIs, ETL/workflow automation, GenAI pipelines, and
@@ -64,11 +66,11 @@
                                 solutions.
                                 Recognized speaker on generative AI and data-driven innovation at 10+ community events
                                 and conferences.
-                            </p>
+                            </div>
                         </div>
                     </div>
+
                     <div class="social-links">
-                        <!-- User Provided Links -->
                         <a href="https://www.linkedin.com/in/shubham-shardul-5b4802246/" class="social-btn"
                             target="_blank" rel="noopener noreferrer" title="LinkedIn">
                             <i class="ph-fill ph-linkedin-logo"></i>
