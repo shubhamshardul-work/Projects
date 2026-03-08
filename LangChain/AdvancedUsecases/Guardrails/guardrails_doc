@@ -1,0 +1,63 @@
+# Walkthrough: Customer Support Chatbot Guardrails
+
+## What Was Built
+
+A comprehensive guardrails implementation in [01_guardrails.py](file:///Users/shardulmac/Documents/Projects/Projects/LangChain/AdvancedUsecases/Guardrails/01_guardrails.py) covering **every guardrail type** from the [LangChain documentation](file:///Users/shardulmac/Documents/Projects/Projects/LangChain/AdvancedUsecases/Guardrails/LangChain_guardrails_documentation.md), applied to a Customer Support Chatbot.
+
+---
+
+## LLM Migration: Google Gemini Integration
+
+The system has been successfully migrated from OpenAI to **Google Gemini**.
+
+- **Model**: `models/gemini-flash-latest` (Gemini 1.5 Flash)
+- **Integration Layer**: `langchain-google-genai`
+- **Technical Fixes**:
+  - **Content Normalization**: Added `get_content_as_string` helper to handle Gemini's list-based message content, preventing `AttributeError`.
+  - **Config Access**: Updated session validation to use `langgraph.config.get_config()` for reliable `thread_id` and `session_token` access.
+  - **Rate Limit Management**: Implemented strategic `time.sleep()` delays in the test suite to respect Gemini's free tier quotas (20 RPM).
+
+---
+
+## Guardrail Coverage Matrix
+
+| Layer | Type | Syntax | Guardrail | Strategy/Action |
+|-------|------|--------|-----------|-----------------|
+| 1a | PII - `email` | Built-in | `PIIMiddleware` | `redact` on input |
+| 1b | PII - `credit_card` | Built-in | `PIIMiddleware` | `mask` on input |
+| 1c | PII - `ip` | Built-in | `PIIMiddleware` | `hash` on tool results |
+| 1d | PII - `mac_address` | Built-in | `PIIMiddleware` | `redact` on output |
+| 1e | PII - `url` | Built-in | `PIIMiddleware` | `block` on input (custom regex) |
+| 2 | Human-in-the-Loop | Built-in | `HumanInTheLoopMiddleware` | Approve refunds, auto-approve reads |
+| 3a | Before-Agent | **Class** | `CompetitorFilterMiddleware` | Block competitor mentions |
+| 3b | Before-Agent | **Decorator** | `session_validation` | Validate session tokens |
+| 4a | After-Agent | **Class** | `SentimentGuardrailMiddleware` | LLM-based tone check |
+| 4b | After-Agent | **Decorator** | `response_validation` | Block technical jargon leaks |
+
+## Full-Stack Integration
+
+In addition to the core agent, I've built a full-stack interface to demonstrate the guardrails in a real-world setting:
+
+### Backend Bridge ([02_backend.py](file:///Users/shardulmac/Documents/Projects/Projects/LangChain/AdvancedUsecases/Guardrails/02_backend.py))
+- **FastAPI Server**: Exposes the LangChain agent via a REST API.
+- **Session Handling**: Manages `thread_id` and `session_token` for persistent guardrail states.
+- **HITL Intercept**: Detects when the agent is paused and signals the frontend to show approval buttons.
+
+### Frontend UI ([chatbot-ui/](file:///Users/shardulmac/Documents/Projects/Projects/LangChain/AdvancedUsecases/Guardrails/chatbot-ui/))
+- **Design**: Premium glassmorphic interface with smooth animations.
+- **Approval Modal**: A dedicated UI component that pops up when a sensitive action (like a refund) requires human oversight.
+- **Security Feedback**: Clearly displays when a message is blocked or PII is redacted.
+
+## How to Run
+
+1. **Start the Backend**:
+   ```bash
+   python 02_backend.py
+   ```
+2. **Open the UI**:
+   Open `chatbot-ui/index.html` in your browser.
+
+3. **Test scenarios**:
+   - Type "I want a refund" to see the approval modal.
+   - Type "jane.doe@example.com" to see PII redaction.
+   - Type "What about Competitor_X?" to see the premium filter.

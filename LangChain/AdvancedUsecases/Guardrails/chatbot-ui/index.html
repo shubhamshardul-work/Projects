@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Guardrails Support Assistant</title>
+    <title>ShieldTech Support — Guardrails Demo</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -18,7 +18,7 @@
         <header>
             <div class="logo">
                 <span class="logo-icon">🛡️</span>
-                <h1>Guardrails Support</h1>
+                <h1>ShieldTech Support</h1>
             </div>
             <div class="status-indicator">
                 <span class="status-dot"></span> Online
@@ -28,19 +28,41 @@
         <main id="chat-history">
             <div class="message assistant">
                 <div class="message-content">
-                    Hello! I'm your Guardrails Support Assistant. How can I help you today?
+                    Welcome to ShieldTech Support! 👋 I can help you check order status, process refunds, or answer
+                    questions about our policies. What can I do for you today?
                 </div>
                 <div class="message-time">Just now</div>
             </div>
         </main>
 
+        <!-- Typing indicator -->
+        <div id="typing-indicator" class="typing-indicator hidden">
+            <div class="typing-dots">
+                <span></span><span></span><span></span>
+            </div>
+            <span class="typing-text">ShieldTech is typing...</span>
+        </div>
+
         <section id="approval-modal" class="modal hidden">
             <div class="modal-content">
-                <h3>⚠️ Action Required</h3>
-                <p id="approval-text">This action requires a supervisor's approval.</p>
+                <h3>⚠️ Supervisor Approval Required</h3>
+                <p id="approval-text">This action requires a supervisor's approval before it can proceed.</p>
                 <div class="modal-actions">
-                    <button id="reject-btn" class="btn secondary">Cancel</button>
+                    <button id="reject-btn" class="btn secondary">Deny</button>
                     <button id="approve-btn" class="btn primary">Approve</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Trace Info Modal -->
+        <section id="trace-modal" class="modal hidden">
+            <div class="modal-content trace-modal-content">
+                <div class="trace-header">
+                    <h3>🔍 Message Trace</h3>
+                    <button id="close-trace-btn" class="close-btn">&times;</button>
+                </div>
+                <div class="trace-body" id="trace-body">
+                    <!-- Dynamic Trace Content goes here -->
                 </div>
             </div>
         </section>
