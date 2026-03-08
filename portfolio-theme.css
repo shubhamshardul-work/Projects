@@ -450,69 +450,77 @@ footer {
     }
 }
 
-/* About Me Dropdown */
-.about-dropdown-container {
+/* Redesigned About Me Card */
+.about-card {
     margin-bottom: 40px;
-    max-width: 700px;
+    max-width: 800px;
+    padding: 0 !important;
+    /* Override standard glass-panel padding */
+    overflow: hidden;
+    cursor: default;
 }
 
-.about-toggle {
-    width: 100%;
+.about-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 16px 24px;
+    padding: 24px 32px;
     cursor: pointer;
-    background: rgba(255, 255, 255, 0.04);
-    transition: all 0.3s ease;
-    border-radius: 16px;
-    color: var(--text-main);
-    font-size: 1rem;
-    font-weight: 500;
+    background: rgba(255, 255, 255, 0.02);
+    transition: background 0.3s ease;
 }
 
-.about-toggle:hover {
-    background: rgba(255, 255, 255, 0.08);
-    border-color: rgba(255, 255, 255, 0.2);
+.about-header:hover {
+    background: rgba(255, 255, 255, 0.05);
 }
 
-.about-toggle span {
+.about-title {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-main);
 }
 
-.about-toggle .toggle-icon {
-    transition: transform 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+.about-title i {
+    font-size: 1.4rem;
+    color: var(--accent-1);
 }
 
-.about-content {
-    max-height: 0;
-    overflow: hidden;
-    padding: 0 24px;
+.about-header .toggle-icon {
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.about-body {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
     opacity: 0;
-    margin-top: 12px;
-    transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
     pointer-events: none;
-    border: 1px solid transparent;
 }
 
-.about-content p {
-    font-size: 1rem;
-    line-height: 1.7;
+.about-text {
+    overflow: hidden;
+    padding: 0 32px 32px;
+    font-size: 1.05rem;
+    line-height: 1.8;
     color: var(--text-muted);
 }
 
 /* Open State */
-.about-dropdown-container.active .about-content {
-    max-height: 500px;
-    padding: 24px;
+.about-card.active .about-body {
+    grid-template-rows: 1fr;
     opacity: 1;
     pointer-events: all;
-    background: rgba(255, 255, 255, 0.02);
-    border-color: var(--glass-border);
 }
 
-.about-dropdown-container.active .toggle-icon {
+.about-card.active .toggle-icon {
     transform: rotate(180deg);
+}
+
+.about-card.active .about-header {
+    background: rgba(255, 255, 255, 0.04);
 }
