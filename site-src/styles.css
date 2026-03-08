@@ -306,6 +306,10 @@ a:hover {
     color: var(--success);
 }
 
+.status-banner[hidden] {
+    display: none !important;
+}
+
 .status-banner.error {
     background: rgba(248, 113, 113, 0.12);
     border-color: rgba(248, 113, 113, 0.25);
