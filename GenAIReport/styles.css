@@ -306,7 +306,8 @@ a:hover {
     color: var(--success);
 }
 
-.status-banner[hidden] {
+/* Global fix for 'hidden' attribute to override display: flex/grid */
+[hidden] {
     display: none !important;
 }
 
