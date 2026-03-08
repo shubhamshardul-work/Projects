@@ -17,6 +17,18 @@ function handleMouseMove(e) {
     this.style.setProperty('--mouse-y', `${y}px`);
 }
 
+// Handle About Me Toggle
+function initAboutToggle() {
+    const container = document.querySelector('.about-dropdown-container');
+    const toggle = document.getElementById('about-toggle');
+
+    if (toggle && container) {
+        toggle.addEventListener('click', () => {
+            container.classList.toggle('active');
+        });
+    }
+}
+
 // Fetch Medium Articles manually parsing XML due to third-party API instability
 async function fetchMediumArticles() {
     const mediumRssUrl = 'https://medium.com/feed/@shubham.shardul2019';
@@ -93,6 +105,7 @@ async function fetchMediumArticles() {
 
 document.addEventListener('DOMContentLoaded', () => {
     initGlassPanels();
+    initAboutToggle();
     fetchMediumArticles();
 
     // Smooth scrolling
