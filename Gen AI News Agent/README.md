@@ -4,10 +4,10 @@ An automated, high-precision agent powered by **LangGraph** that curates and sum
 
 This agent doesn't just search the web; it performs a multi-source deep dive across specialized portals to ensure you never miss a breakthrough. It uses **Google's Gemini (2.5 Flash)** models to filter, select, and report on the most impactful advancements with strict recency enforcement.
 
-# Medium Blog Post Link: 
+## Medium Blog Post Link: 
 https://medium.com/@shubham.shardul2019/how-i-built-an-autonomous-multi-agentic-news-engine-full-implementation-ef09a2f00f33
 
-# Website Link: 
+## Website Link: 
 https://shubhamshardul-work.github.io/Projects/GenAIReport/
 
 ## ✨ Key Features
