@@ -6,7 +6,7 @@ This agent doesn't just search the web; it performs a multi-source deep dive acr
 
 ## ✨ Key Features
 
-- **Multi-Source Fetching**: Scrapes data from Tavily Search, RSS feeds (OpenAI, TechCrunch, VentureBeat), ArXiv AI papers, GitHub Trending repos, and Hugging Face Trending models.
+- **Multi-Source Fetching**: Autonomously scrapes data from Tavily Search, **RSS feeds (OpenAI, TechCrunch, VentureBeat)**, ArXiv AI papers, GitHub Trending repos, and Hugging Face Trending models.
 - **Parallel Execution**: Uses LangGraph's fan-out/fan-in pattern to fetch all sources simultaneously for maximum efficiency.
 - **Strict Recency Control**: Configurable filtering (default 2 days) to ensure results are always fresh.
 - **Deduplication & Curation**: Intelligent LLM-based curation that merges related stories and rejects low-impact "noise."
@@ -16,21 +16,22 @@ This agent doesn't just search the web; it performs a multi-source deep dive acr
 
 ```mermaid
 graph TD
-    Start((Start)) --> Search[Tavily Search]
-    Start --> RSS[RSS Feeds]
+    Start((Start)) --> Search[Tavily Search API]
+    Start --> RSS[RSS Feeds: OpenAI, TechCrunch, VentureBeat]
     Start --> ArXiv[arXiv API]
-    Start --> GitHub[GitHub API]
-    Start --> HF[Hugging Face API]
+    Start --> GitHub[GitHub Trending API]
+    Start --> HF[Hugging Face Trending API]
     
-    Search --> Aggregate[Aggregate & format results]
+    Search --> Aggregate[Aggregate & Format Results]
     RSS --> Aggregate
     ArXiv --> Aggregate
     GitHub --> Aggregate
     HF --> Aggregate
     
     Aggregate --> Curate[Curator Node: Filter/Dedupe via Gemini 2.5 Flash]
-    Curate --> Summarize[Summarizer Node: High-impact Journalism]
-    Summarize --> End((End))
+    Curate --> Summarize[Summarizer Node: High-impact Markdown Generation]
+    Summarize --> Email[Email Node: Distribute via automated newsletter]
+    Email --> End((End))
     
     style Start fill:#f9f,stroke:#333,stroke-width:2px
     style End fill:#f9f,stroke:#333,stroke-width:2px
