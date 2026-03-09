@@ -293,39 +293,73 @@ def email_node(state: AgentState):
     from email.mime.text import MIMEText
     import markdown
     
+    email_log = {"status": "started", "subscribers_found": 0, "sheet_status": "not_attempted", "email_status": "not_attempted"}
+    
     final_report = state.get("final_report", "")
     if not final_report or final_report == "No significant news found today.":
         print("No report to email.")
-        return {}
+        email_log["status"] = "skipped_no_report"
+        return {"email_log": email_log}
         
     sender_email = os.getenv("GMAIL_USER")
     sender_password = os.getenv("GMAIL_APP_PASSWORD")
     
     if not sender_email or not sender_password:
         print("Email credentials not found. Skipping email node.")
-        return {}
+        print(f"  GMAIL_USER set: {bool(sender_email)}, GMAIL_APP_PASSWORD set: {bool(sender_password)}")
+        email_log["status"] = "skipped_no_credentials"
+        return {"email_log": email_log}
         
     # Load subscribers
     subscribers = []
     
     # 1. Try to fetch from automated Google Sheet (if URL provided)
     sheet_url = os.getenv("SUBSCRIBERS_SHEET_URL")
+    print(f"[EMAIL] SUBSCRIBERS_SHEET_URL is set: {bool(sheet_url)}")
     if sheet_url:
         try:
             import requests
             import csv
             from io import StringIO
-            response = requests.get(sheet_url, timeout=5)
+            response = requests.get(sheet_url, timeout=15)
+            print(f"[EMAIL] Sheet fetch status: {response.status_code}, Content length: {len(response.text)}")
             if response.status_code == 200:
                 f = StringIO(response.text)
                 reader = csv.reader(f)
-                next(reader, None) # Skip header
-                # Usually email is 2nd column, index 1.
-                subscribers_from_sheet = [row[1] for row in reader if len(row) > 1 and '@' in row[1]]
+                header = next(reader, None) # Skip header
+                print(f"[EMAIL] Sheet header row: {header}")
+                
+                # Try to find email column dynamically
+                email_col_idx = None
+                if header:
+                    for i, col in enumerate(header):
+                        if 'email' in col.lower() or '@' in col.lower():
+                            email_col_idx = i
+                            break
+                
+                subscribers_from_sheet = []
+                rows_processed = 0
+                for row in reader:
+                    rows_processed += 1
+                    # Try the detected column first, then try ALL columns
+                    if email_col_idx is not None and len(row) > email_col_idx and '@' in row[email_col_idx]:
+                        subscribers_from_sheet.append(row[email_col_idx])
+                    else:
+                        # Fallback: scan every column in the row for an email
+                        for cell in row:
+                            if '@' in cell and '.' in cell:
+                                subscribers_from_sheet.append(cell)
+                                break
+                
                 subscribers.extend(subscribers_from_sheet)
-                print(f"Fetched {len(subscribers_from_sheet)} subscribers from Google Sheet.")
+                print(f"[EMAIL] Processed {rows_processed} rows, found {len(subscribers_from_sheet)} subscribers from Google Sheet.")
+                email_log["sheet_status"] = f"ok_{len(subscribers_from_sheet)}_subscribers_from_{rows_processed}_rows"
+            else:
+                print(f"[EMAIL] Sheet returned non-200 status: {response.status_code}")
+                email_log["sheet_status"] = f"http_error_{response.status_code}"
         except Exception as e:
-            print(f"Error fetching from Google Sheet: {e}")
+            print(f"[EMAIL] Error fetching from Google Sheet: {e}")
+            email_log["sheet_status"] = f"exception: {str(e)}"
 
     # 2. Fallback/Add from local subscribers.json
     try:
@@ -334,13 +368,18 @@ def email_node(state: AgentState):
             with open(subscribers_path, "r") as f:
                 local_subs = json.load(f)
                 subscribers.extend(local_subs)
+                print(f"[EMAIL] Loaded {len(local_subs)} subscribers from local file.")
     except Exception as e:
-        print(f"Error loading local subscribers: {e}")
+        print(f"[EMAIL] Error loading local subscribers: {e}")
         
     # Clean up list (unique and valid)
     subscribers = list(set([s.strip().lower() for s in subscribers if s and "@" in s]))
     if not subscribers:
         subscribers = [sender_email]
+        print(f"[EMAIL] WARNING: No subscribers found, falling back to sender only: {sender_email}")
+    
+    email_log["subscribers_found"] = len(subscribers)
+    print(f"[EMAIL] Final recipient count: {len(subscribers)}")
         
     # Convert Markdown to HTML for the email
     html_content = markdown.markdown(final_report)
@@ -382,9 +421,13 @@ def email_node(state: AgentState):
             # Send to yourself + all subscribers as BCC to protect privacy
             recipients = list(set([sender_email] + subscribers))
             server.sendmail(sender_email, recipients, msg.as_string())
-            print(f"Successfully sent email to {len(recipients)} recipients.")
+            print(f"[EMAIL] Successfully sent email to {len(recipients)} recipients: {recipients}")
+            email_log["email_status"] = f"sent_to_{len(recipients)}"
+            email_log["status"] = "success"
             
     except Exception as e:
-        print(f"Error sending email: {e}")
+        print(f"[EMAIL] Error sending email: {e}")
+        email_log["email_status"] = f"error: {str(e)}"
+        email_log["status"] = "failed"
         
-    return {}
+    return {"email_log": email_log}
