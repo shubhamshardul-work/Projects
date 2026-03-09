@@ -1,0 +1,170 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Generative AI ; Pic of ChatGPT on mobile \u00b7 OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate ; BM Studios in Milano \u00b7 IBM Targets Voice Capabilities in",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] GenAI Today - News Portal",
+      "url": "https://www.genaitoday.ai/",
+      "summary": "GenAI Today explores how generative AI and related technologies impact business operations and processes across industries and business departments",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI acquires Promptfoo to secure its AI agents",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic sues Defense Department over supply chain risk designation",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Qualcomm\u2019s partnership with Neura Robotics is just the beginning",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sandberg, Clegg join Nscale board as this \u2018Stargate Norway\u2019 startup hits $14.6B  valuation",
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.5-9B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "summary": "Trending HF Model. Downloads: 1010141",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 221340",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 15720",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Generative AI ; Pic of ChatGPT on mobile \u00b7 OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate ; BM Studios in Milano \u00b7 IBM Targets Voice Capabilities in",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] GenAI Today - News Portal",
+      "url": "https://www.genaitoday.ai/",
+      "summary": "GenAI Today explores how generative AI and related technologies impact business operations and processes across industries and business departments",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI acquires Promptfoo to secure its AI agents",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "summary": "This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic sues Defense Department over supply chain risk designation",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions \"unprecedented and unlawful.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Qualcomm\u2019s partnership with Neura Robotics is just the beginning",
+      "url": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
+      "summary": "Neura Robotics is going to build new robots on top of Qualcomm's new IQ10 processors that were released at CES.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sandberg, Clegg join Nscale board as this \u2018Stargate Norway\u2019 startup hits $14.6B  valuation",
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.5-9B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "summary": "Trending HF Model. Downloads: 1010141",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 221340",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 15720",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "OpenAI acquires Promptfoo to secure its AI agents",
+      "url": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development. This deal underscores how frontier labs are scrambling to prove their technology can be used safely in critical business operations."
+    },
+    {
+      "title": "Anthropic sues Defense Department over supply chain risk designation",
+      "url": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
+      "summary": "Anthropic filed suit against the Department of Defense on Monday after the agency labeled it a supply chain risk. The complaint calls the DOD's actions 'unprecedented and unlawful,' marking a significant legal challenge for a major Generative AI company."
+    },
+    {
+      "title": "Sandberg, Clegg join Nscale board as this \u2018Stargate Norway\u2019 startup hits $14.6B valuation",
+      "url": "https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/",
+      "summary": "Nvidia-backed British AI infrastructure startup Nscale has raised another megaround of $2 billion, reaching a $14.6 billion valuation. This significant funding highlights continued investment in the foundational infrastructure supporting the Generative AI ecosystem."
+    }
+  ],
+  "final_report": "# Generative AI's Evolving Landscape: Security, Scrutiny, and Soaring Valuations\n\nThis week in Generative AI reveals a maturing ecosystem grappling with critical issues from security and regulatory challenges to the relentless pursuit of foundational infrastructure.\n\n### **[OpenAI Fortifies AI Agents with Promptfoo Acquisition](https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/)**\nOpenAI's strategic acquisition of Promptfoo, an AI security platform, signals a pivotal shift towards prioritizing the safety and reliability of AI systems. As Generative AI moves from experimental stages to critical business operations, ensuring these advanced models are secure and free from vulnerabilities becomes paramount, underscoring the industry's commitment to trustworthy AI deployment.\n\n### **[Anthropic Challenges DoD's 'Supply Chain Risk' Label in Landmark Lawsuit](https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/)**\nIn an unprecedented move, Anthropic is suing the Department of Defense over its designation as a supply chain risk. This legal battle highlights the escalating tension between leading AI developers and government bodies regarding national security implications and regulatory oversight. The outcome could set a significant precedent for how AI companies are classified and regulated in critical sectors.\n\n### **[Nscale Soars to $14.6B Valuation, Attracting Tech Titans to its Board](https://techcrunch.com/2026/03/09/sandberg-clegg-join-nscale-board-as-this-stargate-norway-startup-hits-14-6b-valuation/)**\nNvidia-backed Nscale has secured a massive $2 billion funding round, catapulting its valuation to an impressive $14.6 billion and attracting high-profile board members like Sheryl Sandberg and Nick Clegg. This substantial investment underscores the unwavering confidence in the foundational infrastructure \u2014 from specialized chips to data centers \u2014 that underpins the entire Generative AI revolution, proving that the \"picks and shovels\" of AI remain a hot commodity.\n\nThese developments collectively paint a picture of a Generative AI sector rapidly maturing, where innovation is increasingly balanced with a critical focus on security, navigating complex regulatory landscapes, and solidifying the robust infrastructure required for its continued exponential growth.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 5,
+    "sheet_status": "ok_4_subscribers_from_4_rows",
+    "email_status": "sent_to_5"
+  }
+}
