@@ -10,6 +10,10 @@ on:
       - 'site-src/**'
       - 'portfolio-src/**'
       - 'build.py'
+  workflow_run:
+    workflows: ["Generate GenAI News Report"]
+    types:
+      - completed
   workflow_dispatch:
 
 permissions:
