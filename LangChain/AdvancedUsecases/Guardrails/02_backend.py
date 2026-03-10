@@ -1,4 +1,5 @@
 from fastapi import FastAPI, HTTPException
+from fastapi.responses import RedirectResponse
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
@@ -23,6 +24,11 @@ app.add_middleware(
 
 # Serve the chatbot UI as static files
 app.mount("/ui", StaticFiles(directory="chatbot-ui", html=True), name="chatbot-ui")
+
+@app.get("/")
+async def root_redirect():
+    """Redirect root to the chatbot UI."""
+    return RedirectResponse(url="/ui/")
 
 
 class ChatMessage(BaseModel):

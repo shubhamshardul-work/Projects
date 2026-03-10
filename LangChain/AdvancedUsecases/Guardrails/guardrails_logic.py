@@ -267,14 +267,11 @@ class CompetitorFilterMiddleware(AgentMiddleware):
 
     @hook_config(can_jump_to=["end"])
     def before_agent(self, state: AgentState, runtime: Runtime) -> dict[str, Any] | None:
-        if not state["messages"]:
+        last_message = state["messages"][-1]
+        if last_message.type != "human":
             return None
 
-        first_message = state["messages"][0]
-        if first_message.type != "human":
-            return None
-
-        content = get_content_as_string(first_message.content).lower()
+        content = get_content_as_string(last_message.content).lower()
 
         for competitor in self.competitor_names:
             if competitor in content:
@@ -338,7 +335,7 @@ class SentimentGuardrailMiddleware(AgentMiddleware):
 
     def __init__(self):
         super().__init__()
-        self.evaluator_model = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
+        self.evaluator_model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
 
     @hook_config(can_jump_to=["end"])
     def after_agent(self, state: AgentState, runtime: Runtime) -> dict[str, Any] | None:
@@ -473,7 +470,7 @@ class LoggingMiddleware(AgentMiddleware):
 # =============================================================================
 
 agent_model = ChatGoogleGenerativeAI(
-    model="gemini-2.5-flash",
+    model="gemini-1.5-flash",
     temperature=0.3,
 )
 
@@ -482,9 +479,6 @@ agent = create_agent(
     tools=[check_order_status, initiate_refund, search_knowledge_base],
     system_prompt=SYSTEM_PROMPT,
     middleware=[
-        # --- TRACING (Wraps the LLM to capture inputs/outputs) ---
-        LoggingMiddleware(),
-        
         # Layer 3b: Session validation (decorator syntax)
         session_validation,
 
@@ -504,6 +498,9 @@ agent = create_agent(
 
         # Layer 1e: Block suspicious URLs in user input
         pii_url_block,
+
+        # --- TRACING (Capture sanitized input and raw output) ---
+        LoggingMiddleware(),
 
         # Layer 2: Human approval for refunds
         hitl_middleware,

@@ -1,0 +1,30 @@
+INFO:     Started server process [9139]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8001 (Press CTRL+C to quit)
+🚀 Backend running at http://localhost:8001
+🌐 Open chatbot at http://localhost:8001/ui/
+
+[DEBUG] CompetitorFilter before_agent. Total messages: 3
+  [0] Type: human, Content: What about Competitor_X?
+  [1] Type: ai, Content: I appreciate your question! However, I can only as
+  [2] Type: human, Content: shubham
+INFO:     127.0.0.1:50536 - "POST /chat HTTP/1.1" 200 OK
+
+[DEBUG] CompetitorFilter before_agent. Total messages: 3
+  [0] Type: human, Content: What about Competitor_X?
+  [1] Type: ai, Content: I appreciate your question! However, I can only as
+  [2] Type: human, Content: shubham
+INFO:     127.0.0.1:50545 - "POST /chat HTTP/1.1" 200 OK
+
+[DEBUG] CompetitorFilter before_agent. Total messages: 1
+  [0] Type: human, Content: What about Competitor_X?
+INFO:     127.0.0.1:50563 - "POST /chat HTTP/1.1" 200 OK
+
+[DEBUG] CompetitorFilter before_agent. Total messages: 5
+  [0] Type: human, Content: What about Competitor_X?
+  [1] Type: ai, Content: I appreciate your question! However, I can only as
+  [2] Type: human, Content: What about Competitor_X?
+  [3] Type: ai, Content: ...
+  [4] Type: human, Content: Hello again
+INFO:     127.0.0.1:50568 - "POST /chat HTTP/1.1" 200 OK
