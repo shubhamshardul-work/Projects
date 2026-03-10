@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ShieldTech Support — Guardrails Demo</title>
+    <title>McBuddy — McDonald's Ordering Assistant</title>
+    <meta name="description" content="Order your favorite McDonald's meals with McBuddy, our AI ordering assistant with built-in guardrails.">
     <link rel="stylesheet" href="styles.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -17,19 +18,19 @@
     <div class="app-container">
         <header>
             <div class="logo">
-                <span class="logo-icon">🛡️</span>
-                <h1>ShieldTech Support</h1>
+                <span class="logo-icon">🍔</span>
+                <h1>McBuddy</h1>
             </div>
             <div class="status-indicator">
-                <span class="status-dot"></span> Online
+                <span class="status-dot"></span> Taking Orders
             </div>
         </header>
 
         <main id="chat-history">
             <div class="message assistant">
                 <div class="message-content">
-                    Welcome to ShieldTech Support! 👋 I can help you check order status, process refunds, or answer
-                    questions about our policies. What can I do for you today?
+                    Welcome to McDonald's! 🍟 I'm McBuddy, your ordering assistant. I can help you browse the menu,
+                    place an order, or answer any questions. What are you craving today?
                 </div>
                 <div class="message-time">Just now</div>
             </div>
@@ -40,16 +41,16 @@
             <div class="typing-dots">
                 <span></span><span></span><span></span>
             </div>
-            <span class="typing-text">ShieldTech is typing...</span>
+            <span class="typing-text">McBuddy is preparing your answer...</span>
         </div>
 
         <section id="approval-modal" class="modal hidden">
             <div class="modal-content">
-                <h3>⚠️ Supervisor Approval Required</h3>
-                <p id="approval-text">This action requires a supervisor's approval before it can proceed.</p>
+                <h3>🍔 Manager Approval Required</h3>
+                <p id="approval-text">This order needs a manager's approval before we can proceed.</p>
                 <div class="modal-actions">
-                    <button id="reject-btn" class="btn secondary">Deny</button>
-                    <button id="approve-btn" class="btn primary">Approve</button>
+                    <button id="reject-btn" class="btn secondary">Cancel</button>
+                    <button id="approve-btn" class="btn primary">Approve Order</button>
                 </div>
             </div>
         </section>
@@ -69,7 +70,7 @@
 
         <footer>
             <form id="chat-form">
-                <input type="text" id="user-input" placeholder="Type your message..." autocomplete="off">
+                <input type="text" id="user-input" placeholder="Order something delicious..." autocomplete="off">
                 <button type="submit" id="send-btn">
                     <svg viewBox="0 0 24 24" width="24" height="24">
                         <path fill="currentColor" d="M2.01 21L23 12L2.01 3L2 10l15 2l-15 2z"></path>

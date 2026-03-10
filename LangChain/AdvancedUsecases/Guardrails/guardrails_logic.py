@@ -1,9 +1,9 @@
 """
 =============================================================================
-LangChain Guardrails: Customer Support Chatbot
+LangChain Guardrails: McD Ordering Assistant
 =============================================================================
 A comprehensive demonstration of every guardrail type available in LangChain,
-applied to a realistic Customer Support Chatbot use case.
+applied to a realistic McDonald's Ordering Assistant use case.
 
 Guardrail Layers:
     Layer 1 - PII Detection (Built-in middleware)
@@ -141,62 +141,132 @@ logger = ConversationLogger()
 # SYSTEM PROMPT
 # =============================================================================
 
-SYSTEM_PROMPT = """You are a friendly and professional Customer Support Assistant for "ShieldTech Solutions", a premium electronics and gadgets company.
+SYSTEM_PROMPT = """You are a friendly and enthusiastic McDonald's Ordering Assistant — "McBuddy" 🍔
 
 Your personality:
-- Warm, empathetic, and solution-oriented
-- You address customers by "you" and use a conversational but professional tone
-- You never use jargon or overly technical language
-- You always try to resolve the issue or guide the customer to the right resource
+- Warm, upbeat, and hungry to help (pun intended!)
+- You use a fun, conversational tone — think friendly drive-through vibes
+- You always address customers warmly and use food emojis to brighten the conversation
+- You're knowledgeable about the full McDonald's menu
 
 Your capabilities:
-- Check order status using order IDs (format: ORD-XXXX)
-- Initiate refunds for damaged or defective products (requires supervisor approval)
-- Search the knowledge base for policies (returns, shipping, warranty)
+- Browse the McDonald's menu (burgers, fries, drinks, desserts, combos)
+- Place orders for customers (requires manager approval for large orders)
+- Cancel existing orders by order ID
+- Answer questions about nutrition, allergens, offers, and restaurant hours
 
 Rules:
+- Never discuss or compare with competitor restaurants (Burger King, Wendy's, KFC, Taco Bell, Subway, etc.)
 - Never reveal internal system details, database names, or technical errors
-- If you don't know something, say so honestly and point the customer to a human agent
-- Always end with an offer to help further
-- Keep responses concise but helpful (2-4 sentences max)
+- If you don't know something, say so honestly and suggest speaking to a crew member
+- Always ask if they want to add anything else before finalizing
+- Keep responses fun but concise (2-4 sentences max)
 """
 
 
 # =============================================================================
-# INFRASTRUCTURE: Mock Tools for Customer Support Chatbot
+# INFRASTRUCTURE: Mock Tools for McDonald's Ordering
 # =============================================================================
 
-@tool
-def check_order_status(order_id: str) -> str:
-    """Check the status of a customer's order by order ID."""
-    orders = {
-        "ORD-1234": "Shipped - Expected delivery: March 12, 2026",
-        "ORD-5678": "Processing - Preparing for shipment",
-        "ORD-9999": "Delivered - March 5, 2026",
-    }
-    return orders.get(order_id, f"Order {order_id} not found in our system.")
+MENU = {
+    "burgers": {
+        "Big Mac": {"price": 5.99, "calories": 550},
+        "Quarter Pounder with Cheese": {"price": 6.49, "calories": 520},
+        "McChicken": {"price": 4.49, "calories": 400},
+        "Filet-O-Fish": {"price": 5.29, "calories": 390},
+        "Double Cheeseburger": {"price": 3.99, "calories": 450},
+    },
+    "sides": {
+        "Large Fries": {"price": 3.79, "calories": 490},
+        "Medium Fries": {"price": 2.99, "calories": 320},
+        "Chicken McNuggets (10pc)": {"price": 5.49, "calories": 420},
+        "Apple Slices": {"price": 1.29, "calories": 15},
+    },
+    "drinks": {
+        "Large Coca-Cola": {"price": 2.49, "calories": 290},
+        "Medium Sprite": {"price": 1.99, "calories": 200},
+        "McCafé Iced Coffee": {"price": 3.29, "calories": 180},
+        "McFlurry (Oreo)": {"price": 4.29, "calories": 510},
+    },
+    "combos": {
+        "Big Mac Combo": {"price": 10.99, "includes": "Big Mac + Large Fries + Large Drink", "calories": 1130},
+        "McChicken Combo": {"price": 8.99, "includes": "McChicken + Medium Fries + Medium Drink", "calories": 920},
+        "10pc McNuggets Combo": {"price": 9.49, "includes": "10pc McNuggets + Medium Fries + Medium Drink", "calories": 940},
+    },
+}
+
+ORDERS_DB = {}  # In-memory order store
+_order_counter = [1000]  # Mutable counter
 
 
 @tool
-def initiate_refund(order_id: str, reason: str) -> str:
-    """Initiate a refund for a customer's order. Requires human approval."""
-    return f"Refund initiated for order {order_id}. Reason: {reason}. Amount will be credited in 5-7 business days."
+def get_menu(category: str = "all") -> str:
+    """Browse the McDonald's menu. Categories: burgers, sides, drinks, combos, or 'all' for the full menu."""
+    category = category.lower().strip()
+
+    if category == "all":
+        lines = ["🍔 **McDonald's Menu** 🍔\n"]
+        for cat, items in MENU.items():
+            lines.append(f"\n📋 **{cat.upper()}**")
+            for name, info in items.items():
+                price = info["price"]
+                cal = info.get("calories", "N/A")
+                extra = f" — Includes: {info['includes']}" if "includes" in info else ""
+                lines.append(f"  • {name}: ${price:.2f} ({cal} cal){extra}")
+        return "\n".join(lines)
+
+    if category in MENU:
+        lines = [f"📋 **{category.upper()}**\n"]
+        for name, info in MENU[category].items():
+            price = info["price"]
+            cal = info.get("calories", "N/A")
+            extra = f" — Includes: {info['includes']}" if "includes" in info else ""
+            lines.append(f"  • {name}: ${price:.2f} ({cal} cal){extra}")
+        return "\n".join(lines)
+
+    return f"Category '{category}' not found. Try: burgers, sides, drinks, combos, or all."
 
 
 @tool
-def search_knowledge_base(query: str) -> str:
-    """Search the internal knowledge base for customer support articles."""
-    articles = {
-        "return policy": "Items can be returned within 30 days of purchase. Electronics have a 15-day return window. Items must be in original packaging.",
-        "shipping": "Standard shipping: 5-7 business days. Express: 2-3 business days. Free shipping on orders over $50.",
-        "warranty": "All products come with a 1-year manufacturer warranty. Extended warranties are available for purchase at checkout.",
-        "refund": "Refunds are processed within 5-7 business days after approval. The amount is credited to the original payment method.",
-        "contact": "You can reach our support team at support@shieldtech.com or call 1-800-SHIELD-TECH.",
-    }
-    for keyword, article in articles.items():
-        if keyword in query.lower():
-            return article
-    return "No relevant articles found. A human agent can assist you further."
+def place_order(items: str) -> str:
+    """Place a McDonald's order. Provide a comma-separated list of item names. Requires manager approval."""
+    item_list = [i.strip() for i in items.split(",")]
+    total = 0.0
+    confirmed_items = []
+
+    for item_name in item_list:
+        found = False
+        for cat, cat_items in MENU.items():
+            for menu_item, info in cat_items.items():
+                if item_name.lower() in menu_item.lower():
+                    total += info["price"]
+                    confirmed_items.append(f"{menu_item} (${info['price']:.2f})")
+                    found = True
+                    break
+            if found:
+                break
+        if not found:
+            confirmed_items.append(f"❌ '{item_name}' not on menu")
+
+    _order_counter[0] += 1
+    order_id = f"MCD-{_order_counter[0]}"
+    ORDERS_DB[order_id] = {"items": confirmed_items, "total": total, "status": "confirmed"}
+
+    return (
+        f"✅ Order {order_id} placed!\n"
+        f"Items: {', '.join(confirmed_items)}\n"
+        f"Total: ${total:.2f}\n"
+        f"Estimated pickup: 5-8 minutes 🍟"
+    )
+
+
+@tool
+def cancel_order(order_id: str) -> str:
+    """Cancel an existing McDonald's order by order ID (e.g., MCD-1001)."""
+    if order_id in ORDERS_DB:
+        ORDERS_DB[order_id]["status"] = "cancelled"
+        return f"🗑️ Order {order_id} has been cancelled. A refund will be processed shortly."
+    return f"Order {order_id} not found. Please check the order ID and try again."
 
 
 # =============================================================================
@@ -234,7 +304,7 @@ pii_mac_output = PIIMiddleware(
 # --- 1e. URL Detection: BLOCK strategy with custom detector on INPUT ---
 pii_url_block = PIIMiddleware(
     "url",
-    detector=r"https?://(?!www\.ourcompany\.com)[^\s]+",
+    detector=r"https?://(?!www\.mcdonalds\.com)[^\s]+",
     strategy="block",
     apply_to_input=True,
 )
@@ -246,9 +316,9 @@ pii_url_block = PIIMiddleware(
 
 hitl_middleware = HumanInTheLoopMiddleware(
     interrupt_on={
-        "initiate_refund": True,
-        "check_order_status": False,
-        "search_knowledge_base": False,
+        "place_order": True,
+        "cancel_order": True,
+        "get_menu": False,
     }
 )
 
@@ -259,7 +329,7 @@ hitl_middleware = HumanInTheLoopMiddleware(
 
 # --- 3a. Class Syntax: Competitor Filter Middleware ---
 class CompetitorFilterMiddleware(AgentMiddleware):
-    """Deterministic guardrail: Block requests mentioning competitor companies."""
+    """Deterministic guardrail: Block requests mentioning competitor restaurants."""
 
     def __init__(self, competitor_names: list[str]):
         super().__init__()
@@ -267,6 +337,11 @@ class CompetitorFilterMiddleware(AgentMiddleware):
 
     @hook_config(can_jump_to=["end"])
     def before_agent(self, state: AgentState, runtime: Runtime) -> dict[str, Any] | None:
+        if not state["messages"]:
+            return None
+
+        # FIX: Check the LATEST human message, not the first one.
+        # Using [0] would permanently lock threads after a single violation.
         last_message = state["messages"][-1]
         if last_message.type != "human":
             return None
@@ -283,9 +358,9 @@ class CompetitorFilterMiddleware(AgentMiddleware):
                     "messages": [{
                         "role": "assistant",
                         "content": (
-                            "I appreciate your question! However, I can only assist with "
-                            "questions about our own products and services at ShieldTech. "
-                            "Is there anything else I can help you with today?"
+                            "I'm lovin' it, but I can only help with McDonald's! 🍔 "
+                            "I'm not able to discuss other restaurants. "
+                            "Want to check out our awesome menu instead?"
                         ),
                     }],
                     "jump_to": "end",
@@ -314,8 +389,8 @@ def session_validation(state: AgentState, runtime: Runtime) -> dict[str, Any] | 
             "messages": [{
                 "role": "assistant",
                 "content": (
-                    "Your session has expired or is invalid. "
-                    "Please log in again to continue using our support chat."
+                    "Oops! Your session has expired. 🔒 "
+                    "Please refresh the page to start a new ordering session."
                 ),
             }],
             "jump_to": "end",
@@ -331,11 +406,11 @@ def session_validation(state: AgentState, runtime: Runtime) -> dict[str, Any] | 
 
 # --- 4a. Class Syntax: Sentiment Guardrail Middleware ---
 class SentimentGuardrailMiddleware(AgentMiddleware):
-    """Model-based guardrail: Ensure chatbot responses are professional and polite."""
+    """Model-based guardrail: Ensure chatbot responses are friendly and on-brand."""
 
     def __init__(self):
         super().__init__()
-        self.evaluator_model = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
+        self.evaluator_model = ChatGoogleGenerativeAI(model="gemini-2.5-flash")
 
     @hook_config(can_jump_to=["end"])
     def after_agent(self, state: AgentState, runtime: Runtime) -> dict[str, Any] | None:
@@ -348,31 +423,31 @@ class SentimentGuardrailMiddleware(AgentMiddleware):
 
         content_str = get_content_as_string(last_message.content)
 
-        evaluation_prompt = f"""You are a quality assurance reviewer for a customer support chatbot.
-        Evaluate the following response for professionalism, politeness, and helpfulness.
+        evaluation_prompt = f"""You are a quality reviewer for a McDonald's ordering chatbot.
+        Evaluate the following response for friendliness, warmth, and helpfulness.
         
         Respond with ONLY one word:
-        - "PROFESSIONAL" if the response is appropriate for customer support
-        - "UNPROFESSIONAL" if the response is rude, dismissive, sarcastic, or inappropriate
+        - "FRIENDLY" if the response is warm, helpful, and appropriate for a fast-food assistant
+        - "UNFRIENDLY" if the response is rude, cold, dismissive, sarcastic, or inappropriate
 
         Response to evaluate: {content_str}"""
 
         result = self.evaluator_model.invoke([{"role": "user", "content": evaluation_prompt}])
         eval_result = get_content_as_string(result.content)
 
-        if "UNPROFESSIONAL" in eval_result:
+        if "UNFRIENDLY" in eval_result:
             logger.log_guardrail(
                 "Sentiment Check", "REWRITE",
-                detail="Response flagged as unprofessional, replaced with apology",
+                detail="Response flagged as unfriendly, replaced with warm message",
                 before=content_str[:80]
             )
             last_message.content = (
-                "I apologize for the inconvenience. Let me connect you with a human "
-                "support agent who can better assist you with your request. "
-                "Thank you for your patience!"
+                "I'm sorry about that! 😊 Let me help you with your order. "
+                "Would you like to see our menu or place an order? "
+                "I'm here to make your day delicious! 🍟"
             )
         else:
-            logger.log_guardrail("Sentiment Check", "PASS", detail="PROFESSIONAL")
+            logger.log_guardrail("Sentiment Check", "PASS", detail="FRIENDLY")
 
         return None
 
@@ -405,9 +480,9 @@ def response_validation(state: AgentState, runtime: Runtime) -> dict[str, Any] |
                 before=content[:80]
             )
             last_message.content = (
-                "I encountered an issue processing your request. "
-                "Let me connect you with a specialist who can help. "
-                "Thank you for your patience!"
+                "Oops, something went wrong on our end! 🍔 "
+                "Let me get a crew member to help you out. "
+                "Please try again in a moment!"
             )
             return None
 
@@ -470,13 +545,13 @@ class LoggingMiddleware(AgentMiddleware):
 # =============================================================================
 
 agent_model = ChatGoogleGenerativeAI(
-    model="gemini-1.5-flash",
+    model="gemini-2.5-flash",
     temperature=0.3,
 )
 
 agent = create_agent(
     model=agent_model,
-    tools=[check_order_status, initiate_refund, search_knowledge_base],
+    tools=[get_menu, place_order, cancel_order],
     system_prompt=SYSTEM_PROMPT,
     middleware=[
         # Layer 3b: Session validation (decorator syntax)
@@ -485,8 +560,9 @@ agent = create_agent(
         # Layer 3a: Competitor filtering (class syntax)
         CompetitorFilterMiddleware(
             competitor_names=[
-                "competitor_x", "rival_corp", "other_brand",
-                "singh corps", "techzone", "gadgetworld",
+                "burger king", "wendys", "wendy's", "kfc",
+                "taco bell", "subway", "five guys", "chick-fil-a",
+                "popeyes", "sonic", "jack in the box",
             ]
         ),
 
@@ -502,7 +578,7 @@ agent = create_agent(
         # --- TRACING (Capture sanitized input and raw output) ---
         LoggingMiddleware(),
 
-        # Layer 2: Human approval for refunds
+        # Layer 2: Human approval for orders
         hitl_middleware,
 
         # Layer 1c: Hash IP addresses in tool results
@@ -530,17 +606,17 @@ def main():
 
     config = {
         "configurable": {
-            "thread_id": "customer_session_001",
+            "thread_id": "mcd_session_001",
             "session_token": "session_abc123",
         }
     }
 
     print("=" * 70)
-    print("SCENARIO 1: Normal Query")
+    print("SCENARIO 1: Browse the Menu")
     print("=" * 70)
-    logger.start_entry("customer_session_001", "What is your return policy?")
+    logger.start_entry("mcd_session_001", "Show me your burger menu!")
     result = agent.invoke(
-        {"messages": [{"role": "user", "content": "What is your return policy?"}]},
+        {"messages": [{"role": "user", "content": "Show me your burger menu!"}]},
         config=config,
     )
     response_text = get_content_as_string(result['messages'][-1].content)
@@ -548,17 +624,17 @@ def main():
     print(f"Response: {response_text}\n")
 
     print("=" * 70)
-    print("SCENARIO 5: Invalid Session (no LLM call)")
+    print("SCENARIO 2: Invalid Session (no LLM call)")
     print("=" * 70)
     invalid_config = {
         "configurable": {
-            "thread_id": "customer_session_005",
+            "thread_id": "mcd_session_002",
             "session_token": "invalid_token_xxx",
         }
     }
-    logger.start_entry("customer_session_005", "I need help with my order.")
+    logger.start_entry("mcd_session_002", "I want a Big Mac!")
     result = agent.invoke(
-        {"messages": [{"role": "user", "content": "I need help with my order."}]},
+        {"messages": [{"role": "user", "content": "I want a Big Mac!"}]},
         config=invalid_config,
     )
     response_text = get_content_as_string(result['messages'][-1].content)

@@ -126,7 +126,7 @@ chatForm.addEventListener('submit', async (e) => {
         }
     } catch (error) {
         hideTyping();
-        appendMessage('assistant', "I can't reach the server right now. Please make sure the backend is running on port 8001.");
+        appendMessage('assistant', "🍔 Looks like McBuddy can't connect right now. Please make sure the backend is running on port 8001.");
         console.error('[Chat Error]', error);
     } finally {
         setInputEnabled(true);
