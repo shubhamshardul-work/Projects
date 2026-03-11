@@ -1,0 +1,180 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New ways to learn math and science in ChatGPT",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google brings Gemini in Chrome to India",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon launches its healthcare AI assistant on its website and app",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 275611",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.5-9B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "summary": "Trending HF Model. Downloads: 1217530",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 22984",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New ways to learn math and science in ChatGPT",
+      "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google brings Gemini in Chrome to India",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon launches its healthcare AI assistant on its website and app",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 275611",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.5-9B",
+      "url": "https://huggingface.co/Qwen/Qwen3.5-9B",
+      "summary": "Trending HF Model. Downloads: 1217530",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 22984",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor"
+    },
+    {
+      "title": "[RSS] Improving instruction hierarchy in frontier LLMs",
+      "url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Promptfoo",
+      "url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
+    },
+    {
+      "title": "[RSS] Google brings Gemini in Chrome to India",
+      "url": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+      "summary": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil."
+    },
+    {
+      "title": "[RSS] Amazon launches its healthcare AI assistant on its website and app",
+      "url": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+      "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more."
+    }
+  ],
+  "final_report": "# Generative AI's Rapid Ascent: New Models, Enhanced Safety, and Global Expansion\n\nThe generative AI landscape continues its relentless evolution, marked by groundbreaking model releases, strategic acquisitions, and significant strides in global accessibility and specialized applications. Here's a look at the top developments shaping the future of AI.\n\n### **[Next-Gen Models Unveiled: OpenAI, Google, and Runway Push AI Boundaries](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8)**\nThe rapid pace of innovation is evident with the reported launches of OpenAI's GPT-5.2, Runway's Gen 4.5, and Google's Gemini 3 Deep Think. This flurry of activity from leading AI developers signals a continuous leap in foundational model capabilities across text, video, and multimodal AI, promising more sophisticated and versatile applications for both consumers and enterprises.\n\n### **[OpenAI Tackles AI Safety with Instruction Hierarchy Challenge](https://openai.com/index/instruction-hierarchy-challenge)**\nOpenAI has introduced the IH-Challenge, a significant initiative aimed at training models to prioritize trusted instructions and improve safety steerability. This move is crucial for enhancing the reliability and trustworthiness of AI systems, particularly in mitigating prompt injection attacks and ensuring models consistently adhere to intended guidelines, a vital step for broader AI adoption in sensitive domains.\n\n### **[OpenAI Strengthens AI Security with Promptfoo Acquisition](https://openai.com/index/openai-to-acquire-promptfoo)**\nIn a strategic move, OpenAI is acquiring Promptfoo, an AI security platform specializing in identifying and remediating vulnerabilities in AI systems during development. This acquisition underscores OpenAI's commitment to enterprise-grade AI security and robustness, signaling a maturing ecosystem where the safety and reliability of deployed AI models are paramount for business integration.\n\n### **[Google Gemini Expands Global Reach, Embracing Multilingual Support in Chrome](https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/)**\nGoogle is significantly expanding the global footprint of Gemini in Chrome, with a notable rollout to India that includes support for multiple local languages like Hindi, Bengali, and Tamil. This expansion highlights the critical importance of linguistic inclusivity and localization in AI, making advanced generative AI tools accessible to a vast, diverse user base and accelerating global adoption.\n\n### **[Amazon Steps into Healthcare with New AI Assistant](https://techcrunch.com/2026/03/10/amazon-lunches-its-healthcare-ai-assistant-on-its-website-and-app/)**\nAmazon has launched a new healthcare AI assistant on its website and app, designed to answer questions, explain health records, manage prescription renewals, and book appointments. This marks a significant entry for a tech giant into the highly regulated healthcare sector, showcasing the potential for AI to streamline administrative tasks, improve patient engagement, and make health information more accessible.\n\n***\n\nThe latest developments underscore a dual focus in Generative AI: relentless innovation in model capabilities coupled with a growing emphasis on safety, security, and global accessibility. As AI becomes more powerful and pervasive, these foundational and strategic advancements will be key to its responsible and impactful integration into every facet of our lives.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 5,
+    "sheet_status": "ok_4_subscribers_from_4_rows",
+    "email_status": "sent_to_5"
+  }
+}
