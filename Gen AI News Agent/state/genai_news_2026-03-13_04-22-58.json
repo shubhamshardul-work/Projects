@@ -1,0 +1,175 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Rakuten fixes issues twice as fast with Codex",
+      "url": "https://openai.com/index/rakuten",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Designing AI agents to resist prompt injection",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] From model to agent: Equipping the Responses API with a computer environment ",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
+      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "summary": "GTC \u2014 which stands for GPU Technology Conference \u2014 is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of com",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 40726",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 401084",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 1805",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Rakuten fixes issues twice as fast with Codex",
+      "url": "https://openai.com/index/rakuten",
+      "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Designing AI agents to resist prompt injection",
+      "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] From model to agent: Equipping the Responses API with a computer environment ",
+      "url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "url": "https://openai.com/index/wayfair",
+      "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
+      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "summary": "GTC \u2014 which stands for GPU Technology Conference \u2014 is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of com",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 40726",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 401084",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 1805",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
+      "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+      "summary": "Nvidia's flagship annual GTC event, where CEO Jensen Huang typically announces new products, partnerships, and lays out the company's vision for the future of computing, is scheduled for 2026-03-12."
+    },
+    {
+      "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "A trending Hugging Face model, 'Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled', indicating a significant new open-source release, potentially combining advanced reasoning capabilities."
+    },
+    {
+      "title": "Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "A trending Hugging Face model from Lightricks, 'LTX-2.3', with over 400,000 downloads, suggesting a major new model release in the open-source community."
+    },
+    {
+      "title": "fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "A trending Hugging Face model, 'fishaudio/s2-pro', indicating a new and impactful release, likely in the domain of audio generation or processing."
+    }
+  ],
+  "final_report": "## Generative AI's Next Wave: Hardware Horizons and Open-Source Leaps\n\nThe Generative AI landscape continues its relentless expansion, marked by both foundational hardware advancements and a surge of innovative open-source models pushing the boundaries of what's possible. Here's a look at the top stories shaping the future of AI.\n\n---\n\n### **[Nvidia GTC 2026: The Future of AI Hardware Unveiled](https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/)**\nNvidia's annual GTC conference remains the epicenter for AI hardware innovation, with CEO Jensen Huang's keynote setting the industry's pace. This event is crucial as it typically unveils the next generation of GPUs, software platforms, and strategic partnerships that will power the AI revolution, dictating the capabilities and direction for developers and enterprises worldwide.\n\n### **[Open-Source AI Gets Smarter: Qwen3.5 Distills Claude's Reasoning](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nA significant development in the open-source community, this trending Hugging Face model showcases the powerful trend of distilling advanced reasoning capabilities from proprietary models like Claude 4.6 Opus into more accessible architectures such as Qwen3.5. This democratizes sophisticated AI reasoning, making high-level cognitive functions available to a broader developer base and accelerating innovation in complex problem-solving.\n\n### **[Lightricks' LTX-2.3 Takes Open-Source by Storm](https://huggingface.co/Lightricks/LTX-2.3)**\nLightricks, known for its creative AI tools, has released 'LTX-2.3' to widespread acclaim on Hugging Face, evidenced by over 400,000 downloads. This model's popularity underscores a growing demand for robust, accessible AI solutions in creative content generation and manipulation, empowering artists and developers with powerful new tools to push the boundaries of digital artistry.\n\n### **[Fishaudio's S2-Pro: A New Wave in Generative Audio](https://huggingface.co/fishaudio/s2-pro)**\nThe emergence of 'fishaudio/s2-pro' as a trending model on Hugging Face signals significant advancements in generative audio. As AI's capabilities expand beyond text and images, high-quality audio generation\u2014from realistic voice synthesis to intricate soundscapes\u2014is becoming increasingly vital. This model's impact suggests progress in creating more natural and versatile audio content, opening new frontiers for entertainment, accessibility, and interactive experiences.\n\n---\n\nThe Generative AI landscape is a dynamic interplay between the foundational power of hardware and the rapid, democratized innovation fueled by the open-source community, continuously expanding the horizons of what AI can achieve.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 6,
+    "sheet_status": "ok_5_subscribers_from_5_rows",
+    "email_status": "sent_to_6"
+  }
+}
