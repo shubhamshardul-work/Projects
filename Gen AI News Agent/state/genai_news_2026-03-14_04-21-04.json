@@ -1,0 +1,180 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "Generative AI \u00b7 Peacock expands into AI-driven video, mobile-first live sports, and gaming \u00b7 Netflix may have paid $600 million for Ben Affleck's AI startup.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] \u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films",
+      "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The biggest AI stories of the year (so far)",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 53243",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 3142",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 448513",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "Generative AI \u00b7 Peacock expands into AI-driven video, mobile-first live sports, and gaming \u00b7 Netflix may have paid $600 million for Ben Affleck's AI startup.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] \u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films",
+      "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+      "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The biggest AI stories of the year (so far)",
+      "url": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+      "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 53243",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 3142",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 448513",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "\u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor."
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+    },
+    {
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+      "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+      "summary": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons."
+    },
+    {
+      "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model with significant downloads, indicating a major release in the open-source community, potentially distilled from a frontier model."
+    },
+    {
+      "title": "Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model with a high number of downloads (448513), suggesting a significant and impactful release from Lightricks."
+    }
+  ],
+  "final_report": "# Generative AI's Evolving Landscape: Innovation, Ethics, and Open-Source Power\n\nThe world of Generative AI continues its relentless pace, marked this week by ambitious restarts, critical safety warnings, and significant strides in open-source development. Here's a look at the top stories shaping the future of AI.\n\n---\n\n### **[Musk's xAI Relaunches Ambitious AI Coding Tool Effort](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)**\nElon Musk's xAI is reportedly revamping its AI coding tool initiative, bringing in new leadership from Cursor to spearhead the renewed effort. This move underscores the immense challenge and iterative nature of building robust AI solutions, even for well-funded ventures, highlighting the competitive scramble for top talent and the high stakes in the race to deliver cutting-edge AI development tools.\n\n### **[Urgent Warning: AI Chatbots Linked to Mass Casualty Risks](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**\nA lawyer involved in cases linking AI chatbots to psychosis is now warning of potential connections to mass casualty incidents, citing a dangerous gap between rapid technological advancement and the implementation of adequate safeguards. This alarming development amplifies critical ethical and safety concerns, demanding immediate attention from developers, regulators, and society to prevent potential misuse and mitigate the severe societal risks posed by increasingly powerful AI.\n\n### **[Nyne Secures Funding to Infuse AI Agents with Human Context](https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/)**\nData infrastructure startup Nyne, founded by a father-son duo, has raised $5.3 million in seed funding to address a fundamental limitation of current AI agents: the lack of human context. This investment signals a growing industry recognition that for AI agents to truly be effective and intuitive, they must move beyond raw data processing to understand the nuanced, human-centric context of their interactions, paving the way for more sophisticated and user-friendly AI applications.\n\n### **[Open-Source AI Gets a Boost: New Reasoning Model Trends on Hugging Face](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nA new model, `Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled`, is trending on Hugging Face with significant downloads, indicating a major release within the open-source community. This model, potentially distilled from a frontier model, highlights the ongoing democratization of advanced AI capabilities, allowing developers worldwide to leverage sophisticated reasoning power without needing access to proprietary, resource-intensive systems.\n\n### **[Massive Adoption: Lightricks' LTX-2.3 Signals Major Open-Source Impact](https://huggingface.co/Lightricks/LTX-2.3)**\nLightricks' `LTX-2.3` model is making waves on Hugging Face, boasting over 448,000 downloads. This impressive adoption rate underscores the immediate utility and impact of this particular release, demonstrating how quickly valuable tools and breakthroughs from companies like Lightricks can be integrated and utilized by the broader developer community, accelerating innovation across various AI applications.\n\n---\n\nThe week's news paints a vivid picture of a Generative AI landscape in constant flux: pushing boundaries with ambitious projects, grappling with profound ethical implications, and thriving on the collaborative power of the open-source community. As AI becomes more integrated into our lives, the interplay between innovation, safety, and accessibility will define its trajectory.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 6,
+    "sheet_status": "ok_5_subscribers_from_5_rows",
+    "email_status": "sent_to_6"
+  }
+}
