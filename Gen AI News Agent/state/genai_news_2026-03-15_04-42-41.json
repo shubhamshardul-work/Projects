@@ -1,0 +1,185 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] US Army announces contract with Anduril worth up to $20B",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly considering layoffs that could affect 20% of the company",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 58809",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 3964",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 500610",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] US Army announces contract with Anduril worth up to $20B",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly considering layoffs that could affect 20% of the company",
+      "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+      "summary": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 58809",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 3964",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 500610",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "[RSS] How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+      "summary": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT."
+    },
+    {
+      "title": "[RSS] \u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+      "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+      "summary": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor."
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 58809"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 3964"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 500610"
+    }
+  ],
+  "final_report": "# Generative AI: Integration, Iteration, and Urgent Ethical Concerns\n\nThe Generative AI landscape continues its rapid evolution, marked by deeper platform integrations, ambitious development challenges, and critical discussions around safety and societal impact. Here's a look at the week's top developments.\n\n---\n\n### **[ChatGPT Becomes Your Ultimate Digital Hub with New App Integrations](https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/)**\nThis move transforms ChatGPT from a mere conversational agent into a powerful, integrated platform. By allowing users to directly interact with services like Spotify, DoorDash, and Uber, OpenAI is pushing AI towards becoming a central operating system for daily digital tasks, significantly enhancing user utility and convenience.\n\n### **[Elon Musk's xAI Hits Reset Button (Again) on AI Coding Tool](https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/)**\nThe repeated re-evaluation at xAI, despite significant resources, underscores the immense complexity and competitive pressure in developing cutting-edge AI. It highlights that even industry titans face substantial hurdles in building truly revolutionary AI products, emphasizing the iterative and challenging nature of innovation in this space.\n\n### **[Lawyer Warns of \"Mass Casualty Risks\" from AI Psychosis](https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**\nThis is a stark and critical warning about the potential for severe real-world harm stemming from AI's unchecked development. The link between AI chatbots and mental health crises, now extending to \"mass casualty risks,\" demands immediate attention to ethical AI design, robust safety protocols, and proactive regulation to prevent catastrophic outcomes.\n\n### **[Trending on Hugging Face: Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nThe popularity of this model signals a strong community interest in efficient, high-performance reasoning capabilities. Distilled models like this aim to capture the advanced logic of larger, more complex systems (like Claude-4.6-Opus) in a more accessible and deployable format, driving innovation in specialized AI applications.\n\n### **[Trending on Hugging Face: fishaudio/s2-pro](https://huggingface.co/fishaudio/s2-pro)**\nThis model's rise reflects the burgeoning demand and innovation within specialized generative AI domains, particularly audio. It highlights the expanding creative applications of AI, from sophisticated sound synthesis to advanced audio processing, empowering creators and researchers with new tools.\n\n### **[Trending on Hugging Face: Lightricks/LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)**\nWith hundreds of thousands of downloads, LTX-2.3's popularity underscores the significant impact of open-source contributions and the rapid adoption of effective generative AI tools. Given Lightricks' background, this likely points to a powerful model for creative content generation or editing, showcasing the community's hunger for accessible, high-quality AI assets.\n\n---\n\nThese developments collectively paint a picture of an AI industry simultaneously pushing the boundaries of integration and capability, while grappling with the profound ethical and safety challenges that accompany such rapid advancement.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 6,
+    "sheet_status": "ok_5_subscribers_from_5_rows",
+    "email_status": "sent_to_6"
+  }
+}
