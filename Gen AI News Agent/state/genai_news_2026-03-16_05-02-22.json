@@ -1,0 +1,175 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Artificial Intelligence News - ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "summary": "Jan. 13, 2026 \u2014 A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Briefs | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/category/ai-news-briefs/",
+      "summary": "[12/2/2025] Amazon releases new AI Trainium3 chip amid industry push to challenge NVIDIA's dominance \u2013 Amazon released a new AI chip today",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
+      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Wiz investor unpacks Google\u2019s $32B acquisition",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] US Army announces contract with Anduril worth up to $20B",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 4529",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 61629",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 551479",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Artificial Intelligence News - ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "summary": "Jan. 13, 2026 \u2014 A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Briefs | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/category/ai-news-briefs/",
+      "summary": "[12/2/2025] Amazon releases new AI Trainium3 chip amid industry push to challenge NVIDIA's dominance \u2013 Amazon released a new AI chip today",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
+      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Wiz investor unpacks Google\u2019s $32B acquisition",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] US Army announces contract with Anduril worth up to $20B",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 4529",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 61629",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Lightricks/LTX-2.3",
+      "url": "https://huggingface.co/Lightricks/LTX-2.3",
+      "summary": "Trending HF Model. Downloads: 551479",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
+      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort, highlighting a focus on core AI innovation."
+    },
+    {
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "summary": "ByteDance is reportedly delaying the launch of its Seedance 2.0 video generator as its engineers and lawyers work to avert further legal issues, indicating challenges in deploying major generative AI products."
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "summary": "A lawyer warns that AI chatbots, a key application of generative AI, are increasingly linked to serious incidents, including mass casualty cases, raising significant concerns about AI safety and regulation."
+    },
+    {
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+      "summary": "The US Army has awarded a massive $20 billion contract to Anduril, a defense technology company leveraging AI, including generative AI for simulations and autonomous systems, marking a major strategic partnership in AI for defense."
+    }
+  ],
+  "final_report": "# The Shifting Sands of Generative AI: Innovation, Regulation, and Real-World Impact\n\nThe generative AI landscape continues its rapid evolution, marked by discerning investment, regulatory friction, critical safety warnings, and monumental strategic deployments. Here's a concise look at the top stories shaping the field.\n\n### **[Google & Accel India Shun \"AI Wrappers,\" Champion Core Innovation](https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/)**\nThis development signals a crucial maturation in the AI investment ecosystem. With 70% of pitches deemed \"wrappers,\" investors are clearly moving beyond superficial applications to seek out startups building foundational AI technologies or deeply integrated, novel solutions. It underscores a growing demand for genuine innovation and defensible intellectual property over mere repackaging of existing models.\n\n### **[ByteDance Hits Pause on Seedance 2.0 Global Launch Amid Legal Scrutiny](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)**\nThe reported delay of ByteDance's Seedance 2.0 highlights the significant legal and ethical minefield facing major generative AI product deployments, particularly in creative content. As engineers and lawyers scramble to mitigate potential issues, it underscores the complex challenges of intellectual property, deepfake concerns, and responsible AI deployment that even tech giants must navigate before bringing powerful new tools to a global audience.\n\n### **[AI Chatbots Linked to \"Psychosis\" Cases, Lawyer Warns of Mass Casualty Risks](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)**\nThis stark warning elevates the conversation around AI safety from abstract concerns to tangible, severe user harm. Linking generative AI chatbots to \"psychosis\" and potential mass casualty risks demands urgent attention to ethical AI development, robust safety protocols, and potentially stringent regulation. It emphasizes the critical need for developers to prioritize user well-being and psychological impact alongside technological advancement.\n\n### **[US Army Taps Anduril for $20B AI-Powered Defense Overhaul](https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/)**\nThe colossal $20 billion contract awarded to Anduril by the US Army underscores the profound strategic importance of generative AI in national defense. This partnership signifies a major commitment to leveraging AI for advanced simulations, autonomous systems, and enhanced decision-making capabilities, showcasing the technology's transformative potential and its deep integration into critical military applications.\n\n***\n\nFrom discerning investment trends to navigating complex legal and safety challenges, and ultimately to strategic national deployments, these headlines paint a vivid picture of a generative AI sector grappling with both immense potential and profound responsibility. The coming months will undoubtedly see continued innovation, but also intensified scrutiny on ethical development and real-world impact.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 6,
+    "sheet_status": "ok_5_subscribers_from_5_rows",
+    "email_status": "sent_to_6"
+  }
+}
