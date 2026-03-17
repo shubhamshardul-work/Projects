@@ -29,32 +29,37 @@ https://shubhamshardul-work.github.io/Projects/GenAIReport/
 ## 🚀 How It Works
 
 ```mermaid
-graph TD
-    subgraph Parallel_Fetchers [Multi-Source Data Ingestion]
-        START((START)) --> tavily[<b>Tavily Search</b><br/>General Web News]
-        START --> rss[<b>RSS Feeds</b><br/>OpenAI, TC, Nvidia]
-        START --> arxiv[<b>ArXiv API</b><br/>AI Research Papers]
-        START --> github[<b>GitHub</b><br/>Trending AI Repos]
-        START --> hf[<b>HuggingFace</b><br/>Trending Models]
-        START --> hn[<b>HackerNews</b><br/>Top AI Stories]
-        START --> reddit[<b>Reddit</b><br/>r/LocalLLaMA]
-        START --> youtube[<b>YouTube</b><br/>AI Transcripts]
-    end
+## 🚀 How It Works
 
-    Parallel_Fetchers --> aggregate[<b>Aggregate Node</b><br/>Raw Feed Collection]
+```mermaid
+flowchart TD
+    START((START)) --> Ingestion{<b>Data Ingestion Layer</b>}
+
+    Ingestion --> S_WEB[<b>Web & News</b><br/>Tavily Search, RSS Feeds]
+    Ingestion --> S_RES[<b>Tech & Research</b><br/>ArXiv, GitHub, HF]
+    Ingestion --> S_SOC[<b>Social & Video</b><br/>HackerNews, Reddit, YouTube]
+
+    S_WEB & S_RES & S_SOC --> AGG[<b>Aggregate Node</b><br/>Collection & Deduplication]
     
-    aggregate --> curate[<b>Curate Node</b><br/><i>LLM Persona Tagging<br/>Selection per Bucket</i>]
+    AGG --> CURATE[<b>Curator Node</b><br/>Multi-Persona Tagging]
     
-    curate --> summarize[<b>Summarize Node</b><br/><i>3-Track Report Generation<br/>Raw Intelligence Index</i>]
+    CURATE --> SUMM[<b>Summarizer Node</b><br/>3-Track Report & Raw Index]
     
-    summarize --> email[<b>Email Node</b><br/>Subscriber Distribution]
+    SUMM --> EMAIL[<b>Email Node</b><br/>Automated Delivery]
     
-    email --> END((END))
-    
-    style curate fill:#fcf,stroke:#333
-    style summarize fill:#fcf,stroke:#333
+    EMAIL --> END((END))
+
+    %% Premium Professional Styling
     style START fill:#f9f,stroke:#333,stroke-width:2px
     style END fill:#f9f,stroke:#333,stroke-width:2px
+    style Ingestion fill:#f8f9fa,stroke:#dee2e6
+    style S_WEB fill:#e7f3ff,stroke:#007bff
+    style S_RES fill:#e7f3ff,stroke:#007bff
+    style S_SOC fill:#e7f3ff,stroke:#007bff
+    style CURATE fill:#fff3cd,stroke:#ffc107
+    style SUMM fill:#d1ecf1,stroke:#17a2b8
+    style EMAIL fill:#d4edda,stroke:#28a745
+```
 ```
 
 ## 🛠 Local Development
