@@ -1,5 +1,5 @@
 import json
-from langchain_community.tools.tavily_search import TavilySearchResults
+from langchain_tavily import TavilySearch
 import os
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_core.messages import SystemMessage, HumanMessage
@@ -15,13 +15,14 @@ def tavily_node(state: AgentState):
     query = state.get("search_query", "latest breakthroughs and news in Generative AI")
     # Append recency constraint to query
     query = f"{query} published in the last {days} days"
-    tavily_tool = TavilySearchResults(max_results=3, search_depth="basic")
+    tavily_tool = TavilySearch(max_results=3, search_depth="basic")
     try:
         results = tavily_tool.invoke({"query": query})
         
         # Standardize the output format
         formatted_results = []
-        for r in results:
+        search_results = results.get("results", []) if isinstance(results, dict) else results
+        for r in search_results:
             formatted_results.append({
                 "title": f"[Tavily] {r.get('title', 'No Title')}",
                 "url": r.get('url', ''),
@@ -91,11 +92,12 @@ def arxiv_node(state: AgentState):
     """Fetches latest AI papers from ArXiv API."""
     from datetime import timezone
     days = state.get("days", 2)
-    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    # ArXiv has a 1-2 day publication lag, so we widen the window to catch recent papers
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days + 2)
     
     try:
-        url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=lastUpdatedDate&sortOrder=desc&max_results=10"
-        response = requests.get(url, timeout=5)
+        url = "http://export.arxiv.org/api/query?search_query=cat:cs.AI+OR+cat:cs.CL+OR+cat:cs.LG&sortBy=lastUpdatedDate&sortOrder=descending&max_results=10"
+        response = requests.get(url, timeout=15)
         results = []
         if response.status_code == 200:
             root = ET.fromstring(response.content)
@@ -123,7 +125,7 @@ def arxiv_node(state: AgentState):
                 summary = summary_text[:200] + "..." if summary_text else ""
                 
                 results.append({
-                    "title": f"[ArXiv] {title}", 
+                    "title": f"[ArXiv] {title}",
                     "url": link, 
                     "summary": summary,
                     "source": "ArXiv API"
@@ -167,10 +169,11 @@ def hf_node(state: AgentState):
         if response.status_code == 200:
             data = response.json()
             for model in data:
+                tags = ", ".join(model.get('tags', [])[:6])
                 results.append({
                     "title": f"[HuggingFace] {model.get('id', 'Unknown Model')}",
                     "url": f"https://huggingface.co/{model.get('id')}",
-                    "summary": f"Trending HF Model. Downloads: {model.get('downloads', 0)}",
+                    "summary": f"Trending HF Model. Tags: {tags}. Downloads: {model.get('downloads', 0)}",
                     "source": "Hugging Face API"
                 })
     except Exception as e:
@@ -183,14 +186,14 @@ def hn_node(state: AgentState):
     """Fetches trending AI stories from HackerNews."""
     try:
         url = "https://hacker-news.firebaseio.com/v0/topstories.json"
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=15)
         results = []
         if response.status_code == 200:
             story_ids = response.json()[:30]  # Just top 30 to stay fast
             for story_id in story_ids:
                 try:
                     item_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
-                    item_res = requests.get(item_url, timeout=5)
+                    item_res = requests.get(item_url, timeout=10)
                     if item_res.status_code == 200:
                         item = item_res.json()
                         title = item.get("title", "")

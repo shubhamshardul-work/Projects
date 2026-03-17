@@ -7,6 +7,10 @@ from src.graph import build_graph
 def main():
     load_dotenv()
     
+    # Suppress deep internal Pydantic serialization warnings from LangChain-Google
+    import warnings
+    warnings.filterwarnings("ignore", category=UserWarning, module="pydantic")
+    
     parser = argparse.ArgumentParser(description="GenAI News Fetcher")
     parser.add_argument("--query", type=str, default="latest breakthroughs, releases, and news in Generative AI", help="Search query")
     parser.add_argument("--output", type=str, default="reports/genai_news_{date}.md", help="Output markdown file path")

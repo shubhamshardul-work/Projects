@@ -1,6 +1,7 @@
 langgraph
 langchain-google-genai
 langchain-community
+langchain-tavily
 tavily-python
 python-dotenv
 pydantic<2.10.0
