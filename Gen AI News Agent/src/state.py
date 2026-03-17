@@ -11,6 +11,9 @@ class AgentState(TypedDict, total=False):
     arxiv_news: List[Any]
     github_news: List[Any]
     hf_news: List[Any]
+    hn_news: List[Any]
+    reddit_news: List[Any]
+    youtube_news: List[Any]
     raw_news: List[Any]
     curated_news: List[dict]
     final_report: str

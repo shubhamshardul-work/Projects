@@ -179,6 +179,111 @@ def hf_node(state: AgentState):
         
     return {"hf_news": results}
 
+def hn_node(state: AgentState):
+    """Fetches trending AI stories from HackerNews."""
+    try:
+        url = "https://hacker-news.firebaseio.com/v0/topstories.json"
+        response = requests.get(url, timeout=10)
+        results = []
+        if response.status_code == 200:
+            story_ids = response.json()[:30]  # Just top 30 to stay fast
+            for story_id in story_ids:
+                try:
+                    item_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+                    item_res = requests.get(item_url, timeout=5)
+                    if item_res.status_code == 200:
+                        item = item_res.json()
+                        title = item.get("title", "")
+                        # Simple keyword filter before sending to Gemini
+                        if any(kw in title.lower() for kw in ["ai", "llm", "model", "gpt", "claude", "machine learning", "sam altman", "openai", "anthropic", "llama"]):
+                            results.append({
+                                "title": f"[HackerNews] {title}",
+                                "url": item.get("url", f"https://news.ycombinator.com/item?id={story_id}"),
+                                "summary": f"HN Score: {item.get('score', 0)}. Comments: {item.get('descendants', 0)}",
+                                "source": "HackerNews Top Stories"
+                            })
+                except Exception as item_err:
+                    print(f"Error fetching HN item {story_id}: {item_err}")
+    except Exception as e:
+        print(f"Error fetching HackerNews: {e}")
+        results = []
+    
+    return {"hn_news": results[:5]}
+
+def reddit_node(state: AgentState):
+    """Fetches trending discussions from r/LocalLLaMA and r/MachineLearning."""
+    try:
+        url = "https://www.reddit.com/r/LocalLLaMA+MachineLearning/top.json?t=day&limit=5"
+        headers = {"User-Agent": "GenAINewsAgent/1.0"}
+        response = requests.get(url, headers=headers, timeout=5)
+        results = []
+        if response.status_code == 200:
+            data = response.json()
+            for post in data.get("data", {}).get("children", []):
+                post_data = post.get("data", {})
+                title = post_data.get("title", "No Title")
+                results.append({
+                    "title": f"[Reddit - {post_data.get('subreddit_name_prefixed', 'r/AI')}] {title}",
+                    "url": f"https://reddit.com{post_data.get('permalink', '')}",
+                    "summary": f"Score: {post_data.get('score', 0)}. " + (post_data.get("selftext", "")[:400] + "..." if post_data.get("selftext") else ""),
+                    "source": "Reddit Top Daily"
+                })
+    except Exception as e:
+        print(f"Error fetching Reddit: {e}")
+        results = []
+        
+    return {"reddit_news": results}
+
+def youtube_node(state: AgentState):
+    """Fetches latest AI video transcripts from top YouTube channels by parsing HTML to bypass RSS block."""
+    from youtube_transcript_api import YouTubeTranscriptApi
+    import re
+    
+    channels = [
+        "https://www.youtube.com/@aiexplained-official/videos",
+        "https://www.youtube.com/@YannicKilcher/videos"
+    ]
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    }
+    results = []
+    
+    for channel_url in channels:
+        try:
+            res = requests.get(channel_url, headers=headers, timeout=5)
+            if res.status_code == 200:
+                # Look for the first "videoId":"..." string in the source JSON injected into the page
+                matches = re.findall(r'"videoId":"([^"]+)"', res.text)
+                if matches:
+                    video_id = matches[0]
+                    # Try to extract the canonical title too, or just use the channel URL as title prefix
+                    title = f"[YouTube AI] Video: {video_id}"
+                    title_matches = re.findall(r'"title":{"runs":\[{"text":"([^"]+)"}\]', res.text)
+                    if title_matches:
+                        title = f"[YouTube AI] {title_matches[0]}"
+                        
+                    link = f"https://www.youtube.com/watch?v={video_id}"
+                    
+                    try:
+                        # Fetch transcript (this is independent of YouTube API keys!)
+                        transcript = YouTubeTranscriptApi().fetch(video_id)
+                        text = " ".join([t.text for t in transcript])
+                        summary = text[:1000] + "..."
+                    except Exception as e:
+                        print(f"Could not fetch transcript for {video_id}: {e}")
+                        summary = "Video transcript unavailable."
+                        
+                    results.append({
+                        "title": title,
+                        "url": link,
+                        "summary": summary,
+                        "source": "YouTube AI Channels"
+                    })
+        except Exception as e:
+            print(f"Error fetching YouTube channel {channel_url}: {e}")
+            
+    return {"youtube_news": results}
+
 def aggregate_node(state: AgentState):
     """Aggregates all fetched news into a single list."""
     combined = []
@@ -187,6 +292,9 @@ def aggregate_node(state: AgentState):
     combined.extend(state.get("arxiv_news", []))
     combined.extend(state.get("github_news", []))
     combined.extend(state.get("hf_news", []))
+    combined.extend(state.get("hn_news", []))
+    combined.extend(state.get("reddit_news", []))
+    combined.extend(state.get("youtube_news", []))
     
     return {"raw_news": combined}
 
