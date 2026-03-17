@@ -34,27 +34,27 @@ flowchart TD
     START((START)) --> Ingestion
 
     %% Data Ingestion Layer
-    subgraph Ingestion [<b>1. Parallel Multi-Source Ingestion</b>]
+    subgraph Ingestion ["<b>1. Parallel Multi-Source Ingestion</b>"]
         direction LR
-        tavily[<b>tavily_node</b><br/>AI Web Search]
-        rss[<b>rss_node</b><br/>OpenAI, TC, Nvidia]
-        arxiv[<b>arxiv_node</b><br/>Research Papers]
-        github[<b>github_node</b><br/>Trending Repos]
-        hf[<b>hf_node</b><br/>Trending Models]
-        hn[<b>hn_node</b><br/>HackerNews Top]
-        reddit[<b>reddit_node</b><br/>r/LocalLLaMA]
-        youtube[<b>youtube_node</b><br/>Video Transcripts]
+        tavily["<b>tavily_node</b><br/>AI Web Search"]
+        rss["<b>rss_node</b><br/>OpenAI, TC, Nvidia"]
+        arxiv["<b>arxiv_node</b><br/>Research Papers"]
+        github["<b>github_node</b><br/>Trending Repos"]
+        hf["<b>hf_node</b><br/>Trending Models"]
+        hn["<b>hn_node</b><br/>HackerNews Top"]
+        reddit["<b>reddit_node</b><br/>r/LocalLLaMA"]
+        youtube["<b>youtube_node</b><br/>Video Transcripts"]
     end
 
     %% Aggregation & Processing
-    Ingestion --> AGG[<b>aggregate_node</b><br/>Consolidates link feeds<br/>Deduplicates & Prefilters]
+    Ingestion --> AGG["<b>aggregate_node</b><br/>Consolidates link feeds<br/>Deduplicates & Prefilters"]
     
-    AGG --> CURATE[<b>curate_node</b><br/>Uses Gemini 2.5 Flash to tag:<br/><i>[Business], [Technical], [Research]</i><br/>Selects top items per persona]
+    AGG --> CURATE["<b>curate_node</b><br/>Uses Gemini 2.5 Flash to tag tracks:<br/><b>Business, Technical, Research</b><br/>Selects top items per persona"]
     
-    CURATE --> SUMM[<b>summarize_node</b><br/>Generates 3-track MD report<br/>Appends Raw Feed Index]
+    CURATE --> SUMM["<b>summarize_node</b><br/>Generates 3-track MD report<br/>Appends Raw Feed Index"]
     
     %% Distribution
-    SUMM --> EMAIL[<b>email_node</b><br/>Sends to Gmail list<br/>Updates GitHub Pages]
+    SUMM --> EMAIL["<b>email_node</b><br/>Sends to Gmail list<br/>Updates GitHub Pages"]
     
     EMAIL --> END((END))
 
