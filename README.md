@@ -30,32 +30,46 @@ https://shubhamshardul-work.github.io/Projects/GenAIReport/
 
 ```mermaid
 flowchart TD
-    START((START)) --> Ingestion{<b>Data Ingestion Layer</b>}
+    %% Start Node
+    START((START)) --> Ingestion
 
-    Ingestion --> S_WEB[<b>Web & News</b><br/>Tavily Search, RSS Feeds]
-    Ingestion --> S_RES[<b>Tech & Research</b><br/>ArXiv, GitHub, HF]
-    Ingestion --> S_SOC[<b>Social & Video</b><br/>HackerNews, Reddit, YouTube]
+    %% Data Ingestion Layer
+    subgraph Ingestion [<b>1. Parallel Multi-Source Ingestion</b>]
+        direction LR
+        tavily[<b>tavily_node</b><br/>AI Web Search]
+        rss[<b>rss_node</b><br/>OpenAI, TC, Nvidia]
+        arxiv[<b>arxiv_node</b><br/>Research Papers]
+        github[<b>github_node</b><br/>Trending Repos]
+        hf[<b>hf_node</b><br/>Trending Models]
+        hn[<b>hn_node</b><br/>HackerNews Top]
+        reddit[<b>reddit_node</b><br/>r/LocalLLaMA]
+        youtube[<b>youtube_node</b><br/>Video Transcripts]
+    end
 
-    S_WEB & S_RES & S_SOC --> AGG[<b>Aggregate Node</b><br/>Collection & Deduplication]
+    %% Aggregation & Processing
+    Ingestion --> AGG[<b>aggregate_node</b><br/>Consolidates link feeds<br/>Deduplicates & Prefilters]
     
-    AGG --> CURATE[<b>Curator Node</b><br/>Multi-Persona Tagging]
+    AGG --> CURATE[<b>curate_node</b><br/>Uses Gemini 2.5 Flash to tag:<br/><i>[Business], [Technical], [Research]</i><br/>Selects top items per persona]
     
-    CURATE --> SUMM[<b>Summarizer Node</b><br/>3-Track Report & Raw Index]
+    CURATE --> SUMM[<b>summarize_node</b><br/>Generates 3-track MD report<br/>Appends Raw Feed Index]
     
-    SUMM --> EMAIL[<b>Email Node</b><br/>Automated Delivery]
+    %% Distribution
+    SUMM --> EMAIL[<b>email_node</b><br/>Sends to Gmail list<br/>Updates GitHub Pages]
     
     EMAIL --> END((END))
 
     %% Premium Professional Styling
     style START fill:#f9f,stroke:#333,stroke-width:2px
     style END fill:#f9f,stroke:#333,stroke-width:2px
-    style Ingestion fill:#f8f9fa,stroke:#dee2e6
-    style S_WEB fill:#e7f3ff,stroke:#007bff
-    style S_RES fill:#e7f3ff,stroke:#007bff
-    style S_SOC fill:#e7f3ff,stroke:#007bff
+    style Ingestion fill:#f8f9fa,stroke:#dee2e6,stroke-dasharray: 5 5
+    style AGG fill:#e7f3ff,stroke:#007bff
     style CURATE fill:#fff3cd,stroke:#ffc107
     style SUMM fill:#d1ecf1,stroke:#17a2b8
     style EMAIL fill:#d4edda,stroke:#28a745
+
+    %% Node internal styling
+    classDef ingestionNode fill:#fff,stroke:#ccc,font-size:11px;
+    class tavily,rss,arxiv,github,hf,hn,reddit,youtube ingestionNode;
 ```
 
 ## 🛠 Local Development
