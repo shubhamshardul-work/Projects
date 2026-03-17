@@ -37,7 +37,7 @@ flowchart TD
     subgraph Ingestion [<b>Parallel Multi-Source Ingestion</b>]
         direction LR
         tavily["<b>tavily_node</b><br/>AI Web Search"]
-        rss["<b>rss_node</b><br/>OpenAI, TC, Nvidia"]
+        rss["<b>rss_node</b><br/>OpenAI, TC, VentureBeat"]
         arxiv["<b>arxiv_node</b><br/>Research Papers"]
         github["<b>github_node</b><br/>Trending Repos"]
         hf["<b>hf_node</b><br/>Trending Models"]
