@@ -31,10 +31,10 @@ https://shubhamshardul-work.github.io/Projects/GenAIReport/
 ```mermaid
 flowchart TD
     %% Start Node
-    START((START)) --> Ingestion
+    START((START))
 
-    %% Data Ingestion Layer
-    subgraph Ingestion ["<b>1. Parallel Multi-Source Ingestion</b>"]
+    %% Data Ingestion Layer (Fan-Out)
+    subgraph Ingestion [<b>Parallel Multi-Source Ingestion</b>]
         direction LR
         tavily["<b>tavily_node</b><br/>AI Web Search"]
         rss["<b>rss_node</b><br/>OpenAI, TC, Nvidia"]
@@ -46,9 +46,20 @@ flowchart TD
         youtube["<b>youtube_node</b><br/>Video Transcripts"]
     end
 
-    %% Aggregation & Processing
-    Ingestion --> AGG["<b>aggregate_node</b><br/>Consolidates link feeds<br/>Deduplicates & Prefilters"]
+    %% Explicit Parallel Connections
+    START --> tavily
+    START --> rss
+    START --> arxiv
+    START --> github
+    START --> hf
+    START --> hn
+    START --> reddit
+    START --> youtube
+
+    %% Fan-In to Aggregator
+    tavily & rss & arxiv & github & hf & hn & reddit & youtube --> AGG["<b>aggregate_node</b><br/>Consolidates link feeds<br/>Deduplicates & Prefilters"]
     
+    %% Downstream Processing
     AGG --> CURATE["<b>curate_node</b><br/>Uses Gemini 2.5 Flash to tag tracks:<br/><b>Business, Technical, Research</b><br/>Selects top items per persona"]
     
     CURATE --> SUMM["<b>summarize_node</b><br/>Generates 3-track MD report<br/>Appends Raw Feed Index"]
@@ -58,10 +69,10 @@ flowchart TD
     
     EMAIL --> END((END))
 
-    %% Premium Professional Styling
+    %% Professional Styling
     style START fill:#f9f,stroke:#333,stroke-width:2px
     style END fill:#f9f,stroke:#333,stroke-width:2px
-    style Ingestion fill:#f8f9fa,stroke:#dee2e6,stroke-dasharray: 5 5
+    style Ingestion fill:#fcfcfc,stroke:#eee
     style AGG fill:#e7f3ff,stroke:#007bff
     style CURATE fill:#fff3cd,stroke:#ffc107
     style SUMM fill:#d1ecf1,stroke:#17a2b8
