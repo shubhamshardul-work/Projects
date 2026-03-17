@@ -1,148 +1,93 @@
-# AI's Accelerated Pace: OpenAI's Mini-Max Strategy, Google's Personal Touch, and Pentagon's Strategic Shift
+# GenAI News Agent: Intelligence Report v2
 
-Today's AI landscape is marked by an unprecedented acceleration in model development and strategic realignments. From OpenAI's rapid iteration on its flagship models to Google's pervasive integration of personal AI, the industry is pushing boundaries on both performance and practical application, while geopolitical considerations reshape partnerships.
+An automated, high-precision intelligence agent powered by **LangGraph** that curates, categorizes, and summarizes the top news in Generative AI into persona-specific tracks.
 
-## 🏢 AI Business & Strategy
+This agent doesn't just search the web; it performs a multi-source deep dive across specialized technical portals, "underground" forums, and research databases. It uses **Google's Gemini (2.5 Flash)** models to filter, tag, and report on the most impactful advancements with refined persona-based curation.
 
-### **[Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)**
-OpenAI's rapid release of smaller, faster GPT-5.4 variants signals a strategic pivot towards efficiency and specialized applications. This move aims to capture high-volume API and sub-agent markets, offering cost-effective and performant solutions for businesses looking to embed advanced AI capabilities without the overhead of larger models. It underscores the increasing importance of optimized models for real-world deployment and competitive advantage.
+## Medium Blog Post Link: 
+https://medium.com/@shubham.shardul2019/how-i-built-an-autonomous-multi-agentic-news-engine-full-implementation-ef09a2f00f33
 
-### **[The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)**
-The Pentagon's decision to seek alternatives to Anthropic highlights the critical strategic importance of AI partnerships and supply chain diversification for national security. This move suggests a desire for greater control, resilience, and potentially bespoke AI solutions, indicating that reliance on a single vendor, especially after a "falling-out," is deemed too risky for sensitive defense applications. It signals a broader trend of governments investing in sovereign AI capabilities or diversifying their vendor base.
+## Website Link: 
+https://shubhamshardul-work.github.io/Projects/GenAIReport/
 
-### **[Google’s Personal Intelligence feature is expanding to all US users](https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/)**
-Google's widespread rollout of Personal Intelligence marks a significant step towards deeply integrated, context-aware AI assistants. By leveraging users' personal data within the Google ecosystem, this feature promises highly tailored and proactive assistance, potentially redefining user expectations for digital interaction. For businesses, this signifies the growing imperative to develop AI solutions that understand and adapt to individual user contexts, moving beyond generic responses.
+## ✨ Key Features (v2 Upgrades)
 
-### **[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**
-The rapid succession of GPT model releases, as highlighted by this analysis, underscores the intense pace of innovation and competition in the frontier AI space. For business leaders, this means a constant need to evaluate and adapt to new capabilities, recognizing that ignoring these developments can lead to significant competitive disadvantages. The "murky" landscape also emphasizes the challenge of discerning genuine progress from hype, requiring careful strategic assessment.
+- **Intelligence Report v2**: Automatically categorizes news into three specialized tracks:
+  - **🏢 AI Business & Strategy**: For executives (M&A, corporate moves, regulation).
+  - **🛠️ AI Architects & Developers**: For engineers (new models, local inference, fine-tuning).
+  - **🔬 Research Frontiers**: For researchers (ArXiv breakthroughs, academic papers).
+- **Expanded "Underground" Ingestion**:
+  - **Reddit**: Scrapes top daily technical discussions from `r/LocalLLaMA`.
+  - **HackerNews**: Pulls top trending AI stories and discussion scores.
+  - **YouTube AI**: Fetches transcripts from top AI channels to capture insights from video content.
+- **Raw Intelligence Index**: A collapsible database at the end of every report listing **all** gathered links (20-30+ items), ensuring zero data loss for power users.
+- **Enriched Metadata**: 
+  - **ArXiv**: Smart filtering to handle arXiv's 2-day publication lag.
+  - **HuggingFace**: Summaries now include model tags and download trends.
+- **Automated Newsletter Delivery**: Integrated Google Sheets subscriber management and Gmail automation.
 
-### **[BuzzFeed debuts AI slop apps in bid for new revenue](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/)**
-BuzzFeed's foray into AI-powered social apps, despite a muted reception, illustrates the urgent pressure on traditional media companies to innovate and find new revenue streams using AI. This attempt, even if initially unsuccessful, highlights the strategic imperative for businesses across sectors to experiment with AI-driven products and services, albeit with the caveat that novelty alone may not guarantee user engagement or commercial success. It's a cautionary tale about the difference between deploying AI and deploying *valuable* AI.
+## 🚀 How It Works
 
-## 🛠️ AI Architects & Developers
+```mermaid
+graph TD
+    subgraph Parallel_Fetchers [Multi-Source Data Ingestion]
+        START((START)) --> tavily[<b>Tavily Search</b><br/>General Web News]
+        START --> rss[<b>RSS Feeds</b><br/>OpenAI, TC, Nvidia]
+        START --> arxiv[<b>ArXiv API</b><br/>AI Research Papers]
+        START --> github[<b>GitHub</b><br/>Trending AI Repos]
+        START --> hf[<b>HuggingFace</b><br/>Trending Models]
+        START --> hn[<b>HackerNews</b><br/>Top AI Stories]
+        START --> reddit[<b>Reddit</b><br/>r/LocalLLaMA]
+        START --> youtube[<b>YouTube</b><br/>AI Transcripts]
+    end
 
-### **[Why Codex Security Doesn’t Include a SAST Report](https://openai.com/index/why-codex-security-doesnt-include-sast)**
-This deep dive into Codex Security's approach reveals a shift from traditional Static Application Security Testing (SAST) to AI-driven constraint reasoning for vulnerability detection. Developers should watch this space closely, as it suggests a more intelligent, context-aware method for identifying real security flaws with potentially fewer false positives, offering a path to more efficient and reliable code security practices. This could influence how security tools are integrated into the development lifecycle.
+    Parallel_Fetchers --> aggregate[<b>Aggregate Node</b><br/>Raw Feed Collection]
+    
+    aggregate --> curate[<b>Curate Node</b><br/><i>LLM Persona Tagging<br/>Selection per Bucket</i>]
+    
+    curate --> summarize[<b>Summarize Node</b><br/><i>3-Track Report Generation<br/>Raw Intelligence Index</i>]
+    
+    summarize --> email[<b>Email Node</b><br/>Subscriber Distribution]
+    
+    email --> END((END))
+    
+    style curate fill:#fcf,stroke:#333
+    style summarize fill:#fcf,stroke:#333
+    style START fill:#f9f,stroke:#333,stroke-width:2px
+    style END fill:#f9f,stroke:#333,stroke-width:2px
+```
 
-### **[Toward automated verification of unreviewed AI-generated code](https://peterlavigne.com/writing/verifying-ai-generated-code)**
-The discussion around automated verification of AI-generated code addresses a critical challenge for developers leveraging LLMs for coding: trust and reliability. This topic is essential for practitioners, as robust verification methods are necessary to integrate AI-generated code safely and effectively into production systems, reducing manual review burden and improving code quality. Exploring tools and techniques in this area will be key for future development workflows.
+## 🛠 Local Development
 
-### **[Show HN: March Madness Bracket Challenge for AI Agents Only](https://www.Bracketmadness.ai)**
-This "Show HN" project demonstrates a creative and engaging application of AI agents in a competitive, strategic environment. Developers should watch such initiatives as they provide practical examples of designing, deploying, and evaluating autonomous AI agents, offering insights into agent interaction, decision-making, and performance in complex scenarios. It's a fun way to explore the capabilities and limitations of current AI agent technology.
+1. **Clone the repository**
+2. **Install dependencies**: `pip install -r requirements.txt`
+3. **Environment Setup**: Create a `.env` file in the root with your API keys:
+   ```env
+   GOOGLE_API_KEY=your_key_here
+   TAVILY_API_KEY=your_key_here
+   GMAIL_USER=your_email (optional)
+   GMAIL_APP_PASSWORD=your_app_password (optional)
+   SUBSCRIBERS_SHEET_URL=your_google_sheet_csv_url (optional)
+   ```
+4. **Run the agent**:
+   ```bash
+   # Standard run (fetches last 2 days)
+   python main.py
+   
+   # Custom recency window (e.g., last 24 hours)
+   python main.py --days 1
+   ```
 
-## 🔬 Research Frontiers
+## 📦 Output
+- **`reports/`**: Human-readable Markdown reports organized by persona.
+- **`state/`**: Full JSON state dump including `categorized_news` and `raw_news` for inspection.
 
-### **[Mixture-of-Depths Attention](http://arxiv.org/abs/2603.15619v1)**
-This paper introduces a novel approach to address signal degradation in deep LLMs by proposing "Mixture-of-Depths Attention." Researchers should delve into this for its potential to unlock more effective scaling of model depth, offering a new architectural primitive that could lead to more powerful and efficient large language models by preserving informative features across layers. It's a significant contribution to transformer architecture design.
+## 🤖 GitHub Actions Deployment
 
-### **[HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification](http://arxiv.org/abs/2603.15617v1)**
-HorizonMath presents a framework for evaluating AI's capacity for novel mathematical discovery, moving beyond mere problem-solving to genuine research. This work is crucial for researchers aiming to push AI towards more creative and foundational scientific contributions, providing a benchmark and methodology for assessing progress in a highly complex domain. It challenges the current understanding of AI's limits in abstract reasoning.
+The agent runs automatically every day at 8:00 AM IST (2:30 AM UTC).
 
-### **[Mechanistic Origin of Moral Indifference in Language Models](http://arxiv.org/abs/2603.15615v1)**
-This research investigates the underlying mechanisms behind "moral indifference" in LLMs, highlighting the discrepancy between surface-level alignment and internal representations. For deep-tech thinkers, understanding these mechanistic origins is vital for developing truly robust and ethically aligned AI systems, moving beyond superficial behavioral fixes to address core model biases and vulnerabilities. It's a critical step towards more trustworthy AI.
+1. Go to repository **Settings** > **Secrets and variables** > **Actions**.
+2. Add the required API keys (GOOGLE, TAVILY) and optional email credentials.
+3. Enable workflows in the **Actions** tab.
+4. The action will generate reports, commit them, and trigger the GitHub Pages site rebuild.
 
-### **[Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning](http://arxiv.org/abs/2603.15611v1)**
-Code-A1 proposes an innovative reinforcement learning framework for co-evolving code generation LLMs and their corresponding test suites. This adversarial approach is highly relevant for researchers working on improving code quality, test coverage, and the overall reliability of AI-generated code, addressing the scarcity of high-quality test data and pushing the boundaries of automated software development.
-
-### **[Do Metrics for Counterfactual Explanations Align with User Perception?](http://arxiv.org/abs/2603.15607v1)**
-This paper critically examines the alignment between algorithmic metrics for counterfactual explanations and actual user perception. Researchers in explainable AI (XAI) should pay close attention, as it underscores the importance of human-centered evaluation in XAI, ensuring that explanations are not just algorithmically sound but also genuinely useful and understandable to end-users. It calls for a re-evaluation of current XAI assessment practices.
-
-**Today's Signal:** The rapid pace of AI innovation is driving both strategic diversification in enterprise and government adoption, and a deeper focus on efficiency, reliability, and ethical alignment across research and development.
-
----
-
-## 📚 Raw Intelligence Index
-> All sources gathered during this run. Collapsed by default.
-
-<details>
-<summary><strong>📰 Tavily / Web Search</strong> (3 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade — the tool i... |
-| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |
-| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |
-
-</details>
-
-<details>
-<summary><strong>📡 RSS Feeds</strong> (5 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [Introducing GPT-5.4 mini and nano ](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for codi... |
-| [Why Codex Security Doesn’t Include a SAST Report ](https://openai.com/index/why-codex-security-doesnt-include-sast) | A deep dive into why Codex Security doesn’t rely on traditional SAST, instead us... |
-| [The Pentagon is developing alternatives to Anthropic, report says ](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/) | After their dramatic falling-out, it doesn't seem as though Anthropic and the Pe... |
-| [BuzzFeed debuts AI slop apps in bid for new revenue ](https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/) | BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted r... |
-| [Google’s Personal Intelligence feature is expanding to all US users ](https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/) | Personal Intelligence allows Google's AI assistant to tap into your Google ecosy... |
-
-</details>
-
-<details>
-<summary><strong>📝 ArXiv Papers</strong> (10 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [Mixture-of-Depths Attention ](http://arxiv.org/abs/2603.15619v1) | Scaling depth is a key driver for large language models (LLMs). Yet, as LLMs bec... |
-| [HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification ](http://arxiv.org/abs/2603.15617v1) | Can AI make progress on important, unsolved mathematical problems? Large languag... |
-| [Mechanistic Origin of Moral Indifference in Language Models ](http://arxiv.org/abs/2603.15615v1) | Existing behavioral alignment techniques for Large Language Models (LLMs) often ... |
-| [Code-A1: Adversarial Evolving of Code LLM and Test LLM via Reinforcement Learning ](http://arxiv.org/abs/2603.15611v1) | Reinforcement learning for code generation relies on verifiable rewards from uni... |
-| [Virtual Full-stack Scanning of Brain MRI via Imputing Any Quantised Code ](http://arxiv.org/abs/2501.18328v3) | Magnetic resonance imaging (MRI) is a powerful and versatile imaging technique, ... |
-| [Do Metrics for Counterfactual Explanations Align with User Perception? ](http://arxiv.org/abs/2603.15607v1) | Explainability is widely regarded as essential for trustworthy artificial intell... |
-| [Optimizing Task Completion Time Updates Using POMDPs ](http://arxiv.org/abs/2603.12340v2) | Managing announced task completion times is a fundamental control problem in pro... |
-| [From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation ](http://arxiv.org/abs/2603.15600v1) | Accurate process supervision remains a critical challenge for long-horizon robot... |
-| [SmartSearch: How Ranking Beats Structure for Conversational Memory Retrieval ](http://arxiv.org/abs/2603.15599v1) | Recent conversational memory systems invest heavily in LLM-based structuring at ... |
-| [AC-Foley: Reference-Audio-Guided Video-to-Audio Synthesis with Acoustic Transfer ](http://arxiv.org/abs/2603.15597v1) | Existing video-to-audio (V2A) generation methods predominantly rely on text prom... |
-
-</details>
-
-<details>
-<summary><strong>🤗 HuggingFace Trending</strong> (3 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [fishaudio/s2-pro ](https://huggingface.co/fishaudio/s2-pro) | Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instructi... |
-| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |
-| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |
-
-</details>
-
-<details>
-<summary><strong>🔥 HackerNews</strong> (4 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [[HackerNews] Toward automated verification of unreviewed AI-generated code](https://peterlavigne.com/writing/verifying-ai-generated-code) | HN Score: 50. Comments: 40 |
-| [[HackerNews] Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html) | HN Score: 122. Comments: 81 |
-| [[HackerNews] Show HN: March Madness Bracket Challenge for AI Agents Only](https://www.Bracketmadness.ai) | HN Score: 53. Comments: 25 |
-| [[HackerNews] GPT‑5.4 Mini and Nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | HN Score: 149. Comments: 88 |
-
-</details>
-
-<details>
-<summary><strong>💬 Reddit (r/LocalLLaMA)</strong> (5 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [[Reddit - r/LocalLLaMA] Unsloth announces Unsloth Studio - a competitor to LMStudio? ](https://reddit.com/r/LocalLLaMA/comments/1rwa0f7/unsloth_announces_unsloth_studio_a_competitor_to/) | Score: 544. Until now, LMStudio has basically been the "go-to" solution for more... |
-| [[Reddit - r/LocalLLaMA] Introducing Unsloth Studio: A new open-source web UI to train and run LLMs ](https://reddit.com/r/LocalLLaMA/comments/1rw9jmf/introducing_unsloth_studio_a_new_opensource_web/) | Score: 311. Hey r/LocalLlama, we're super excited to launch Unsloth Studio (Beta... |
-| [[Reddit - r/LocalLLaMA] DGX Station is available (via OEM distributors) ](https://reddit.com/r/LocalLLaMA/comments/1rvnppg/dgx_station_is_available_via_oem_distributors/) | Score: 219. Seems like there is no founder edition
-
-Link:
-
-https://marketplace.n... |
-| [[Reddit - r/LocalLLaMA] Mistral Small 4 | Mistral AI](https://reddit.com/r/LocalLLaMA/comments/1rvohug/mistral_small_4_mistral_ai/) | Score: 218.  |
-| [[Reddit - r/LocalLLaMA] I was hyped for Nemotron 3 4B and it completely disappointed me compared to Qwen 3.5 4B ](https://reddit.com/r/LocalLLaMA/comments/1rvw9j8/i_was_hyped_for_nemotron_3_4b_and_it_completely/) | Score: 158. 
-So I have been running some pretty demanding benchmarks on local mo... |
-
-</details>
-
-<details>
-<summary><strong>🎥 YouTube AI Channels</strong> (2 items)</summary>
-
-| Title | Summary |
-|---|---|
-| [[YouTube AI] What the New ChatGPT 5.4 Means for the World ](https://www.youtube.com/watch?v=zizoDORjmlQ) | Just 48 hours after releasing GPT 5.3 Instant, OpenAI have released GPT 5.4. So ... |
-| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER ](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Hello. Have you ever been in a situation where you're overhearing conversation a... |
-
-</details>
