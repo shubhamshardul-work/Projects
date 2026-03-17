@@ -29,9 +29,6 @@ https://shubhamshardul-work.github.io/Projects/GenAIReport/
 ## 🚀 How It Works
 
 ```mermaid
-## 🚀 How It Works
-
-```mermaid
 flowchart TD
     START((START)) --> Ingestion{<b>Data Ingestion Layer</b>}
 
@@ -59,7 +56,6 @@ flowchart TD
     style CURATE fill:#fff3cd,stroke:#ffc107
     style SUMM fill:#d1ecf1,stroke:#17a2b8
     style EMAIL fill:#d4edda,stroke:#28a745
-```
 ```
 
 ## 🛠 Local Development
