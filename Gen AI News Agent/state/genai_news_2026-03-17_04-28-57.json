@@ -1,0 +1,180 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Why Codex Security Doesn\u2019t Include a SAST Report",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "summary": "A deep dive into why Codex Security doesn\u2019t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Nvidia\u2019s version of OpenClaw could solve its biggest problem: security",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Jensen Huang just put Nvidia\u2019s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Memories AI\u00a0is building\u00a0the visual memory layer for wearables and robotics",
+      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 5412",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 67573",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Downloads: 86706",
+      "source": "Hugging Face API"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Why Codex Security Doesn\u2019t Include a SAST Report",
+      "url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "summary": "A deep dive into why Codex Security doesn\u2019t rely on traditional SAST, instead using AI-driven constraint reasoning and validation to find real vulnerabilities with fewer false positives.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Nvidia\u2019s version of OpenClaw could solve its biggest problem: security",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Jensen Huang just put Nvidia\u2019s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Memories AI\u00a0is building\u00a0the visual memory layer for wearables and robotics",
+      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Downloads: 5412",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Downloads: 67573",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Downloads: 86706",
+      "source": "Hugging Face API"
+    }
+  ],
+  "curated_news": [
+    {
+      "title": "Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities."
+    },
+    {
+      "title": "Nvidia\u2019s version of OpenClaw could solve its biggest problem: security",
+      "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+      "summary": "Nvidia announced an open enterprise AI agent platform, called NemoClaw, that is built off of viral OpenClaw."
+    },
+    {
+      "title": "Jensen Huang just put Nvidia\u2019s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
+      "url": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
+      "summary": "Nvidia CEO Jensen Huang said he expects $1 trillion worth of orders for the chips."
+    },
+    {
+      "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+      "url": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+      "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk."
+    },
+    {
+      "title": "Memories AI\u00a0is building\u00a0the visual memory layer for wearables and robotics",
+      "url": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+      "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI."
+    }
+  ],
+  "final_report": "# Generative AI Pulse: Key Developments Shaping the Future\n\nThe Generative AI landscape continues its relentless pace of innovation, with major players pushing boundaries in model capabilities, infrastructure, and real-world applications. Here's a concise look at the top stories driving the conversation.\n\n---\n\n### **[OpenAI Unleashes GPT-5.2: A Leap in Workplace AI](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8)**\nOpenAI's release of GPT-5.2 marks a significant advancement, particularly for enterprise applications. With enhanced multi-turn reasoning and agentic capabilities, this iteration promises to boost workplace AI performance, enabling more sophisticated automation and complex task handling, thereby accelerating the integration of AI agents into daily business operations.\n\n### **[Nvidia's NemoClaw Tackles Enterprise AI Security with Open Platform](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/)**\nNvidia, a dominant force in AI hardware, is expanding its software ecosystem with NemoClaw, an open enterprise AI agent platform built on OpenClaw. This move is critical as it directly addresses security concerns, a major hurdle for AI adoption in sensitive corporate environments. By providing a secure, open framework, Nvidia aims to accelerate the deployment of AI agents across industries.\n\n### **[Nvidia CEO Projects Trillion-Dollar Demand for Next-Gen AI Chips](https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/)**\nJensen Huang's projection of $1 trillion in orders for Nvidia's Blackwell and Vera Rubin chips is a staggering testament to the insatiable demand for AI infrastructure. This colossal figure underscores the immense, sustained investment flowing into AI development and deployment, signaling a continued boom in high-performance computing essential for training and running increasingly complex AI models globally.\n\n### **[Senator Warren Questions Pentagon's xAI Access Amid Security Concerns](https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/)**\nThe scrutiny from Senator Elizabeth Warren regarding the Pentagon's decision to grant xAI access to classified networks highlights the critical intersection of AI, national security, and regulatory oversight. Concerns over xAI's Grok chatbot's history of \"harmful outputs\" raise vital questions about data security, algorithmic bias, and the responsible deployment of powerful AI systems within sensitive government contexts.\n\n### **[Memories.ai Pioneers Visual Memory for Physical AI and Wearables](https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/)**\nMemories.ai is developing a large visual memory model designed to index and retrieve video-recorded memories for physical AI, including robotics and wearables. This innovation is a crucial step towards creating more context-aware and intelligent physical AI systems. By enabling devices to \"remember\" and learn from their visual experiences, it paves the way for advanced applications in augmented reality, personalized assistance, and truly adaptive robotics.\n\n---\n\nThe latest developments underscore a multi-faceted evolution in Generative AI, from foundational model enhancements and robust infrastructure demand to critical debates around security and the emergence of sophisticated physical AI. The industry is not just building smarter AI, but also grappling with its profound implications across all sectors.",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 6,
+    "sheet_status": "ok_5_subscribers_from_5_rows",
+    "email_status": "sent_to_6"
+  }
+}
