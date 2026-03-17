@@ -15,6 +15,7 @@ class AgentState(TypedDict, total=False):
     reddit_news: List[Any]
     youtube_news: List[Any]
     raw_news: List[Any]
+    categorized_news: dict       # {"business": [...], "technical": [...], "research": [...]}
     curated_news: List[dict]
     final_report: str
     email_log: dict

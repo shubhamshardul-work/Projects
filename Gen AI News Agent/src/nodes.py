@@ -302,13 +302,12 @@ def aggregate_node(state: AgentState):
     return {"raw_news": combined}
 
 def curate_node(state: AgentState):
-    """Filters and curates the most important news."""
+    """Tags and curates news into 3 persona buckets: Business, Technical, Research."""
     days = state.get("days", 2)
     raw_news = state.get("raw_news", [])
     if not raw_news:
-        return {"curated_news": []}
+        return {"curated_news": [], "categorized_news": {"business": [], "technical": [], "research": []}}
     
-    # We will use an LLM to select the top impactful news
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash", 
         google_api_key=os.getenv("GOOGLE_API_KEY"),
@@ -319,21 +318,28 @@ def curate_node(state: AgentState):
     from datetime import datetime
     today_str = datetime.now().strftime('%Y-%m-%d')
     prompt = f"""
-    You are an expert AI news curator evaluating articles on {today_str}.
-    Given the following list of raw news articles fetched from various sources,
-    select the most important and impactful news stories in the field of Generative AI published in the last {days} days.
-    
-    IMPORTANT INSTRUCTIONS: 
-    1. Filter out noise, clickbait, or less relevant articles. Focus on major releases, strategic partnerships, and frontier model updates.
-    2. CRITICAL: Search engines sometimes return highly-ranked but OUTDATED news (e.g., Google rebranding Bard to Gemini in early 2024, or old OpenAI releases). 
-       You MUST actively filter out any news that is older than {days} days. If an article describes an event that clearly happened months or years ago relative to {today_str}, DISCARD IT.
-    3. If an article has a short or missing summary, judge its relevance and age based on its title and URL.
-    
+    You are an expert AI intelligence curator evaluating articles on {today_str}.
+    Given the following raw news articles from various sources, your job is to:
+    1. FILTER: Discard noise, clickbait, off-topic content (non-AI), and outdated articles (older than {days} days from {today_str}).
+    2. TAG: For every relevant article, assign exactly one persona category:
+       - "business": Enterprise strategy, product launches at major companies (OpenAI/Google/Anthropic/Nvidia), funding, regulation, M&A, geopolitical AI strategy.
+       - "technical": New open-source models, libraries, tools for developers, local LLM inference, fine-tuning, security research, architecture tricks.
+       - "research": ArXiv papers, novel algorithms, academic breakthroughs, benchmarks, AI safety/alignment research.
+    3. SELECT: For each category, pick the top 3-5 most impactful articles.
+
+    IMPORTANT:
+    - CRITICAL: Actively discard articles whose title or URL suggests they are about events clearly from months or years before {today_str}.
+    - If an article has a short summary, judge its relevance and age based on its title and URL.
+    - HuggingFace models with only download counts are low-priority; prefer items with substantive summaries.
+
     News Articles:
     {raw_news}
-    
-    Return ONLY a valid JSON list of objects containing 'title', 'url', and a short 'summary'.
-    Do not include any other text, markdown formatting, or explanations before or after the JSON.
+
+    Return ONLY a valid JSON object with three keys: "business", "technical", and "research".
+    Each key maps to a list of objects with fields: 'title', 'url', and 'summary'.
+    Example:
+    {{"business": [...], "technical": [...], "research": [...]}}
+    Do not include any other text, markdown, or explanations.
     """
     
     response = llm.invoke([
@@ -341,32 +347,54 @@ def curate_node(state: AgentState):
         HumanMessage(content=prompt)
     ])
     
-    # Debugging output for development
     print(f"Curator LLM response length: {len(response.content)}")
     
     try:
         content = response.content.strip()
-        # Find the first '[' and last ']' to extract just the JSON array, ignoring any conversational text
-        start_idx = content.find('[')
-        end_idx = content.rfind(']')
+        # Extract the JSON object
+        start_idx = content.find('{')
+        end_idx = content.rfind('}')
         
         if start_idx != -1 and end_idx != -1 and start_idx < end_idx:
             json_str = content[start_idx:end_idx+1]
-            curated = json.loads(json_str)
+            categorized = json.loads(json_str)
         else:
-            raise ValueError(f"Could not find JSON array in response.")
+            raise ValueError("Could not find JSON object in response.")
+        
+        # Ensure all three keys exist
+        for key in ["business", "technical", "research"]:
+            if key not in categorized:
+                categorized[key] = []
+
+        # Flatten for backward compatibility
+        curated = (
+            categorized.get("business", []) +
+            categorized.get("technical", []) +
+            categorized.get("research", [])
+        )
             
     except Exception as e:
         print(f"Error parsing curated news: {e}\nResponse was: {response.content}")
+        categorized = {"business": [], "technical": [], "research": []}
         curated = []
         
-    return {"curated_news": curated}
+    return {"curated_news": curated, "categorized_news": categorized}
+
 
 def summarize_node(state: AgentState):
-    """Generates the final markdown report."""
+    """Generates the final structured markdown intelligence report."""
+    categorized = state.get("categorized_news", {})
+    business_news = categorized.get("business", [])
+    technical_news = categorized.get("technical", [])
+    research_news = categorized.get("research", [])
+    
+    # Fall back to the flat curated list if categorized is empty
     curated_news = state.get("curated_news", [])
-    if not curated_news:
-        return {"final_report": "No significant news found today."}
+    if not business_news and not technical_news and not research_news:
+        if not curated_news:
+            return {"final_report": "No significant news found today."}
+        # Legacy fallback
+        business_news = curated_news
         
     llm = ChatGoogleGenerativeAI(
         model="gemini-2.5-flash", 
@@ -376,26 +404,68 @@ def summarize_node(state: AgentState):
     )
     
     prompt = f"""
-    You are an expert tech journalist. Write a concise, highly engaging markdown report 
-    summarizing the following top Generative AI news.
-    
+    You are an expert tech journalist. Write a structured, highly engaging daily intelligence report in Markdown.
+    The report has THREE sections (only include a section if it has content):
+
+    ## 🏢 AI Business & Strategy
+    Audience: Business leaders, investors, executives. Focus on why it matters strategically.
+    News: {json.dumps(business_news, indent=2)}
+
+    ## 🛠️ AI Architects & Developers
+    Audience: Engineers, developers, practitioners. Focus on what to USE and what to WATCH.
+    News: {json.dumps(technical_news, indent=2)}
+
+    ## 🔬 Research Frontiers
+    Audience: Researchers, academics, deep-tech thinkers. Focus on novel ideas and implications.
+    News: {json.dumps(research_news, indent=2)}
+
     Instructions:
-    - Start with an engaging title and a very short introduction (1-2 sentences).
-    - For each news item, provide a bolded catchy headline linked to the source URL.
-    - Write a short, insightful paragraph for each news item explaining why it matters.
-    - Keep it professional, objective, yet interesting.
-    - Conclude with a brief closing thought on the trend.
-    
-    Curated News:
-    {json.dumps(curated_news, indent=2)}
+    - Start with a compelling report title (H1) and 2-sentence intro paragraph capturing today's overarching theme.
+    - For each section, write a bold, hyperlinked subheading for each news item (e.g. ### **[headline](url)**), followed by a 2-3 sentence insight paragraph.
+    - Only include sections that have news. Skip empty sections entirely.
+    - Conclude with a 1-sentence "Today's Signal" trend observation.
+    - Use Markdown only. No HTML.
     """
     
     response = llm.invoke([
-        SystemMessage(content="You are a helpful assistant writing markdown reports."), 
+        SystemMessage(content="You are a helpful assistant writing professional Markdown intelligence reports."), 
         HumanMessage(content=prompt)
     ])
     
-    return {"final_report": response.content}
+    report = response.content
+
+    # ── Raw Intelligence Index ──────────────────────────────────────────────────
+    # Append a collapsible raw feed section for every non-empty source.
+    source_map = [
+        ("📰 Tavily / Web Search",     state.get("tavily_news", [])),
+        ("📡 RSS Feeds",               state.get("rss_news", [])),
+        ("📝 ArXiv Papers",            state.get("arxiv_news", [])),
+        ("🤗 HuggingFace Trending",    state.get("hf_news", [])),
+        ("🔥 HackerNews",              state.get("hn_news", [])),
+        ("💬 Reddit (r/LocalLLaMA)",   state.get("reddit_news", [])),
+        ("🎥 YouTube AI Channels",     state.get("youtube_news", [])),
+        ("⭐ GitHub Trending",          state.get("github_news", [])),
+    ]
+
+    index_sections = []
+    for label, items in source_map:
+        if not items:
+            continue
+        rows = "\n".join(
+            f"| [{item.get('title','').replace('[' + label.split()[1] + '] ', '')} ]"
+            f"({item.get('url', '')}) | {item.get('summary', '')[:80]}... |" if len(item.get('summary','')) > 80
+            else f"| [{item.get('title', '')}]({item.get('url', '')}) | {item.get('summary', '')} |"
+            for item in items
+        )
+        table = f"| Title | Summary |\n|---|---|\n{rows}"
+        index_sections.append(f"<details>\n<summary><strong>{label}</strong> ({len(items)} items)</summary>\n\n{table}\n\n</details>")
+
+    if index_sections:
+        raw_index = "\n\n---\n\n## 📚 Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n" + "\n\n".join(index_sections)
+        report += raw_index
+
+    return {"final_report": report}
+
 
 def email_node(state: AgentState):
     """Sends the final report to all subscribers via email."""
