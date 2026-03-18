@@ -1,0 +1,491 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+      "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The Pentagon is developing alternatives to Anthropic, report says",
+      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Demystifing Video Reasoning",
+      "url": "http://arxiv.org/abs/2603.16870v1",
+      "summary": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Efficient Reasoning on the Edge",
+      "url": "http://arxiv.org/abs/2603.16867v1",
+      "summary": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MessyKitchens: Contact-rich object-level 3D scene reconstruction",
+      "url": "http://arxiv.org/abs/2603.16868v1",
+      "summary": "Monocular 3D scene reconstruction has recently seen significant progress. Powered by the modern neural architectures and large-scale data, recent methods achieve high performance in depth estimation f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K",
+      "url": "http://arxiv.org/abs/2603.16866v1",
+      "summary": "Learning in simulation provides a useful foundation for scaling robotic manipulation capabilities. However, this paradigm often suffers from a lack of data-generation-ready digital assets, in both sca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
+      "url": "http://arxiv.org/abs/2603.16864v1",
+      "summary": "Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory",
+      "url": "http://arxiv.org/abs/2603.16862v1",
+      "summary": "Recent advances in Large Language Models (LLMs) have enabled conversational AI agents to engage in extended multi-turn interactions spanning weeks or months. However, existing memory systems struggle ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+      "url": "http://arxiv.org/abs/2603.16859v1",
+      "summary": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SOMA: Unifying Parametric Human Body Models",
+      "url": "http://arxiv.org/abs/2603.16858v1",
+      "summary": "Parametric human body models are foundational to human reconstruction, animation, and simulation, yet they remain mutually incompatible: SMPL, SMPL-X, MHR, Anny, and related models each diverge in mes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
+      "url": "http://arxiv.org/abs/2603.16857v1",
+      "summary": "Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Experiential Learning for Language Models",
+      "url": "http://arxiv.org/abs/2603.16856v1",
+      "summary": "The prevailing paradigm for improving large language models relies on offline training with human annotations or simulated environments, leaving the rich experience accumulated during real-world deplo...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 7003",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 78794",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "summary": "HN Score: 202. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "summary": "HN Score: 19. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "summary": "HN Score: 52. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "summary": "HN Score: 210. Comments: 105",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+      "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The Pentagon is developing alternatives to Anthropic, report says",
+      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Demystifing Video Reasoning",
+      "url": "http://arxiv.org/abs/2603.16870v1",
+      "summary": "Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (Co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Efficient Reasoning on the Edge",
+      "url": "http://arxiv.org/abs/2603.16867v1",
+      "summary": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MessyKitchens: Contact-rich object-level 3D scene reconstruction",
+      "url": "http://arxiv.org/abs/2603.16868v1",
+      "summary": "Monocular 3D scene reconstruction has recently seen significant progress. Powered by the modern neural architectures and large-scale data, recent methods achieve high performance in depth estimation f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K",
+      "url": "http://arxiv.org/abs/2603.16866v1",
+      "summary": "Learning in simulation provides a useful foundation for scaling robotic manipulation capabilities. However, this paradigm often suffers from a lack of data-generation-ready digital assets, in both sca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
+      "url": "http://arxiv.org/abs/2603.16864v1",
+      "summary": "Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory",
+      "url": "http://arxiv.org/abs/2603.16862v1",
+      "summary": "Recent advances in Large Language Models (LLMs) have enabled conversational AI agents to engage in extended multi-turn interactions spanning weeks or months. However, existing memory systems struggle ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+      "url": "http://arxiv.org/abs/2603.16859v1",
+      "summary": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SOMA: Unifying Parametric Human Body Models",
+      "url": "http://arxiv.org/abs/2603.16858v1",
+      "summary": "Parametric human body models are foundational to human reconstruction, animation, and simulation, yet they remain mutually incompatible: SMPL, SMPL-X, MHR, Anny, and related models each diverge in mes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers",
+      "url": "http://arxiv.org/abs/2603.16857v1",
+      "summary": "Reliable multi-horizon traffic forecasting is challenging because network conditions are stochastic, incident disruptions are intermittent, and effective spatial dependencies vary across time-of-day p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Experiential Learning for Language Models",
+      "url": "http://arxiv.org/abs/2603.16856v1",
+      "summary": "The prevailing paradigm for improving large language models relies on offline training with human annotations or simulated environments, leaving the rich experience accumulated during real-world deplo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 7003",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 78794",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Mistral AI Releases Forge",
+      "url": "https://mistral.ai/news/forge",
+      "summary": "HN Score: 202. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "summary": "HN Score: 19. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "summary": "HN Score: 52. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ryugu asteroid samples contain all DNA and RNA building blocks",
+      "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+      "summary": "HN Score: 210. Comments: 105",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Introducing GPT-5.4 mini and nano",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+      },
+      {
+        "title": "[RSS] Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+        "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+        "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+      },
+      {
+        "title": "[RSS] The Pentagon is developing alternatives to Anthropic, report says",
+        "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+        "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together."
+      },
+      {
+        "title": "[RSS] Equipping workers with insights about compensation",
+        "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+        "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
+      },
+      {
+        "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+        "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+        "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+      },
+      {
+        "title": "[HackerNews] Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+        "url": "https://amaiya.github.io/onprem/examples_agent.html",
+        "summary": "HN Score: 19. Comments: 4"
+      },
+      {
+        "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Online Experiential Learning for Language Models",
+        "url": "http://arxiv.org/abs/2603.16856v1",
+        "summary": "The prevailing paradigm for improving large language models relies on offline training with human annotations or simulated environments, leaving the rich experience accumulated during real-world deplo..."
+      },
+      {
+        "title": "[ArXiv] Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory",
+        "url": "http://arxiv.org/abs/2603.16862v1",
+        "summary": "Recent advances in Large Language Models (LLMs) have enabled conversational AI agents to engage in extended multi-turn interactions spanning weeks or months. However, existing memory systems struggle ..."
+      },
+      {
+        "title": "[ArXiv] Efficient Reasoning on the Edge",
+        "url": "http://arxiv.org/abs/2603.16867v1",
+        "summary": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement..."
+      },
+      {
+        "title": "[ArXiv] SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+        "url": "http://arxiv.org/abs/2603.16859v1",
+        "summary": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric..."
+      },
+      {
+        "title": "[HackerNews] Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+        "url": "https://arxiv.org/abs/2603.15381",
+        "summary": "HN Score: 52. Comments: 17"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    },
+    {
+      "title": "[RSS] Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise",
+      "url": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+      "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+    },
+    {
+      "title": "[RSS] The Pentagon is developing alternatives to Anthropic, report says",
+      "url": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+      "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together."
+    },
+    {
+      "title": "[RSS] Equipping workers with insights about compensation",
+      "url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[RSS] Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate",
+      "url": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+      "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on GitHub. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+    },
+    {
+      "title": "[HackerNews] Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+      "url": "https://amaiya.github.io/onprem/examples_agent.html",
+      "summary": "HN Score: 19. Comments: 4"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716"
+    },
+    {
+      "title": "[ArXiv] Online Experiential Learning for Language Models",
+      "url": "http://arxiv.org/abs/2603.16856v1",
+      "summary": "The prevailing paradigm for improving large language models relies on offline training with human annotations or simulated environments, leaving the rich experience accumulated during real-world deplo..."
+    },
+    {
+      "title": "[ArXiv] Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory",
+      "url": "http://arxiv.org/abs/2603.16862v1",
+      "summary": "Recent advances in Large Language Models (LLMs) have enabled conversational AI agents to engage in extended multi-turn interactions spanning weeks or months. However, existing memory systems struggle ..."
+    },
+    {
+      "title": "[ArXiv] Efficient Reasoning on the Edge",
+      "url": "http://arxiv.org/abs/2603.16867v1",
+      "summary": "Large language models (LLMs) with chain-of-thought reasoning achieve state-of-the-art performance across complex problem-solving tasks, but their verbose reasoning traces and large context requirement..."
+    },
+    {
+      "title": "[ArXiv] SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models",
+      "url": "http://arxiv.org/abs/2603.16859v1",
+      "summary": "Omni-modal large language models (OLMs) redefine human-machine interaction by natively integrating audio, vision, and text. However, existing OLM benchmarks remain anchored to static, accuracy-centric..."
+    },
+    {
+      "title": "[HackerNews] Why AI systems don't learn \u2013 On autonomous learning from cognitive science",
+      "url": "https://arxiv.org/abs/2603.15381",
+      "summary": "HN Score: 52. Comments: 17"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Era of Specialized AI and Autonomous Learning\n\nToday's AI landscape is marked by a strategic pivot towards specialized, efficient models tailored for specific enterprise needs, while foundational research continues to push the boundaries of autonomous learning and real-world adaptability. From OpenAI's new compact models to Mistral's custom enterprise solutions and cutting-edge research in online experiential learning, the industry is refining its focus on practical application and deeper intelligence.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)**\nOpenAI is strategically expanding its product portfolio with GPT-5.4 mini and nano, smaller, faster models optimized for high-volume API, sub-agent, coding, and multimodal reasoning tasks. This move targets efficiency and cost-effectiveness, enabling broader adoption in specialized applications where speed and resource optimization are paramount. It signals a shift towards a more granular, use-case-driven model offering, catering to diverse enterprise needs beyond flagship general-purpose models.\n\n### **[Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)**\nMistral is challenging established players by launching Mistral Forge, a platform enabling enterprises to train custom AI models from scratch on their proprietary data. This \"build-your-own AI\" approach offers greater control, customization, and potentially enhanced data privacy compared to fine-tuning or retrieval-based methods. It positions Mistral as a key player for organizations seeking deeply integrated, bespoke AI solutions tailored to their unique operational requirements.\n\n### **[The Pentagon is developing alternatives to Anthropic, report says](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/)**\nFollowing a reported falling-out, the Pentagon is actively seeking alternative AI providers to Anthropic, highlighting the critical importance of strategic alignment and trust in high-stakes government contracts. This development underscores the geopolitical dimension of AI procurement and the necessity for national security entities to diversify their technology partners. It suggests a growing emphasis on vendor resilience and sovereign AI capabilities within defense strategies.\n\n### **[Equipping workers with insights about compensation](https://openai.com/index/equipping-workers-with-insights-about-compensation)**\nNew research from OpenAI reveals that nearly 3 million daily messages are sent to ChatGPT asking about compensation and earnings, demonstrating AI's immediate impact on closing the wage information gap. This widespread use positions AI as a powerful tool for empowering individuals with critical economic data, potentially fostering greater transparency and equity in labor markets. It showcases AI's capacity to democratize access to sensitive information and influence societal norms around compensation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/)**\nGarry Tan's Claude Code setup has sparked significant debate and experimentation within the developer community, with thousands trying it out and major LLMs even weighing in. This highlights the rapid iteration and strong opinions surrounding practical AI development workflows and tools. It underscores the community's hunger for effective coding assistance and the ongoing quest to optimize developer-AI collaboration.\n\n### **[Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html)**\nThis development showcases the increasing accessibility of deploying sophisticated autonomous AI agents, now achievable with minimal code and built-in sandboxed execution. The ease of deployment combined with security features makes advanced agentic workflows more practical for developers. It signifies a trend towards democratizing complex AI capabilities, allowing practitioners to quickly experiment and build intelligent systems.\n\n### **[HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**\nThis trending Hugging Face model, a Qwen3.5 variant, demonstrates strong community interest in powerful, uncensored, and multimodal models, evidenced by over 111,000 downloads. Its popularity indicates a demand among developers for models that offer greater flexibility and capabilities, particularly for creative or less constrained applications. The \"aggressive\" and \"uncensored\" tags suggest a niche for models that push boundaries beyond typical safety guardrails.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Online Experiential Learning for Language Models](http://arxiv.org/abs/2603.16856v1)**\nThis research proposes a paradigm shift for LLMs, moving beyond offline training to enable continuous learning from real-world deployment experiences. By allowing models to adapt and improve through direct interaction, it aims to create more robust and truly adaptive AI systems. This work is crucial for developing AI that can evolve and remain relevant in dynamic environments, mirroring human learning processes.\n\n### **[Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory](http://arxiv.org/abs/2603.16862v1)**\n\"Chronos\" addresses a critical limitation in conversational AI: maintaining long-term memory and context over extended interactions. By employing structured event retrieval, this research aims to equip LLM-based agents with a more sophisticated memory system. This advancement is vital for building truly intelligent assistants capable of coherent, multi-turn conversations spanning weeks or months, enhancing the naturalness and utility of AI interactions.\n\n### **[Efficient Reasoning on the Edge](http://arxiv.org/abs/2603.16867v1)**\nThis paper tackles the challenge of deploying complex LLM reasoning, particularly chain-of-thought, in resource-constrained edge environments. By focusing on efficiency despite verbose reasoning traces and large context requirements, the research aims to make advanced AI accessible beyond powerful data centers. This work is key to expanding AI's reach into embedded systems, IoT devices, and other scenarios where computational resources are limited.\n\n### **[SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models](http://arxiv.org/abs/2603.16859v1)**\n\"SocialOmni\" introduces a new benchmark for evaluating omni-modal large language models (OLMs) specifically on their audio-visual social interactivity. This research highlights the need for more dynamic, context-rich metrics beyond static accuracy, pushing the field towards assessing AI's ability to understand and engage in complex human social cues. It's a crucial step towards developing truly socially intelligent AI that can seamlessly integrate into human environments.\n\n### **[Why AI systems don't learn \u2013 On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381)**\nThis paper delves into the fundamental limitations of current AI systems regarding autonomous learning, drawing insights from cognitive science. It challenges prevailing paradigms and suggests new directions for achieving genuine self-improvement in AI. This foundational research is essential for guiding the next generation of AI development towards systems that can truly learn and adapt independently, moving beyond mere pattern recognition.\n\n**Today's Signal:** The AI ecosystem is rapidly maturing, with a dual focus on delivering highly specialized, efficient models for immediate enterprise value and pioneering research into truly autonomous, context-aware, and socially intelligent AI systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence/) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing GPT-5.4 mini and nano ](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for codi... |\n| [Equipping workers with insights about compensation ](https://openai.com/index/equipping-workers-with-insights-about-compensation) | New research shows Americans send nearly 3 million daily messages to ChatGPT ask... |\n| [Mistral bets on \u2018build-your-own AI\u2019 as it takes on OpenAI, Anthropic in the enterprise ](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/) | Mistral Forge lets enterprises train custom AI models from scratch on their own ... |\n| [Why Garry Tan\u2019s Claude Code setup has gotten so much love, and hate ](https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/) | Thousands of people are trying Garry Tan's Claude Code setup, which was shared o... |\n| [The Pentagon is developing alternatives to Anthropic, report says ](https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/) | After their dramatic falling-out, it doesn't seem as though Anthropic and the Pe... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Demystifing Video Reasoning ](http://arxiv.org/abs/2603.16870v1) | Recent advances in video generation have revealed an unexpected phenomenon: diff... |\n| [Efficient Reasoning on the Edge ](http://arxiv.org/abs/2603.16867v1) | Large language models (LLMs) with chain-of-thought reasoning achieve state-of-th... |\n| [MessyKitchens: Contact-rich object-level 3D scene reconstruction ](http://arxiv.org/abs/2603.16868v1) | Monocular 3D scene reconstruction has recently seen significant progress. Powere... |\n| [ManiTwin: Scaling Data-Generation-Ready Digital Object Dataset to 100K ](http://arxiv.org/abs/2603.16866v1) | Learning in simulation provides a useful foundation for scaling robotic manipula... |\n| [SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation ](http://arxiv.org/abs/2603.16864v1) | Video Super-Resolution (VSR) aims to restore high-quality video frames from low-... |\n| [Chronos: Temporal-Aware Conversational Agents with Structured Event Retrieval for Long-Term Memory ](http://arxiv.org/abs/2603.16862v1) | Recent advances in Large Language Models (LLMs) have enabled conversational AI a... |\n| [SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models ](http://arxiv.org/abs/2603.16859v1) | Omni-modal large language models (OLMs) redefine human-machine interaction by na... |\n| [SOMA: Unifying Parametric Human Body Models ](http://arxiv.org/abs/2603.16858v1) | Parametric human body models are foundational to human reconstruction, animation... |\n| [Long-Horizon Traffic Forecasting via Incident-Aware Conformal Spatio-Temporal Transformers ](http://arxiv.org/abs/2603.16857v1) | Reliable multi-horizon traffic forecasting is challenging because network condit... |\n| [Online Experiential Learning for Language Models ](http://arxiv.org/abs/2603.16856v1) | The prevailing paradigm for improving large language models relies on offline tr... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [fishaudio/s2-pro ](https://huggingface.co/fishaudio/s2-pro) | Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instructi... |\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Mistral AI Releases Forge](https://mistral.ai/news/forge) | HN Score: 202. Comments: 29 |\n| [[HackerNews] Launch an autonomous AI agent with sandboxed execution in 2 lines of code](https://amaiya.github.io/onprem/examples_agent.html) | HN Score: 19. Comments: 4 |\n| [[HackerNews] Why AI systems don't learn \u2013 On autonomous learning from cognitive science](https://arxiv.org/abs/2603.15381) | HN Score: 52. Comments: 17 |\n| [[HackerNews] Ryugu asteroid samples contain all DNA and RNA building blocks](https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html) | HN Score: 210. Comments: 105 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 7,
+    "sheet_status": "ok_6_subscribers_from_6_rows",
+    "email_status": "sent_to_7"
+  }
+}
