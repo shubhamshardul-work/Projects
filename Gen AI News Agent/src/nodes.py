@@ -562,8 +562,57 @@ def email_node(state: AgentState):
     email_log["subscribers_found"] = len(subscribers)
     print(f"[EMAIL] Final recipient count: {len(subscribers)}")
         
-    # Convert Markdown to HTML for the email
-    html_content = markdown.markdown(final_report)
+    # ── Build Gmail-safe email version ──────────────────────────────────────────
+    # Gmail strips <details>, <summary>, and renders <table> inconsistently.
+    # Strategy: Remove the full Raw Intelligence Index from the email and replace
+    # it with a compact summary (source + count) + link to the website.
+    
+    import re
+    # Strip the raw index section from Markdown (everything after "## 📚 Raw Intelligence Index")
+    email_report = re.split(r'\n---\n\n## 📚 Raw Intelligence Index', final_report)[0]
+    
+    html_content = markdown.markdown(email_report, extensions=['tables'])
+    
+    # Build a compact source summary for email
+    email_source_map = [
+        ("📰 Tavily / Web Search",     state.get("tavily_news", [])),
+        ("📡 RSS Feeds",               state.get("rss_news", [])),
+        ("📝 ArXiv Papers",            state.get("arxiv_news", [])),
+        ("🤗 HuggingFace Trending",    state.get("hf_news", [])),
+        ("🔥 HackerNews",              state.get("hn_news", [])),
+        ("💬 Reddit (r/LocalLLaMA)",   state.get("reddit_news", [])),
+        ("🎥 YouTube AI Channels",     state.get("youtube_news", [])),
+        ("⭐ GitHub Trending",          state.get("github_news", [])),
+    ]
+    
+    non_empty = [(label, items) for label, items in email_source_map if items]
+    total_items = sum(len(items) for _, items in non_empty)
+    
+    if non_empty:
+        index_html = '<hr style="border:0;border-top:1px solid #eee;margin:30px 0;">'
+        index_html += '<h2 style="color:#1a73e8;">📚 Raw Intelligence Index</h2>'
+        index_html += f'<p style="color:#666;font-size:14px;">{total_items} links gathered from {len(non_empty)} sources during this run.</p>'
+        
+        # Compact source summary — just names and counts
+        index_html += '<table style="border-collapse:collapse;width:100%;max-width:500px;margin:10px 0;">'
+        for label, items in non_empty:
+            index_html += (
+                f'<tr>'
+                f'<td style="padding:6px 12px;border-bottom:1px solid #eee;font-size:14px;">{label}</td>'
+                f'<td style="padding:6px 12px;border-bottom:1px solid #eee;font-size:14px;color:#666;text-align:right;">{len(items)} items</td>'
+                f'</tr>'
+            )
+        index_html += '</table>'
+        
+        # Link to the full index on the website
+        index_html += (
+            '<p style="margin-top:16px;">'
+            '<a href="https://shubhamshardul-work.github.io/Projects/GenAIReport/" '
+            'style="color:#1a73e8;font-weight:bold;text-decoration:none;">'
+            '→ View full index with all links on the website</a></p>'
+        )
+        
+        html_content += index_html
     
     # Add some basic styling to the HTML email
     styled_html = f"""
