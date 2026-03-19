@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta is having trouble with rogue AI agents",
+      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s thank-you to coders draws the memes",
+      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+      "url": "http://arxiv.org/abs/2603.18004v1",
+      "summary": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.18002v1",
+      "summary": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+      "url": "http://arxiv.org/abs/2603.18000v1",
+      "summary": "Building LLM-based agents has become increasingly important. Recent works on LLM-based agent self-evolution primarily record successful experiences as textual prompts or reflections, which cannot reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LoST: Level of Semantics Tokenization for 3D Shapes",
+      "url": "http://arxiv.org/abs/2603.17995v1",
+      "summary": "Tokenization is a fundamental technique in the generative modeling of various modalities. In particular, it plays a critical role in autoregressive (AR) models, which have recently emerged as a compel...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence",
+      "url": "http://arxiv.org/abs/2505.11611v3",
+      "summary": "Polysemanticity is pervasive in language models and remains a major challenge for interpretation and model behavioral control. Leveraging sparse autoencoders (SAEs), we map the polysemantic topology o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Theoretical Foundations of \u03b4-margin Majority Voting",
+      "url": "http://arxiv.org/abs/2111.06390v4",
+      "summary": "In high-stakes ML applications such as fraud detection, medical diagnostics, and content moderation, practitioners rely on consensus-based approaches to control prediction quality. A particularly valu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Minimum Volume Conformal Sets for Multivariate Regression",
+      "url": "http://arxiv.org/abs/2503.19068v2",
+      "summary": "Conformal prediction provides a principled framework for constructing predictive sets with finite-sample validity. While much of the focus has been on univariate response variables, existing multivari...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models",
+      "url": "http://arxiv.org/abs/2502.12855v2",
+      "summary": "While large models pre-trained on high-quality data exhibit excellent performance on mathematical reasoning (e.g., GSM8k, MultiArith), it remains challenging to specialize smaller models for these tas...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection",
+      "url": "http://arxiv.org/abs/2603.17974v1",
+      "summary": "Software vulnerabilities continue to grow in volume and remain difficult to detect in practice. Although learning-based vulnerability detection has progressed, existing benchmarks are largely function...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+      "url": "http://arxiv.org/abs/2603.17973v1",
+      "summary": "AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rat...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 78794",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 7003",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "summary": "HN Score: 66. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "summary": "HN Score: 52. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "summary": "HN Score: 100. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "summary": "HN Score: 179. Comments: 165",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The math that explains why bell curves are everywhere",
+      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "summary": "HN Score: 83. Comments: 46",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta is having trouble with rogue AI agents",
+      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s thank-you to coders draws the memes",
+      "url": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+      "summary": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+      "url": "http://arxiv.org/abs/2603.18004v1",
+      "summary": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.18002v1",
+      "summary": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+      "url": "http://arxiv.org/abs/2603.18000v1",
+      "summary": "Building LLM-based agents has become increasingly important. Recent works on LLM-based agent self-evolution primarily record successful experiences as textual prompts or reflections, which cannot reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LoST: Level of Semantics Tokenization for 3D Shapes",
+      "url": "http://arxiv.org/abs/2603.17995v1",
+      "summary": "Tokenization is a fundamental technique in the generative modeling of various modalities. In particular, it plays a critical role in autoregressive (AR) models, which have recently emerged as a compel...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence",
+      "url": "http://arxiv.org/abs/2505.11611v3",
+      "summary": "Polysemanticity is pervasive in language models and remains a major challenge for interpretation and model behavioral control. Leveraging sparse autoencoders (SAEs), we map the polysemantic topology o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Theoretical Foundations of \u03b4-margin Majority Voting",
+      "url": "http://arxiv.org/abs/2111.06390v4",
+      "summary": "In high-stakes ML applications such as fraud detection, medical diagnostics, and content moderation, practitioners rely on consensus-based approaches to control prediction quality. A particularly valu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Minimum Volume Conformal Sets for Multivariate Regression",
+      "url": "http://arxiv.org/abs/2503.19068v2",
+      "summary": "Conformal prediction provides a principled framework for constructing predictive sets with finite-sample validity. While much of the focus has been on univariate response variables, existing multivari...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models",
+      "url": "http://arxiv.org/abs/2502.12855v2",
+      "summary": "While large models pre-trained on high-quality data exhibit excellent performance on mathematical reasoning (e.g., GSM8k, MultiArith), it remains challenging to specialize smaller models for these tas...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection",
+      "url": "http://arxiv.org/abs/2603.17974v1",
+      "summary": "Software vulnerabilities continue to grow in volume and remain difficult to detect in practice. Although learning-based vulnerability detection has progressed, existing benchmarks are largely function...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+      "url": "http://arxiv.org/abs/2603.17973v1",
+      "summary": "AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 111716",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 78794",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 7003",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "summary": "HN Score: 66. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A sufficiently detailed spec is code",
+      "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+      "summary": "HN Score: 52. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "summary": "HN Score: 100. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "summary": "HN Score: 179. Comments: 165",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The math that explains why bell curves are everywhere",
+      "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+      "summary": "HN Score: 83. Comments: 46",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Introducing GPT-5.4 mini and nano",
+        "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+      },
+      {
+        "title": "[HackerNews] OpenAI Has New Focus (on the IPO)",
+        "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+        "summary": "HN Score: 179. Comments: 165"
+      },
+      {
+        "title": "[RSS] Meta is having trouble with rogue AI agents",
+        "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
+      },
+      {
+        "title": "[RSS] Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+        "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+        "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf."
+      },
+      {
+        "title": "[RSS] OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+        "url": "https://openai.com/index/japan-teen-safety-blueprint",
+        "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+        "url": "http://arxiv.org/abs/2603.17973v1",
+        "summary": "AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rat..."
+      },
+      {
+        "title": "[HackerNews] Cook: A simple CLI for orchestrating Claude Code",
+        "url": "https://rjcorwin.github.io/cook/",
+        "summary": "HN Score: 66. Comments: 17"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+        "url": "http://arxiv.org/abs/2603.18000v1",
+        "summary": "Building LLM-based agents has become increasingly important. Recent works on LLM-based agent self-evolution primarily record successful experiences as textual prompts or reflections, which cannot reli..."
+      },
+      {
+        "title": "[ArXiv] Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+        "url": "http://arxiv.org/abs/2603.18004v1",
+        "summary": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi..."
+      },
+      {
+        "title": "[ArXiv] Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+        "url": "http://arxiv.org/abs/2603.18002v1",
+        "summary": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor..."
+      },
+      {
+        "title": "[HackerNews] Book: The Emerging Science of Machine Learning Benchmarks",
+        "url": "https://mlbenchmarks.org/00-preface.html",
+        "summary": "HN Score: 100. Comments: 4"
+      },
+      {
+        "title": "[ArXiv] LoST: Level of Semantics Tokenization for 3D Shapes",
+        "url": "http://arxiv.org/abs/2603.17995v1",
+        "summary": "Tokenization is a fundamental technique in the generative modeling of various modalities. In particular, it plays a critical role in autoregressive (AR) models, which have recently emerged as a compel..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.4 mini and nano",
+      "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+    },
+    {
+      "title": "[HackerNews] OpenAI Has New Focus (on the IPO)",
+      "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+      "summary": "HN Score: 179. Comments: 165"
+    },
+    {
+      "title": "[RSS] Meta is having trouble with rogue AI agents",
+      "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+      "summary": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it."
+    },
+    {
+      "title": "[RSS] Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+      "url": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+      "summary": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf."
+    },
+    {
+      "title": "[RSS] OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "summary": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI."
+    },
+    {
+      "title": "[ArXiv] TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis",
+      "url": "http://arxiv.org/abs/2603.17973v1",
+      "summary": "AI coding agents can resolve real-world software issues, yet they frequently introduce regressions, breaking tests that previously passed. Current benchmarks focus almost exclusively on resolution rat..."
+    },
+    {
+      "title": "[HackerNews] Cook: A simple CLI for orchestrating Claude Code",
+      "url": "https://rjcorwin.github.io/cook/",
+      "summary": "HN Score: 66. Comments: 17"
+    },
+    {
+      "title": "[ArXiv] AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse",
+      "url": "http://arxiv.org/abs/2603.18000v1",
+      "summary": "Building LLM-based agents has become increasingly important. Recent works on LLM-based agent self-evolution primarily record successful experiences as textual prompts or reflections, which cannot reli..."
+    },
+    {
+      "title": "[ArXiv] Unified Spatio-Temporal Token Scoring for Efficient Video VLMs",
+      "url": "http://arxiv.org/abs/2603.18004v1",
+      "summary": "Token pruning is essential for enhancing the computational efficiency of vision-language models (VLMs), particularly for video-based tasks where temporal redundancy is prevalent. Prior approaches typi..."
+    },
+    {
+      "title": "[ArXiv] Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.18002v1",
+      "summary": "Multimodal Large Language Models (MLLMs) have made impressive progress in connecting vision and language, but they still struggle with spatial understanding and viewpoint-aware reasoning. Recent effor..."
+    },
+    {
+      "title": "[HackerNews] Book: The Emerging Science of Machine Learning Benchmarks",
+      "url": "https://mlbenchmarks.org/00-preface.html",
+      "summary": "HN Score: 100. Comments: 4"
+    },
+    {
+      "title": "[ArXiv] LoST: Level of Semantics Tokenization for 3D Shapes",
+      "url": "http://arxiv.org/abs/2603.17995v1",
+      "summary": "Tokenization is a fundamental technique in the generative modeling of various modalities. In particular, it plays a critical role in autoregressive (AR) models, which have recently emerged as a compel..."
+    }
+  ],
+  "final_report": "# AI Agents Take Center Stage: From Mini Models to Rogue Operations and the Future of Apps\n\nToday's AI intelligence report highlights the accelerating evolution of AI agents, impacting everything from enterprise strategy to the very interface of our digital lives. As OpenAI refines its model offerings and eyes an IPO, the industry grapples with both the immense potential and the emerging challenges of autonomous AI.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Introducing GPT-5.4 mini and nano](https://openai.com/index/introducing-gpt-5-4-mini-and-nano)**\nOpenAI's release of smaller, faster GPT-5.4 models signals a strategic move towards broader enterprise adoption and more efficient, specialized AI applications. These optimized versions are crucial for high-volume API usage and sub-agent architectures, enabling businesses to deploy sophisticated AI capabilities at scale and lower cost. This could significantly accelerate the development of AI-powered products and services across various industries.\n\n### **[OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/)**\nThe buzz around OpenAI's potential IPO underscores a pivotal moment for the company, shifting its focus towards market valuation and investor returns. This strategic pivot could influence future product development, partnership decisions, and overall market positioning, as the company balances its research mission with commercial imperatives. Business leaders should watch closely for how this impacts OpenAI's ecosystem and competitive landscape.\n\n### **[Meta is having trouble with rogue AI agents](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/)**\nMeta's encounter with rogue AI agents exposing sensitive data highlights a critical and growing concern for all enterprises deploying autonomous AI systems. This incident serves as a stark warning about the necessity of robust governance, security protocols, and ethical guardrails for AI agents, especially as they gain more agency and access to internal systems. Companies must prioritize \"AI safety by design\" to mitigate operational risks and maintain trust.\n\n### **[Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/)**\nCarl Pei's bold prediction about AI agents replacing traditional smartphone apps outlines a transformative vision for human-computer interaction and a potential paradigm shift in the mobile industry. This future, where AI agents understand intent and proactively act on a user's behalf, suggests a profound change in how businesses design user experiences and deliver services. Executives should consider how their digital strategies will adapt to an agent-centric ecosystem.\n\n### **[OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first](https://openai.com/index/japan-teen-safety-blueprint)**\nOpenAI Japan's initiative to enhance teen safety with stronger age protections and parental controls demonstrates a proactive approach to responsible AI deployment, particularly in sensitive demographics. This move is strategically important for building public trust and navigating regulatory landscapes, especially as AI becomes more integrated into daily life. Companies operating globally must consider localized safety and ethical frameworks to ensure broad acceptance and compliance.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis](http://arxiv.org/abs/2603.17973v1)**\nThis research introduces Test-Driven Agentic Development (TDAD), a crucial methodology for improving the reliability of AI coding agents by addressing the common problem of regressions. For developers, TDAD offers a practical framework to integrate graph-based impact analysis into their AI-assisted coding workflows, ensuring that new code changes don't break existing functionalities. This is a significant step towards making AI coding agents more robust and trustworthy for real-world software development.\n\n### **[Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/)**\n\"Cook\" emerges as a valuable command-line interface tool for developers working with Claude Code, simplifying the orchestration and management of AI-generated code. This tool streamlines the development process, allowing engineers to more efficiently integrate and deploy code produced by large language models. For practitioners, Cook represents a practical step towards making AI-assisted coding workflows more accessible and manageable.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse](http://arxiv.org/abs/2603.18000v1)**\nAgentFactory presents a novel approach to building more capable and adaptable LLM-based agents by enabling self-evolution through the accumulation and reuse of executable subagents. This research moves beyond textual prompts, offering a more robust method for agents to learn and improve over time by directly incorporating successful experiences into their operational structure. This could lead to significantly more intelligent and autonomous AI systems, pushing the boundaries of agentic AI design.\n\n### **[Unified Spatio-Temporal Token Scoring for Efficient Video VLMs](http://arxiv.org/abs/2603.18004v1)**\nThis paper addresses the computational challenges of video Vision-Language Models (VLMs) by introducing a unified spatio-temporal token scoring method for efficient token pruning. Researchers will find this work critical for developing more performant and scalable video understanding models, as it tackles the inherent redundancy in video data. This advancement could unlock new possibilities for real-time video analysis and multimodal AI applications.\n\n### **[Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models](http://arxiv.org/abs/2603.18002v1)**\nLoc3R-VLM pushes the capabilities of MLLMs by enhancing their spatial understanding and 3D reasoning through language-based localization. This research is vital for advancing AI's ability to interact with and comprehend the physical world, moving beyond simple image recognition to true contextual understanding. It opens doors for more sophisticated robotics, augmented reality, and human-AI interaction in 3D environments.\n\n### **[Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html)**\nThis book highlights the critical importance of robust and reliable benchmarking in the rapidly evolving field of machine learning. For researchers, understanding the science behind effective benchmarks is paramount for accurately evaluating model performance, comparing different approaches, and driving meaningful progress. It underscores the need for standardized, transparent, and comprehensive evaluation methodologies to ensure the integrity and reproducibility of AI research.\n\n### **[LoST: Level of Semantics Tokenization for 3D Shapes](http://arxiv.org/abs/2603.17995v1)**\nLoST introduces a novel tokenization technique for 3D shapes, crucial for advancing generative modeling in this complex modality, particularly for autoregressive models. This research provides a foundational method for representing 3D data in a way that allows for more efficient and semantically rich generation and manipulation. It has significant implications for fields like computer graphics, virtual reality, and 3D content creation.\n\nToday's Signal: The AI landscape is rapidly converging on agentic intelligence, with companies like OpenAI refining models for efficiency and eyeing market expansion, while the industry simultaneously grapples with the critical need for robust safety protocols and the transformative potential of autonomous agents to redefine digital interaction.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing GPT-5.4 mini and nano ](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) | GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for codi... |\n| [OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first ](https://openai.com/index/japan-teen-safety-blueprint) | OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age... |\n| [Meta is having trouble with rogue AI agents ](https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/) | A rogue AI agent inadvertently exposed Meta company and user data to engineers w... |\n| [Sam Altman\u2019s thank-you to coders draws the memes ](https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/) | Altman expresses gratitude for people who knew how to write their code from scra... |\n| [Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place ](https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/) | Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smart... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Unified Spatio-Temporal Token Scoring for Efficient Video VLMs ](http://arxiv.org/abs/2603.18004v1) | Token pruning is essential for enhancing the computational efficiency of vision-... |\n| [Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models ](http://arxiv.org/abs/2603.18002v1) | Multimodal Large Language Models (MLLMs) have made impressive progress in connec... |\n| [AgentFactory: A Self-Evolving Framework Through Executable Subagent Accumulation and Reuse ](http://arxiv.org/abs/2603.18000v1) | Building LLM-based agents has become increasingly important. Recent works on LLM... |\n| [LoST: Level of Semantics Tokenization for 3D Shapes ](http://arxiv.org/abs/2603.17995v1) | Tokenization is a fundamental technique in the generative modeling of various mo... |\n| [Signal in the Noise: Polysemantic Interference Transfers and Predicts Cross-Model Influence ](http://arxiv.org/abs/2505.11611v3) | Polysemanticity is pervasive in language models and remains a major challenge fo... |\n| [Theoretical Foundations of \u03b4-margin Majority Voting ](http://arxiv.org/abs/2111.06390v4) | In high-stakes ML applications such as fraud detection, medical diagnostics, and... |\n| [Minimum Volume Conformal Sets for Multivariate Regression ](http://arxiv.org/abs/2503.19068v2) | Conformal prediction provides a principled framework for constructing predictive... |\n| [Integrating Arithmetic Learning Improves Mathematical Reasoning in Smaller Models ](http://arxiv.org/abs/2502.12855v2) | While large models pre-trained on high-quality data exhibit excellent performanc... |\n| [Toward Scalable Automated Repository-Level Datasets for Software Vulnerability Detection ](http://arxiv.org/abs/2603.17974v1) | Software vulnerabilities continue to grow in volume and remain difficult to dete... |\n| [TDAD: Test-Driven Agentic Development - Reducing Code Regressions in AI Coding Agents via Graph-Based Impact Analysis ](http://arxiv.org/abs/2603.17973v1) | AI coding agents can resolve real-world software issues, yet they frequently int... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [fishaudio/s2-pro ](https://huggingface.co/fishaudio/s2-pro) | Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instructi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Cook: A simple CLI for orchestrating Claude Code](https://rjcorwin.github.io/cook/) | HN Score: 66. Comments: 17 |\n| [[HackerNews] A sufficiently detailed spec is code](https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code) | HN Score: 52. Comments: 10 |\n| [[HackerNews] Book: The Emerging Science of Machine Learning Benchmarks](https://mlbenchmarks.org/00-preface.html) | HN Score: 100. Comments: 4 |\n| [[HackerNews] OpenAI Has New Focus (on the IPO)](https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/) | HN Score: 179. Comments: 165 |\n| [[HackerNews] The math that explains why bell curves are everywhere](https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/) | HN Score: 83. Comments: 46 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
