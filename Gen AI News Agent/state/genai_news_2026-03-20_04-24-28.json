@@ -1,0 +1,473 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 174004",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 9905",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 104592",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "summary": "HN Score: 1279. Comments: 784",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "summary": "HN Score: 604. Comments: 683",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "summary": "HN Score: 358. Comments: 137",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
+      "url": "https://news.ycombinator.com/item?id=47442452",
+      "summary": "HN Score: 63. Comments: 22",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Be intentional about how AI changes your codebase",
+      "url": "https://aicode.swerdlow.dev",
+      "summary": "HN Score: 86. Comments: 29",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 174004",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 9905",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 104592",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Astral to Join OpenAI",
+      "url": "https://astral.sh/blog/openai",
+      "summary": "HN Score: 1279. Comments: 784",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Google details new 24-hour process to sideload unverified Android apps",
+      "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
+      "summary": "HN Score: 604. Comments: 683",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "summary": "HN Score: 358. Comments: 137",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities",
+      "url": "https://news.ycombinator.com/item?id=47442452",
+      "summary": "HN Score: 63. Comments: 22",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Be intentional about how AI changes your codebase",
+      "url": "https://aicode.swerdlow.dev",
+      "summary": "HN Score: 86. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI to acquire Astral",
+        "url": "https://openai.com/index/openai-to-acquire-astral",
+        "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
+      },
+      {
+        "title": "[RSS] Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+        "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
+      },
+      {
+        "title": "[RSS] Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+        "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+      },
+      {
+        "title": "[RSS] Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+        "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+        "url": "https://github.com/KittenML/KittenTTS",
+        "summary": "HN Score: 358. Comments: 137"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
+      },
+      {
+        "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+        "url": "http://arxiv.org/abs/2603.19220v1",
+        "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+      },
+      {
+        "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+        "url": "http://arxiv.org/abs/2603.19223v1",
+        "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+      },
+      {
+        "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+        "url": "http://arxiv.org/abs/2603.19225v1",
+        "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+      },
+      {
+        "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+        "url": "http://arxiv.org/abs/2603.19229v1",
+        "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI to acquire Astral",
+      "url": "https://openai.com/index/openai-to-acquire-astral",
+      "summary": "Accelerates Codex growth to power the next generation of Python developer tools"
+    },
+    {
+      "title": "[RSS] Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "url": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
+      "summary": "The Amazon magnate has a new project centered around acquiring industrial firms and revamping them with AI technology."
+    },
+    {
+      "title": "[RSS] Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "url": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+      "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+    },
+    {
+      "title": "[RSS] Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "url": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
+      "summary": "Meta believes these AI systems can detect more violations with greater accuracy, better prevent scams, respond more quickly to real-world events, and reduce over-enforcement."
+    },
+    {
+      "title": "[HackerNews] Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB",
+      "url": "https://github.com/KittenML/KittenTTS",
+      "summary": "HN Score: 358. Comments: 137"
+    },
+    {
+      "title": "[RSS] How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+    },
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent..."
+    }
+  ],
+  "final_report": "# AI's Strategic Surge: From Industrial Transformation to Digital Guardianship\n\nToday's AI intelligence report highlights a dual focus on strategic deployment and foundational safety. We're seeing massive investments in AI-driven industrial transformation alongside critical advancements in making AI models more efficient, reliable, and aligned with human intent.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral)**\nOpenAI's acquisition of Astral is a strategic move to bolster its Codex platform, specifically targeting the next generation of Python developer tools. This signals OpenAI's intent to deepen its vertical integration into developer tooling, potentially creating a more robust ecosystem around its AI models and capturing a larger share of the developer market.\n\n### **[Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/)**\nThis ambitious plan from Jeff Bezos underscores a significant trend: leveraging AI for industrial transformation on an unprecedented scale. It indicates a potential wave of M&A and modernization in sectors previously untouched by advanced tech, signaling to investors and business leaders the immense value proposition of infusing AI into legacy industries.\n\n### **[Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/)**\nCloudflare CEO Matthew Prince's projection highlights the escalating demands on internet infrastructure and cybersecurity as generative AI agents dramatically increase web traffic. Companies must prepare for a future where AI-driven interactions dominate the digital landscape, impacting everything from marketing strategies to network security protocols.\n\n### **[Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/)**\nMeta's strategic shift towards internal AI systems for content enforcement signifies a move towards greater autonomy and efficiency in moderation. This could set a precedent for other platforms, impacting vendor relationships and internal AI development priorities across the industry while aiming for more accurate and rapid response to online violations.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB](https://github.com/KittenML/KittenTTS)**\nDevelopers should take note of these highly compact Text-to-Speech (TTS) models, with the smallest weighing in at under 25MB. Their minimal footprint makes them ideal for resource-constrained environments like edge devices, mobile applications, or embedded systems, offering a significant advantage for offline or low-power use cases.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)**\nOpenAI's research into chain-of-thought monitoring for internal coding agents offers crucial insights into AI safety and interpretability. This work is vital for researchers focused on detecting risks and strengthening safeguards in advanced AI systems, particularly as autonomous coding agents become more prevalent in real-world deployments.\n\n### **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](http://arxiv.org/abs/2603.19220v1)**\nThis paper introduces Nemotron-Cascade 2, an open 30B MoE model that achieves best-in-class reasoning and strong agentic capabilities despite its compact size. Researchers should examine its innovative Cascade RL and multi-domain on-policy distillation techniques for advancing efficient and powerful large language models.\n\n### **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19223v1)**\nF2LLM-v2 presents a new family of general-purpose, multilingual embedding models ranging from 80M to 14B parameters, trained on a massive composite dataset. Researchers in NLP and information retrieval should explore these models for applications requiring robust cross-lingual understanding and efficient representation across diverse languages.\n\n### **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](http://arxiv.org/abs/2603.19225v1)**\nFinTradeBench addresses a critical gap by providing a benchmark for evaluating LLMs' ability to perform complex financial decision-making, including reasoning over heterogeneous signals from regulatory filings and trading data. This is an essential tool for researchers developing LLMs for high-stakes financial applications.\n\n### **[NavTrust: Benchmarking Trustworthiness for Embodied Navigation](http://arxiv.org/abs/2603.19229v1)**\nNavTrust introduces a vital framework for assessing the trustworthiness of embodied AI agents in navigation tasks, encompassing both Vision-Language Navigation (VLN) and Object-Goal Navigation (OGN). This work is crucial for researchers developing safe, reliable, and human-aligned autonomous systems, moving beyond mere task completion to evaluate agent integrity.\n\n**Today's Signal:** The accelerating integration of AI into core business operations and infrastructure is driving a parallel surge in demand for efficient, trustworthy, and safety-aligned AI solutions.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [AI News | Latest News | Insights Powering AI-Driven Business Growth ](https://www.artificialintelligence-news.com/) | IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 A... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How we monitor internal coding agents for misalignment ](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | How OpenAI uses chain-of-thought monitoring to study misalignment in internal co... |\n| [[RSS] OpenAI to acquire Astral](https://openai.com/index/openai-to-acquire-astral) | Accelerates Codex growth to power the next generation of Python developer tools |\n| [Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI ](https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/) | The Amazon magnate has a new project centered around acquiring industrial firms ... |\n| [Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says ](https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/) | AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince,... |\n| [Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors ](https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/) | Meta believes these AI systems can detect more violations with greater accuracy,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [NavTrust: Benchmarking Trustworthiness for Embodied Navigation ](http://arxiv.org/abs/2603.19229v1) | There are two major categories of embodied navigation: Vision-Language Navigatio... |\n| [FinTradeBench: A Financial Reasoning Benchmark for LLMs ](http://arxiv.org/abs/2603.19225v1) | Real-world financial decision-making is a challenging problem that requires reas... |\n| [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World ](http://arxiv.org/abs/2603.19223v1) | We present F2LLM-v2, a new family of general-purpose, multilingual embedding mod... |\n| [Spectrally-Guided Diffusion Noise Schedules ](http://arxiv.org/abs/2603.19222v1) | Denoising diffusion models are widely used for high-quality image and video gene... |\n| [Online Learning and Equilibrium Computation with Ranking Feedback ](http://arxiv.org/abs/2603.19221v1) | Online learning in arbitrary, and possibly adversarial, environments has been ex... |\n| [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation ](http://arxiv.org/abs/2603.19220v1) | We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated paramet... |\n| [DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding ](http://arxiv.org/abs/2603.19219v1) | With the growing adoption of vision-language-action models and world models in a... |\n| [DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising ](http://arxiv.org/abs/2603.19216v1) | Understanding and generating 3D objects as compositions of meaningful parts is f... |\n| [$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence ](http://arxiv.org/abs/2603.19215v1) | Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction.... |\n| [Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders ](http://arxiv.org/abs/2603.19209v1) | Large vision--language models (VLMs) often use a frozen vision backbone, whose i... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [fishaudio/s2-pro ](https://huggingface.co/fishaudio/s2-pro) | Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instructi... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Astral to Join OpenAI](https://astral.sh/blog/openai) | HN Score: 1279. Comments: 784 |\n| [[HackerNews] Google details new 24-hour process to sideload unverified Android apps](https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/) | HN Score: 604. Comments: 683 |\n| [[HackerNews] Show HN: Three new Kitten TTS models \u2013 smallest less than 25MB](https://github.com/KittenML/KittenTTS) | HN Score: 358. Comments: 137 |\n| [[HackerNews] Launch HN: Voltair (YC W26) \u2013 Drone and charging network for power utilities](https://news.ycombinator.com/item?id=47442452) | HN Score: 63. Comments: 22 |\n| [[HackerNews] Be intentional about how AI changes your codebase](https://aicode.swerdlow.dev) | HN Score: 86. Comments: 29 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
