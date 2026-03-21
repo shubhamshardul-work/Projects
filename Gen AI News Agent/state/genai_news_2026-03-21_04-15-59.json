@@ -1,0 +1,473 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia has an\u00a0OpenClaw\u00a0strategy. Do you?\u00a0",
+      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 210848",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 116845",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 10929",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] OpenCode \u2013 Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "summary": "HN Score: 547. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "summary": "HN Score: 504. Comments: 403",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Ugliest Airplane: An Appreciation",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+      "summary": "HN Score: 24. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
+      "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+      "summary": "HN Score: 36. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: I made an email app inspired by Arc browser",
+      "url": "https://demo.define.app",
+      "summary": "HN Score: 56. Comments: 27",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia has an\u00a0OpenClaw\u00a0strategy. Do you?\u00a0",
+      "url": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+      "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 210848",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 116845",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] fishaudio/s2-pro",
+      "url": "https://huggingface.co/fishaudio/s2-pro",
+      "summary": "Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instruction-following, multilingual, zh. Downloads: 10929",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] OpenCode \u2013 Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "summary": "HN Score: 547. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] France's aircraft carrier located in real time by Le Monde through fitness app",
+      "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
+      "summary": "HN Score: 504. Comments: 403",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Ugliest Airplane: An Appreciation",
+      "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
+      "summary": "HN Score: 24. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts",
+      "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
+      "summary": "HN Score: 36. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: I made an email app inspired by Arc browser",
+      "url": "https://demo.define.app",
+      "summary": "HN Score: 56. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+        "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that "
+      },
+      {
+        "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+        "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+      },
+      {
+        "title": "What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
+        "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+        "summary": "CEO\u00a0Jensen Huang took the stage at\u00a0Nvidia\u2019s GTC conference\u00a0this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting\u00a0$1 trillion\u00a0in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w"
+      },
+      {
+        "title": "What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "OpenCode \u2013 Open source AI coding agent",
+        "url": "https://opencode.ai/",
+        "summary": "HN Score: 547. Comments: 249"
+      }
+    ],
+    "research": [
+      {
+        "title": "How we monitor internal coding agents for misalignment",
+        "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+        "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
+      },
+      {
+        "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+        "url": "http://arxiv.org/abs/2603.19220v1",
+        "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+      },
+      {
+        "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+        "url": "http://arxiv.org/abs/2603.19223v1",
+        "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+      },
+      {
+        "title": "Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+        "url": "http://arxiv.org/abs/2603.19209v1",
+        "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a..."
+      },
+      {
+        "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+        "url": "http://arxiv.org/abs/2603.19225v1",
+        "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that "
+    },
+    {
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+    },
+    {
+      "title": "What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet",
+      "url": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+      "summary": "CEO\u00a0Jensen Huang took the stage at\u00a0Nvidia\u2019s GTC conference\u00a0this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting\u00a0$1 trillion\u00a0in AI chip sales through 2027, declaring that every company needs an \u201cOpenClaw strategy,\u201d and closing w"
+    },
+    {
+      "title": "What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "OpenCode \u2013 Open source AI coding agent",
+      "url": "https://opencode.ai/",
+      "summary": "HN Score: 547. Comments: 249"
+    },
+    {
+      "title": "How we monitor internal coding agents for misalignment",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "summary": "How OpenAI uses chain-of-thought monitoring to study misalignment in internal coding agents\u2014analyzing real-world deployments to detect risks and strengthen AI safety safeguards."
+    },
+    {
+      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+    },
+    {
+      "title": "F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+    },
+    {
+      "title": "Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a..."
+    },
+    {
+      "title": "FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Navigating Strategic Shifts and Frontier Innovations\n\nToday's AI intelligence report reveals a dynamic landscape where strategic enterprise adoption meets cutting-edge research. We're seeing critical adjustments in how AI is integrated into business operations and government, alongside significant advancements in model architecture and safety.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)**\nThis development highlights the complex and often politically charged environment surrounding AI adoption in critical sectors like national defense. For business leaders, it underscores the necessity of robust legal and strategic frameworks when engaging with government contracts, especially concerning sensitive technologies where perceptions of risk can shift rapidly. It also reveals potential internal misalignments within large organizations that can impact vendor relationships and project stability.\n\n### **[Microsoft rolls back some of its Copilot AI bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)**\nMicrosoft's decision to reduce Copilot entry points signals a crucial lesson in user experience and AI integration: more isn't always better. This strategic pivot suggests a move towards more thoughtful, less intrusive AI implementation, which is vital for enterprise adoption and user satisfaction. Businesses should note that successful AI integration prioritizes utility and seamlessness over sheer omnipresence.\n\n### **[What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/)**\nJensen Huang's ambitious projection of $1 trillion in AI chip sales by 2027 underscores the immense, sustained investment expected in AI infrastructure. For executives and investors, this reinforces the long-term growth trajectory of the AI hardware market and the strategic importance of securing compute resources. The emphasis on an \"OpenClaw strategy\" also points to the growing need for integrated, robotic AI solutions across industries.\n\n### **[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**\nWhile specific details are pending, the mere announcement of a new ChatGPT iteration, version 5.4, suggests significant advancements in a foundational AI model. For business leaders, new versions of leading LLMs often bring enhanced capabilities, improved efficiency, or entirely new use cases, necessitating continuous evaluation of how these advancements can be leveraged for competitive advantage, product development, or operational efficiency.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[OpenCode \u2013 Open source AI coding agent](https://opencode.ai/)**\nOpenCode represents a significant development for developers, offering an open-source AI coding agent that could dramatically accelerate development cycles. This tool has the potential to automate repetitive coding tasks and democratize access to advanced AI-powered programming assistance. Engineers should evaluate its capabilities for integration into their workflows, potentially boosting productivity and code quality.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How we monitor internal coding agents for misalignment](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment)**\nOpenAI's work on monitoring internal coding agents for misalignment highlights a critical area in AI safety and alignment research. This methodology, utilizing chain-of-thought monitoring, offers a practical approach to detecting and mitigating risks in real-world AI deployments. It provides valuable insights for researchers focused on building safer and more reliable AI systems.\n\n### **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](http://arxiv.org/abs/2603.19220v1)**\nNemotron-Cascade 2 introduces an open 30B MoE model that achieves best-in-class reasoning and strong agentic capabilities despite its compact size. This research demonstrates significant advancements in creating highly capable yet efficient LLMs through novel post-training techniques, pushing the boundaries of what's possible with smaller, more deployable models.\n\n### **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19223v1)**\nF2LLM-v2 presents a new family of multilingual embedding models, addressing the crucial need for inclusive and efficient AI in a global context. This work is vital for researchers developing AI applications that need to perform robustly across diverse languages, offering a foundation for more equitable and globally accessible AI systems.\n\n### **[Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](http://arxiv.org/abs/2603.19209v1)**\nThis paper challenges the conventional wisdom of using transformer-based encoders in Vision-Language Models (VLMs) by evaluating State Space Models (SSMs) as alternative vision encoders. It explores new architectural avenues for potentially more efficient or performant VLMs, prompting researchers to reconsider established architectural choices.\n\n### **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](http://arxiv.org/abs/2603.19225v1)**\nFinTradeBench introduces a specialized benchmark for evaluating LLMs in complex financial decision-making, a significant contribution to the field. This provides a standardized way to assess AI's reasoning capabilities in a high-stakes domain, which is crucial for developing reliable AI tools for finance and understanding their limitations.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with a dual focus on refining practical, user-centric deployments and pushing the boundaries of model efficiency, safety, and specialized reasoning.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [Generative AI recent news - AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How we monitor internal coding agents for misalignment ](https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment) | How OpenAI uses chain-of-thought monitoring to study misalignment in internal co... |\n| [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput ](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/) | Anthropic submitted two sworn declarations to a California federal court late Fr... |\n| [Microsoft rolls back some of its Copilot AI bloat on Windows ](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/) | The company is reducing Copilot entry points on Windows, starting with Photos, W... |\n| [What happened at Nvidia GTC:\u00a0NemoClaw, Robot Olaf, and a\u00a0$1 trillion\u00a0bet ](https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/) | CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;... |\n| [Nvidia has an\u00a0OpenClaw\u00a0strategy. Do you?\u00a0 ](https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/) | CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [NavTrust: Benchmarking Trustworthiness for Embodied Navigation ](http://arxiv.org/abs/2603.19229v1) | There are two major categories of embodied navigation: Vision-Language Navigatio... |\n| [FinTradeBench: A Financial Reasoning Benchmark for LLMs ](http://arxiv.org/abs/2603.19225v1) | Real-world financial decision-making is a challenging problem that requires reas... |\n| [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World ](http://arxiv.org/abs/2603.19223v1) | We present F2LLM-v2, a new family of general-purpose, multilingual embedding mod... |\n| [Spectrally-Guided Diffusion Noise Schedules ](http://arxiv.org/abs/2603.19222v1) | Denoising diffusion models are widely used for high-quality image and video gene... |\n| [Online Learning and Equilibrium Computation with Ranking Feedback ](http://arxiv.org/abs/2603.19221v1) | Online learning in arbitrary, and possibly adversarial, environments has been ex... |\n| [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation ](http://arxiv.org/abs/2603.19220v1) | We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated paramet... |\n| [DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding ](http://arxiv.org/abs/2603.19219v1) | With the growing adoption of vision-language-action models and world models in a... |\n| [DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising ](http://arxiv.org/abs/2603.19216v1) | Understanding and generating 3D objects as compositions of meaningful parts is f... |\n| [$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence ](http://arxiv.org/abs/2603.19215v1) | Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction.... |\n| [Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders ](http://arxiv.org/abs/2603.19209v1) | Large vision--language models (VLMs) often use a frozen vision backbone, whose i... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [fishaudio/s2-pro ](https://huggingface.co/fishaudio/s2-pro) | Trending HF Model. Tags: safetensors, fish_qwen3_omni, text-to-speech, instructi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] OpenCode \u2013 Open source AI coding agent](https://opencode.ai/) | HN Score: 547. Comments: 249 |\n| [[HackerNews] France's aircraft carrier located in real time by Le Monde through fitness app](https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html) | HN Score: 504. Comments: 403 |\n| [[HackerNews] The Ugliest Airplane: An Appreciation](https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/) | HN Score: 24. Comments: 13 |\n| [[HackerNews] Show HN: Baltic shadow fleet tracker \u2013 live AIS, cable proximity alerts](https://github.com/FormerLab/shadow-fleet-tracker-light) | HN Score: 36. Comments: 6 |\n| [[HackerNews] Show HN: I made an email app inspired by Arc browser](https://demo.define.app) | HN Score: 56. Comments: 27 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
