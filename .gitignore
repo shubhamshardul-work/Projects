@@ -24,3 +24,6 @@ site-build/
 
 # Notebooks (Optional, but often good to clear outputs or ignore generated ones)
 .ipynb_checkpoints
+
+# Additional Folders
+LangChain/LangSmith/*
