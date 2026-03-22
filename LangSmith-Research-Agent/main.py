@@ -8,9 +8,11 @@ Demonstrates comprehensive LangSmith setup:
 4. Trace flushing before exit
 5. Selective tracing via tracing_context
 6. Dynamic project routing
+7. Local file logging of all trace data
 """
 
 import os
+import json
 import argparse
 import uuid
 from datetime import datetime
@@ -33,7 +35,7 @@ def setup_langsmith():
         print(f"✅ LangSmith tracing enabled → project: {os.environ['LANGSMITH_PROJECT']}")
 
 
-def run_research(question: str, thread_id: str = None, project_name: str = None):
+def run_research(question: str, thread_id: str = None, project_name: str = None, log_file: str = None):
     """
     Run a single research query through the agent.
     
@@ -41,6 +43,7 @@ def run_research(question: str, thread_id: str = None, project_name: str = None)
     - Thread ID generation for conversation tracking
     - Dynamic project routing via tracing_context
     - Feedback run ID capture for async feedback
+    - Local file logging of trace data (when log_file is specified)
     """
     import langsmith as ls
     from src.graph import build_graph
@@ -49,34 +52,49 @@ def run_research(question: str, thread_id: str = None, project_name: str = None)
     if not thread_id:
         thread_id = f"research-{uuid.uuid4().hex[:8]}"
 
+    # ── LangSmith: Local file logging ──
+    # When a log_file path is specified, all trace data is also
+    # written to a local .jsonl file for offline analysis.
+    local_logger = None
+    if log_file:
+        from src.local_logger import LocalFileLogger
+        local_logger = LocalFileLogger(log_file)
+
     print(f"\n{'='*60}")
     print(f"🔍 Research Agent")
     print(f"   Question: {question}")
     print(f"   Thread:   {thread_id}")
+    if local_logger:
+        print(f"   Log file: {log_file}")
     print(f"{'='*60}\n")
 
     graph = build_graph()
+
+    # Prepare the input state
+    input_state = {
+        "question": question,
+        "thread_id": thread_id,
+        "total_llm_calls": 0,
+    }
 
     # ── LangSmith: Dynamic project routing ──
     # You can send traces to different projects based on context
     if project_name:
         with ls.tracing_context(project_name=project_name):
-            result = graph.invoke({
-                "question": question,
-                "thread_id": thread_id,
-                "total_llm_calls": 0,
-            })
+            result = graph.invoke(input_state)
     else:
-        result = graph.invoke({
-            "question": question,
-            "thread_id": thread_id,
-            "total_llm_calls": 0,
-        })
+        result = graph.invoke(input_state)
 
     # Display results
     report = result.get("final_report", "No report generated.")
     feedback_run_id = result.get("feedback_run_id", "")
     total_calls = result.get("total_llm_calls", 0)
+
+    # ── Local logging: Write trace summary to file ──
+    if local_logger:
+        _log_pipeline_results(local_logger, result, question, thread_id, project_name)
+        local_logger.write_markdown_report(question=question, thread_id=thread_id)
+        print(f"\n{local_logger.get_summary()}")
 
     print(f"\n{'='*60}")
     print(report)
@@ -87,6 +105,73 @@ def run_research(question: str, thread_id: str = None, project_name: str = None)
         print(f"📝 Feedback Run ID: {feedback_run_id}")
 
     return result, thread_id, feedback_run_id
+
+
+def _log_pipeline_results(logger, result: dict, question: str, thread_id: str,
+                          project_name: str = None):
+    """
+    Log pipeline results using REAL instrumentation data from node_traces.
+
+    Instead of reconstructing/estimating data after the fact, this reads
+    the actual trace entries that each node captured during execution:
+    real timing, real token counts, real prompts, and real completions.
+    """
+    import sys
+    import platform
+    from datetime import datetime, timezone
+
+    trace_id = f"trace-{uuid.uuid4().hex[:12]}"
+    logger._trace_id = trace_id
+    proj = project_name or os.environ.get("LANGSMITH_PROJECT", "langsmith-research-agent")
+
+    # Gemini 2.5 Flash pricing (per token)
+    INPUT_PRICE = 0.00000015   # $0.15 per 1M input tokens
+    OUTPUT_PRICE = 0.0000006   # $0.60 per 1M output tokens
+
+    node_traces = result.get("node_traces", []) or []
+
+    for trace_entry in node_traces:
+        # Calculate cost from REAL token counts
+        usage = trace_entry.get("usage_metadata") or {}
+        input_tok = usage.get("input_tokens") or 0
+        output_tok = usage.get("output_tokens") or 0
+        cost = (input_tok * INPUT_PRICE + output_tok * OUTPUT_PRICE) if (input_tok or output_tok) else None
+
+        logger.log_run({
+            "id": f"run-{uuid.uuid4().hex[:8]}",
+            "trace_id": trace_id,
+            "parent_run_id": trace_id,
+            "name": trace_entry.get("node_name", "Unknown"),
+            "run_type": trace_entry.get("run_type", "chain"),
+            "status": trace_entry.get("status", "success"),
+            "error": trace_entry.get("error"),
+            "latency_ms": trace_entry.get("latency_ms"),
+            "inputs": trace_entry.get("inputs"),
+            "outputs": trace_entry.get("outputs"),
+            # LLM-specific (real data from AIMessage)
+            "llm_prompts": trace_entry.get("messages_sent"),
+            "llm_completion": trace_entry.get("completion"),
+            "usage_metadata": usage if usage else None,
+            "estimated_cost_usd": cost,
+            "response_metadata": trace_entry.get("response_metadata"),
+            "finish_reason": trace_entry.get("finish_reason"),
+            # Retriever-specific
+            "retrieved_documents": trace_entry.get("retrieved_documents"),
+            # LangSmith ls_ metadata params
+            "metadata": trace_entry.get("ls_metadata", {}),
+            "tags": trace_entry.get("tags", []),
+            "thread_id": thread_id,
+            "project_name": proj,
+        })
+
+    # Environment info (captured once)
+    env_info = {
+        "python_version": sys.version.split()[0],
+        "os": platform.system(),
+        "machine": platform.machine(),
+        "platform": platform.platform(),
+    }
+    logger._env_info = env_info
 
 
 def submit_feedback(run_id: str, score: float, comment: str = ""):
@@ -165,6 +250,12 @@ def main():
         default=None,
         help="Save report to this file path",
     )
+    parser.add_argument(
+        "--log-file", "-l",
+        type=str,
+        default=None,
+        help="Path to write local trace logs in JSONL format (e.g., logs/traces.jsonl)",
+    )
     args = parser.parse_args()
 
     # Run the research agent
@@ -172,6 +263,7 @@ def main():
         question=args.question,
         thread_id=args.thread_id,
         project_name=args.project,
+        log_file=args.log_file,
     )
 
     # Submit feedback if requested

@@ -1,17 +1,21 @@
 """
 LangGraph nodes for the AI Research Agent.
 
-Each node demonstrates specific LangSmith observability features:
-- router_node:    @traceable + metadata + tags + ls_provider/ls_model_name
-- search_node:    @traceable(run_type="tool") + cost tracking
+Each node demonstrates specific LangSmith observability features AND
+captures REAL instrumentation data for the local logger:
+- router_node:    @traceable + metadata + real timing + real tokens
+- search_node:    @traceable(run_type="tool") + real HTTP timing
 - retriever_node: @traceable(run_type="retriever") + Document format
-- grader_node:    @traceable(run_type="llm") + manual token tracking
-- answer_node:    @traceable + thread tracking
-- formatter_node: @traceable + custom run name
+- grader_node:    @traceable(run_type="llm") + real token tracking
+- answer_node:    @traceable + thread tracking + real tokens
+- formatter_node: @traceable + real timing
 """
 
 import json
 import os
+import re
+import time
+import traceback as tb
 import requests
 from langchain_core.messages import SystemMessage, HumanMessage
 from langsmith import traceable, get_current_run_tree
@@ -21,7 +25,7 @@ from src.rate_limiter import RateLimitedLLM
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
-# Shared LLM instance (rate-limited, key-rotating)
+# Helpers
 # ═══════════════════════════════════════════════════════════════════════════════
 
 _llm = None
@@ -39,11 +43,67 @@ def _get_llm() -> RateLimitedLLM:
     return _llm
 
 
+def _extract_usage(response) -> dict:
+    """Extract REAL usage_metadata from an AIMessage response."""
+    usage = {}
+    if hasattr(response, "usage_metadata") and response.usage_metadata:
+        um = response.usage_metadata
+        # LangChain's UsageMetadata can be a dict-like or object
+        if isinstance(um, dict):
+            usage = dict(um)
+        else:
+            usage = {
+                "input_tokens": getattr(um, "input_tokens", None),
+                "output_tokens": getattr(um, "output_tokens", None),
+                "total_tokens": getattr(um, "total_tokens", None),
+            }
+            # Token detail breakdowns (cache_read, reasoning, etc.)
+            if hasattr(um, "input_token_details") and um.input_token_details:
+                details = um.input_token_details
+                usage["input_token_details"] = dict(details) if isinstance(details, dict) else {
+                    k: getattr(details, k) for k in dir(details)
+                    if not k.startswith("_") and not callable(getattr(details, k))
+                }
+            if hasattr(um, "output_token_details") and um.output_token_details:
+                details = um.output_token_details
+                usage["output_token_details"] = dict(details) if isinstance(details, dict) else {
+                    k: getattr(details, k) for k in dir(details)
+                    if not k.startswith("_") and not callable(getattr(details, k))
+                }
+    return usage
+
+
+def _extract_response_metadata(response) -> dict:
+    """Extract REAL response_metadata from an AIMessage (finish_reason, safety, model)."""
+    meta = {}
+    if hasattr(response, "response_metadata") and response.response_metadata:
+        rm = response.response_metadata
+        meta = dict(rm) if isinstance(rm, dict) else {}
+    return meta
+
+
+def _serialize_messages(messages: list) -> list:
+    """Convert LangChain Message objects to JSON-safe dicts."""
+    result = []
+    for msg in messages:
+        if hasattr(msg, "content"):
+            role = "system" if isinstance(msg, SystemMessage) else "human"
+            result.append({"role": role, "content": msg.content})
+        elif isinstance(msg, dict):
+            result.append(msg)
+    return result
+
+
+def _append_trace(state: dict, trace_entry: dict) -> list:
+    """Append a trace entry to the state's node_traces list."""
+    traces = list(state.get("node_traces", []) or [])
+    traces.append(trace_entry)
+    return traces
+
+
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 1: Router — decides which path to take
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable, metadata (ls_provider, ls_model_name,
-#                     ls_temperature), tags, custom run name
 
 @traceable(
     name="Route Question",
@@ -57,14 +117,7 @@ def _get_llm() -> RateLimitedLLM:
     }
 )
 def router_node(state: ResearchState) -> dict:
-    """
-    Routes the user's question to the appropriate path.
-    
-    Demonstrates:
-    - @traceable with custom name, tags, and metadata
-    - ls_provider + ls_model_name for model identification in LangSmith UI
-    - Rate-limited Gemini 2.5 Flash usage
-    """
+    """Routes the user's question to the appropriate path."""
     question = state.get("question", "")
     llm = _get_llm()
 
@@ -79,10 +132,16 @@ def router_node(state: ResearchState) -> dict:
         HumanMessage(content=question),
     ]
 
-    response = llm.invoke(messages)
-    route = response.content.strip().lower()
+    error_info = None
+    t0 = time.time()
+    try:
+        response = llm.invoke(messages)
+    except Exception as e:
+        error_info = tb.format_exc()
+        raise
+    latency_ms = round((time.time() - t0) * 1000, 2)
 
-    # Normalize the route
+    route = response.content.strip().lower()
     if "search" in route:
         route = "search"
     elif "retrieve" in route or "document" in route:
@@ -92,17 +151,42 @@ def router_node(state: ResearchState) -> dict:
 
     print(f"[Router] Question: '{question[:60]}...' → Route: {route}")
 
+    # ── Build REAL trace entry ──
+    usage = _extract_usage(response)
+    resp_meta = _extract_response_metadata(response)
+
+    trace_entry = {
+        "node_name": "Route Question",
+        "run_type": "llm",
+        "latency_ms": latency_ms,
+        "messages_sent": _serialize_messages(messages),
+        "completion": response.content,
+        "usage_metadata": usage,
+        "response_metadata": resp_meta,
+        "finish_reason": resp_meta.get("finish_reason"),
+        "inputs": {"question": question},
+        "outputs": {"route": route},
+        "error": error_info,
+        "tags": ["router", "gemini-2.5-flash", "research-agent"],
+        "ls_metadata": {
+            "ls_provider": "google_genai",
+            "ls_model_name": "gemini-2.5-flash",
+            "ls_temperature": 0,
+            "ls_max_tokens": 10,
+        },
+        "status": "success",
+    }
+
     return {
         "route": route,
         "total_llm_calls": state.get("total_llm_calls", 0) + 1,
+        "node_traces": _append_trace(state, trace_entry),
     }
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 2: Web Search — fetches information from the web
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable(run_type="tool"), cost tracking via
-#                     usage_metadata, custom tool metadata
 
 @traceable(
     run_type="tool",
@@ -114,20 +198,14 @@ def router_node(state: ResearchState) -> dict:
     }
 )
 def search_node(state: ResearchState) -> dict:
-    """
-    Simulates a web search tool.
-    
-    Demonstrates:
-    - run_type="tool" for tool-specific rendering in LangSmith
-    - Cost tracking for non-LLM runs via usage_metadata
-    - Tool metadata for categorization
-    """
+    """Simulates a web search tool using Wikipedia API."""
     question = state.get("question", "")
-
-    # Simulate a web search (using a simple Wikipedia API to avoid extra API keys)
     results = []
+    http_status = None
+    error_info = None
+
+    t0 = time.time()
     try:
-        # Use Wikipedia's search API as a free "web search"
         search_url = "https://en.wikipedia.org/w/api.php"
         params = {
             "action": "query",
@@ -137,11 +215,11 @@ def search_node(state: ResearchState) -> dict:
             "format": "json",
             "utf8": 1,
         }
-        response = requests.get(search_url, params=params, timeout=10)
-        if response.status_code == 200:
-            data = response.json()
+        http_response = requests.get(search_url, params=params, timeout=10)
+        http_status = http_response.status_code
+        if http_response.status_code == 200:
+            data = http_response.json()
             for item in data.get("query", {}).get("search", []):
-                import re
                 clean_snippet = re.sub(r'<[^>]+>', '', item.get("snippet", ""))
                 results.append({
                     "title": item.get("title", ""),
@@ -150,6 +228,7 @@ def search_node(state: ResearchState) -> dict:
                     "source": "Wikipedia",
                 })
     except Exception as e:
+        error_info = tb.format_exc()
         print(f"[Search] Error: {e}")
         results = [{
             "title": "Search unavailable",
@@ -157,27 +236,45 @@ def search_node(state: ResearchState) -> dict:
             "url": "",
             "source": "error",
         }]
+    latency_ms = round((time.time() - t0) * 1000, 2)
 
     # ── LangSmith: Track cost for this tool call ──
-    # Demonstrates cost tracking on non-LLM runs
     try:
         run = get_current_run_tree()
         if run:
             run.extra = run.extra or {}
-            run.extra["usage_metadata"] = {"total_cost": 0.0}  # Wikipedia is free!
+            run.extra["usage_metadata"] = {"total_cost": 0.0}
     except Exception:
         pass
 
     print(f"[Search] Found {len(results)} results for: '{question[:50]}...'")
 
-    return {"search_results": results}
+    # ── Build REAL trace entry ──
+    trace_entry = {
+        "node_name": "Web Search",
+        "run_type": "tool",
+        "latency_ms": latency_ms,
+        "inputs": {"query": question, "search_engine": "Wikipedia API", "max_results": 3},
+        "outputs": {"results_count": len(results), "results": results},
+        "error": error_info,
+        "tags": ["tool", "web-search", "wikipedia"],
+        "ls_metadata": {
+            "tool_name": "web_search",
+            "api_endpoint": "https://en.wikipedia.org/w/api.php",
+            "http_status": http_status,
+        },
+        "status": "success" if not error_info else "error",
+    }
+
+    return {
+        "search_results": results,
+        "node_traces": _append_trace(state, trace_entry),
+    }
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 3: Document Retriever — retrieves relevant documents
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable(run_type="retriever"), Document format
-#                     for special retriever rendering in LangSmith UI
 
 @traceable(
     run_type="retriever",
@@ -189,18 +286,12 @@ def search_node(state: ResearchState) -> dict:
     }
 )
 def retriever_node(state: ResearchState) -> dict:
-    """
-    Simulates a vector store retriever.
-    
-    Demonstrates:
-    - run_type="retriever" for special document rendering in LangSmith
-    - Returning documents in LangSmith's expected Document format
-    - Retriever metadata (k, retriever type)
-    """
+    """Simulates a vector store retriever with proper LangSmith Document format."""
     question = state.get("question", "")
 
-    # Simulated knowledge base — demonstrates that LangSmith renders
-    # retriever results with page_content + metadata in a rich UI
+    t0 = time.time()
+
+    # Simulated knowledge base with proper LangSmith Document format
     knowledge_base = [
         {
             "page_content": (
@@ -246,16 +337,37 @@ def retriever_node(state: ResearchState) -> dict:
         },
     ]
 
+    latency_ms = round((time.time() - t0) * 1000, 2)
+
     print(f"[Retriever] Retrieved {len(knowledge_base)} documents for: '{question[:50]}...'")
 
-    return {"retrieved_docs": knowledge_base}
+    # ── Build REAL trace entry ──
+    trace_entry = {
+        "node_name": "Document Retriever",
+        "run_type": "retriever",
+        "latency_ms": latency_ms,
+        "inputs": {"query": question, "k": 3, "retriever_type": "simulated_vector_store"},
+        "outputs": {"documents_count": len(knowledge_base)},
+        "retrieved_documents": knowledge_base,
+        "error": None,
+        "tags": ["retriever", "knowledge-base", "vector-store"],
+        "ls_metadata": {
+            "retriever_type": "simulated_vector_store",
+            "k": 3,
+            "embedding_model": "simulated",
+        },
+        "status": "success",
+    }
+
+    return {
+        "retrieved_docs": knowledge_base,
+        "node_traces": _append_trace(state, trace_entry),
+    }
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 4: Grader — evaluates document quality
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable with run_type="llm", manual token tracking
-#                     via get_current_run_tree(), ls_model_name override
 
 @traceable(
     run_type="llm",
@@ -270,15 +382,7 @@ def retriever_node(state: ResearchState) -> dict:
     }
 )
 def grader_node(state: ResearchState) -> dict:
-    """
-    Grades retrieved/searched documents for relevance.
-    
-    Demonstrates:
-    - run_type="llm" for LLM-specific rendering (token counts, latency)
-    - Manual token tracking via get_current_run_tree()
-    - ls_model_name and ls_provider for cost tracking
-    - Accessing and modifying the current run tree
-    """
+    """Grades retrieved/searched documents for relevance using REAL token tracking."""
     question = state.get("question", "")
 
     # Combine search results and retrieved docs
@@ -289,14 +393,24 @@ def grader_node(state: ResearchState) -> dict:
         all_docs.append(f"[Doc] {doc.get('page_content', '')[:200]}")
 
     if not all_docs:
+        trace_entry = {
+            "node_name": "Document Grader",
+            "run_type": "llm",
+            "latency_ms": 0,
+            "inputs": {"question": question, "documents_count": 0},
+            "outputs": {"relevant_count": 0, "reasoning": "No documents to grade."},
+            "error": None,
+            "tags": ["grader", "quality-check", "gemini-2.5-flash"],
+            "status": "success",
+        }
         return {
             "graded_docs": [],
             "grade_reasoning": "No documents to grade.",
             "total_llm_calls": state.get("total_llm_calls", 0),
+            "node_traces": _append_trace(state, trace_entry),
         }
 
-    docs_text = "\n\n".join(all_docs[:5])  # Cap to 5 docs to save tokens
-
+    docs_text = "\n\n".join(all_docs[:5])
     llm = _get_llm()
 
     messages = [
@@ -309,26 +423,25 @@ def grader_node(state: ResearchState) -> dict:
         HumanMessage(content=f"Question: {question}\n\nDocuments:\n{docs_text}"),
     ]
 
-    response = llm.invoke(messages)
+    error_info = None
+    t0 = time.time()
+    try:
+        response = llm.invoke(messages)
+    except Exception as e:
+        error_info = tb.format_exc()
+        raise
+    latency_ms = round((time.time() - t0) * 1000, 2)
 
-    # ── LangSmith: Manual token tracking ──
-    # Demonstrates attaching token usage to the run when the SDK
-    # doesn't auto-populate it (e.g., custom models)
+    # ── Extract REAL token data ──
+    usage = _extract_usage(response)
+    resp_meta = _extract_response_metadata(response)
+
+    # ── LangSmith: Attach real usage to run tree ──
     try:
         run = get_current_run_tree()
-        if run:
-            # Estimate tokens (Gemini doesn't always return usage in LangChain)
-            input_chars = len(str(messages))
-            output_chars = len(response.content)
-            est_input_tokens = input_chars // 4  # rough estimate
-            est_output_tokens = output_chars // 4
-
+        if run and usage:
             run.extra = run.extra or {}
-            run.extra["usage_metadata"] = {
-                "input_tokens": est_input_tokens,
-                "output_tokens": est_output_tokens,
-                "total_tokens": est_input_tokens + est_output_tokens,
-            }
+            run.extra["usage_metadata"] = usage
     except Exception:
         pass
 
@@ -353,18 +466,40 @@ def grader_node(state: ResearchState) -> dict:
 
     print(f"[Grader] {len(graded)}/{len(all_docs)} documents marked relevant")
 
+    # ── Build REAL trace entry ──
+    trace_entry = {
+        "node_name": "Document Grader",
+        "run_type": "llm",
+        "latency_ms": latency_ms,
+        "messages_sent": _serialize_messages(messages),
+        "completion": response.content,
+        "usage_metadata": usage,
+        "response_metadata": resp_meta,
+        "finish_reason": resp_meta.get("finish_reason"),
+        "inputs": {"question": question, "documents_count": len(all_docs)},
+        "outputs": {"relevant_count": len(graded), "reasoning": grade_result.get("reasoning", "")},
+        "error": error_info,
+        "tags": ["grader", "quality-check", "gemini-2.5-flash"],
+        "ls_metadata": {
+            "ls_provider": "google_genai",
+            "ls_model_name": "gemini-2.5-flash",
+            "ls_temperature": 0,
+            "ls_max_tokens": 1024,
+        },
+        "status": "success",
+    }
+
     return {
         "graded_docs": graded,
         "grade_reasoning": grade_result.get("reasoning", ""),
         "total_llm_calls": state.get("total_llm_calls", 0) + 1,
+        "node_traces": _append_trace(state, trace_entry),
     }
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 5: Answer Generator — produces the final answer
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable with thread tracking metadata,
-#                     feedback_run_id capture for later feedback submission
 
 @traceable(
     name="Generate Answer",
@@ -377,14 +512,7 @@ def grader_node(state: ResearchState) -> dict:
     }
 )
 def answer_node(state: ResearchState) -> dict:
-    """
-    Generates the final research answer using graded context.
-    
-    Demonstrates:
-    - Thread tracking via thread_id metadata (for multi-turn conversations)
-    - Capturing feedback_run_id for asynchronous feedback submission
-    - ls_temperature metadata for configuration tracking
-    """
+    """Generates the final research answer with REAL token and timing data."""
     question = state.get("question", "")
     thread_id = state.get("thread_id", "")
 
@@ -410,41 +538,73 @@ def answer_node(state: ResearchState) -> dict:
         HumanMessage(content=f"Question: {question}\n\nContext:\n{context}"),
     ]
 
-    # ── LangSmith: Thread metadata for multi-turn tracking ──
-    # This demonstrates how thread_id propagates to the trace
-    langsmith_extra = {}
+    # ── LangSmith: Thread metadata ──
     if thread_id:
-        langsmith_extra["metadata"] = {"thread_id": thread_id}
+        try:
+            run = get_current_run_tree()
+            if run:
+                run.metadata = run.metadata or {}
+                run.metadata["thread_id"] = thread_id
+        except Exception:
+            pass
 
-    response = llm.invoke(messages)
+    error_info = None
+    t0 = time.time()
+    try:
+        response = llm.invoke(messages)
+    except Exception as e:
+        error_info = tb.format_exc()
+        raise
+    latency_ms = round((time.time() - t0) * 1000, 2)
 
-    # ── LangSmith: Capture run ID for later feedback ──
+    # ── Extract REAL data ──
+    usage = _extract_usage(response)
+    resp_meta = _extract_response_metadata(response)
+
+    # ── Capture feedback run ID ──
     feedback_run_id = ""
     try:
         run = get_current_run_tree()
         if run:
             feedback_run_id = str(run.id)
-            # Also add thread metadata to the run
-            if thread_id:
-                run.metadata = run.metadata or {}
-                run.metadata["thread_id"] = thread_id
     except Exception:
         pass
 
     print(f"[Answer] Generated answer ({len(response.content)} chars) for: '{question[:50]}...'")
 
+    # ── Build REAL trace entry ──
+    trace_entry = {
+        "node_name": "Generate Answer",
+        "run_type": "llm",
+        "latency_ms": latency_ms,
+        "messages_sent": _serialize_messages(messages),
+        "completion": response.content,
+        "usage_metadata": usage,
+        "response_metadata": resp_meta,
+        "finish_reason": resp_meta.get("finish_reason"),
+        "inputs": {"question": question, "context_length": len(context)},
+        "outputs": {"answer_length": len(response.content), "answer": response.content},
+        "error": error_info,
+        "tags": ["answer", "gemini-2.5-flash", "research-agent"],
+        "ls_metadata": {
+            "ls_provider": "google_genai",
+            "ls_model_name": "gemini-2.5-flash",
+            "ls_temperature": 0.2,
+        },
+        "status": "success",
+    }
+
     return {
         "answer": response.content,
         "feedback_run_id": feedback_run_id,
         "total_llm_calls": state.get("total_llm_calls", 0) + 1,
+        "node_traces": _append_trace(state, trace_entry),
     }
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
 # NODE 6: Formatter — formats the final report
 # ═══════════════════════════════════════════════════════════════════════════════
-# LangSmith features: @traceable with custom run name, no LLM call
-#                     (pure function tracing), input/output logging
 
 @traceable(
     name="Format Report",
@@ -455,20 +615,15 @@ def answer_node(state: ResearchState) -> dict:
     }
 )
 def formatter_node(state: ResearchState) -> dict:
-    """
-    Formats the answer into a structured markdown report.
-    
-    Demonstrates:
-    - Tracing a pure function (no LLM) — shows up as a chain run
-    - Custom run name for readable traces
-    - Input/output logging for non-LLM processing steps
-    """
+    """Formats the answer into a structured markdown report with REAL timing."""
     question = state.get("question", "")
     answer = state.get("answer", "No answer generated.")
     route = state.get("route", "unknown")
     grade_reasoning = state.get("grade_reasoning", "")
     graded_docs = state.get("graded_docs", [])
     total_calls = state.get("total_llm_calls", 0)
+
+    t0 = time.time()
 
     # Build a structured markdown report
     report = f"""# 🔍 Research Report
@@ -499,6 +654,26 @@ def formatter_node(state: ResearchState) -> dict:
 *Report generated by AI Research Agent | LLM calls: {total_calls} | Model: Gemini 2.5 Flash*
 """
 
+    latency_ms = round((time.time() - t0) * 1000, 2)
+
     print(f"[Formatter] Generated report ({len(report)} chars)")
 
-    return {"final_report": report}
+    # ── Build REAL trace entry ──
+    trace_entry = {
+        "node_name": "Format Report",
+        "run_type": "chain",
+        "latency_ms": latency_ms,
+        "inputs": {"question": question, "answer_length": len(answer), "docs_count": len(graded_docs)},
+        "outputs": {"report_length": len(report)},
+        "error": None,
+        "tags": ["formatter", "output"],
+        "ls_metadata": {
+            "output_format": "markdown",
+        },
+        "status": "success",
+    }
+
+    return {
+        "final_report": report,
+        "node_traces": _append_trace(state, trace_entry),
+    }

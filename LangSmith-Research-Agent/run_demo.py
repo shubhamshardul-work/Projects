@@ -8,6 +8,7 @@ A guided script that demonstrates ALL LangSmith features in action:
 4. Trace querying
 5. Selective tracing
 6. Dynamic project routing
+7. Local file logging
 
 Designed with generous delays to avoid Gemini free-tier rate limits.
 """
@@ -221,6 +222,48 @@ def demo_6_dynamic_routing():
     print("   ✅ Trace sent to project: 'research-agent-experiments'")
 
 
+def demo_7_local_logging():
+    """
+    Demo 7: Local File Logging
+    
+    Shows: writing all LangSmith trace data to a local JSONL file.
+    After this runs, the file logs/demo_trace.jsonl will contain
+    a structured record for every node in the pipeline.
+    """
+    from main import run_research
+
+    print("\n" + "="*60)
+    print("📌 DEMO 7: Local File Logging")
+    print("="*60)
+    print("""
+    This demo runs a question with local JSONL logging enabled.
+    All trace data (inputs, outputs, metadata, tokens) is written
+    to a local file alongside being sent to LangSmith cloud.
+    
+    ✅ LangSmith features demonstrated:
+       • Local file logging of trace data
+       • JSONL format (one JSON object per line)
+       • Structured records for every pipeline stage
+       • Offline analysis without the LangSmith UI
+    """)
+
+    log_file = "logs/demo_trace.jsonl"
+    result, _, _ = run_research(
+        question="What is retrieval augmented generation and why is it useful?",
+        log_file=log_file,
+    )
+
+    # Read back and display the logged entries
+    print(f"\n   📂 Log file contents ({log_file}):")
+    try:
+        from src.local_logger import LocalFileLogger
+        logger = LocalFileLogger.__new__(LocalFileLogger)
+        logger.log_path = log_file
+        logger.print_summary_table()
+    except Exception as e:
+        print(f"   Error reading log: {e}")
+
+
 def main():
     """Run the full demo suite with rate-limit-friendly delays."""
     # Load env
@@ -266,6 +309,10 @@ def main():
 
     # Demo 6: Dynamic Project Routing
     demo_6_dynamic_routing()
+    pause(8, "Waiting between demos to respect Gemini rate limits")
+
+    # Demo 7: Local File Logging
+    demo_7_local_logging()
 
     # Flush all traces
     try:
@@ -302,12 +349,17 @@ def main():
     │  ✅ Projects:                                              │
     │     • 'research-agent-experiments' has Demo 6's trace      │
     │                                                            │
+    │  ✅ Local log file:                                        │
+    │     • logs/demo_trace.jsonl created with 6 entries per run │
+    │     • Each line has: name, run_type, inputs, outputs,      │
+    │       metadata, tags, tokens, latency                      │
+    │                                                            │
     │  ❌ Not traced:                                            │
     │     • Demo 5 (selective tracing disabled)                  │
     └─────────────────────────────────────────────────────────────┘
     
-    Total Gemini API calls: ~12 (4 demos × 3 calls each)
-    Estimated time: ~3-4 minutes (with rate limit delays)
+    Total Gemini API calls: ~15 (5 demos × 3 calls each)
+    Estimated time: ~4-5 minutes (with rate limit delays)
     """)
 
 

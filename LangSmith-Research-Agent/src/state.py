@@ -33,3 +33,6 @@ class ResearchState(TypedDict, total=False):
     # --- LangSmith Metadata ---
     feedback_run_id: str               # Run ID for attaching feedback later
     total_llm_calls: int               # Counter for rate limit awareness
+
+    # --- Per-Node Trace Data (for factual local logging) ---
+    node_traces: List[dict]            # Real instrumentation data from each node
