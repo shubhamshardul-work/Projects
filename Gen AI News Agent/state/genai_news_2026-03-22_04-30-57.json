@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 249720",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 129211",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 9858",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Tinybox \u2013 Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "summary": "HN Score: 383. Comments: 232",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "summary": "HN Score: 44. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The paddle wheel aircraft carriers of Lake Michigan",
+      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+      "summary": "HN Score: 61. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "summary": "HN Score: 104. Comments: 58",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "summary": "HN Score: 61. Comments: 42",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns",
+      "url": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+      "summary": "Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that artificial intelligence was used to generate the text.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "url": "http://arxiv.org/abs/2603.19229v1",
+      "summary": "There are two major categories of embodied navigation: Vision-Language Navigation (VLN), where agents navigate by following natural language instructions; and Object-Goal Navigation (OGN), where agent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Learning and Equilibrium Computation with Ranking Feedback",
+      "url": "http://arxiv.org/abs/2603.19221v1",
+      "summary": "Online learning in arbitrary, and possibly adversarial, environments has been extensively studied in sequential decision-making, and it is closely connected to equilibrium computation in game theory. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding",
+      "url": "http://arxiv.org/abs/2603.19219v1",
+      "summary": "With the growing adoption of vision-language-action models and world models in autonomous driving systems, scalable image tokenization becomes crucial as the interface for the visual modality. However...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising",
+      "url": "http://arxiv.org/abs/2603.19216v1",
+      "summary": "Understanding and generating 3D objects as compositions of meaningful parts is fundamental to human perception and reasoning. However, most text-to-3D methods overlook the semantic and functional stru...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence",
+      "url": "http://arxiv.org/abs/2603.19215v1",
+      "summary": "Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction. Swinnerton-Dyer (1981) proved that $R$-equivalence is trivial on $V(k)$ except perhaps if $V$ is one of three special t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 249720",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 129211",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 9858",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Tinybox \u2013 Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "summary": "HN Score: 383. Comments: 232",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Trivy ecosystem supply chain briefly compromised",
+      "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+      "summary": "HN Score: 44. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The paddle wheel aircraft carriers of Lake Michigan",
+      "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+      "summary": "HN Score: 61. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+      "summary": "HN Score: 104. Comments: 58",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "summary": "HN Score: 61. Comments: 42",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+        "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+        "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that "
+      },
+      {
+        "title": "[RSS] Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+        "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+        "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility. "
+      },
+      {
+        "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+        "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+        "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+      },
+      {
+        "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "[HackerNews] The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+        "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+        "summary": "HN Score: 61. Comments: 42"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+        "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+        "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 9858"
+      },
+      {
+        "title": "[HackerNews] Tinybox \u2013 Offline AI device 120B parameters",
+        "url": "https://tinygrad.org/#tinybox",
+        "summary": "HN Score: 383. Comments: 232"
+      },
+      {
+        "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 249720"
+      },
+      {
+        "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 129211"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+        "url": "http://arxiv.org/abs/2603.19220v1",
+        "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+      },
+      {
+        "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+        "url": "http://arxiv.org/abs/2603.19223v1",
+        "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+      },
+      {
+        "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+        "url": "http://arxiv.org/abs/2603.19209v1",
+        "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a..."
+      },
+      {
+        "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+        "url": "http://arxiv.org/abs/2603.19225v1",
+        "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+      },
+      {
+        "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+        "url": "http://arxiv.org/abs/2603.19222v1",
+        "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput",
+      "url": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "summary": "Anthropic submitted two sworn declarations to a California federal court late Friday afternoon, pushing back on the Pentagon's assertion that the AI company poses an \"unacceptable risk to national security\" and arguing that the government's case relies on technical misunderstandings and claims that "
+    },
+    {
+      "title": "[RSS] Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference",
+      "url": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "summary": "Despite investor fears of an AI bubble, Nvidia's latest conference shows that most in the industry aren't concerned by that possibility. "
+    },
+    {
+      "title": "[RSS] Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[HackerNews] The Impact of AI on Game Dev Jobs. Open to Work Crisis",
+      "url": "https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922",
+      "summary": "HN Score: 61. Comments: 42"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 9858"
+    },
+    {
+      "title": "[HackerNews] Tinybox \u2013 Offline AI device 120B parameters",
+      "url": "https://tinygrad.org/#tinybox",
+      "summary": "HN Score: 383. Comments: 232"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 249720"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 129211"
+    },
+    {
+      "title": "[ArXiv] Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2603.19220v1",
+      "summary": "We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated parameters that delivers best-in-class reasoning and strong agentic capabilities. Despite its compact size, its mathematical an..."
+    },
+    {
+      "title": "[ArXiv] F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World",
+      "url": "http://arxiv.org/abs/2603.19223v1",
+      "summary": "We present F2LLM-v2, a new family of general-purpose, multilingual embedding models in 8 distinct sizes ranging from 80M to 14B. Trained on a newly curated composite of 60 million publicly available h..."
+    },
+    {
+      "title": "[ArXiv] Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders",
+      "url": "http://arxiv.org/abs/2603.19209v1",
+      "summary": "Large vision--language models (VLMs) often use a frozen vision backbone, whose image features are mapped into a large language model through a lightweight connector. While transformer-based encoders a..."
+    },
+    {
+      "title": "[ArXiv] FinTradeBench: A Financial Reasoning Benchmark for LLMs",
+      "url": "http://arxiv.org/abs/2603.19225v1",
+      "summary": "Real-world financial decision-making is a challenging problem that requires reasoning over heterogeneous signals, including company fundamentals derived from regulatory filings and trading signals com..."
+    },
+    {
+      "title": "[ArXiv] Spectrally-Guided Diffusion Noise Schedules",
+      "url": "http://arxiv.org/abs/2603.19222v1",
+      "summary": "Denoising diffusion models are widely used for high-quality image and video generation. Their performance depends on noise schedules, which define the distribution of noise levels applied during train..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Strategic Battles, Developer Gains, and Frontier Breakthroughs\n\nToday's AI intelligence report highlights a complex interplay of strategic maneuvers, rapid technological advancements, and emerging real-world challenges. From high-stakes government contracts and evolving market sentiment to cutting-edge model releases and foundational research, the AI landscape continues to accelerate and diversify.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Pentagon vs. Anthropic: A National Security Standoff](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/)**\nA new court filing reveals a significant disconnect between the Pentagon's public stance on Anthropic's \"unacceptable risk to national security\" and prior internal communications suggesting near alignment. This legal battle underscores the immense strategic importance and inherent complexities of AI companies partnering with government entities, raising questions about due diligence, communication, and the future of defense AI contracts. Business leaders should watch this case closely for precedents on national security reviews and the operational risks of government engagement.\n\n### **[Why Wall Street Wasn't Won Over by Nvidia's Big Conference](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/)**\nDespite Nvidia's latest conference showcasing robust industry confidence and innovation, Wall Street remained largely unconvinced, fueling ongoing fears of an \"AI bubble.\" This divergence highlights a growing skepticism among investors regarding the long-term sustainability and immediate profitability of the AI boom, even as industry insiders remain bullish. Executives should consider this market sentiment when evaluating investment strategies and communicating growth projections.\n\n### **[Microsoft Rolls Back Some Copilot AI Bloat on Windows](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/)**\nMicrosoft is strategically reducing Copilot entry points across Windows apps like Photos, Widgets, and Notepad, signaling a refinement in its AI integration strategy. This move suggests a recognition that \"more AI\" isn't always \"better AI\" for user experience, prompting a shift towards more thoughtful and less intrusive implementation. This pivot offers a valuable lesson for product leaders on balancing innovation with user adoption and avoiding feature fatigue.\n\n### **[The Impact of AI on Game Dev Jobs: An Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922)**\nA HackerNews discussion highlights growing concerns within the game development community about AI's impact on jobs, with many reporting an \"open to work crisis.\" This reflects a broader industry trend where AI tools are automating tasks, leading to shifts in required skill sets and potential workforce reductions. Business leaders in creative and technical fields must proactively address these changes through reskilling initiatives and strategic workforce planning.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Mistral AI Releases Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**\nMistral AI has released `Mistral-Small-4-119B-2603`, a new trending model on Hugging Face, featuring `safetensors`, `mistral3`, `vLLM`, and multilingual support (en, fr, de). This model's popularity and tags suggest a focus on efficient deployment and broad language capabilities, making it a strong candidate for developers building performant, multilingual applications. Architects should evaluate its potential for integration into existing or new projects requiring robust language understanding.\n\n### **[Tinybox \u2013 An Offline AI Device with 120B Parameters](https://tinygrad.org/#tinybox)**\nThe \"Tinybox\" project introduces an offline AI device capable of running models with up to 120B parameters, garnering significant attention on HackerNews. This innovation pushes the boundaries of edge AI, offering developers the potential to deploy powerful models locally, enhancing privacy, reducing latency, and enabling AI in disconnected environments. Engineers should explore Tinybox for applications where on-device processing and data sovereignty are critical.\n\n### **[HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**\nThis trending Hugging Face model, `Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive`, highlights the ongoing demand for uncensored and more \"aggressive\" AI models, particularly for specific use cases. With tags like `gguf`, `moe`, and `multimodal`, it suggests a powerful, versatile model for developers seeking less constrained outputs. Practitioners should consider the ethical implications and specific application needs when choosing such models.\n\n### **[Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nAnother popular Qwen3.5 variant, `Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled`, emphasizes reasoning capabilities and leverages distillation from a high-performing model like Claude 4.6 Opus. This trend of distilling knowledge from larger, more capable models into smaller, more efficient ones is crucial for optimizing performance and resource usage. Developers focused on complex reasoning tasks should investigate this model for its potential to deliver advanced intelligence in a more compact package.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation](http://arxiv.org/abs/2603.19220v1)**\nNVIDIA introduces Nemotron-Cascade 2, an open 30B MoE model with only 3B activated parameters, demonstrating best-in-class reasoning and strong agentic capabilities. This research showcases a significant leap in developing compact yet powerful LLMs through advanced post-training techniques like Cascade RL and multi-domain on-policy distillation. Researchers should delve into its methodology for insights into efficient model scaling and agentic AI development.\n\n### **[F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World](http://arxiv.org/abs/2603.19223v1)**\nF2LLM-v2 presents a new family of general-purpose, multilingual embedding models in 8 distinct sizes (80M to 14B), trained on a massive 60 million publicly available dataset. This work addresses the critical need for inclusive and efficient embeddings across diverse languages, significantly advancing the accessibility and performance of AI in a global context. Academics and deep-tech thinkers should explore F2LLM-v2 for its implications on cross-lingual understanding and global AI applications.\n\n### **[Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders](http://arxiv.org/abs/2603.19209v1)**\nThis paper investigates whether Vision Transformers are indispensable for Large Vision-Language Models (VLMs), evaluating State Space Models (SSMs) as alternative vision encoders. The research challenges conventional wisdom by exploring more efficient and potentially performant architectures for multimodal AI. Researchers should consider the findings for future VLM design, particularly in optimizing computational resources and exploring novel architectural paradigms.\n\n### **[FinTradeBench: A Financial Reasoning Benchmark for LLMs](http://arxiv.org/abs/2603.19225v1)**\nFinTradeBench introduces a new benchmark specifically designed to evaluate LLMs' ability to perform real-world financial decision-making, requiring reasoning over heterogeneous signals from regulatory filings and trading data. This benchmark is crucial for advancing the application of LLMs in complex financial domains, highlighting the need for robust reasoning capabilities beyond general knowledge. Academics in finance and AI should leverage FinTradeBench to push the boundaries of LLM performance in high-stakes environments.\n\n### **[Spectrally-Guided Diffusion Noise Schedules](http://arxiv.org/abs/2603.19222v1)**\nThis research explores Spectrally-Guided Diffusion Noise Schedules to enhance the performance of denoising diffusion models for high-quality image and video generation. By optimizing noise schedules, which are fundamental to diffusion model training, this work aims to improve the fidelity and efficiency of generative AI. Researchers in generative models should investigate these novel noise scheduling techniques for potential breakthroughs in visual content creation.\n\n---\n\n**Today's Signal:** The AI ecosystem is simultaneously pushing the boundaries of technical innovation with more efficient and capable models, while also grappling with the complex strategic, ethical, and economic implications of its rapid deployment across industries.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [Generative AI recent news - AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Publisher pulls horror novel \u2018Shy Girl\u2019 over AI concerns ](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/) | Hachette Book Group said it will not be publishing \u201cShy Girl\u201d over concerns that... |\n| [Delve accused of misleading customers with \u2018fake compliance\u2019 ](https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/) | An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convinc... |\n| [Why Wall Street wasn\u2019t won over by Nvidia\u2019s big conference ](https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/) | Despite investor fears of an AI bubble, Nvidia's latest conference shows that mo... |\n| [New court filing reveals Pentagon told Anthropic the two sides were nearly aligned \u2014 a week after Trump declared the relationship kaput ](https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/) | Anthropic submitted two sworn declarations to a California federal court late Fr... |\n| [Microsoft rolls back some of its Copilot AI bloat on Windows ](https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/) | The company is reducing Copilot entry points on Windows, starting with Photos, W... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [NavTrust: Benchmarking Trustworthiness for Embodied Navigation ](http://arxiv.org/abs/2603.19229v1) | There are two major categories of embodied navigation: Vision-Language Navigatio... |\n| [FinTradeBench: A Financial Reasoning Benchmark for LLMs ](http://arxiv.org/abs/2603.19225v1) | Real-world financial decision-making is a challenging problem that requires reas... |\n| [F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World ](http://arxiv.org/abs/2603.19223v1) | We present F2LLM-v2, a new family of general-purpose, multilingual embedding mod... |\n| [Spectrally-Guided Diffusion Noise Schedules ](http://arxiv.org/abs/2603.19222v1) | Denoising diffusion models are widely used for high-quality image and video gene... |\n| [Online Learning and Equilibrium Computation with Ranking Feedback ](http://arxiv.org/abs/2603.19221v1) | Online learning in arbitrary, and possibly adversarial, environments has been ex... |\n| [Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation ](http://arxiv.org/abs/2603.19220v1) | We introduce Nemotron-Cascade 2, an open 30B MoE model with 3B activated paramet... |\n| [DriveTok: 3D Driving Scene Tokenization for Unified Multi-View Reconstruction and Understanding ](http://arxiv.org/abs/2603.19219v1) | With the growing adoption of vision-language-action models and world models in a... |\n| [DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising ](http://arxiv.org/abs/2603.19216v1) | Understanding and generating 3D objects as compositions of meaningful parts is f... |\n| [$R$-equivalence on Cubic Surfaces I: Existing Cases with Non-Trivial Universal Equivalence ](http://arxiv.org/abs/2603.19215v1) | Let $V$ be a smooth cubic surface over a $p$-adic field $k$ with good reduction.... |\n| [Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders ](http://arxiv.org/abs/2603.19209v1) | Large vision--language models (VLMs) often use a frozen vision backbone, whose i... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [mistralai/Mistral-Small-4-119B-2603 ](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 985... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Tinybox \u2013 Offline AI device 120B parameters](https://tinygrad.org/#tinybox) | HN Score: 383. Comments: 232 |\n| [[HackerNews] Trivy ecosystem supply chain briefly compromised](https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23) | HN Score: 44. Comments: 12 |\n| [[HackerNews] The paddle wheel aircraft carriers of Lake Michigan](https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/) | HN Score: 61. Comments: 6 |\n| [[HackerNews] Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646) | HN Score: 104. Comments: 58 |\n| [[HackerNews] The Impact of AI on Game Dev Jobs. Open to Work Crisis](https://darkounity.com/blog-post?id=the-impact-of-ai-on-game-dev-jobs-open-to-work-crisis--1774128585922) | HN Score: 61. Comments: 42 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
