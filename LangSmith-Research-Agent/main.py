@@ -44,8 +44,10 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
     - Dynamic project routing via tracing_context
     - Feedback run ID capture for async feedback
     - Local file logging of trace data (when log_file is specified)
+    - LangSmith API logging (cloud-sourced trace reports)
     """
     import langsmith as ls
+    from langsmith import traceable
     from src.graph import build_graph
 
     # Generate thread ID if not provided (for multi-turn tracking)
@@ -77,13 +79,28 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
         "total_llm_calls": 0,
     }
 
+    # ── Wrap graph.invoke with @traceable to capture the LangSmith trace ID ──
+    @traceable(name="ResearchAgent", run_type="chain")
+    def _run_graph(input_state: dict) -> dict:
+        return graph.invoke(input_state)
+
+    langsmith_trace_id = None  # Will be captured after invocation
+
     # ── LangSmith: Dynamic project routing ──
     # You can send traces to different projects based on context
     if project_name:
         with ls.tracing_context(project_name=project_name):
-            result = graph.invoke(input_state)
+            result = _run_graph(input_state)
     else:
-        result = graph.invoke(input_state)
+        result = _run_graph(input_state)
+
+    # Capture the LangSmith trace ID from the @traceable wrapper
+    try:
+        run_tree = ls.get_current_run_tree()
+        if run_tree:
+            langsmith_trace_id = str(run_tree.trace_id)
+    except Exception:
+        pass
 
     # Display results
     report = result.get("final_report", "No report generated.")
@@ -103,6 +120,41 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
     print(f"🧵 Thread ID: {thread_id}")
     if feedback_run_id:
         print(f"📝 Feedback Run ID: {feedback_run_id}")
+
+    # ── LangSmith API Logging (cloud-sourced) ──
+    # Fetches the trace from LangSmith's cloud API and generates
+    # a separate report. Runs ALONGSIDE (not instead of) local logging.
+    if os.getenv("LANGSMITH_TRACING") == "true":
+        try:
+            from src.langsmith_api_logger import LangSmithAPILogger
+            api_logger = LangSmithAPILogger(output_dir=os.path.dirname(log_file) if log_file else "logs")
+
+            # If we captured a trace_id from the @traceable wrapper, use it.
+            # Otherwise, fall back to fetching the most recent trace.
+            if langsmith_trace_id:
+                api_logger.fetch_and_log(
+                    trace_id=langsmith_trace_id,
+                    question=question,
+                    thread_id=thread_id,
+                )
+            else:
+                # Fall back: fetch the most recent root run from the project
+                from langsmith import Client
+                client = Client()
+                proj = project_name or os.environ.get("LANGSMITH_PROJECT", "langsmith-research-agent")
+                recent_runs = list(client.list_runs(
+                    project_name=proj,
+                    is_root=True,
+                    limit=1,
+                ))
+                if recent_runs:
+                    api_logger.fetch_and_log(
+                        trace_id=str(recent_runs[0].trace_id),
+                        question=question,
+                        thread_id=thread_id,
+                    )
+        except Exception as e:
+            print(f"⚠️  [LangSmith API Logger] Skipped: {e}")
 
     return result, thread_id, feedback_run_id
 

@@ -1,21 +1,21 @@
 # 📊 LangSmith Local Trace Report
 
-**Generated:** 2026-03-22 18:49:41 UTC
+**Generated:** 2026-03-22 19:16:48 UTC
 **Question:** What is RAG?
-**Thread ID:** `research-52ef2388`
-**Trace ID:** `trace-9ed10bc8e76e`
+**Thread ID:** `research-5de4a041`
+**Trace ID:** `trace-26aeb847f946`
 **Project:** `langsmith-research-agent`
 **Environment:** Python `3.12.0b4` • Darwin (arm64)
 ## 🌳 Trace Overview
 
 | # | Node | Type | Latency | Tokens (In/Out) | Cost | Finish | Status |
 |---|------|------|---------|-----------------|------|--------|--------|
-| 1 | **Route Question** | 🤖 `llm` | 1,333.5ms | 89/61 (150) | $0.000050 | `STOP` | ✅ |
+| 1 | **Route Question** | 🤖 `llm` | 1,804.3ms | 89/61 (150) | $0.000050 | `STOP` | ✅ |
 | 2 | **Document Retriever** | 📄 `retriever` | 0.0ms | — | — | `—` | ✅ |
-| 3 | **Document Grader** | 🤖 `llm` | 5,911.0ms | 200/189 (389) | $0.000143 | `STOP` | ✅ |
-| 4 | **Generate Answer** | 🤖 `llm` | 4,912.6ms | 101/144 (245) | $0.000102 | `STOP` | ✅ |
+| 3 | **Document Grader** | 🤖 `llm` | 5,616.9ms | 200/189 (389) | $0.000143 | `STOP` | ✅ |
+| 4 | **Generate Answer** | 🤖 `llm` | 4,321.3ms | 101/144 (245) | $0.000102 | `STOP` | ✅ |
 | 5 | **Format Report** | 🔗 `chain` | 0.0ms | — | — | `—` | ✅ |
-| | **TOTAL** | | **12,157.1ms** | **784** | **$0.000295** | | |
+| | **TOTAL** | | **11,742.6ms** | **784** | **$0.000295** | | |
 
 ---
 
@@ -26,10 +26,10 @@
 | Field | Value |
 |-------|-------|
 | **Run Type** | `llm` |
-| **Run ID** | `run-43e0666c` |
-| **Parent Run** | `trace-9ed10bc8e76e` |
-| **Latency** | `1,333.5ms` ⏱️ *real* |
-| **Thread ID** | `research-52ef2388` |
+| **Run ID** | `run-239a8b86` |
+| **Parent Run** | `trace-26aeb847f946` |
+| **Latency** | `1,804.3ms` ⏱️ *real* |
+| **Thread ID** | `research-5de4a041` |
 | **Finish Reason** | `STOP` |
 | **Status** | `success` |
 
@@ -105,10 +105,10 @@ retrieve
 | Field | Value |
 |-------|-------|
 | **Run Type** | `retriever` |
-| **Run ID** | `run-f41875be` |
-| **Parent Run** | `trace-9ed10bc8e76e` |
+| **Run ID** | `run-86c5b6dd` |
+| **Parent Run** | `trace-26aeb847f946` |
 | **Latency** | `0.0ms` ⏱️ *real* |
-| **Thread ID** | `research-52ef2388` |
+| **Thread ID** | `research-5de4a041` |
 | **Status** | `success` |
 
 **Tags:** `retriever` `knowledge-base` `vector-store`
@@ -168,10 +168,10 @@ retrieve
 | Field | Value |
 |-------|-------|
 | **Run Type** | `llm` |
-| **Run ID** | `run-ea6a2735` |
-| **Parent Run** | `trace-9ed10bc8e76e` |
-| **Latency** | `5,911.0ms` ⏱️ *real* |
-| **Thread ID** | `research-52ef2388` |
+| **Run ID** | `run-5622456f` |
+| **Parent Run** | `trace-26aeb847f946` |
+| **Latency** | `5,616.9ms` ⏱️ *real* |
+| **Thread ID** | `research-5de4a041` |
 | **Finish Reason** | `STOP` |
 | **Status** | `success` |
 
@@ -261,10 +261,10 @@ retrieve
 | Field | Value |
 |-------|-------|
 | **Run Type** | `llm` |
-| **Run ID** | `run-14beef81` |
-| **Parent Run** | `trace-9ed10bc8e76e` |
-| **Latency** | `4,912.6ms` ⏱️ *real* |
-| **Thread ID** | `research-52ef2388` |
+| **Run ID** | `run-bbecbb93` |
+| **Parent Run** | `trace-26aeb847f946` |
+| **Latency** | `4,321.3ms` ⏱️ *real* |
+| **Thread ID** | `research-5de4a041` |
 | **Finish Reason** | `STOP` |
 | **Status** | `success` |
 
@@ -339,10 +339,10 @@ Retrieval-Augmented Generation (RAG) is a technique that integrates information 
 | Field | Value |
 |-------|-------|
 | **Run Type** | `chain` |
-| **Run ID** | `run-a7a378c8` |
-| **Parent Run** | `trace-9ed10bc8e76e` |
+| **Run ID** | `run-0f71542c` |
+| **Parent Run** | `trace-26aeb847f946` |
 | **Latency** | `0.0ms` ⏱️ *real* |
-| **Thread ID** | `research-52ef2388` |
+| **Thread ID** | `research-5de4a041` |
 | **Status** | `success` |
 
 **Tags:** `formatter` `output`
@@ -381,4 +381,4 @@ Retrieval-Augmented Generation (RAG) is a technique that integrates information 
 
 ---
 
-*Local trace report • 5 runs • 2026-03-22 18:49:41 UTC*
+*Local trace report • 5 runs • 2026-03-22 19:16:48 UTC*
