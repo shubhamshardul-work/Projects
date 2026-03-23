@@ -35,7 +35,7 @@ def setup_langsmith():
         print(f"✅ LangSmith tracing enabled → project: {os.environ['LANGSMITH_PROJECT']}")
 
 
-def run_research(question: str, thread_id: str = None, project_name: str = None, log_file: str = None):
+def run_research(question: str, thread_id: str = None, project_name: str = None, log_dir: str = "logs"):
     """
     Run a single research query through the agent.
     
@@ -43,7 +43,7 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
     - Thread ID generation for conversation tracking
     - Dynamic project routing via tracing_context
     - Feedback run ID capture for async feedback
-    - Local file logging of trace data (when log_file is specified)
+    - Local file logging of trace data (when log_dir is specified)
     - LangSmith API logging (cloud-sourced trace reports)
     """
     import langsmith as ls
@@ -55,19 +55,24 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
         thread_id = f"research-{uuid.uuid4().hex[:8]}"
 
     # ── LangSmith: Local file logging ──
-    # When a log_file path is specified, all trace data is also
+    # When a log_dir path is specified, all trace data is also
     # written to a local .jsonl file for offline analysis.
     local_logger = None
-    if log_file:
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    local_log_file = None
+    
+    if log_dir:
+        os.makedirs(log_dir, exist_ok=True)
+        local_log_file = os.path.join(log_dir, f"Local_Logger_{timestamp}.jsonl")
         from src.local_logger import LocalFileLogger
-        local_logger = LocalFileLogger(log_file)
+        local_logger = LocalFileLogger(local_log_file)
 
     print(f"\n{'='*60}")
     print(f"🔍 Research Agent")
     print(f"   Question: {question}")
     print(f"   Thread:   {thread_id}")
     if local_logger:
-        print(f"   Log file: {log_file}")
+        print(f"   Log file: {local_log_file}")
     print(f"{'='*60}\n")
 
     graph = build_graph()
@@ -127,7 +132,7 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
     if os.getenv("LANGSMITH_TRACING") == "true":
         try:
             from src.langsmith_api_logger import LangSmithAPILogger
-            api_logger = LangSmithAPILogger(output_dir=os.path.dirname(log_file) if log_file else "logs")
+            api_logger = LangSmithAPILogger(output_dir=log_dir or "logs")
 
             # If we captured a trace_id from the @traceable wrapper, use it.
             # Otherwise, fall back to fetching the most recent trace.
@@ -136,6 +141,7 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
                     trace_id=langsmith_trace_id,
                     question=question,
                     thread_id=thread_id,
+                    timestamp=timestamp
                 )
             else:
                 # Fall back: fetch the most recent root run from the project
@@ -152,6 +158,7 @@ def run_research(question: str, thread_id: str = None, project_name: str = None,
                         trace_id=str(recent_runs[0].trace_id),
                         question=question,
                         thread_id=thread_id,
+                        timestamp=timestamp
                     )
         except Exception as e:
             print(f"⚠️  [LangSmith API Logger] Skipped: {e}")
@@ -303,10 +310,10 @@ def main():
         help="Save report to this file path",
     )
     parser.add_argument(
-        "--log-file", "-l",
+        "--log-dir", "-l",
         type=str,
-        default=None,
-        help="Path to write local trace logs in JSONL format (e.g., logs/traces.jsonl)",
+        default="logs",
+        help="Directory to save local trace logs",
     )
     args = parser.parse_args()
 
@@ -315,7 +322,7 @@ def main():
         question=args.question,
         thread_id=args.thread_id,
         project_name=args.project,
-        log_file=args.log_file,
+        log_dir=args.log_dir,
     )
 
     # Submit feedback if requested
