@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Briefs | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/category/ai-news-briefs/",
+      "summary": "[12/2/2025] Amazon releases new AI Trainium3 chip amid industry push to challenge NVIDIA's dominance \u2013 Amazon released a new AI chip today",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple\u00a0",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+      "url": "http://arxiv.org/abs/2603.20193v1",
+      "summary": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "url": "http://arxiv.org/abs/2603.20192v1",
+      "summary": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms",
+      "url": "http://arxiv.org/abs/2603.20189v1",
+      "summary": "Steering large-scale swarms in only a few control updates is challenging because real systems operate in sampled-data form: control inputs are updated intermittently and applied over finite intervals....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+      "url": "http://arxiv.org/abs/2603.20185v1",
+      "summary": "Video agentic models have advanced challenging video-language tasks. However, most agentic approaches still heavily rely on greedy parsing over densely sampled video frames, resulting in high computat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Kolmogorov-Arnold causal generative models",
+      "url": "http://arxiv.org/abs/2603.20184v1",
+      "summary": "Causal generative models provide a principled framework for answering observational, interventional, and counterfactual queries from observational data. However, many deep causal models rely on highly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning",
+      "url": "http://arxiv.org/abs/2603.20181v1",
+      "summary": "The use of ML in cybersecurity has long been impaired by generalization issues: Models that work well in controlled scenarios fail to maintain performance in production. The root cause often lies in M...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter",
+      "url": "http://arxiv.org/abs/2511.16665v3",
+      "summary": "The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex problem-solving. However, training these reasoning mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Greedy Frame Selection for Long Video Understanding",
+      "url": "http://arxiv.org/abs/2603.20180v1",
+      "summary": "Large vision--language models (VLMs) are increasingly applied to long-video question answering, yet inference is often bottlenecked by the number of input frames and resulting visual tokens. Naive spa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+      "url": "http://arxiv.org/abs/2603.20179v1",
+      "summary": "Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Unified Framework to Quantify Cultural Intelligence of AI",
+      "url": "http://arxiv.org/abs/2603.01211v2",
+      "summary": "As generative AI technologies are increasingly being launched across the globe, assessing their competence to operate in different cultural contexts is exigently becoming a priority. While recent year...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 275623",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 141370",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 10331",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "url": "https://github.com/danveloper/flash-moe",
+      "summary": "HN Score: 328. Comments: 109",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "summary": "HN Score: 295. Comments: 77",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "summary": "HN Score: 57. Comments: 11",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "summary": "HN Score: 97. Comments: 130",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLMs predict my coffee",
+      "url": "https://dynomight.net/coffee/",
+      "summary": "HN Score: 95. Comments: 40",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Briefs | Radical Data Science",
+      "url": "https://radicaldatascience.wordpress.com/category/ai-news-briefs/",
+      "summary": "[12/2/2025] Amazon releases new AI Trainium3 chip amid industry push to challenge NVIDIA's dominance \u2013 Amazon released a new AI chip today",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Delve accused of misleading customers with \u2018fake compliance\u2019",
+      "url": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+      "summary": "An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convincing \u201chundreds of customers they were compliant\u201d with privacy and security regulations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple\u00a0",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+      "url": "http://arxiv.org/abs/2603.20193v1",
+      "summary": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "url": "http://arxiv.org/abs/2603.20192v1",
+      "summary": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms",
+      "url": "http://arxiv.org/abs/2603.20189v1",
+      "summary": "Steering large-scale swarms in only a few control updates is challenging because real systems operate in sampled-data form: control inputs are updated intermittently and applied over finite intervals....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+      "url": "http://arxiv.org/abs/2603.20185v1",
+      "summary": "Video agentic models have advanced challenging video-language tasks. However, most agentic approaches still heavily rely on greedy parsing over densely sampled video frames, resulting in high computat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Kolmogorov-Arnold causal generative models",
+      "url": "http://arxiv.org/abs/2603.20184v1",
+      "summary": "Causal generative models provide a principled framework for answering observational, interventional, and counterfactual queries from observational data. However, many deep causal models rely on highly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning",
+      "url": "http://arxiv.org/abs/2603.20181v1",
+      "summary": "The use of ML in cybersecurity has long been impaired by generalization issues: Models that work well in controlled scenarios fail to maintain performance in production. The root cause often lies in M...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter",
+      "url": "http://arxiv.org/abs/2511.16665v3",
+      "summary": "The emergence of Large Language Models (LLMs) with strong reasoning capabilities marks a significant milestone, unlocking new frontiers in complex problem-solving. However, training these reasoning mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Greedy Frame Selection for Long Video Understanding",
+      "url": "http://arxiv.org/abs/2603.20180v1",
+      "summary": "Large vision--language models (VLMs) are increasingly applied to long-video question answering, yet inference is often bottlenecked by the number of input frames and resulting visual tokens. Naive spa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+      "url": "http://arxiv.org/abs/2603.20179v1",
+      "summary": "Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Unified Framework to Quantify Cultural Intelligence of AI",
+      "url": "http://arxiv.org/abs/2603.01211v2",
+      "summary": "As generative AI technologies are increasingly being launched across the globe, assessing their competence to operate in different cultural contexts is exigently becoming a priority. While recent year...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 275623",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 141370",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 10331",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "url": "https://github.com/danveloper/flash-moe",
+      "summary": "HN Score: 328. Comments: 109",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GrapheneOS will remain usable by anyone without requiring personal information",
+      "url": "https://grapheneos.social/@GrapheneOS/116261301913660830",
+      "summary": "HN Score: 295. Comments: 77",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "summary": "HN Score: 57. Comments: 11",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] What Young Workers Are Doing to AI-Proof Themselves",
+      "url": "https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284",
+      "summary": "HN Score: 97. Comments: 130",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLMs predict my coffee",
+      "url": "https://dynomight.net/coffee/",
+      "summary": "HN Score: 95. Comments: 40",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple\u00a0",
+        "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+        "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal."
+      },
+      {
+        "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "[RSS] Do you want to build a robot snowman?",
+        "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+        "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future."
+      },
+      {
+        "title": "[RSS] Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+        "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+        "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising."
+      },
+      {
+        "title": "[RSS] Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+        "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+        "summary": "Building on top of a Chinese model feels particularly fraught right now."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+        "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+        "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 10331"
+      },
+      {
+        "title": "[HackerNews] Flash-MoE: Running a 397B Parameter Model on a Laptop",
+        "url": "https://github.com/danveloper/flash-moe",
+        "summary": "HN Score: 328. Comments: 109"
+      },
+      {
+        "title": "[HackerNews] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+        "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+        "summary": "HN Score: 57. Comments: 11"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+        "url": "http://arxiv.org/abs/2603.20179v1",
+        "summary": "Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP..."
+      },
+      {
+        "title": "[ArXiv] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+        "url": "http://arxiv.org/abs/2603.20192v1",
+        "summary": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements...."
+      },
+      {
+        "title": "[ArXiv] Kolmogorov-Arnold causal generative models",
+        "url": "http://arxiv.org/abs/2603.20184v1",
+        "summary": "Causal generative models provide a principled framework for answering observational, interventional, and counterfactual queries from observational data. However, many deep causal models rely on highly..."
+      },
+      {
+        "title": "[ArXiv] From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+        "url": "http://arxiv.org/abs/2603.20193v1",
+        "summary": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl..."
+      },
+      {
+        "title": "[ArXiv] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+        "url": "http://arxiv.org/abs/2603.20185v1",
+        "summary": "Video agentic models have advanced challenging video-language tasks. However, most agentic approaches still heavily rely on greedy parsing over densely sampled video frames, resulting in high computat..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple\u00a0",
+      "url": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "summary": "Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invited me on a private tour of the chip lab at the heart of the deal."
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[RSS] Do you want to build a robot snowman?",
+      "url": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+      "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC keynote and debated what it means for Nvidia\u2019s future."
+    },
+    {
+      "title": "[RSS] Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+      "url": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+      "summary": "Elon Musk recently outlined ambitious plans for a chip-building collaboration Tesla and SpaceX \u2014 but he has a history of overpromising."
+    },
+    {
+      "title": "[RSS] Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
+      "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "summary": "Building on top of a Chinese model feels particularly fraught right now."
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Small-4-119B-2603",
+      "url": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 10331"
+    },
+    {
+      "title": "[HackerNews] Flash-MoE: Running a 397B Parameter Model on a Laptop",
+      "url": "https://github.com/danveloper/flash-moe",
+      "summary": "HN Score: 328. Comments: 109"
+    },
+    {
+      "title": "[HackerNews] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos",
+      "url": "https://bay41.com/posts/tiiny-ai-pocket-lab-review/",
+      "summary": "HN Score: 57. Comments: 11"
+    },
+    {
+      "title": "[ArXiv] AI Agents Can Already Autonomously Perform Experimental High Energy Physics",
+      "url": "http://arxiv.org/abs/2603.20179v1",
+      "summary": "Large language model-based AI agents are now able to autonomously execute substantial portions of a high energy physics (HEP) analysis pipeline with minimal expert-curated input. Given access to a HEP..."
+    },
+    {
+      "title": "[ArXiv] LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "url": "http://arxiv.org/abs/2603.20192v1",
+      "summary": "Recent advances in diffusion models have significantly improved text-to-video generation, enabling personalized content creation with fine-grained control over both foreground and background elements...."
+    },
+    {
+      "title": "[ArXiv] Kolmogorov-Arnold causal generative models",
+      "url": "http://arxiv.org/abs/2603.20184v1",
+      "summary": "Causal generative models provide a principled framework for answering observational, interventional, and counterfactual queries from observational data. However, many deep causal models rely on highly..."
+    },
+    {
+      "title": "[ArXiv] From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+      "url": "http://arxiv.org/abs/2603.20193v1",
+      "summary": "Existing tampering detection benchmarks largely rely on object masks, which severely misalign with the true edit signal: many pixels inside a mask are untouched or only trivially modified, while subtl..."
+    },
+    {
+      "title": "[ArXiv] VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking",
+      "url": "http://arxiv.org/abs/2603.20185v1",
+      "summary": "Video agentic models have advanced challenging video-language tasks. However, most agentic approaches still heavily rely on greedy parsing over densely sampled video frames, resulting in high computat..."
+    }
+  ],
+  "final_report": "# AI's Dual Front: The Infrastructure Race Heats Up as Research Pushes New Frontiers\n\nToday's intelligence report reveals a fierce battle for AI's foundational layers, from custom silicon to geopolitical model dependencies, while simultaneously showcasing groundbreaking advancements that democratize powerful AI and unlock new scientific capabilities.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/)**\nAmazon's significant investment in custom AI silicon, Trainium, is paying off, attracting major players like Anthropic, OpenAI, and Apple. This strategic move by AWS underscores the critical importance of vertical integration and cost efficiency in AI infrastructure, positioning Amazon as a key enabler for the industry's biggest innovators. The ability to offer optimized, proprietary hardware provides a significant competitive advantage in the race to scale AI capabilities.\n\n### **[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**\nWhile specific details are pending, the announcement of ChatGPT 5.4 signals another significant leap in large language model capabilities. For business leaders, each major model iteration from OpenAI can redefine market expectations, impact product development roadmaps, and shift competitive landscapes, demanding close attention to its potential applications and strategic implications.\n\n### **[Do you want to build a robot snowman?](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/)**\nA recap of Jensen Huang's GTC keynote highlights Nvidia's continued dominance and strategic vision in the AI hardware and robotics space. This discussion is crucial for investors and executives tracking the future of AI infrastructure, as Nvidia's innovations often set the pace for the entire industry's computational backbone and emerging applications.\n\n### **[Elon Musk unveils chip manufacturing plans for SpaceX and Tesla](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/)**\nElon Musk's ambitious plans for Tesla and SpaceX to collaborate on chip manufacturing signal a growing trend of major tech players pursuing vertical integration for specialized AI hardware. While Musk has a history of bold promises, this move reflects a strategic imperative to control critical supply chains and optimize performance for specific AI workloads, albeit with inherent execution risks.\n\n### **[Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)**\nThe revelation that Cursor's new coding model leverages Moonshot AI's Kimi model raises significant strategic and geopolitical questions. For executives, this highlights the complex interplay of global AI development, potential supply chain dependencies, and the increasing scrutiny around the origins and security of foundational models, especially in sensitive application areas like code generation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[mistralai/Mistral-Small-4-119B-2603](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603)**\nMistral AI continues to be a prolific contributor to the open-source AI ecosystem with its new `Mistral-Small-4-119B-2603` model, quickly trending on HuggingFace. Developers should explore this model, which supports `vLLM` and multiple languages (English, French, German), for its potential in efficient, high-performance inference across various applications. Its rapid adoption suggests it's a strong candidate for integration into new and existing projects.\n\n### **[Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe)**\nThe \"Flash-MoE\" project demonstrates a remarkable breakthrough in model efficiency, enabling a massive 397B parameter model to run on a laptop. This is a must-watch for engineers focused on local AI deployment and resource-constrained environments, showcasing innovative techniques that could democratize access to powerful models without requiring extensive cloud infrastructure.\n\n### **[I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/)**\nThis fascinating reverse-engineering effort highlights the ingenuity within the developer community and offers insights into the design principles of compact AI hardware. Practitioners interested in embedded AI, hardware hacking, or simply understanding the practicalities of bringing AI to edge devices will find this a compelling read and a source of inspiration.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[AI Agents Can Already Autonomously Perform Experimental High Energy Physics](http://arxiv.org/abs/2603.20179v1)**\nThis groundbreaking research demonstrates that large language model-based AI agents can autonomously execute substantial portions of complex high energy physics analysis pipelines. This signifies a major step towards automating scientific discovery, potentially accelerating research in fields requiring extensive data analysis and complex experimental workflows with minimal human intervention.\n\n### **[LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation](http://arxiv.org/abs/2603.20192v1)**\nLumosX pushes the boundaries of personalized video generation using diffusion models, enabling fine-grained control over identities and attributes within generated content. This work has profound implications for creating highly customized media, synthetic data generation, and advancing the realism and controllability of AI-powered visual content.\n\n### **[Kolmogorov-Arnold causal generative models](http://arxiv.org/abs/2603.20184v1)**\nThis paper introduces Kolmogorov-Arnold causal generative models, offering a principled framework for answering observational, interventional, and counterfactual queries from data. Researchers focused on explainable AI and robust decision-making will find this work crucial for developing more reliable and interpretable causal models, moving beyond the limitations of highly complex deep learning architectures.\n\n### **[From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering](http://arxiv.org/abs/2603.20193v1)**\nAddressing the critical issue of AI-generated image manipulation, this research proposes a new taxonomy, benchmark, and metrics for VLM image tampering detection. This is vital for researchers working on AI safety, trust, and forensic analysis, as it provides better tools to understand and combat the increasingly sophisticated methods of image alteration.\n\n### **[VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking](http://arxiv.org/abs/2603.20185v1)**\nVideoSeek introduces an innovative approach to long-horizon video understanding by employing tool-guided seeking, moving beyond greedy parsing of densely sampled frames. This research is highly relevant for academics developing more efficient and scalable video agents, addressing the computational challenges inherent in processing extensive video data for complex tasks.\n\n---\n\n**Today's Signal**: The AI landscape is simultaneously consolidating power in custom silicon and foundational models while rapidly democratizing advanced capabilities through efficiency breakthroughs and novel research applications.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [AI News Briefs | Radical Data Science ](https://radicaldatascience.wordpress.com/category/ai-news-briefs/) | [12/2/2025] Amazon releases new AI Trainium3 chip amid industry push to challeng... |\n| [Generative AI recent news - AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Do you want to build a robot snowman? ](https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/) | On the latest episode of the Equity podcast, we recapped CEO Jensen Huang\u2019s GTC ... |\n| [[RSS] Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/) | Building on top of a Chinese model feels particularly fraught right now. |\n| [Elon Musk unveils chip manufacturing plans for SpaceX and Tesla ](https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/) | Elon Musk recently outlined ambitious plans for a chip-building collaboration Te... |\n| [Delve accused of misleading customers with \u2018fake compliance\u2019 ](https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/) | An anonymous Substack post accuses compliance startup Delve of \u201cfalsely\u201d convinc... |\n| [An exclusive tour of Amazon\u2019s Trainium lab, the chip that\u2019s won over Anthropic, OpenAI, even Apple\u00a0 ](https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/) | Shortly after Amazon  announced its $50 billion investment in OpenAI, AWS invite... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering ](http://arxiv.org/abs/2603.20193v1) | Existing tampering detection benchmarks largely rely on object masks, which seve... |\n| [LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation ](http://arxiv.org/abs/2603.20192v1) | Recent advances in diffusion models have significantly improved text-to-video ge... |\n| [MeanFlow Meets Control: Scaling Sampled-Data Control for Swarms ](http://arxiv.org/abs/2603.20189v1) | Steering large-scale swarms in only a few control updates is challenging because... |\n| [VideoSeek: Long-Horizon Video Agent with Tool-Guided Seeking ](http://arxiv.org/abs/2603.20185v1) | Video agentic models have advanced challenging video-language tasks. However, mo... |\n| [Kolmogorov-Arnold causal generative models ](http://arxiv.org/abs/2603.20184v1) | Causal generative models provide a principled framework for answering observatio... |\n| [Improving Generalization on Cybersecurity Tasks with Multi-Modal Contrastive Learning ](http://arxiv.org/abs/2603.20181v1) | The use of ML in cybersecurity has long been impaired by generalization issues: ... |\n| [Taming the Long-Tail: Efficient Reasoning RL Training with Adaptive Drafter ](http://arxiv.org/abs/2511.16665v3) | The emergence of Large Language Models (LLMs) with strong reasoning capabilities... |\n| [Adaptive Greedy Frame Selection for Long Video Understanding ](http://arxiv.org/abs/2603.20180v1) | Large vision--language models (VLMs) are increasingly applied to long-video ques... |\n| [AI Agents Can Already Autonomously Perform Experimental High Energy Physics ](http://arxiv.org/abs/2603.20179v1) | Large language model-based AI agents are now able to autonomously execute substa... |\n| [A Unified Framework to Quantify Cultural Intelligence of AI ](http://arxiv.org/abs/2603.01211v2) | As generative AI technologies are increasingly being launched across the globe, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [mistralai/Mistral-Small-4-119B-2603 ](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 103... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Flash-MoE: Running a 397B Parameter Model on a Laptop](https://github.com/danveloper/flash-moe) | HN Score: 328. Comments: 109 |\n| [[HackerNews] GrapheneOS will remain usable by anyone without requiring personal information](https://grapheneos.social/@GrapheneOS/116261301913660830) | HN Score: 295. Comments: 77 |\n| [[HackerNews] I Reverse-Engineered the TiinyAI Pocket Lab from Marketing Photos](https://bay41.com/posts/tiiny-ai-pocket-lab-review/) | HN Score: 57. Comments: 11 |\n| [[HackerNews] What Young Workers Are Doing to AI-Proof Themselves](https://www.wsj.com/economy/jobs/ai-jobs-young-people-careers-14282284) | HN Score: 97. Comments: 130 |\n| [[HackerNews] LLMs predict my coffee](https://dynomight.net/coffee/) | HN Score: 95. Comments: 40 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
