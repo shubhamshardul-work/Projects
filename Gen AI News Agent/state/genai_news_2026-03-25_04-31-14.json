@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
+      "url": "http://arxiv.org/abs/2603.23501v1",
+      "summary": "Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning",
+      "url": "http://arxiv.org/abs/2603.23496v1",
+      "summary": "Accurate estimation of aerodynamic state variables such as freestream velocity and angle of attack (AoA) is important for aerodynamic load prediction, flight control, and model validation. This work p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+      "url": "http://arxiv.org/abs/2603.23495v1",
+      "summary": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma",
+      "url": "http://arxiv.org/abs/2508.07494v2",
+      "summary": "The generalization of the Koopman operator to systems with control input and the derivation of a nonlinear fundamental lemma are two open problems that play a key role in the development of data-drive...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Paired Wasserstein Autoencoders for Conditional Sampling",
+      "url": "http://arxiv.org/abs/2412.07586v2",
+      "summary": "Generative autoencoders learn compact latent representations of data distributions through jointly optimized encoder--decoder pairs. In particular, Wasserstein autoencoders (WAEs) minimize a relaxed o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems",
+      "url": "http://arxiv.org/abs/2503.04945v3",
+      "summary": "The proliferation of generative models has presented significant challenges in distinguishing authentic human-authored content from deepfake content. Collaborative human efforts, augmented by AI tools...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Failure of contextual invariance in gender inference with large language models",
+      "url": "http://arxiv.org/abs/2603.23485v1",
+      "summary": "Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inf...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+      "url": "http://arxiv.org/abs/2603.23483v1",
+      "summary": "Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Agentic Vision) achieve remarkable reasoning capabilities through iterative visual tool invocation. However, the cascaded p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains",
+      "url": "http://arxiv.org/abs/2603.23482v1",
+      "summary": "Requirements engineering is a vital, yet labor-intensive, stage in the software development process. This article introduces ReqFusion: an AI-enhanced system that automates the extraction, classificat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+      "url": "http://arxiv.org/abs/2603.23481v1",
+      "summary": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions....",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 326131",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 164200",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Qianfan-OCR",
+      "url": "https://huggingface.co/baidu/Qianfan-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extraction, vision-language, ocr. Downloads: 8493",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] US Army raises enlistment age to 42 and removes marijuana waiver requirement",
+      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
+      "summary": "HN Score: 45. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "summary": "HN Score: 170. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "summary": "HN Score: 558. Comments: 392",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Intel Device Modeling Language for virtual platforms",
+      "url": "https://github.com/intel/device-modeling-language",
+      "summary": "HN Score: 12. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+      "url": "https://www.emailmd.dev/",
+      "summary": "HN Score: 240. Comments: 57",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
+      "url": "http://arxiv.org/abs/2603.23501v1",
+      "summary": "Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning",
+      "url": "http://arxiv.org/abs/2603.23496v1",
+      "summary": "Accurate estimation of aerodynamic state variables such as freestream velocity and angle of attack (AoA) is important for aerodynamic load prediction, flight control, and model validation. This work p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+      "url": "http://arxiv.org/abs/2603.23495v1",
+      "summary": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma",
+      "url": "http://arxiv.org/abs/2508.07494v2",
+      "summary": "The generalization of the Koopman operator to systems with control input and the derivation of a nonlinear fundamental lemma are two open problems that play a key role in the development of data-drive...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Paired Wasserstein Autoencoders for Conditional Sampling",
+      "url": "http://arxiv.org/abs/2412.07586v2",
+      "summary": "Generative autoencoders learn compact latent representations of data distributions through jointly optimized encoder--decoder pairs. In particular, Wasserstein autoencoders (WAEs) minimize a relaxed o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems",
+      "url": "http://arxiv.org/abs/2503.04945v3",
+      "summary": "The proliferation of generative models has presented significant challenges in distinguishing authentic human-authored content from deepfake content. Collaborative human efforts, augmented by AI tools...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Failure of contextual invariance in gender inference with large language models",
+      "url": "http://arxiv.org/abs/2603.23485v1",
+      "summary": "Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inf...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+      "url": "http://arxiv.org/abs/2603.23483v1",
+      "summary": "Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Agentic Vision) achieve remarkable reasoning capabilities through iterative visual tool invocation. However, the cascaded p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains",
+      "url": "http://arxiv.org/abs/2603.23482v1",
+      "summary": "Requirements engineering is a vital, yet labor-intensive, stage in the software development process. This article introduces ReqFusion: an AI-enhanced system that automates the extraction, classificat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+      "url": "http://arxiv.org/abs/2603.23481v1",
+      "summary": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 326131",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 164200",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Qianfan-OCR",
+      "url": "https://huggingface.co/baidu/Qianfan-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extraction, vision-language, ocr. Downloads: 8493",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] US Army raises enlistment age to 42 and removes marijuana waiver requirement",
+      "url": "https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf",
+      "summary": "HN Score: 45. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Flighty Airports",
+      "url": "https://flighty.com/airports",
+      "summary": "HN Score: 170. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "summary": "HN Score: 558. Comments: 392",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Intel Device Modeling Language for virtual platforms",
+      "url": "https://github.com/intel/device-modeling-language",
+      "summary": "HN Score: 12. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML",
+      "url": "https://www.emailmd.dev/",
+      "summary": "HN Score: 240. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Update on the OpenAI Foundation",
+        "url": "https://openai.com/index/update-on-the-openai-foundation",
+        "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+      },
+      {
+        "title": "[RSS] Powering product discovery in ChatGPT",
+        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+        "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+      },
+      {
+        "title": "[RSS] With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+        "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+        "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses."
+      },
+      {
+        "title": "[RSS] OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+        "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-it\u2019s-shutting-down/",
+        "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed."
+      },
+      {
+        "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+        "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+      },
+      {
+        "title": "[HackerNews] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+        "url": "https://github.com/BerriAI/litellm/issues/24512",
+        "summary": "HN Score: 558. Comments: 392"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
+        "url": "http://arxiv.org/abs/2603.23501v1",
+        "summary": "Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding..."
+      },
+      {
+        "title": "[ArXiv] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+        "url": "http://arxiv.org/abs/2603.23495v1",
+        "summary": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott..."
+      },
+      {
+        "title": "[ArXiv] Failure of contextual invariance in gender inference with large language models",
+        "url": "http://arxiv.org/abs/2603.23485v1",
+        "summary": "Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inf..."
+      },
+      {
+        "title": "[ArXiv] SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+        "url": "http://arxiv.org/abs/2603.23483v1",
+        "summary": "Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Agentic Vision) achieve remarkable reasoning capabilities through iterative visual tool invocation. However, the cascaded p..."
+      },
+      {
+        "title": "[ArXiv] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+        "url": "http://arxiv.org/abs/2603.23481v1",
+        "summary": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions...."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+    },
+    {
+      "title": "[RSS] With $3.5B in fresh capital, Kleiner Perkins is going all in on AI",
+      "url": "https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/",
+      "summary": "The fundraise includes $1 billion for investing in early-stage startups, and $2.5 billion for late-stage growth businesses."
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down",
+      "url": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-it\u2019s-shutting-down/",
+      "summary": "Though the underlying Sora 2 video- and audio-generation model is scarily impressive, there was not sustained interest in an AI-only social feed."
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+    },
+    {
+      "title": "[HackerNews] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+      "url": "https://github.com/BerriAI/litellm/issues/24512",
+      "summary": "HN Score: 558. Comments: 392"
+    },
+    {
+      "title": "[ArXiv] MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
+      "url": "http://arxiv.org/abs/2603.23501v1",
+      "summary": "Vision Language Models (VLMs) are increasingly used for tasks like medical report generation and visual question answering. However, fluent diagnostic text does not guarantee safe visual understanding..."
+    },
+    {
+      "title": "[ArXiv] VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions",
+      "url": "http://arxiv.org/abs/2603.23495v1",
+      "summary": "Existing approaches for improving the efficiency of Large Vision-Language Models (LVLMs) are largely based on the concept of visual token reduction. This approach, however, creates an information bott..."
+    },
+    {
+      "title": "[ArXiv] Failure of contextual invariance in gender inference with large language models",
+      "url": "http://arxiv.org/abs/2603.23485v1",
+      "summary": "Standard evaluation practices assume that large language model (LLM) outputs are stable under contextually equivalent formulations of a task. Here, we test this assumption in the setting of gender inf..."
+    },
+    {
+      "title": "[ArXiv] SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
+      "url": "http://arxiv.org/abs/2603.23483v1",
+      "summary": "Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Agentic Vision) achieve remarkable reasoning capabilities through iterative visual tool invocation. However, the cascaded p..."
+    },
+    {
+      "title": "[ArXiv] VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs",
+      "url": "http://arxiv.org/abs/2603.23481v1",
+      "summary": "Video-Action Models (VAMs) have emerged as a promising framework for embodied intelligence, learning implicit world dynamics from raw video streams to produce temporally consistent action predictions...."
+    }
+  ],
+  "final_report": "# AI Pulse: Commerce, Capital, and Critical Safeguards Define Today's AI Landscape\n\nToday's AI intelligence report reveals a dynamic interplay between commercial expansion, significant capital investment, and an urgent focus on ethical development and security. From OpenAI's strategic push into e-commerce and philanthropic initiatives to a major VC firm's multi-billion dollar bet on AI, the industry is rapidly maturing while simultaneously grappling with critical challenges in safety and reliability.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation)**\nOpenAI's commitment of at least $1 billion to initiatives like disease curing and AI resilience signals a strategic move beyond pure product development, positioning the organization as a leader in AI's broader societal impact. For executives, this highlights the increasing importance of ESG considerations in the AI sector and potential new avenues for strategic partnerships or competitive differentiation in \"AI for good.\"\n\n### **[Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt)**\nChatGPT's integration of visually immersive shopping via the Agentic Commerce Protocol marks a significant foray into e-commerce, transforming the chatbot into a powerful discovery and comparison tool. Businesses should recognize this as a new, direct channel for customer engagement and sales, potentially disrupting traditional online retail and search-based product discovery models.\n\n### **[With $3.5B in fresh capital, Kleiner Perkins is going all in on AI](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/)**\nA major venture capital firm like Kleiner Perkins injecting $3.5 billion into AI, split between early-stage and growth businesses, underscores robust investor confidence and the perceived long-term potential of the sector. This substantial capital infusion will fuel innovation and expansion across the AI ecosystem, signaling a vibrant funding and M&A environment for the foreseeable future.\n\n### **[OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-it%E2%80%99s-shutting-down/)**\nThe shutdown of OpenAI's Sora as a social app, despite its impressive underlying video generation model, highlights a crucial lesson: groundbreaking technology alone does not guarantee product-market fit. This demonstrates that even advanced AI needs a compelling user experience and a clear value proposition to achieve sustained commercial success.\n\n### **[What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ)**\nThe widespread anticipation surrounding new ChatGPT versions, even in the absence of detailed announcements, underscores the market's insatiable demand for advanced conversational AI capabilities. Business leaders should closely monitor these updates for potential shifts in competitive landscapes, new integration opportunities, and evolving user expectations for AI interaction.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)**\nOpenAI's release of prompt-based teen safety policies and the `gpt-oss-safeguard` tool is a critical development for developers building AI applications for younger audiences. This provides practical guidelines and resources for implementing age-appropriate content moderation, emphasizing the growing importance of ethical AI development and robust safety guardrails in production systems.\n\n### **[Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512)**\nThis urgent alert regarding compromised versions of Litellm on PyPI serves as a stark reminder of the critical importance of supply chain security in the AI/ML ecosystem. Developers must immediately verify their dependencies and update to safe versions, highlighting the ongoing need for vigilance and robust security practices when integrating open-source libraries.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage](http://arxiv.org/abs/2603.23501v1)**\nThis paper critically examines the limitations of Vision Language Models (VLMs) in medical contexts, revealing a \"Medical Moravec's Paradox\" where fluent diagnostic text generation can mask a lack of robust visual understanding. Researchers should note this as a call for more rigorous evaluation metrics and architectural improvements to ensure safety and reliability in high-stakes applications like clinical triage.\n\n### **[VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions](http://arxiv.org/abs/2603.23495v1)**\nThis research proposes a novel approach to improve Large Vision-Language Model (LVLM) efficiency by moving beyond simple visual token reduction, suggesting sparse and dynamic vision-language interactions. This could lead to more computationally efficient and less information-bottlenecked multimodal models, opening new avenues for deploying powerful VLMs in resource-constrained environments.\n\n### **[Failure of contextual invariance in gender inference with large language models](http://arxiv.org/abs/2603.23485v1)**\nThis paper challenges a fundamental assumption in LLM evaluation\u2014contextual invariance\u2014by demonstrating how subtle changes in prompt formulation can significantly alter gender inference outcomes. This has profound implications for fairness, bias detection, and the reliability of LLMs in sensitive applications, urging researchers to develop more robust and context-aware evaluation methodologies.\n\n### **[SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning](http://arxiv.org/abs/2603.23483v1)**\nSpecEyes introduces a method to accelerate agentic Multimodal Large Language Models (MLLMs) by optimizing the iterative perception and planning process. This research is critical for improving the real-time performance and practical deployment of advanced multimodal agents, pushing the boundaries of interactive AI systems.\n\n### **[VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs](http://arxiv.org/abs/2603.23481v1)**\nVTAM extends embodied AI beyond traditional Video-Action Models by incorporating tactile feedback, enabling more nuanced and robust physical interaction. This represents a significant step towards developing truly dexterous and adaptable robotic systems, bridging the gap between visual perception and fine-grained physical manipulation.\n\nToday's Signal: The AI industry is rapidly expanding its commercial footprint and attracting massive investment, while simultaneously confronting the critical need for robust safety protocols and deeper understanding of model limitations.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Helping developers build safer AI experiences for teens ](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | OpenAI releases prompt-based teen safety policies for developers using gpt-oss-s... |\n| [Update on the OpenAI Foundation ](https://openai.com/index/update-on-the-openai-foundation) | The OpenAI Foundation announces plans to invest at least $1 billion in curing di... |\n| [Powering product discovery in ChatGPT ](https://openai.com/index/powering-product-discovery-in-chatgpt) | ChatGPT introduces richer, visually immersive shopping powered by the Agentic Co... |\n| [With $3.5B in fresh capital, Kleiner Perkins is going all in on AI ](https://techcrunch.com/2026/03/24/with-3-5b-in-fresh-capital-kleiner-perkins-is-going-all-in-on-ai/) | The fundraise includes $1 billion for investing in early-stage startups, and $2.... |\n| [OpenAI\u2019s Sora was the creepiest app on your phone \u2014 now it\u2019s shutting down ](https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/) | Though the underlying Sora 2 video- and audio-generation model is scarily impres... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage ](http://arxiv.org/abs/2603.23501v1) | Vision Language Models (VLMs) are increasingly used for tasks like medical repor... |\n| [Estimating Flow Velocity and Vehicle Angle-of-Attack from Non-invasive Piezoelectric Structural Measurements Using Deep Learning ](http://arxiv.org/abs/2603.23496v1) | Accurate estimation of aerodynamic state variables such as freestream velocity a... |\n| [VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions ](http://arxiv.org/abs/2603.23495v1) | Existing approaches for improving the efficiency of Large Vision-Language Models... |\n| [From Product Hilbert Spaces to the Generalized Koopman Operator and the Nonlinear Fundamental Lemma ](http://arxiv.org/abs/2508.07494v2) | The generalization of the Koopman operator to systems with control input and the... |\n| [Paired Wasserstein Autoencoders for Conditional Sampling ](http://arxiv.org/abs/2412.07586v2) | Generative autoencoders learn compact latent representations of data distributio... |\n| [Collaborative Evaluation of Deepfake Text with Deliberation-Enhancing Dialogue Systems ](http://arxiv.org/abs/2503.04945v3) | The proliferation of generative models has presented significant challenges in d... |\n| [Failure of contextual invariance in gender inference with large language models ](http://arxiv.org/abs/2603.23485v1) | Standard evaluation practices assume that large language model (LLM) outputs are... |\n| [SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning ](http://arxiv.org/abs/2603.23483v1) | Agentic multimodal large language models (MLLMs) (e.g., OpenAI o3 and Gemini Age... |\n| [ReqFusion: A Multi-Provider Framework for Automated PEGS Analysis Across Software Domains ](http://arxiv.org/abs/2603.23482v1) | Requirements engineering is a vital, yet labor-intensive, stage in the software ... |\n| [VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs ](http://arxiv.org/abs/2603.23481v1) | Video-Action Models (VAMs) have emerged as a promising framework for embodied in... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [baidu/Qianfan-OCR ](https://huggingface.co/baidu/Qianfan-OCR) | Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] US Army raises enlistment age to 42 and removes marijuana waiver requirement](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN42922-AR_601-210-000-WEB-1.pdf) | HN Score: 45. Comments: 21 |\n| [[HackerNews] Flighty Airports](https://flighty.com/airports) | HN Score: 170. Comments: 55 |\n| [[HackerNews] Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised](https://github.com/BerriAI/litellm/issues/24512) | HN Score: 558. Comments: 392 |\n| [[HackerNews] Intel Device Modeling Language for virtual platforms](https://github.com/intel/device-modeling-language) | HN Score: 12. Comments: 0 |\n| [[HackerNews] Show HN: Email.md \u2013 Markdown to responsive, email-safe HTML](https://www.emailmd.dev/) | HN Score: 240. Comments: 57 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
