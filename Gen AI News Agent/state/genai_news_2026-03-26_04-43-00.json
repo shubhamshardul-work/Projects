@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+      "url": "http://arxiv.org/abs/2603.24594v1",
+      "summary": "We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of SDEs and ODEs using a range of approximators $f^1,\\dots,f^k$ to the drift $f$ with increasing accuracy and computational ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "url": "http://arxiv.org/abs/2603.24587v1",
+      "summary": "We introduce DreamerAD, the first latent world model framework that enables efficient reinforcement learning for autonomous driving by compressing diffusion sampling from 100 steps to 1 - achieving 80...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Comparing Developer and LLM Biases in Code Evaluation",
+      "url": "http://arxiv.org/abs/2603.24586v1",
+      "summary": "As LLMs are increasingly used as judges in code applications, they should be evaluated in realistic interactive settings that capture partial context and ambiguous intent. We present TRACE (Tool for R...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence",
+      "url": "http://arxiv.org/abs/2603.24582v1",
+      "summary": "Agentic artificial intelligence (AI) in organizations is a sequential decision problem constrained by reliability and oversight cost. When deterministic workflows are replaced by stochastic policies o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+      "url": "http://arxiv.org/abs/2603.24580v1",
+      "summary": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characteriz...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+      "url": "http://arxiv.org/abs/2603.24579v1",
+      "summary": "Hallucination remains a critical bottleneck for large language models (LLMs), undermining their reliability in real-world applications, especially in Retrieval-Augmented Generation (RAG) systems. Whil...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction",
+      "url": "http://arxiv.org/abs/2603.24577v1",
+      "summary": "Accurate 3D reconstruction of deformable soft tissues is essential for surgical robotic perception. However, low-texture surfaces, specular highlights, and instrument occlusions often fragment geometr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+      "url": "http://arxiv.org/abs/2510.18019v2",
+      "summary": "Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2603.24576v1",
+      "summary": "Robotic manipulation often requires memory: occlusion and state changes can make decision-time observations perceptually aliased, making action selection non-Markovian at the observation level because...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.24575v1",
+      "summary": "Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 173865",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 401358",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 38586",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "summary": "HN Score: 455. Comments: 132",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "summary": "HN Score: 761. Comments: 189",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "summary": "HN Score: 192. Comments: 66",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "summary": "HN Score: 7. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "summary": "HN Score: 219. Comments: 131",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method",
+      "url": "http://arxiv.org/abs/2603.24594v1",
+      "summary": "We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of SDEs and ODEs using a range of approximators $f^1,\\dots,f^k$ to the drift $f$ with increasing accuracy and computational ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "url": "http://arxiv.org/abs/2603.24587v1",
+      "summary": "We introduce DreamerAD, the first latent world model framework that enables efficient reinforcement learning for autonomous driving by compressing diffusion sampling from 100 steps to 1 - achieving 80...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Comparing Developer and LLM Biases in Code Evaluation",
+      "url": "http://arxiv.org/abs/2603.24586v1",
+      "summary": "As LLMs are increasingly used as judges in code applications, they should be evaluated in realistic interactive settings that capture partial context and ambiguous intent. We present TRACE (Tool for R...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence",
+      "url": "http://arxiv.org/abs/2603.24582v1",
+      "summary": "Agentic artificial intelligence (AI) in organizations is a sequential decision problem constrained by reliability and oversight cost. When deterministic workflows are replaced by stochastic policies o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+      "url": "http://arxiv.org/abs/2603.24580v1",
+      "summary": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characteriz...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+      "url": "http://arxiv.org/abs/2603.24579v1",
+      "summary": "Hallucination remains a critical bottleneck for large language models (LLMs), undermining their reliability in real-world applications, especially in Retrieval-Augmented Generation (RAG) systems. Whil...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction",
+      "url": "http://arxiv.org/abs/2603.24577v1",
+      "summary": "Accurate 3D reconstruction of deformable soft tissues is essential for surgical robotic perception. However, low-texture surfaces, specular highlights, and instrument occlusions often fragment geometr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+      "url": "http://arxiv.org/abs/2510.18019v2",
+      "summary": "Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2603.24576v1",
+      "summary": "Robotic manipulation often requires memory: occlusion and state changes can make decision-time observations perceptually aliased, making action selection non-Markovian at the observation level because...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models",
+      "url": "http://arxiv.org/abs/2603.24575v1",
+      "summary": "Scalable Vector Graphics (SVG) are an essential format for technical illustration and digital design, offering precise resolution independence and flexible semantic editability. In practice, however, ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 173865",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 401358",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 38586",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Running Tesla Model 3's computer on my desk using parts from crashed cars",
+      "url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+      "summary": "HN Score: 455. Comments: 132",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My astrophotography in the movie Project Hail Mary",
+      "url": "https://rpastro.square.site/s/stories/phm",
+      "summary": "HN Score: 761. Comments: 189",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] False claims in a widely-cited paper",
+      "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+      "summary": "HN Score: 192. Comments: 66",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "summary": "HN Score: 7. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "summary": "HN Score: 219. Comments: 131",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] What the New ChatGPT 5.4 Means for the World",
+      "url": "https://www.youtube.com/watch?v=zizoDORjmlQ",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Inside our approach to the Model Spec",
+        "url": "https://openai.com/index/our-approach-to-the-model-spec",
+        "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
+      },
+      {
+        "title": "[RSS] Introducing the OpenAI Safety Bug Bounty program",
+        "url": "https://openai.com/index/safety-bug-bounty",
+        "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+      },
+      {
+        "title": "[RSS] Helping developers build safer AI experiences for teens",
+        "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+        "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+      },
+      {
+        "title": "[RSS] Update on the OpenAI Foundation",
+        "url": "https://openai.com/index/update-on-the-openai-foundation",
+        "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+      },
+      {
+        "title": "[RSS] Powering product discovery in ChatGPT",
+        "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+        "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 38586"
+      },
+      {
+        "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+        "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 401358"
+      },
+      {
+        "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 173865"
+      },
+      {
+        "title": "[HackerNews] Show HN: Robust LLM Extractor for Websites in TypeScript",
+        "url": "https://github.com/lightfeed/extractor",
+        "summary": "HN Score: 7. Comments: 0"
+      },
+      {
+        "title": "[HackerNews] 90% of Claude-linked output going to GitHub repos w <2 stars",
+        "url": "https://www.claudescode.dev/?window=since_launch",
+        "summary": "HN Score: 219. Comments: 131"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+        "url": "http://arxiv.org/abs/2603.24579v1",
+        "summary": "Hallucination remains a critical bottleneck for large language models (LLMs), undermining their reliability in real-world applications, especially in Retrieval-Augmented Generation (RAG) systems. Whil..."
+      },
+      {
+        "title": "[ArXiv] The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence",
+        "url": "http://arxiv.org/abs/2603.24582v1",
+        "summary": "Agentic artificial intelligence (AI) in organizations is a sequential decision problem constrained by reliability and oversight cost. When deterministic workflows are replaced by stochastic policies o..."
+      },
+      {
+        "title": "[ArXiv] DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+        "url": "http://arxiv.org/abs/2603.24587v1",
+        "summary": "We introduce DreamerAD, the first latent world model framework that enables efficient reinforcement learning for autonomous driving by compressing diffusion sampling from 100 steps to 1 - achieving 80..."
+      },
+      {
+        "title": "[ArXiv] Comparing Developer and LLM Biases in Code Evaluation",
+        "url": "http://arxiv.org/abs/2603.24586v1",
+        "summary": "As LLMs are increasingly used as judges in code applications, they should be evaluated in realistic interactive settings that capture partial context and ambiguous intent. We present TRACE (Tool for R..."
+      },
+      {
+        "title": "[ArXiv] Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+        "url": "http://arxiv.org/abs/2603.24580v1",
+        "summary": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characteriz..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance."
+    },
+    {
+      "title": "[RSS] Introducing the OpenAI Safety Bug Bounty program",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "summary": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration."
+    },
+    {
+      "title": "[RSS] Helping developers build safer AI experiences for teens",
+      "url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+    },
+    {
+      "title": "[RSS] Update on the OpenAI Foundation",
+      "url": "https://openai.com/index/update-on-the-openai-foundation",
+      "summary": "The OpenAI Foundation announces plans to invest at least $1 billion in curing diseases, economic opportunity, AI resilience, and community programs."
+    },
+    {
+      "title": "[RSS] Powering product discovery in ChatGPT",
+      "url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 38586"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 401358"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 173865"
+    },
+    {
+      "title": "[HackerNews] Show HN: Robust LLM Extractor for Websites in TypeScript",
+      "url": "https://github.com/lightfeed/extractor",
+      "summary": "HN Score: 7. Comments: 0"
+    },
+    {
+      "title": "[HackerNews] 90% of Claude-linked output going to GitHub repos w <2 stars",
+      "url": "https://www.claudescode.dev/?window=since_launch",
+      "summary": "HN Score: 219. Comments: 131"
+    },
+    {
+      "title": "[ArXiv] MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination",
+      "url": "http://arxiv.org/abs/2603.24579v1",
+      "summary": "Hallucination remains a critical bottleneck for large language models (LLMs), undermining their reliability in real-world applications, especially in Retrieval-Augmented Generation (RAG) systems. Whil..."
+    },
+    {
+      "title": "[ArXiv] The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence",
+      "url": "http://arxiv.org/abs/2603.24582v1",
+      "summary": "Agentic artificial intelligence (AI) in organizations is a sequential decision problem constrained by reliability and oversight cost. When deterministic workflows are replaced by stochastic policies o..."
+    },
+    {
+      "title": "[ArXiv] DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving",
+      "url": "http://arxiv.org/abs/2603.24587v1",
+      "summary": "We introduce DreamerAD, the first latent world model framework that enables efficient reinforcement learning for autonomous driving by compressing diffusion sampling from 100 steps to 1 - achieving 80..."
+    },
+    {
+      "title": "[ArXiv] Comparing Developer and LLM Biases in Code Evaluation",
+      "url": "http://arxiv.org/abs/2603.24586v1",
+      "summary": "As LLMs are increasingly used as judges in code applications, they should be evaluated in realistic interactive settings that capture partial context and ambiguous intent. We present TRACE (Tool for R..."
+    },
+    {
+      "title": "[ArXiv] Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA",
+      "url": "http://arxiv.org/abs/2603.24580v1",
+      "summary": "Retrieval-augmented generation (RAG) systems are increasingly used to analyze complex policy documents, but achieving sufficient reliability for expert usage remains challenging in domains characteriz..."
+    }
+  ],
+  "final_report": "# AI Pulse: OpenAI's Strategic Expansion Meets Frontier Challenges\n\nToday's intelligence report highlights OpenAI's comprehensive push across safety, ethics, and commercial integration, signaling a maturing ecosystem. Simultaneously, developers navigate the practicalities of open models and LLM-generated code, while researchers tackle core challenges like hallucination and agentic AI reliability.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Inside our approach to the Model Spec](https://openai.com/index/our-approach-to-the-model-spec)**\nOpenAI's public Model Spec framework is a strategic move to balance safety, user freedom, and accountability as AI systems grow more powerful. For business leaders, this transparency builds trust and provides a clearer understanding of the guardrails governing advanced AI deployment, crucial for enterprise adoption and regulatory compliance.\n\n### **[Introducing the OpenAI Safety Bug Bounty program](https://openai.com/index/safety-bug-bounty)**\nThe launch of a Safety Bug Bounty program demonstrates OpenAI's proactive approach to identifying and mitigating AI abuse and safety risks, including agentic vulnerabilities and prompt injection. This initiative is vital for protecting brand reputation and ensuring the secure, reliable operation of AI systems in commercial applications.\n\n### **[Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard)**\nOpenAI's release of prompt-based teen safety policies for developers using `gpt-oss-safeguard` addresses critical ethical concerns and potential regulatory pressures surrounding AI use by minors. This move is essential for companies aiming to deploy AI responsibly in sensitive demographic segments, fostering trust and mitigating legal risks.\n\n### **[Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation)**\nThe OpenAI Foundation's commitment to invest at least $1 billion in areas like curing diseases, economic opportunity, and AI resilience signals a long-term vision beyond immediate commercial gains. This strategic philanthropic effort can enhance public perception, attract top talent, and potentially influence future policy discussions around AI's societal impact.\n\n### **[Powering product discovery in ChatGPT](https://openai.com/index/powering-product-discovery-in-chatgpt)**\nChatGPT's integration of richer, visually immersive shopping powered by the Agentic Commerce Protocol marks a significant step towards becoming a central platform for consumer activity. This expansion into product discovery and merchant integration opens substantial new revenue streams and positions ChatGPT as a direct competitor in the e-commerce landscape.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[nvidia/Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**\nNVIDIA continues its push into open-source models with Nemotron-Cascade-2-30B-A3B, a trending text-generation model. Developers should watch this for high-performance applications, especially those leveraging NVIDIA's ecosystem, as it offers a powerful alternative for specific enterprise and research needs.\n\n### **[HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive)**\nThis trending uncensored Qwen3.5 model highlights the strong community demand for less restricted and aggressively fine-tuned models, particularly for multimodal and vision tasks. While offering flexibility for specific use cases, developers should carefully consider the ethical implications and potential risks associated with deploying such models.\n\n### **[Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nThe emergence of models like this Qwen3.5 variant, distilled from powerful proprietary models like Claude-4.6 Opus, showcases a key trend in the open-source community. Developers can leverage these smaller, more efficient models to achieve advanced reasoning capabilities at a lower computational cost, making sophisticated AI more accessible.\n\n### **[Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor)**\nThis Hacker News project introduces a robust TypeScript-based LLM extractor for websites, addressing a common pain point for developers: reliably extracting structured data from unstructured web content. This tool is a practical example of how LLMs are being integrated into everyday development workflows to automate complex parsing tasks.\n\n### **[90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch)**\nA critical observation from Hacker News reveals that a vast majority of code generated with Claude ends up in GitHub repositories with minimal stars, suggesting limited adoption or impact. Developers relying on LLM-generated code should heed this signal, emphasizing the need for rigorous testing, human oversight, and strategic integration rather than blind reliance.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination](http://arxiv.org/abs/2603.24579v1)**\nThis paper introduces MARCH, a novel multi-agent reinforced self-check mechanism designed to combat LLM hallucination, a critical bottleneck for reliability, especially in RAG systems. Researchers should explore this approach for its potential to significantly enhance the trustworthiness and factual accuracy of LLM outputs in real-world applications.\n\n### **[The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence](http://arxiv.org/abs/2603.24582v1)**\nThis research proposes a Markovian framework to audit the pre-deployment reliability and oversight costs of agentic AI systems, which are increasingly replacing deterministic workflows with stochastic policies. Academics and deep-tech thinkers will find this framework crucial for understanding and managing the inherent uncertainties and risks in complex autonomous AI deployments.\n\n### **[DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving](http://arxiv.org/abs/2603.24587v1)**\nDreamerAD presents a groundbreaking latent world model framework that achieves efficient reinforcement learning for autonomous driving by drastically compressing diffusion sampling steps. This advancement could accelerate the development of safer and more robust autonomous vehicles by making RL training significantly more efficient.\n\n### **[Comparing Developer and LLM Biases in Code Evaluation](http://arxiv.org/abs/2603.24586v1)**\nThis study, presenting TRACE (Tool for Realistic AI Code Evaluation), investigates biases in LLMs when used as code judges compared to human developers. Researchers should note the implications for integrating LLMs into software development workflows, emphasizing the need for careful evaluation in realistic, interactive settings that capture partial context and ambiguous intent.\n\n### **[Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA](http://arxiv.org/abs/2603.24580v1)**\nThis paper offers a critical perspective on Retrieval-Augmented Generation (RAG) systems, demonstrating that even with improved retrieval, better answers are not guaranteed, particularly in complex domains like AI policy analysis. Researchers must consider holistic evaluation metrics beyond just retrieval quality to ensure RAG systems achieve sufficient reliability for expert usage.\n\n---\n**Today's Signal:** OpenAI is aggressively expanding its ecosystem with a strong focus on safety and commercial applications, while the broader AI community grapples with practical challenges like LLM reliability and effective code generation.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence/) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Inside our approach to the Model Spec ](https://openai.com/index/our-approach-to-the-model-spec) | Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, b... |\n| [Introducing the OpenAI Safety Bug Bounty program ](https://openai.com/index/safety-bug-bounty) | OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risk... |\n| [Helping developers build safer AI experiences for teens ](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) | OpenAI releases prompt-based teen safety policies for developers using gpt-oss-s... |\n| [Update on the OpenAI Foundation ](https://openai.com/index/update-on-the-openai-foundation) | The OpenAI Foundation announces plans to invest at least $1 billion in curing di... |\n| [Powering product discovery in ChatGPT ](https://openai.com/index/powering-product-discovery-in-chatgpt) | ChatGPT introduces richer, visually immersive shopping powered by the Agentic Co... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Polynomial Speedup in Diffusion Models with the Multilevel Euler-Maruyama Method ](http://arxiv.org/abs/2603.24594v1) | We introduce the Multilevel Euler-Maruyama (ML-EM) method compute solutions of S... |\n| [DreamerAD: Efficient Reinforcement Learning via Latent World Model for Autonomous Driving ](http://arxiv.org/abs/2603.24587v1) | We introduce DreamerAD, the first latent world model framework that enables effi... |\n| [Comparing Developer and LLM Biases in Code Evaluation ](http://arxiv.org/abs/2603.24586v1) | As LLMs are increasingly used as judges in code applications, they should be eva... |\n| [The Stochastic Gap: A Markovian Framework for Pre-Deployment Reliability and Oversight-Cost Auditing in Agentic Artificial Intelligence ](http://arxiv.org/abs/2603.24582v1) | Agentic artificial intelligence (AI) in organizations is a sequential decision p... |\n| [Retrieval Improvements Do Not Guarantee Better Answers: A Study of RAG for AI Policy QA ](http://arxiv.org/abs/2603.24580v1) | Retrieval-augmented generation (RAG) systems are increasingly used to analyze co... |\n| [MARCH: Multi-Agent Reinforced Self-Check for LLM Hallucination ](http://arxiv.org/abs/2603.24579v1) | Hallucination remains a critical bottleneck for large language models (LLMs), un... |\n| [EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction ](http://arxiv.org/abs/2603.24577v1) | Accurate 3D reconstruction of deformable soft tissues is essential for surgical ... |\n| [Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation ](http://arxiv.org/abs/2510.18019v2) | Multilingual watermarking aims to make large language model (LLM) outputs tracea... |\n| [Chameleon: Episodic Memory for Long-Horizon Robotic Manipulation ](http://arxiv.org/abs/2603.24576v1) | Robotic manipulation often requires memory: occlusion and state changes can make... |\n| [VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models ](http://arxiv.org/abs/2603.24575v1) | Scalable Vector Graphics (SVG) are an essential format for technical illustratio... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [nvidia/Nemotron-Cascade-2-30B-A3B ](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B) | Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Running Tesla Model 3's computer on my desk using parts from crashed cars](https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/) | HN Score: 455. Comments: 132 |\n| [[HackerNews] My astrophotography in the movie Project Hail Mary](https://rpastro.square.site/s/stories/phm) | HN Score: 761. Comments: 189 |\n| [[HackerNews] False claims in a widely-cited paper](https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/) | HN Score: 192. Comments: 66 |\n| [[HackerNews] Show HN: Robust LLM Extractor for Websites in TypeScript](https://github.com/lightfeed/extractor) | HN Score: 7. Comments: 0 |\n| [[HackerNews] 90% of Claude-linked output going to GitHub repos w <2 stars](https://www.claudescode.dev/?window=since_launch) | HN Score: 219. Comments: 131 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] What the New ChatGPT 5.4 Means for the World](https://www.youtube.com/watch?v=zizoDORjmlQ) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
