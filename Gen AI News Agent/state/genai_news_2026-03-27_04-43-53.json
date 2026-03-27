@@ -1,0 +1,332 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 184056",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 425497",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 55529",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "summary": "HN Score: 153. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "summary": "HN Score: 320. Comments: 175",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Chroma Context-1: Training a Self-Editing Search Agent",
+      "url": "https://www.trychroma.com/research/context-1",
+      "summary": "HN Score: 25. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We rewrote JSONata with AI in a day, saved $500k/year",
+      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "summary": "HN Score: 81. Comments: 84",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "summary": "HN Score: 325. Comments: 129",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Inside our approach to the Model Spec",
+      "url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "summary": "Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, balancing safety, user freedom, and accountability as AI systems advance.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 184056",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 425497",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 55529",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+      "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+      "summary": "HN Score: 153. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+      "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+      "summary": "HN Score: 320. Comments: 175",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Chroma Context-1: Training a Self-Editing Search Agent",
+      "url": "https://www.trychroma.com/research/context-1",
+      "summary": "HN Score: 25. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We rewrote JSONata with AI in a day, saved $500k/year",
+      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "summary": "HN Score: 81. Comments: 84",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "summary": "HN Score: 325. Comments: 129",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Anthropic wins injunction against Trump administration over Defense Department saga",
+        "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+        "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company."
+      },
+      {
+        "title": "[RSS] You can now transfer your chats and personal information from other chatbots directly into Gemini",
+        "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+        "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini."
+      },
+      {
+        "title": "[RSS] Wikipedia cracks down on the use of AI in article writing",
+        "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+        "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing."
+      },
+      {
+        "title": "[RSS] OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+        "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+        "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] My minute-by-minute response to the LiteLLM malware attack",
+        "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+        "summary": "HN Score: 325. Comments: 129"
+      },
+      {
+        "title": "[HackerNews] We rewrote JSONata with AI in a day, saved $500k/year",
+        "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+        "summary": "HN Score: 81. Comments: 84"
+      },
+      {
+        "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+        "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 55529"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HackerNews] Chroma Context-1: Training a Self-Editing Search Agent",
+        "url": "https://www.trychroma.com/research/context-1",
+        "summary": "HN Score: 25. Comments: 1"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Anthropic wins injunction against Trump administration over Defense Department saga",
+      "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+      "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company."
+    },
+    {
+      "title": "[RSS] You can now transfer your chats and personal information from other chatbots directly into Gemini",
+      "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+      "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini."
+    },
+    {
+      "title": "[RSS] Wikipedia cracks down on the use of AI in article writing",
+      "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
+      "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing."
+    },
+    {
+      "title": "[RSS] OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode",
+      "url": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+      "summary": "It's only the latest of several side projects that the AI startup has ditched over the past week."
+    },
+    {
+      "title": "[HackerNews] My minute-by-minute response to the LiteLLM malware attack",
+      "url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
+      "summary": "HN Score: 325. Comments: 129"
+    },
+    {
+      "title": "[HackerNews] We rewrote JSONata with AI in a day, saved $500k/year",
+      "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+      "summary": "HN Score: 81. Comments: 84"
+    },
+    {
+      "title": "[HuggingFace] nvidia/Nemotron-Cascade-2-30B-A3B",
+      "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation, nvidia, nemotron-cascade-2. Downloads: 55529"
+    },
+    {
+      "title": "[HackerNews] Chroma Context-1: Training a Self-Editing Search Agent",
+      "url": "https://www.trychroma.com/research/context-1",
+      "summary": "HN Score: 25. Comments: 1"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Strategic Shifts, Security Alerts, and Self-Editing Agents\n\nThe AI world today showcases a dynamic interplay of corporate strategy, developer vigilance, and cutting-edge research. Major players are navigating regulatory challenges and competitive pressures, while the developer community grapples with both security threats and efficiency gains, all against a backdrop of foundational advancements in AI agency.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic wins injunction against Trump administration over Defense Department saga](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/)**\nThis legal victory provides crucial stability for Anthropic, a key player in the enterprise AI space, by rescinding restrictions imposed by the Trump administration. For business leaders and investors, this signals a complex and evolving regulatory landscape where legal challenges can significantly impact operational certainty and market positioning for major AI firms, especially concerning government contracts.\n\n### **[You can now transfer your chats and personal information from other chatbots directly into Gemini](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)**\nGoogle's introduction of \"switching tools\" for Gemini is a direct strategic play to capture market share and user data from competing chatbot platforms. This move aims to reduce friction for users considering a switch, highlighting the intense competition for user lock-in and the strategic importance of data portability in building a dominant AI ecosystem.\n\n### **[Wikipedia cracks down on the use of AI in article writing](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)**\nWikipedia's struggle with and subsequent crackdown on AI-generated content underscores a critical challenge for all platforms reliant on user-generated information: maintaining authenticity and trust in the age of generative AI. Business leaders must consider the strategic implications for content integrity, brand reputation, and the potential need for robust AI detection and moderation policies.\n\n### **[OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/)**\nOpenAI's decision to ditch ChatGPT's \"erotic mode\" reflects a strategic prioritization of its core offerings and a careful management of its public image and ethical boundaries. This move indicates a focus on enterprise-grade and broadly acceptable applications, signaling to investors and executives a commitment to responsible AI development and avoiding controversial \"side quests\" that could dilute its brand or invite regulatory scrutiny.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/)**\nThis detailed account of a malware attack on LiteLLM offers critical insights for developers on real-time incident response and supply chain security in the AI ecosystem. It serves as a stark reminder to implement robust security protocols, monitor dependencies vigilantly, and prepare for rapid mitigation strategies when integrating third-party AI tools.\n\n### **[We rewrote JSONata with AI in a day, saved $500k/year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai)**\nThis case study demonstrates a compelling practical application of AI for code optimization and significant cost savings in development. Engineers should watch this trend closely, exploring how AI-powered refactoring and code generation tools can be leveraged to enhance efficiency, reduce technical debt, and free up resources for more innovative projects within their organizations.\n\n### **[nvidia/Nemotron-Cascade-2-30B-A3B](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)**\nNVIDIA's Nemotron-Cascade-2-30B-A3B model is a trending release that developers should watch for advanced text generation capabilities. As a large model from a major hardware and AI player, it represents a significant tool for practitioners working on complex language tasks, potentially offering new benchmarks for performance and efficiency in specific applications.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Chroma Context-1: Training a Self-Editing Search Agent](https://www.trychroma.com/research/context-1)**\nChroma Context-1 introduces a novel approach to agentic AI, focusing on training a self-editing search agent capable of refining its own outputs. Researchers should delve into the implications of self-correction and iterative improvement in AI systems, as this work pushes the boundaries of autonomous agents and could lead to more robust and reliable AI for complex information retrieval and generation tasks.\n\n---\n\n**Today's Signal:** The AI industry is simultaneously maturing through strategic consolidation and facing new frontiers in autonomous agent development, underscoring a dual focus on market stability and innovative capability.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence/) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Inside our approach to the Model Spec ](https://openai.com/index/our-approach-to-the-model-spec) | Learn how OpenAI\u2019s Model Spec serves as a public framework for model behavior, b... |\n| [Anthropic wins injunction against Trump administration over Defense Department saga ](https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/) | A federal judge has ordered that the Trump administration rescind recent restric... |\n| [You can now transfer your chats and personal information from other chatbots directly into Gemini ](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/) | Google is launching \"switching tools\" that, just as it sounds, will make it easi... |\n| [Wikipedia cracks down on the use of AI in article writing ](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/) | The site, whose policies are subject to change, has struggled with the issue of ... |\n| [OpenAI abandons yet another side quest: ChatGPT\u2019s erotic mode ](https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/) | It's only the latest of several side projects that the AI startup has ditched ov... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n| [nvidia/Nemotron-Cascade-2-30B-A3B ](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B) | Trending HF Model. Tags: transformers, safetensors, nemotron_h, text-generation,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer](https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/) | HN Score: 153. Comments: 61 |\n| [[HackerNews] Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label](https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk) | HN Score: 320. Comments: 175 |\n| [[HackerNews] Chroma Context-1: Training a Self-Editing Search Agent](https://www.trychroma.com/research/context-1) | HN Score: 25. Comments: 1 |\n| [[HackerNews] We rewrote JSONata with AI in a day, saved $500k/year](https://www.reco.ai/blog/we-rewrote-jsonata-with-ai) | HN Score: 81. Comments: 84 |\n| [[HackerNews] My minute-by-minute response to the LiteLLM malware attack](https://futuresearch.ai/blog/litellm-attack-transcript/) | HN Score: 325. Comments: 129 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
