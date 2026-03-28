@@ -1,0 +1,406 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
+      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI shuts down Sora while Meta gets shut out in court",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Vega: Learning to Drive with Natural Language Instructions",
+      "url": "http://arxiv.org/abs/2603.25741v1",
+      "summary": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "http://arxiv.org/abs/2603.25740v1",
+      "summary": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "http://arxiv.org/abs/2603.25737v1",
+      "summary": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "http://arxiv.org/abs/2603.25730v1",
+      "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PixelSmile: Toward Fine-Grained Facial Expression Editing",
+      "url": "http://arxiv.org/abs/2603.25728v1",
+      "summary": "Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "http://arxiv.org/abs/2603.25727v1",
+      "summary": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Natural-Language Agent Harnesses",
+      "url": "http://arxiv.org/abs/2603.25723v1",
+      "summary": "Agent performance increasingly depends on \\emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "http://arxiv.org/abs/2603.25722v1",
+      "summary": "Contrastive vision-language (V&L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&L models to learn compositio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "http://arxiv.org/abs/2603.25720v1",
+      "summary": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "http://arxiv.org/abs/2603.25719v1",
+      "summary": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 218652",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 556",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 455871",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "summary": "HN Score: 406. Comments: 196",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "summary": "HN Score: 238. Comments: 123",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora?",
+      "url": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI shuts down Sora while Meta gets shut out in court",
+      "url": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+      "summary": "When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI company that wanted to build a data center on her land, she said no. Sure, that same company can try to rezone&#160;2,000 acres&#160;nearby anyway, but as AI infrastructure stretches further into the real world,&#160;the",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Vega: Learning to Drive with Natural Language Instructions",
+      "url": "http://arxiv.org/abs/2603.25741v1",
+      "summary": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "http://arxiv.org/abs/2603.25740v1",
+      "summary": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "http://arxiv.org/abs/2603.25737v1",
+      "summary": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "http://arxiv.org/abs/2603.25730v1",
+      "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PixelSmile: Toward Fine-Grained Facial Expression Editing",
+      "url": "http://arxiv.org/abs/2603.25728v1",
+      "summary": "Fine-grained facial expression editing has long been limited by intrinsic semantic overlap. To address this, we construct the Flex Facial Expression (FFE) dataset with continuous affective annotations...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Back to Basics: Revisiting ASR in the Age of Voice Agents",
+      "url": "http://arxiv.org/abs/2603.25727v1",
+      "summary": "Automatic speech recognition (ASR) systems have achieved near-human accuracy on curated benchmarks, yet still fail in real-world voice agents under conditions that current evaluations do not systemati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Natural-Language Agent Harnesses",
+      "url": "http://arxiv.org/abs/2603.25723v1",
+      "summary": "Agent performance increasingly depends on \\emph{harness engineering}, yet harness design is usually buried in controller code and runtime-specific conventions, making it hard to transfer, compare, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models",
+      "url": "http://arxiv.org/abs/2603.25722v1",
+      "summary": "Contrastive vision-language (V&L) models remain a popular choice for various applications. However, several limitations have emerged, most notably the limited ability of V&L models to learn compositio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "http://arxiv.org/abs/2603.25720v1",
+      "summary": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization?",
+      "url": "http://arxiv.org/abs/2603.25719v1",
+      "summary": "We present an empirical study of how far general-purpose coding agents -- without hardware-specific training -- can optimize hardware designs from high-level algorithmic specifications. We introduce a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 218652",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 556",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Downloads: 455871",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Anatomy of the .claude/ folder",
+      "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
+      "summary": "HN Score: 406. Comments: 196",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DOJ confirms FBI Director Kash Patel's personal email was hacked",
+      "url": "https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/",
+      "summary": "HN Score: 238. Comments: 123",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+        "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+        "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. "
+      },
+      {
+        "title": "[RSS] Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+        "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+        "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  "
+      }
+    ],
+    "technical": [],
+    "research": [
+      {
+        "title": "[ArXiv] Vega: Learning to Drive with Natural Language Instructions",
+        "url": "http://arxiv.org/abs/2603.25741v1",
+        "summary": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ..."
+      },
+      {
+        "title": "[ArXiv] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+        "url": "http://arxiv.org/abs/2603.25740v1",
+        "summary": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake..."
+      },
+      {
+        "title": "[ArXiv] Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+        "url": "http://arxiv.org/abs/2603.25737v1",
+        "summary": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri..."
+      },
+      {
+        "title": "[ArXiv] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+        "url": "http://arxiv.org/abs/2603.25730v1",
+        "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long..."
+      },
+      {
+        "title": "[ArXiv] R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+        "url": "http://arxiv.org/abs/2603.25720v1",
+        "summary": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO",
+      "url": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "summary": "Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecured loan to the Japanese conglomerate. "
+    },
+    {
+      "title": "[RSS] Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO",
+      "url": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+      "summary": "SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  "
+    },
+    {
+      "title": "[ArXiv] Vega: Learning to Drive with Natural Language Instructions",
+      "url": "http://arxiv.org/abs/2603.25741v1",
+      "summary": "Vision-language-action models have reshaped autonomous driving to incorporate languages into the decision-making process. However, most existing pipelines only utilize the language modality for scene ..."
+    },
+    {
+      "title": "[ArXiv] Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving",
+      "url": "http://arxiv.org/abs/2603.25740v1",
+      "summary": "Human driving behavior is inherently personal, which is shaped by long-term habits and influenced by short-term intentions. Individuals differ in how they accelerate, brake, merge, yield, and overtake..."
+    },
+    {
+      "title": "[ArXiv] Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment",
+      "url": "http://arxiv.org/abs/2603.25737v1",
+      "summary": "The knowledge base in a retrieval-augmented generation (RAG) system is typically assembled once and never revised, even though the facts a query requires are often fragmented across documents and buri..."
+    },
+    {
+      "title": "[ArXiv] PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "url": "http://arxiv.org/abs/2603.25730v1",
+      "summary": "Autoregressive video diffusion models have demonstrated remarkable progress, yet they remain bottlenecked by intractable linear KV-cache growth, temporal repetition, and compounding errors during long..."
+    },
+    {
+      "title": "[ArXiv] R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning",
+      "url": "http://arxiv.org/abs/2603.25720v1",
+      "summary": "Robust perception and reasoning require consistency across sensory modalities. Yet current multimodal models often violate this principle, yielding contradictory predictions for visual and textual rep..."
+    }
+  ],
+  "final_report": "# AI's Dual Ascent: IPO Buzz Fuels Innovation as Research Pushes Autonomous Frontiers\n\nToday's intelligence report highlights significant financial movements in the AI sector, with major IPOs on the horizon signaling robust market confidence. Concurrently, cutting-edge research is rapidly advancing autonomous systems and refining AI's core capabilities.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)**\nSoftBank's massive $40 billion loan, backed by Wall Street titans, is a strong indicator of strategic maneuvers positioning for a potential OpenAI IPO in 2026. This financial play suggests a high-stakes bet on OpenAI's future valuation and market dominance, signaling to investors the immense capital flowing into foundational AI companies. Business leaders should watch this closely as it could set a precedent for future AI mega-IPOs and reshape the competitive landscape.\n\n### **[Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/)**\nSK hynix's potential $10-$14 billion U.S. IPO is a critical development for the entire AI ecosystem, promising to alleviate the severe memory chip shortage dubbed 'RAMmageddon'. This capital infusion would enable significant capacity expansion, directly impacting the supply chain for AI hardware and potentially accelerating the deployment of advanced AI systems. Executives and investors should recognize this as a pivotal move towards stabilizing a crucial bottleneck in AI infrastructure.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Vega: Learning to Drive with Natural Language Instructions](http://arxiv.org/abs/2603.25741v1)**\nThis research introduces Vega, a novel approach to autonomous driving that more deeply integrates natural language instructions into vision-language-action models. By moving beyond superficial language use, Vega aims to enhance the interpretability and adaptability of self-driving systems, allowing for more nuanced control and human-like decision-making based on complex verbal commands. This could pave the way for more intuitive and safer human-AI collaboration in autonomous vehicles.\n\n### **[Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving](http://arxiv.org/abs/2603.25740v1)**\n\"Drive My Way\" explores the critical challenge of personalizing autonomous driving by aligning vision-language-action models with individual human preferences and habits. This work addresses the inherent variability in human driving styles, aiming to create AI systems that can adapt to a user's unique way of accelerating, braking, and navigating. Such advancements are crucial for user acceptance and comfort in future autonomous vehicles, moving beyond a one-size-fits-all approach.\n\n### **[Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment](http://arxiv.org/abs/2603.25737v1)**\nThis paper proposes a method for dynamically training and enriching the knowledge base within Retrieval-Augmented Generation (RAG) systems. By employing evidence distillation and write-back enrichment, the research tackles the static nature of current RAG knowledge bases, allowing them to continuously learn and refine information from fragmented sources. This innovation promises more accurate, comprehensive, and up-to-date AI responses, significantly improving the reliability of RAG applications.\n\n### **[PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference](http://arxiv.org/abs/2603.25730v1)**\n\"PackForcing\" introduces a novel training paradigm that enables autoregressive video diffusion models to generate and infer long videos efficiently using only short video training data. This breakthrough addresses key bottlenecks like KV-cache growth and temporal repetition, making it feasible to scale video generation and understanding to much longer contexts. Researchers will find this valuable for developing more capable and resource-efficient video AI models.\n\n### **[R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning](http://arxiv.org/abs/2603.25720v1)**\nThis research presents R-C2, a Cycle-Consistent Reinforcement Learning framework designed to enhance multimodal reasoning by ensuring consistency across different sensory inputs. By addressing the common issue of contradictory predictions in current multimodal models, R-C2 aims to build more robust and reliable AI systems that can reconcile information from visual and textual representations. This is a crucial step towards developing truly intelligent agents capable of coherent understanding across diverse data types.\n\n---\n**Today's Signal:** The AI landscape is simultaneously maturing with significant financial events like major IPOs, while research continues to push the boundaries of autonomous systems and foundational AI capabilities, particularly in multimodal reasoning and knowledge management.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence/) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [STADLER reshapes knowledge work at a 230-year-old company ](https://openai.com/index/stadler) | Learn how STADLER uses ChatGPT to transform knowledge work, saving time and acce... |\n| [Why SoftBank\u2019s new $40B loan points to a 2026 OpenAI IPO ](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/) | Wall Street giants JPMorgan and Goldman Sachs are extending a 12-month, unsecure... |\n| [Memory chip giant SK hynix could help end \u2018RAMmageddon\u2019 with blockbuster US IPO ](https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/) | SK hynix\u2019s potential U.S. listing could raise $10-$14 billion to help it build m... |\n| [VCs are betting billions on AI\u2019s next wave, so why is OpenAI killing Sora? ](https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/) | When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI ... |\n| [OpenAI shuts down Sora while Meta gets shut out in court ](https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/) | When an 82-year-old Kentucky woman was&#160;offered $26 million&#160;from an AI ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Vega: Learning to Drive with Natural Language Instructions ](http://arxiv.org/abs/2603.25741v1) | Vision-language-action models have reshaped autonomous driving to incorporate la... |\n| [Drive My Way: Preference Alignment of Vision-Language-Action Model for Personalized Driving ](http://arxiv.org/abs/2603.25740v1) | Human driving behavior is inherently personal, which is shaped by long-term habi... |\n| [Training the Knowledge Base through Evidence Distillation and Write-Back Enrichment ](http://arxiv.org/abs/2603.25737v1) | The knowledge base in a retrieval-augmented generation (RAG) system is typically... |\n| [PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference ](http://arxiv.org/abs/2603.25730v1) | Autoregressive video diffusion models have demonstrated remarkable progress, yet... |\n| [PixelSmile: Toward Fine-Grained Facial Expression Editing ](http://arxiv.org/abs/2603.25728v1) | Fine-grained facial expression editing has long been limited by intrinsic semant... |\n| [Back to Basics: Revisiting ASR in the Age of Voice Agents ](http://arxiv.org/abs/2603.25727v1) | Automatic speech recognition (ASR) systems have achieved near-human accuracy on ... |\n| [Natural-Language Agent Harnesses ](http://arxiv.org/abs/2603.25723v1) | Agent performance increasingly depends on \\emph{harness engineering}, yet harnes... |\n| [No Hard Negatives Required: Concept Centric Learning Leads to Compositionality without Degrading Zero-shot Capabilities of Contrastive Models ](http://arxiv.org/abs/2603.25722v1) | Contrastive vision-language (V&L) models remain a popular choice for various app... |\n| [R-C2: Cycle-Consistent Reinforcement Learning Improves Multimodal Reasoning ](http://arxiv.org/abs/2603.25720v1) | Robust perception and reasoning require consistency across sensory modalities. Y... |\n| [Agent Factories for High Level Synthesis: How Far Can General-Purpose Coding Agents Go in Hardware Optimization? ](http://arxiv.org/abs/2603.25719v1) | We present an empirical study of how far general-purpose coding agents -- withou... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [mistralai/Voxtral-4B-TTS-2603 ](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downl... |\n| [HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.5, moe, vision, multimodal. Dow... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Anatomy of the .claude/ folder](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) | HN Score: 406. Comments: 196 |\n| [[HackerNews] DOJ confirms FBI Director Kash Patel's personal email was hacked](https://arstechnica.com/tech-policy/2026/03/doj-confirms-fbi-director-kash-patels-personal-email-was-hacked/) | HN Score: 238. Comments: 123 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 8,
+    "sheet_status": "ok_7_subscribers_from_7_rows",
+    "email_status": "sent_to_8"
+  }
+}
