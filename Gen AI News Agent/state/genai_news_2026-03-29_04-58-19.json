@@ -1,0 +1,248 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "summary": "While there\u2019s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk\u2019s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 253259",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 1802",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 12080",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "summary": "HN Score: 573. Comments: 437",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "summary": "HN Score: 176. Comments: 115",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
+      "url": "https://github.com/openyak/desktop",
+      "summary": "HN Score: 4. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "summary": "HN Score: 144. Comments: 70",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
+      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] STADLER reshapes knowledge work at a 230-year-old company",
+      "url": "https://openai.com/index/stadler",
+      "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Bluesky leans into AI with Attie, an app for building custom feeds",
+      "url": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+      "summary": "Bluesky\u2019s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Stanford study outlines dangers of asking AI chatbots for personal advice",
+      "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+      "summary": "While there\u2019s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk\u2019s last co-founder reportedly leaves xAI",
+      "url": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+      "summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s Claude popularity with paying consumers is skyrocketing",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "summary": "Estimates for total Claude consumer users are all over the map (we've seen figures ranging from 18 million to 30 million). Anthropic hasn't disclosed this data, but a spokesperson did tell TechCrunch that Claude paid subscriptions have more than doubled this year.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 253259",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 1802",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 12080",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] AI overly affirms users asking for personal advice",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "summary": "HN Score: 573. Comments: 437",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "summary": "HN Score: 176. Comments: 115",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenYak \u2013 An open-source Cowork that runs any model and owns your filesystem",
+      "url": "https://github.com/openyak/desktop",
+      "summary": "HN Score: 4. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The first 40 months of the AI era",
+      "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+      "summary": "HN Score: 144. Comments: 70",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] InpharmD (YC W21) Is Hiring \u2013 Senior Ruby on Rails Developer",
+      "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] OpenAI Spud, a Claude Model set to \u2018stir governments\u2019, Beast Mode ARC-AGI-3",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
