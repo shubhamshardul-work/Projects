@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] 15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As more Americans adopt AI tools, fewer say they can trust the results",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
+      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ViPRA: Video Prediction for Robot Actions",
+      "url": "http://arxiv.org/abs/2511.07732v2",
+      "summary": "Can we turn a video prediction model into a robot policy? Videos, including those of humans or teleoperated robots, capture rich physical interactions. However, most of them lack labeled actions, whic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Block-Scaled Data Types",
+      "url": "http://arxiv.org/abs/2603.28765v1",
+      "summary": "NVFP4 has grown increasingly popular as a 4-bit format for quantizing large language models due to its hardware support and its ability to retain useful information with relatively few bits per parame...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+      "url": "http://arxiv.org/abs/2603.28764v1",
+      "summary": "Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2603.28762v1",
+      "summary": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Credit Is Free",
+      "url": "http://arxiv.org/abs/2603.28750v1",
+      "summary": "Recurrent networks do not need Jacobian propagation to adapt online. The hidden state already carries temporal credit through the forward pass; immediate derivatives suffice if you stop corrupting the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] To Augment or Not to Augment? Diagnosing Distributional Symmetry Breaking",
+      "url": "http://arxiv.org/abs/2510.01349v2",
+      "summary": "Symmetry-aware methods for machine learning, such as data augmentation and equivariant architectures, encourage correct model behavior on all transformations (e.g. rotations or permutations) of the or...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+      "url": "http://arxiv.org/abs/2603.28744v1",
+      "summary": "The linear representation hypothesis states that neural network activations encode high-level concepts as linear mixtures. However, under superposition, this encoding is a projection from a higher-dim...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+      "url": "http://arxiv.org/abs/2603.28743v1",
+      "summary": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+      "url": "http://arxiv.org/abs/2603.28739v1",
+      "summary": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomple...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+      "url": "http://arxiv.org/abs/2603.28737v1",
+      "summary": "We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situation...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 309355",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 28233",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 2939",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Universal Claude.md \u2013 cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "summary": "HN Score: 188. Comments: 72",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "summary": "HN Score: 24. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Semantic \u2013 Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+      "url": "https://github.com/concensure/Semantic",
+      "summary": "HN Score: 18. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "summary": "HN Score: 75. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "summary": "HN Score: 207. Comments: 96",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Helping disaster response teams turn AI into action across Asia",
+      "url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] 15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As more Americans adopt AI tools, fewer say they can trust the results",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
+      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ViPRA: Video Prediction for Robot Actions",
+      "url": "http://arxiv.org/abs/2511.07732v2",
+      "summary": "Can we turn a video prediction model into a robot policy? Videos, including those of humans or teleoperated robots, capture rich physical interactions. However, most of them lack labeled actions, whic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Block-Scaled Data Types",
+      "url": "http://arxiv.org/abs/2603.28765v1",
+      "summary": "NVFP4 has grown increasingly popular as a 4-bit format for quantizing large language models due to its hardware support and its ability to retain useful information with relatively few bits per parame...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+      "url": "http://arxiv.org/abs/2603.28764v1",
+      "summary": "Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2603.28762v1",
+      "summary": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Credit Is Free",
+      "url": "http://arxiv.org/abs/2603.28750v1",
+      "summary": "Recurrent networks do not need Jacobian propagation to adapt online. The hidden state already carries temporal credit through the forward pass; immediate derivatives suffice if you stop corrupting the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] To Augment or Not to Augment? Diagnosing Distributional Symmetry Breaking",
+      "url": "http://arxiv.org/abs/2510.01349v2",
+      "summary": "Symmetry-aware methods for machine learning, such as data augmentation and equivariant architectures, encourage correct model behavior on all transformations (e.g. rotations or permutations) of the or...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+      "url": "http://arxiv.org/abs/2603.28744v1",
+      "summary": "The linear representation hypothesis states that neural network activations encode high-level concepts as linear mixtures. However, under superposition, this encoding is a projection from a higher-dim...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+      "url": "http://arxiv.org/abs/2603.28743v1",
+      "summary": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+      "url": "http://arxiv.org/abs/2603.28739v1",
+      "summary": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomple...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+      "url": "http://arxiv.org/abs/2603.28737v1",
+      "summary": "We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situation...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 309355",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 28233",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 2939",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Universal Claude.md \u2013 cut Claude output tokens",
+      "url": "https://github.com/drona23/claude-token-efficient",
+      "summary": "HN Score: 188. Comments: 72",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ollama is now powered by MLX on Apple Silicon in preview",
+      "url": "https://ollama.com/blog/mlx",
+      "summary": "HN Score: 24. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Semantic \u2013 Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs",
+      "url": "https://github.com/concensure/Semantic",
+      "summary": "HN Score: 18. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Clojure: The Documentary, official trailer [video]",
+      "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
+      "summary": "HN Score: 75. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Learn Claude Code by doing, not reading",
+      "url": "https://claude.nagdy.me/",
+      "summary": "HN Score: 207. Comments: 96",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] 15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+        "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+        "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules. "
+      },
+      {
+        "title": "[RSS] Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+        "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+        "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
+      },
+      {
+        "title": "[RSS] As more Americans adopt AI tools, fewer say they can trust the results",
+        "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+        "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll."
+      },
+      {
+        "title": "[RSS] Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
+        "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+        "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior. "
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Adaptive Block-Scaled Data Types",
+        "url": "http://arxiv.org/abs/2603.28765v1",
+        "summary": "NVFP4 has grown increasingly popular as a 4-bit format for quantizing large language models due to its hardware support and its ability to retain useful information with relatively few bits per parame..."
+      },
+      {
+        "title": "[ArXiv] ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+        "url": "http://arxiv.org/abs/2603.28737v1",
+        "summary": "We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situation..."
+      },
+      {
+        "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+        "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 28233"
+      },
+      {
+        "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+        "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+        "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 2939"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+        "url": "http://arxiv.org/abs/2603.28764v1",
+        "summary": "Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations..."
+      },
+      {
+        "title": "[ArXiv] On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+        "url": "http://arxiv.org/abs/2603.28762v1",
+        "summary": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an..."
+      },
+      {
+        "title": "[ArXiv] Temporal Credit Is Free",
+        "url": "http://arxiv.org/abs/2603.28750v1",
+        "summary": "Recurrent networks do not need Jacobian propagation to adapt online. The hidden state already carries temporal credit through the forward pass; immediate derivatives suffice if you stop corrupting the..."
+      },
+      {
+        "title": "[ArXiv] Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+        "url": "http://arxiv.org/abs/2603.28744v1",
+        "summary": "The linear representation hypothesis states that neural network activations encode high-level concepts as linear mixtures. However, under superposition, this encoding is a projection from a higher-dim..."
+      },
+      {
+        "title": "[ArXiv] Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+        "url": "http://arxiv.org/abs/2603.28743v1",
+        "summary": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not s..."
+      },
+      {
+        "title": "[ArXiv] Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+        "url": "http://arxiv.org/abs/2603.28739v1",
+        "summary": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomple..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] 15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll",
+      "url": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "summary": "According to a Quinnipiac University poll, 15% of Americans say they'd be willing to have a job where their direct supervisor was an AI program that assigned tasks and set schedules. "
+    },
+    {
+      "title": "[RSS] Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+      "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week."
+    },
+    {
+      "title": "[RSS] As more Americans adopt AI tools, fewer say they can trust the results",
+      "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+      "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology\u2019s broader societal impact, according to a new Quinnipiac poll."
+    },
+    {
+      "title": "[RSS] Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem",
+      "url": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+      "summary": "Mantis takes disparate sources of data to make synthetic datasets that can be used to build so-called \"digital twins\" of the human body, representing anatomy, physiology and behavior. "
+    },
+    {
+      "title": "[ArXiv] Adaptive Block-Scaled Data Types",
+      "url": "http://arxiv.org/abs/2603.28765v1",
+      "summary": "NVFP4 has grown increasingly popular as a 4-bit format for quantizing large language models due to its hardware support and its ability to retain useful information with relatively few bits per parame..."
+    },
+    {
+      "title": "[ArXiv] ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining",
+      "url": "http://arxiv.org/abs/2603.28737v1",
+      "summary": "We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech and text style captions into a common embedding space, supporting a wide range of intrinsic (speaker-level) and situation..."
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 28233"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 2939"
+    },
+    {
+      "title": "[ArXiv] Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds",
+      "url": "http://arxiv.org/abs/2603.28764v1",
+      "summary": "Similarity measures are widely used to interpret the representational geometries used by neural networks to solve tasks. Yet, because existing methods compare the extrinsic geometry of representations..."
+    },
+    {
+      "title": "[ArXiv] On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "url": "http://arxiv.org/abs/2603.28762v1",
+      "summary": "Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic alignment, yet they often suffer from a significant lack of variety, converging on a narrow set of visual solutions for an..."
+    },
+    {
+      "title": "[ArXiv] Temporal Credit Is Free",
+      "url": "http://arxiv.org/abs/2603.28750v1",
+      "summary": "Recurrent networks do not need Jacobian propagation to adapt online. The hidden state already carries temporal credit through the forward pass; immediate derivatives suffice if you stop corrupting the..."
+    },
+    {
+      "title": "[ArXiv] Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation",
+      "url": "http://arxiv.org/abs/2603.28744v1",
+      "summary": "The linear representation hypothesis states that neural network activations encode high-level concepts as linear mixtures. However, under superposition, this encoding is a projection from a higher-dim..."
+    },
+    {
+      "title": "[ArXiv] Rethinking Language Model Scaling under Transferable Hypersphere Optimization",
+      "url": "http://arxiv.org/abs/2603.28743v1",
+      "summary": "Scaling laws for large language models depend critically on the optimizer and parameterization. Existing hyperparameter transfer laws are mainly developed for first-order optimizers, and they do not s..."
+    },
+    {
+      "title": "[ArXiv] Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks",
+      "url": "http://arxiv.org/abs/2603.28739v1",
+      "summary": "In transfer learning, the learner leverages auxiliary data to improve generalization on a main task. However, the precise theoretical understanding of when and how auxiliary data help remains incomple..."
+    }
+  ],
+  "final_report": "# AI's Trust Deficit: Adoption Rises, But Skepticism Lingers Amidst Rapid Innovation\n\nToday's intelligence report highlights a critical paradox: as AI tools become more prevalent in daily life and business, public trust in their outputs is actually declining. Meanwhile, the technical frontier continues to push boundaries in efficiency, creativity, and fundamental understanding, setting the stage for future breakthroughs.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/)**\nThis poll reveals a nascent but significant openness to AI-driven management, suggesting a potential shift in workforce dynamics. For businesses, this indicates an opportunity to explore AI's role in optimizing operations and task allocation, but also highlights the need for careful implementation strategies to address the majority's reservations and ensure human-centric leadership remains paramount.\n\n### **[Popular AI gateway startup LiteLLM ditches controversial startup Delve](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/)**\nThe incident with LiteLLM underscores the critical importance of supply chain security and due diligence in the AI ecosystem. Businesses leveraging third-party AI tools must rigorously vet their partners and infrastructure providers to mitigate risks like credential theft and maintain operational integrity and data security.\n\n### **[As more Americans adopt AI tools, fewer say they can trust the results](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/)**\nThis finding presents a significant strategic challenge: rising adoption without corresponding trust can lead to user dissatisfaction, misuse, and regulatory scrutiny. Leaders must prioritize transparency, explainability, and robust ethical frameworks in their AI deployments to build confidence and ensure long-term value creation.\n\n### **[Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/)**\nMantis Biotech's approach to creating \"digital twins\" offers a transformative solution for data-scarce fields like medicine, enabling the generation of synthetic, yet realistic, datasets. This innovation could accelerate drug discovery, personalized treatment plans, and medical research by providing rich, privacy-preserving data for AI model training.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Adaptive Block-Scaled Data Types](http://arxiv.org/abs/2603.28765v1)**\nThis paper delves into NVFP4, a 4-bit quantization format gaining traction for large language models due to its hardware support and efficiency. Developers should watch this space for advancements in low-bit precision training and inference, as it promises significant reductions in memory footprint and computational cost for deploying powerful models.\n\n### **[ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining](http://arxiv.org/abs/2603.28737v1)**\nParaSpeechCLAP introduces a novel dual-encoder model that maps speech and text style captions into a shared embedding space, capturing rich stylistic nuances. Engineers working on speech synthesis, voice cloning, or multimodal understanding should explore this architecture for its potential to create more expressive and context-aware audio-text applications.\n\n### **[CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)**\nCohereLabs' new transcription model is trending on Hugging Face, indicating strong community interest and potential utility. Developers needing high-quality Automatic Speech Recognition (ASR) should evaluate this model for their projects, especially given Cohere's reputation for robust language AI.\n\n### **[mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**\nMistral AI's Voxtral-4B-TTS model is another trending release, offering text-to-speech capabilities across multiple languages (English, French, Spanish). For practitioners building multilingual voice interfaces or content generation tools, this model presents a compelling option to integrate high-quality, efficient TTS.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds](http://arxiv.org/abs/2603.28764v1)**\nThis research proposes new similarity measures that consider the intrinsic geometry of neural representations, moving beyond extrinsic comparisons. This could fundamentally change how researchers interpret and understand the internal workings of neural networks, offering deeper insights into representational learning and model behavior.\n\n### **[On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers](http://arxiv.org/abs/2603.28762v1)**\nAddressing the common issue of limited diversity in Text-to-Image (T2I) diffusion models, this paper introduces a method for \"on-the-fly repulsion\" to encourage a wider range of visual outputs. This is a crucial step for generative AI, potentially leading to more creative and less repetitive image generation, and opens new avenues for controlling output variability.\n\n### **[Temporal Credit Is Free](http://arxiv.org/abs/2603.28750v1)**\nThis provocative paper challenges conventional wisdom in recurrent neural networks, suggesting that Jacobian propagation for online adaptation might be unnecessary. If proven widely applicable, this could simplify the training of recurrent models and offer new theoretical perspectives on how temporal dependencies are learned and credit is assigned.\n\n### **[Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation](http://arxiv.org/abs/2603.28744v1)**\nThis paper critiques the limitations of linear probes and sparse autoencoders in understanding compositional generalization, arguing that the linear representation hypothesis is insufficient under superposition. It calls for a re-evaluation of current interpretability methods, pushing researchers towards more sophisticated techniques to truly decode how neural networks represent complex concepts.\n\n### **[Rethinking Language Model Scaling under Transferable Hypersphere Optimization](http://arxiv.org/abs/2603.28743v1)**\nThis research explores how scaling laws for large language models are influenced by optimizers and parameterization, particularly under a novel \"transferable hypersphere optimization.\" This work has significant implications for efficiently scaling future LLMs, suggesting that current scaling laws might be suboptimal and that new optimization strategies could unlock greater performance.\n\n### **[Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks](http://arxiv.org/abs/2603.28739v1)**\nThis paper provides theoretical bounds for transfer learning, shedding light on when and how auxiliary data genuinely improves generalization. For researchers working on transfer learning, this offers a deeper mathematical understanding of its mechanisms and limitations, guiding more effective strategies for leveraging pre-trained models and diverse datasets.\n\n**Today's Signal:** The AI landscape is grappling with a growing trust deficit even as adoption accelerates, demanding a strategic focus on transparency and ethical deployment while technical innovations continue to push the boundaries of efficiency, creativity, and fundamental understanding.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 & 2025 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[RSS] Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) | AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation |\n| [15% of Americans say they\u2019d be willing to work for an AI boss, according to new poll ](https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/) | According to a Quinnipiac University poll, 15% of Americans say they'd be willin... |\n| [Popular AI gateway startup LiteLLM ditches controversial startup Delve ](https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/) | LiteLLM had obtained two security compliance certifications via Delve and fell v... |\n| [As more Americans adopt AI tools, fewer say they can trust the results ](https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/) | AI adoption is rising in the U.S., but trust remains low, with most Americans co... |\n| [Mantis Biotech is making \u2018digital twins\u2019 of humans to help solve medicine\u2019s data availability problem ](https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/) | Mantis takes disparate sources of data to make synthetic datasets that can be us... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ViPRA: Video Prediction for Robot Actions ](http://arxiv.org/abs/2511.07732v2) | Can we turn a video prediction model into a robot policy? Videos, including thos... |\n| [Adaptive Block-Scaled Data Types ](http://arxiv.org/abs/2603.28765v1) | NVFP4 has grown increasingly popular as a 4-bit format for quantizing large lang... |\n| [Geometry-aware similarity metrics for neural representations on Riemannian and statistical manifolds ](http://arxiv.org/abs/2603.28764v1) | Similarity measures are widely used to interpret the representational geometries... |\n| [On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers ](http://arxiv.org/abs/2603.28762v1) | Modern Text-to-Image (T2I) diffusion models have achieved remarkable semantic al... |\n| [Temporal Credit Is Free ](http://arxiv.org/abs/2603.28750v1) | Recurrent networks do not need Jacobian propagation to adapt online. The hidden ... |\n| [To Augment or Not to Augment? Diagnosing Distributional Symmetry Breaking ](http://arxiv.org/abs/2510.01349v2) | Symmetry-aware methods for machine learning, such as data augmentation and equiv... |\n| [Stop Probing, Start Coding: Why Linear Probes and Sparse Autoencoders Fail at Compositional Generalisation ](http://arxiv.org/abs/2603.28744v1) | The linear representation hypothesis states that neural network activations enco... |\n| [Rethinking Language Model Scaling under Transferable Hypersphere Optimization ](http://arxiv.org/abs/2603.28743v1) | Scaling laws for large language models depend critically on the optimizer and pa... |\n| [Expectation Error Bounds for Transfer Learning in Linear Regression and Linear Neural Networks ](http://arxiv.org/abs/2603.28739v1) | In transfer learning, the learner leverages auxiliary data to improve generaliza... |\n| [ParaSpeechCLAP: A Dual-Encoder Speech-Text Model for Rich Stylistic Language-Audio Pretraining ](http://arxiv.org/abs/2603.28737v1) | We introduce ParaSpeechCLAP, a dual-encoder contrastive model that maps speech a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [CohereLabs/cohere-transcribe-03-2026 ](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) | Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech... |\n| [mistralai/Voxtral-4B-TTS-2603 ](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downl... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Universal Claude.md \u2013 cut Claude output tokens](https://github.com/drona23/claude-token-efficient) | HN Score: 188. Comments: 72 |\n| [[HackerNews] Ollama is now powered by MLX on Apple Silicon in preview](https://ollama.com/blog/mlx) | HN Score: 24. Comments: 1 |\n| [[HackerNews] Semantic \u2013 Reducing LLM \"Agent Loops\" by 27.78% via AST Logic Graphs](https://github.com/concensure/Semantic) | HN Score: 18. Comments: 2 |\n| [[HackerNews] Clojure: The Documentary, official trailer [video]](https://www.youtube.com/watch?v=JJEyffSdBsk) | HN Score: 75. Comments: 4 |\n| [[HackerNews] Learn Claude Code by doing, not reading](https://claude.nagdy.me/) | HN Score: 207. Comments: 96 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "sent_to_11"
+  }
+}
