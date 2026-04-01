@@ -1,0 +1,24 @@
+# Core pipeline
+langchain-experimental        # DiffbotGraphTransformer
+langchain-neo4j               # Neo4jGraph, Neo4jVector, GraphCypherQAChain
+langchain-community           # Document loaders (PDF, DOCX, XLSX, email)
+langchain-openai              # OpenAI LLM + embeddings
+langchain-google-genai        # Google Gemini LLM + embeddings
+langchain-groq                # Groq LLM
+langchain-core                # Core LangChain abstractions
+langgraph                     # StateGraph orchestration
+neo4j                         # Official Neo4j Python driver
+graphdatascience              # Neo4j GDS Python client
+pydantic                      # Structured output schema models
+
+# Document parsing
+pypdf
+unstructured
+python-docx
+openpyxl
+
+# Supporting utilities
+python-dotenv
+tenacity
+tqdm
+loguru

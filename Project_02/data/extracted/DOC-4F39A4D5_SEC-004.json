@@ -1,0 +1,510 @@
+{
+  "document_id": "DOC-4F39A4D5_SEC-004",
+  "entities": [
+    {
+      "name": "architecture",
+      "diffbotUri": "https://diffbot.com/entity/EH0YLKYV8Ml6mqt_htCE3hw",
+      "confidence": 0.73089784,
+      "salience": 0.8490368,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q12271"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Architecture",
+          "beginOffset": 34,
+          "endOffset": 46,
+          "confidence": 0.73089784
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ]
+    },
+    {
+      "name": "milestone",
+      "diffbotUri": "https://diffbot.com/entity/EgjXKW-DwMAq7Xq0A-Q2O3A",
+      "confidence": 0.64133644,
+      "salience": 0.8066798,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2143762"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Milestone",
+          "beginOffset": 1,
+          "endOffset": 10,
+          "confidence": 0.64133644
+        },
+        {
+          "text": "Milestone",
+          "beginOffset": 227,
+          "endOffset": 236,
+          "confidence": 0.64133644
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "project",
+      "diffbotUri": "https://diffbot.com/entity/E5maRYlMJOL6IlWuCRhXF8A",
+      "confidence": 0.6000571,
+      "salience": 0.54124343,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q170584"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Project",
+          "beginOffset": 14,
+          "endOffset": 21,
+          "confidence": 0.6000571
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "warranty",
+      "diffbotUri": "https://diffbot.com/entity/Ee0hylibsOEOa_ZB66aNx_g",
+      "confidence": 0.62219816,
+      "salience": 0.50142443,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q329717"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Warranty",
+          "beginOffset": 337,
+          "endOffset": 345,
+          "confidence": 0.62219816
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "1,000,000 USD",
+      "confidence": 0.909508,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "$1,000,000 USD",
+          "beginOffset": 411,
+          "endOffset": 425,
+          "confidence": 0.909508
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "100,000 USD",
+      "confidence": 0.9970957,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "100,000",
+          "beginOffset": 355,
+          "endOffset": 362,
+          "confidence": 0.9970957
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "2026-07-31",
+      "confidence": 0.96770513,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "July 31, 2026",
+          "beginOffset": 142,
+          "endOffset": 155,
+          "confidence": 0.96770513
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "150,000 USD",
+      "confidence": 0.9984055,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "150,000",
+          "beginOffset": 59,
+          "endOffset": 66,
+          "confidence": 0.9984055
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "1",
+      "confidence": 0.8896889,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1",
+          "beginOffset": 11,
+          "endOffset": 12,
+          "confidence": 0.8896889
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "5",
+      "confidence": 0.88624924,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5",
+          "beginOffset": 315,
+          "endOffset": 316,
+          "confidence": 0.88624924
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-05-31",
+      "confidence": 0.9846283,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "May 31, 2026",
+          "beginOffset": 74,
+          "endOffset": 86,
+          "confidence": 0.9846283
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "250,000 USD",
+      "confidence": 0.9982346,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "250,000",
+          "beginOffset": 196,
+          "endOffset": 203,
+          "confidence": 0.9982346
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "2",
+      "confidence": 0.9168398,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "2",
+          "beginOffset": 97,
+          "endOffset": 98,
+          "confidence": 0.9168398
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-08-31",
+      "confidence": 0.9919127,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "August 31, 2026",
+          "beginOffset": 211,
+          "endOffset": 226,
+          "confidence": 0.9919127
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "2026-12-31",
+      "confidence": 0.9843572,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "December 31, 2026",
+          "beginOffset": 370,
+          "endOffset": 387,
+          "confidence": 0.9843572
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "300,000 USD",
+      "confidence": 0.9981704,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "300,000",
+          "beginOffset": 127,
+          "endOffset": 134,
+          "confidence": 0.9981704
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "4",
+      "confidence": 0.93460155,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "4",
+          "beginOffset": 237,
+          "endOffset": 238,
+          "confidence": 0.93460155
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "200,000 USD",
+      "confidence": 0.99728775,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "200,000",
+          "beginOffset": 272,
+          "endOffset": 279,
+          "confidence": 0.99728775
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "3",
+      "confidence": 0.92714727,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "3",
+          "beginOffset": 166,
+          "endOffset": 167,
+          "confidence": 0.92714727
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-11-15",
+      "confidence": 0.9928544,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "November 15, 2026",
+          "beginOffset": 287,
+          "endOffset": 304,
+          "confidence": 0.9928544
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

@@ -1,0 +1,337 @@
+{
+  "document_id": "DOC-4F39A4D5_SEC-008",
+  "entities": [
+    {
+      "name": "Robert Kim",
+      "diffbotUri": "https://diffbot.com/entity/EEYgOABXsOt-bu3Ay06wk-Q",
+      "confidence": 0.9998987,
+      "salience": 0.96408087,
+      "isCustom": false,
+      "allUris": [
+        "http://www.linkedin.com/in/robert-kim-5423465"
+      ],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Robert Kim",
+          "beginOffset": 232,
+          "endOffset": 242,
+          "confidence": 0.9998987
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "Emily Watson",
+      "diffbotUri": "https://diffbot.com/entity/EucPhMCBuMG23yUXdDGsr5Q",
+      "confidence": 0.99985397,
+      "salience": 0.933768,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q229535"
+      ],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Emily Watson",
+          "beginOffset": 180,
+          "endOffset": 192,
+          "confidence": 0.99985397
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "David Park",
+      "diffbotUri": "https://diffbot.com/entity/Ehy11NtylP-eRA7mUji-r-g",
+      "confidence": 0.99957806,
+      "salience": 0.88484067,
+      "isCustom": false,
+      "allUris": [
+        "http://www.linkedin.com/in/davpark"
+      ],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "David Park",
+          "beginOffset": 129,
+          "endOffset": 139,
+          "confidence": 0.99957806
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "quality assurance",
+      "diffbotUri": "https://diffbot.com/entity/EiAH8eUaPNXSfNE8LFKOhGg",
+      "confidence": 0.63323057,
+      "salience": 0.8028522,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q836575"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "QA",
+          "beginOffset": 155,
+          "endOffset": 157,
+          "confidence": 0.63323057
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "Meridian Global Solutions",
+      "diffbotUri": "https://diffbot.com/entity/EkR_75q80No2XUOJ1qV7EQw",
+      "confidence": 0.9997336,
+      "salience": 0.7818197,
+      "isCustom": false,
+      "allUris": [
+        "http://www.crunchbase.com/organization/meridian-global-solutions"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Meridian Global Solutions",
+          "beginOffset": 244,
+          "endOffset": 269,
+          "confidence": 0.9997336
+        }
+      ],
+      "location": {
+        "latitude": -34.607357,
+        "longitude": -58.454594,
+        "precision": 14.258494
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "data quality",
+      "diffbotUri": "https://diffbot.com/entity/EUR7AkBJGP82GwxzEozkC9Q",
+      "confidence": 0.69491684,
+      "salience": 0.5896209,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1757694"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Data Quality",
+          "beginOffset": 160,
+          "endOffset": 172,
+          "confidence": 0.69491684
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ]
+    },
+    {
+      "name": "client",
+      "diffbotUri": "https://diffbot.com/entity/EkkljGm9lNWOzuTFEderw5w",
+      "confidence": 0.7352722,
+      "salience": 0.5290238,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q528166"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Client",
+          "beginOffset": 208,
+          "endOffset": 214,
+          "confidence": 0.7352722
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "Priya Sharma",
+      "confidence": 0.99991,
+      "salience": 0.94069314,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Priya Sharma",
+          "beginOffset": 24,
+          "endOffset": 36,
+          "confidence": 0.99991
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "NovaTech",
+      "confidence": 0.9734134,
+      "salience": 0.9772272,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "NovaTech",
+          "beginOffset": 38,
+          "endOffset": 46,
+          "confidence": 0.93533856
+        },
+        {
+          "text": "NovaTech",
+          "beginOffset": 87,
+          "endOffset": 95,
+          "confidence": 0.85
+        },
+        {
+          "text": "NovaTech",
+          "beginOffset": 141,
+          "endOffset": 149,
+          "confidence": 0.9091459
+        },
+        {
+          "text": "NovaTech",
+          "beginOffset": 194,
+          "endOffset": 202,
+          "confidence": 0.9734134
+        }
+      ],
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "8.1",
+      "confidence": 0.60421365,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "8.1",
+          "beginOffset": 1,
+          "endOffset": 4,
+          "confidence": 0.60421365
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "Michael Chen",
+      "confidence": 0.99982446,
+      "salience": 0.9069047,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Michael Chen",
+          "beginOffset": 73,
+          "endOffset": 85,
+          "confidence": 0.99982446
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

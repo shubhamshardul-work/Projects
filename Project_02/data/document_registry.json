@@ -1,0 +1,79 @@
+[
+  {
+    "document_id": "DOC-133349C5",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": null,
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-03-31T19:01:49.317882+00:00",
+    "status": "extracting"
+  },
+  {
+    "document_id": "DOC-0B387F16",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": "SOW",
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-03-31T19:02:31.412004+00:00",
+    "status": "ingested"
+  },
+  {
+    "document_id": "DOC-7B39A43E",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": null,
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-03-31T19:03:36.945087+00:00",
+    "status": "mapping"
+  },
+  {
+    "document_id": "DOC-4F8E2D7C",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": "SOW",
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-03-31T19:06:01.848986+00:00",
+    "status": "ingested"
+  },
+  {
+    "document_id": "DOC-0BD6EF64",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": "SOW",
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-03-31T19:22:39.690585+00:00",
+    "status": "ingested"
+  },
+  {
+    "document_id": "DOC-4F39A4D5",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": null,
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-04-01T05:43:43.653216+00:00",
+    "status": "mapping"
+  },
+  {
+    "document_id": "DOC-9CAD2805",
+    "file_name": "sample_sow_contract.txt",
+    "file_path": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+    "file_type": "txt",
+    "document_type": "SOW",
+    "client_name": "Meridian Global Solutions Inc.",
+    "project_name": "Enterprise Data Platform Modernization",
+    "upload_date": "2026-04-01T05:45:35.740528+00:00",
+    "status": "ingested"
+  }
+]

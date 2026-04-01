@@ -1,0 +1,400 @@
+{
+  "document_id": "DOC-4F39A4D5_SEC-010",
+  "entities": [
+    {
+      "name": "statement of work",
+      "diffbotUri": "https://diffbot.com/entity/EyyTDm2E4NFueFGQDo99lxg",
+      "confidence": 0.62988687,
+      "salience": 0.97801465,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1815887"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Statement of Work",
+          "beginOffset": 6,
+          "endOffset": 23,
+          "confidence": 0.62988687
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "service provider",
+      "diffbotUri": "https://diffbot.com/entity/EiMOs-TgdNmWrdxYCaB3PQQ",
+      "confidence": 0.6494717,
+      "salience": 0.95560336,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2169973"
+      ],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        },
+        {
+          "name": "award",
+          "diffbotUri": "https://diffbot.com/entity/EgXqbw14CORSyFpZeczosiQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Award"
+        },
+        {
+          "name": "occupation",
+          "diffbotUri": "https://diffbot.com/entity/ErZNo5eLfM4mNIiqiMORbhA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Profession"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Service Provider",
+          "beginOffset": 236,
+          "endOffset": 252,
+          "confidence": 0.6494717
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title",
+        "award",
+        "occupation"
+      ]
+    },
+    {
+      "name": "Meridian Global Solutions",
+      "diffbotUri": "https://diffbot.com/entity/EkR_75q80No2XUOJ1qV7EQw",
+      "confidence": 0.99982184,
+      "salience": 0.93621826,
+      "isCustom": false,
+      "allUris": [
+        "http://www.crunchbase.com/organization/meridian-global-solutions"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Meridian Global Solutions Inc",
+          "beginOffset": 110,
+          "endOffset": 139,
+          "confidence": 0.99982184
+        }
+      ],
+      "location": {
+        "latitude": -34.607357,
+        "longitude": -58.454594,
+        "precision": 14.258494
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "client",
+      "diffbotUri": "https://diffbot.com/entity/EkkljGm9lNWOzuTFEderw5w",
+      "confidence": 0.5716744,
+      "salience": 0.5205377,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q528166"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Client",
+          "beginOffset": 102,
+          "endOffset": 108,
+          "confidence": 0.5716744
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "2026-04-01",
+      "confidence": 0.99726677,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "April 1, 2026",
+          "beginOffset": 221,
+          "endOffset": 234,
+          "confidence": 0.9964371
+        },
+        {
+          "text": "April 1, 2026",
+          "beginOffset": 353,
+          "endOffset": 366,
+          "confidence": 0.99726677
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "Amanda Foster",
+      "confidence": 0.99990153,
+      "salience": 0.9344148,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Thomas Wright",
+          "beginOffset": 176,
+          "endOffset": 189,
+          "confidence": 0.99960285
+        },
+        {
+          "text": "Amanda Foster",
+          "beginOffset": 314,
+          "endOffset": 327,
+          "confidence": 0.99990153
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "NovaTech Consulting Ltd",
+      "confidence": 0.9997322,
+      "salience": 0.9593962,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "NovaTech Consulting Ltd",
+          "beginOffset": 254,
+          "endOffset": 277,
+          "confidence": 0.9997322
+        }
+      ],
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "Chief Operating Officer",
+      "confidence": 0.51,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Chief Operating Officer",
+          "beginOffset": 191,
+          "endOffset": 214,
+          "confidence": 0.51
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title"
+      ]
+    },
+    {
+      "name": "Managing Director",
+      "confidence": 0.51,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Managing Director",
+          "beginOffset": 329,
+          "endOffset": 346,
+          "confidence": 0.51
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "entity": {
+        "name": "Amanda Foster",
+        "confidence": 0.99990153,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "person",
+            "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+            "dbpediaUri": "http://dbpedia.org/ontology/Person"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 5
+      },
+      "value": {
+        "name": "Chief Operating Officer",
+        "confidence": 0.51,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "job title",
+            "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 7
+      },
+      "property": {
+        "name": "position held",
+        "diffbotUri": "https://docs.diffbot.com/ontology#Person.employments.title"
+      },
+      "confidence": 0.93349445,
+      "humanReadable": "[Amanda Foster] position held [Chief Operating Officer]",
+      "evidence": [
+        {
+          "passage": "Name: Thomas Wright, Chief Operating Officer",
+          "entityMentions": [
+            {
+              "text": "Thomas Wright",
+              "beginOffset": 176,
+              "endOffset": 189,
+              "confidence": 0.99960285
+            }
+          ],
+          "valueMentions": [
+            {
+              "text": "Chief Operating Officer",
+              "beginOffset": 191,
+              "endOffset": 214,
+              "confidence": 0.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entity": {
+        "name": "Amanda Foster",
+        "confidence": 0.99990153,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "person",
+            "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+            "dbpediaUri": "http://dbpedia.org/ontology/Person"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 5
+      },
+      "value": {
+        "name": "Managing Director",
+        "confidence": 0.51,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "job title",
+            "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 8
+      },
+      "property": {
+        "name": "position held",
+        "diffbotUri": "https://docs.diffbot.com/ontology#Person.employments.title"
+      },
+      "confidence": 0.9442893,
+      "humanReadable": "[Amanda Foster] position held [Managing Director]",
+      "evidence": [
+        {
+          "passage": "Name: Amanda Foster, Managing Director",
+          "entityMentions": [
+            {
+              "text": "Amanda Foster",
+              "beginOffset": 314,
+              "endOffset": 327,
+              "confidence": 0.99990153
+            }
+          ],
+          "valueMentions": [
+            {
+              "text": "Managing Director",
+              "beginOffset": 329,
+              "endOffset": 346,
+              "confidence": 0.51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "properties": [],
+  "sentiment": 0.0
+}

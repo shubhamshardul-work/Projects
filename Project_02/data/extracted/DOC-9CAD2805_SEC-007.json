@@ -1,0 +1,249 @@
+{
+  "document_id": "DOC-9CAD2805_SEC-007",
+  "entities": [
+    {
+      "name": "price",
+      "diffbotUri": "https://diffbot.com/entity/E0tAcnQ1OOKSuTvx_eecalQ",
+      "confidence": 0.57214934,
+      "salience": 0.7354608,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q160151"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Price",
+          "beginOffset": 37,
+          "endOffset": 42,
+          "confidence": 0.57214934
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "hour",
+      "diffbotUri": "https://diffbot.com/entity/E1Tgx-tL-P0mp8D_X21XzBQ",
+      "confidence": 0.6015092,
+      "salience": 0.16258913,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q25235"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "hour",
+          "beginOffset": 131,
+          "endOffset": 135,
+          "confidence": 0.6015092
+        },
+        {
+          "text": "hour",
+          "beginOffset": 162,
+          "endOffset": 166,
+          "confidence": 0.6015092
+        },
+        {
+          "text": "hour",
+          "beginOffset": 193,
+          "endOffset": 197,
+          "confidence": 0.6015092
+        },
+        {
+          "text": "hour",
+          "beginOffset": 221,
+          "endOffset": 225,
+          "confidence": 0.6015092
+        },
+        {
+          "text": "hour",
+          "beginOffset": 258,
+          "endOffset": 262,
+          "confidence": 0.6015092
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "185 USD",
+      "confidence": 0.9189739,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "185",
+          "beginOffset": 189,
+          "endOffset": 192,
+          "confidence": 0.9189739
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "7.1",
+      "confidence": 0.9067169,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "7.1",
+          "beginOffset": 1,
+          "endOffset": 4,
+          "confidence": 0.9067169
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "150 USD",
+      "confidence": 0.8581942,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "150",
+          "beginOffset": 217,
+          "endOffset": 220,
+          "confidence": 0.8581942
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "275 USD",
+      "confidence": 0.91972,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "275",
+          "beginOffset": 127,
+          "endOffset": 130,
+          "confidence": 0.91972
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "125 USD",
+      "confidence": 0.6950163,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "125",
+          "beginOffset": 254,
+          "endOffset": 257,
+          "confidence": 0.6950163
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "225 USD",
+      "confidence": 0.9308164,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "225",
+          "beginOffset": 158,
+          "endOffset": 161,
+          "confidence": 0.9308164
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    },
+    {
+      "name": "7.2",
+      "confidence": 0.996923,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "7.2",
+          "beginOffset": 69,
+          "endOffset": 72,
+          "confidence": 0.996923
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

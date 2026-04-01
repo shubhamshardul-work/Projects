@@ -1,0 +1,689 @@
+{
+  "document_id": "DOC-7B39A43E_SEC-001",
+  "entities": [
+    {
+      "name": "India",
+      "diffbotUri": "https://diffbot.com/entity/EkL_5YoTSMA6dbNRVyE9yCQ",
+      "confidence": 0.97283465,
+      "salience": 0.9624963,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q668"
+      ],
+      "allTypes": [
+        {
+          "name": "location",
+          "diffbotUri": "https://diffbot.com/entity/EiCyWUm4lNziqgLHx47iAIQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Place"
+        },
+        {
+          "name": "administrative area",
+          "diffbotUri": "https://diffbot.com/entity/EcTIu1tWKPouIa6qZtSpc4A",
+          "dbpediaUri": "http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "name": "country",
+          "diffbotUri": "https://diffbot.com/entity/E9bmxGo8aNgCDUxsGSFl_9A",
+          "dbpediaUri": "http://dbpedia.org/ontology/Country"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "India",
+          "beginOffset": 316,
+          "endOffset": 321,
+          "confidence": 0.97283465
+        }
+      ],
+      "location": {
+        "latitude": 22.8,
+        "longitude": 83.0,
+        "precision": 1813.081
+      },
+      "type": "Location",
+      "allTypeNames": [
+        "location",
+        "administrative area",
+        "country"
+      ]
+    },
+    {
+      "name": "project manager",
+      "diffbotUri": "https://diffbot.com/entity/EV3pgn0waNrK_upZ2khYkXg",
+      "confidence": 0.93672186,
+      "salience": 0.95514,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q816432"
+      ],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        },
+        {
+          "name": "award",
+          "diffbotUri": "https://diffbot.com/entity/EgXqbw14CORSyFpZeczosiQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Award"
+        },
+        {
+          "name": "occupation",
+          "diffbotUri": "https://diffbot.com/entity/ErZNo5eLfM4mNIiqiMORbhA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Profession"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Project Manager",
+          "beginOffset": 62,
+          "endOffset": 77,
+          "confidence": 0.93672186
+        },
+        {
+          "text": "Project Manager",
+          "beginOffset": 125,
+          "endOffset": 140,
+          "confidence": 0.51
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title",
+        "award",
+        "occupation"
+      ]
+    },
+    {
+      "name": "Bengaluru",
+      "diffbotUri": "https://diffbot.com/entity/EH8-RoeHXOK-8hk4KLHtdaw",
+      "confidence": 0.99583757,
+      "salience": 0.9551262,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1355"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "name": "location",
+          "diffbotUri": "https://diffbot.com/entity/EiCyWUm4lNziqgLHx47iAIQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Place"
+        },
+        {
+          "name": "administrative area",
+          "diffbotUri": "https://diffbot.com/entity/EcTIu1tWKPouIa6qZtSpc4A",
+          "dbpediaUri": "http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "name": "city",
+          "diffbotUri": "https://diffbot.com/entity/EzdJrGHiyMWu0XbSn101rFA",
+          "dbpediaUri": "http://dbpedia.org/ontology/City"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Bangalore",
+          "beginOffset": 305,
+          "endOffset": 314,
+          "confidence": 0.99583757
+        }
+      ],
+      "location": {
+        "latitude": 12.97912,
+        "longitude": 77.5913,
+        "precision": 27.221315
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization",
+        "location",
+        "administrative area",
+        "city"
+      ]
+    },
+    {
+      "name": "Enterprise Data",
+      "diffbotUri": "https://diffbot.com/entity/E6gr0X_asNR2H3zcr4fK-Ng",
+      "confidence": 0.59476364,
+      "salience": 0.85576636,
+      "isCustom": false,
+      "allUris": [
+        "http://www.crunchbase.com/organization/enterprise-data-corporation"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Enterprise Data",
+          "beginOffset": 19,
+          "endOffset": 34,
+          "confidence": 0.59476364
+        }
+      ],
+      "location": {
+        "latitude": -33.756657,
+        "longitude": 150.97897,
+        "precision": 3.9847353
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "price",
+      "diffbotUri": "https://diffbot.com/entity/E0tAcnQ1OOKSuTvx_eecalQ",
+      "confidence": 0.61655104,
+      "salience": 0.78425896,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q160151"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Price",
+          "beginOffset": 224,
+          "endOffset": 229,
+          "confidence": 0.61655104
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "New York City",
+      "diffbotUri": "https://diffbot.com/entity/EcMmgf99wMQ6XYnbChv5HiQ",
+      "confidence": 0.9763484,
+      "salience": 0.7642142,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q60"
+      ],
+      "allTypes": [
+        {
+          "name": "location",
+          "diffbotUri": "https://diffbot.com/entity/EiCyWUm4lNziqgLHx47iAIQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Place"
+        },
+        {
+          "name": "administrative area",
+          "diffbotUri": "https://diffbot.com/entity/EcTIu1tWKPouIa6qZtSpc4A",
+          "dbpediaUri": "http://dbpedia.org/ontology/PopulatedPlace"
+        },
+        {
+          "name": "city",
+          "diffbotUri": "https://diffbot.com/entity/EzdJrGHiyMWu0XbSn101rFA",
+          "dbpediaUri": "http://dbpedia.org/ontology/City"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "NY",
+          "beginOffset": 298,
+          "endOffset": 300,
+          "confidence": 0.9763484
+        }
+      ],
+      "location": {
+        "latitude": 40.712776,
+        "longitude": -74.00611,
+        "precision": 34.828148
+      },
+      "type": "Location",
+      "allTypeNames": [
+        "location",
+        "administrative area",
+        "city"
+      ]
+    },
+    {
+      "name": "director",
+      "diffbotUri": "https://diffbot.com/entity/EtXpiCNpuP5SFLYcQmYEsXg",
+      "confidence": 0.8038374,
+      "salience": 0.67269677,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1162163"
+      ],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        },
+        {
+          "name": "award",
+          "diffbotUri": "https://diffbot.com/entity/EgXqbw14CORSyFpZeczosiQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Award"
+        },
+        {
+          "name": "occupation",
+          "diffbotUri": "https://diffbot.com/entity/ErZNo5eLfM4mNIiqiMORbhA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Profession"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Director",
+          "beginOffset": 188,
+          "endOffset": 196,
+          "confidence": 0.8038374
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title",
+        "award",
+        "occupation"
+      ]
+    },
+    {
+      "name": "customer",
+      "diffbotUri": "https://diffbot.com/entity/EPgpf15saPq6BqmngmgxCGA",
+      "confidence": 0.56508636,
+      "salience": 0.6304551,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q852835"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Client",
+          "beginOffset": 79,
+          "endOffset": 85,
+          "confidence": 0.56508636
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "project",
+      "diffbotUri": "https://diffbot.com/entity/E5maRYlMJOL6IlWuCRhXF8A",
+      "confidence": 0.6362701,
+      "salience": 0.5349827,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q170584"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Project",
+          "beginOffset": 270,
+          "endOffset": 277,
+          "confidence": 0.6362701
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "New York",
+      "confidence": 0.99848586,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "location",
+          "diffbotUri": "https://diffbot.com/entity/EiCyWUm4lNziqgLHx47iAIQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Place"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "New York",
+          "beginOffset": 288,
+          "endOffset": 296,
+          "confidence": 0.99848586
+        }
+      ],
+      "type": "Location",
+      "allTypeNames": [
+        "location"
+      ]
+    },
+    {
+      "name": "1.1",
+      "confidence": 0.94444746,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1.1",
+          "beginOffset": 1,
+          "endOffset": 4,
+          "confidence": 0.94444746
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "1.5",
+      "confidence": 0.9089147,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1.5",
+          "beginOffset": 266,
+          "endOffset": 269,
+          "confidence": 0.9089147
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "1.3",
+      "confidence": 0.7412174,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1.3",
+          "beginOffset": 121,
+          "endOffset": 124,
+          "confidence": 0.7412174
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "Sarah Mitchell",
+      "confidence": 0.9999305,
+      "salience": 0.8970971,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Sarah Mitchell",
+          "beginOffset": 88,
+          "endOffset": 102,
+          "confidence": 0.9999305
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    },
+    {
+      "name": "Senior Engagement Director",
+      "confidence": 0.51,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Senior Engagement Director",
+          "beginOffset": 170,
+          "endOffset": 196,
+          "confidence": 0.51
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title"
+      ]
+    },
+    {
+      "name": "1.2",
+      "confidence": 0.7017888,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1.2",
+          "beginOffset": 58,
+          "endOffset": 61,
+          "confidence": 0.7017888
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "1.4",
+      "confidence": 0.885577,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "1.4",
+          "beginOffset": 197,
+          "endOffset": 200,
+          "confidence": 0.885577
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "James Rodriguez",
+      "confidence": 0.99991107,
+      "salience": 0.9752722,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "person",
+          "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Person"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "James Rodriguez",
+          "beginOffset": 153,
+          "endOffset": 168,
+          "confidence": 0.99991107
+        }
+      ],
+      "type": "Person",
+      "allTypeNames": [
+        "person"
+      ]
+    }
+  ],
+  "relationships": [
+    {
+      "entity": {
+        "name": "James Rodriguez",
+        "confidence": 0.99991107,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "person",
+            "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+            "dbpediaUri": "http://dbpedia.org/ontology/Person"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 17
+      },
+      "value": {
+        "name": "Senior Engagement Director",
+        "confidence": 0.51,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "job title",
+            "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 14
+      },
+      "property": {
+        "name": "position held",
+        "diffbotUri": "https://docs.diffbot.com/ontology#Person.employments.title"
+      },
+      "confidence": 0.9401806,
+      "humanReadable": "[James Rodriguez] position held [Senior Engagement Director]",
+      "evidence": [
+        {
+          "passage": "1.3 Project Manager (Provider): James Rodriguez, Senior Engagement Director",
+          "entityMentions": [
+            {
+              "text": "James Rodriguez",
+              "beginOffset": 153,
+              "endOffset": 168,
+              "confidence": 0.99991107
+            }
+          ],
+          "valueMentions": [
+            {
+              "text": "Senior Engagement Director",
+              "beginOffset": 170,
+              "endOffset": 196,
+              "confidence": 0.51
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "entity": {
+        "name": "James Rodriguez",
+        "confidence": 0.99991107,
+        "allUris": [],
+        "allTypes": [
+          {
+            "name": "person",
+            "diffbotUri": "https://diffbot.com/entity/E4aFoJie0MN6dcs_yDRFwXQ",
+            "dbpediaUri": "http://dbpedia.org/ontology/Person"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 17
+      },
+      "value": {
+        "name": "project manager",
+        "diffbotUri": "https://diffbot.com/entity/EV3pgn0waNrK_upZ2khYkXg",
+        "confidence": 0.93672186,
+        "allUris": [
+          "http://www.wikidata.org/entity/Q816432"
+        ],
+        "allTypes": [
+          {
+            "name": "job title",
+            "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+          },
+          {
+            "name": "award",
+            "diffbotUri": "https://diffbot.com/entity/EgXqbw14CORSyFpZeczosiQ",
+            "dbpediaUri": "http://dbpedia.org/ontology/Award"
+          },
+          {
+            "name": "occupation",
+            "diffbotUri": "https://diffbot.com/entity/ErZNo5eLfM4mNIiqiMORbhA",
+            "dbpediaUri": "http://dbpedia.org/ontology/Profession"
+          }
+        ],
+        "isCustom": false,
+        "entityIndex": 1
+      },
+      "property": {
+        "name": "position held",
+        "diffbotUri": "https://docs.diffbot.com/ontology#Person.employments.title"
+      },
+      "confidence": 0.7697056,
+      "humanReadable": "[James Rodriguez] position held [project manager]",
+      "evidence": [
+        {
+          "passage": "1.3 Project Manager (Provider): James Rodriguez, Senior Engagement Director",
+          "entityMentions": [
+            {
+              "text": "James Rodriguez",
+              "beginOffset": 153,
+              "endOffset": 168,
+              "confidence": 0.99991107
+            }
+          ],
+          "valueMentions": [
+            {
+              "text": "Project Manager",
+              "beginOffset": 125,
+              "endOffset": 140,
+              "confidence": 0.51
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "properties": [],
+  "sentiment": 0.0
+}

@@ -1,0 +1,250 @@
+{
+  "document_id": "DOC-4F39A4D5_SEC-009",
+  "entities": [
+    {
+      "name": "confidentiality",
+      "diffbotUri": "https://diffbot.com/entity/Eo54p7uQrNzafpPIjZgGT0Q",
+      "confidence": 0.65698475,
+      "salience": 0.86797273,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2476929"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Confidentiality",
+          "beginOffset": 251,
+          "endOffset": 266,
+          "confidence": 0.65698475
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "client",
+      "diffbotUri": "https://diffbot.com/entity/EkkljGm9lNWOzuTFEderw5w",
+      "confidence": 0.5957443,
+      "salience": 0.6283322,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q528166"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Client",
+          "beginOffset": 220,
+          "endOffset": 226,
+          "confidence": 0.5957443
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "intellectual property",
+      "diffbotUri": "https://diffbot.com/entity/EqU3LB65XOF-eDHl_PvdpYA",
+      "confidence": 0.71339905,
+      "salience": 0.5995717,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q131257"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "intellectual property",
+          "beginOffset": 151,
+          "endOffset": 172,
+          "confidence": 0.71339905
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product",
+        "field of work"
+      ]
+    },
+    {
+      "name": "9.2",
+      "confidence": 0.84216225,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "9.2",
+          "beginOffset": 74,
+          "endOffset": 77,
+          "confidence": 0.84216225
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "30",
+      "confidence": 0.9997352,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "30 days",
+          "beginOffset": 119,
+          "endOffset": 126,
+          "confidence": 0.9997352
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "9.3",
+      "confidence": 0.9035742,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "9.3",
+          "beginOffset": 143,
+          "endOffset": 146,
+          "confidence": 0.9035742
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2025-01-15",
+      "confidence": 0.99873656,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "January 15, 2025",
+          "beginOffset": 56,
+          "endOffset": 72,
+          "confidence": 0.99873656
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "3",
+      "confidence": 0.9996618,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "3 years",
+          "beginOffset": 315,
+          "endOffset": 322,
+          "confidence": 0.9996618
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "9.4",
+      "confidence": 0.9968279,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "9.4",
+          "beginOffset": 247,
+          "endOffset": 250,
+          "confidence": 0.9968279
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

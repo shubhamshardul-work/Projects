@@ -1,0 +1,539 @@
+{
+  "document_id": "DOC-4F8E2D7C_SEC-003",
+  "entities": [
+    {
+      "name": "Solution architecture",
+      "diffbotUri": "https://diffbot.com/entity/EfAZ-_47YOjqjUxrUDqTCUw",
+      "confidence": 0.60302794,
+      "salience": 0.93660355,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q7558977"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Solution Architecture",
+          "beginOffset": 67,
+          "endOffset": 88,
+          "confidence": 0.60302794
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "database catalog",
+      "diffbotUri": "https://diffbot.com/entity/E2VhNuRvLNIO5ZaHvJcDhFg",
+      "confidence": 0.5597393,
+      "salience": 0.8903228,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q5227399"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Data Catalog",
+          "beginOffset": 220,
+          "endOffset": 232,
+          "confidence": 0.5597393
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "analytics",
+      "diffbotUri": "https://diffbot.com/entity/EszHZIpZDNkS9PzdZGgLfMw",
+      "confidence": 0.7400477,
+      "salience": 0.7709485,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q485396"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "academic major",
+          "diffbotUri": "https://diffbot.com/entity/EOrH5adeiOXmszdCGT-9vZg"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        },
+        {
+          "name": "industry",
+          "diffbotUri": "https://diffbot.com/entity/EQbug06rNN8i5GW_tCDs0aA"
+        },
+        {
+          "name": "technology",
+          "diffbotUri": "https://diffbot.com/entity/E-5jnlQEGOt2x8rdkkht1NQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Analytics",
+          "beginOffset": 283,
+          "endOffset": 292,
+          "confidence": 0.7400477
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "academic major",
+        "field of work",
+        "industry",
+        "technology"
+      ]
+    },
+    {
+      "name": "dashboard",
+      "diffbotUri": "https://diffbot.com/entity/Ejp94odQpMXaNKHV2_gotHg",
+      "confidence": 0.80853736,
+      "salience": 0.7377549,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q4343952"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Dashboard",
+          "beginOffset": 293,
+          "endOffset": 302,
+          "confidence": 0.80853736
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "software deployment",
+      "diffbotUri": "https://diffbot.com/entity/EC3UjKVkNM7OpcA2SevG-cg",
+      "confidence": 0.6259667,
+      "salience": 0.68197924,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2297740"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Deployment",
+          "beginOffset": 348,
+          "endOffset": 358,
+          "confidence": 0.6259667
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "pipeline",
+      "diffbotUri": "https://diffbot.com/entity/EF2KgfSFsORuyfs9QBo_Ntg",
+      "confidence": 0.5561651,
+      "salience": 0.6093995,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1192422"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Pipeline",
+          "beginOffset": 180,
+          "endOffset": 188,
+          "confidence": 0.5561651
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "governance",
+      "diffbotUri": "https://diffbot.com/entity/EhtH-Y2RONVCJeMIZ1c-aig",
+      "confidence": 0.5873264,
+      "salience": 0.5901201,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1553864"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Governance",
+          "beginOffset": 235,
+          "endOffset": 245,
+          "confidence": 0.5873264
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ]
+    },
+    {
+      "name": "document-oriented database",
+      "diffbotUri": "https://diffbot.com/entity/E8hZ9mIWDO5emAlGqmr9BQQ",
+      "confidence": 0.6606436,
+      "salience": 0.49695712,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1235236"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Document",
+          "beginOffset": 89,
+          "endOffset": 97,
+          "confidence": 0.6606436
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "runbook",
+      "diffbotUri": "https://diffbot.com/entity/EM-nB50CnNneIDHhAc_Uhaw",
+      "confidence": 0.7880786,
+      "salience": 0.48770556,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q133916"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Runbook",
+          "beginOffset": 137,
+          "endOffset": 144,
+          "confidence": 0.7880786
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "software suite",
+      "diffbotUri": "https://diffbot.com/entity/E4rDscE6sNgWVBpiYbmLjFg",
+      "confidence": 0.577068,
+      "salience": 0.43865168,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1143070"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Suite",
+          "beginOffset": 303,
+          "endOffset": 308,
+          "confidence": 0.577068
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "web portal",
+      "diffbotUri": "https://diffbot.com/entity/E-Ef_j3kOMC6AQKD6qSTRkg",
+      "confidence": 0.65530133,
+      "salience": 0.39800712,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q186165"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Portal",
+          "beginOffset": 246,
+          "endOffset": 252,
+          "confidence": 0.65530133
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "2026-08-15",
+      "confidence": 0.98861945,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "August 15, 2026",
+          "beginOffset": 200,
+          "endOffset": 215,
+          "confidence": 0.98861945
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "3.2",
+      "confidence": 0.59608346,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "3.2",
+          "beginOffset": 118,
+          "endOffset": 121,
+          "confidence": 0.59608346
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-09-30",
+      "confidence": 0.97924316,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "September 30, 2026",
+          "beginOffset": 260,
+          "endOffset": 278,
+          "confidence": 0.97924316
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "3.3",
+      "confidence": 0.55927646,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "3.3",
+          "beginOffset": 166,
+          "endOffset": 169,
+          "confidence": 0.55927646
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-10-31",
+      "confidence": 0.9675559,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "October 31, 2026",
+          "beginOffset": 316,
+          "endOffset": 332,
+          "confidence": 0.9675559
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "2026-12-15",
+      "confidence": 0.98567164,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "December 15, 2026",
+          "beginOffset": 385,
+          "endOffset": 402,
+          "confidence": 0.98567164
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "2026-05-15",
+      "confidence": 0.9847744,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "May 15, 2026",
+          "beginOffset": 105,
+          "endOffset": 117,
+          "confidence": 0.9847744
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "3.1",
+      "confidence": 0.6206299,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "3.1",
+          "beginOffset": 63,
+          "endOffset": 66,
+          "confidence": 0.6206299
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2026-06-30",
+      "confidence": 0.9821587,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "June 30, 2026",
+          "beginOffset": 152,
+          "endOffset": 165,
+          "confidence": 0.9821587
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}
