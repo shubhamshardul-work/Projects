@@ -26,13 +26,31 @@ load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 # Use Groq — Gemini daily free-tier quota exhausted from earlier test runs
 os.environ["LLM_PROVIDER"] = "groq"
 
+from datetime import datetime
 from app.pipeline.graph_workflow import build_pipeline
+from app.config import LOG_DIR
 
+# ---------------------------------------------------------------------------
+# Dynamic Per-Run Logging Setup
+# ---------------------------------------------------------------------------
+# Create a timestamped folder for this specific pipeline run
+run_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+run_folder = os.path.join(LOG_DIR, run_timestamp)
+os.makedirs(run_folder, exist_ok=True)
+
+# Set up logging: console + file inside run_folder
+log_file = os.path.join(run_folder, "pipeline_events.log")
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
+    handlers=[
+        logging.FileHandler(log_file),
+        logging.StreamHandler(sys.stdout)
+    ]
 )
 logger = logging.getLogger("test_pipeline_run")
+logger.info("Initializing run in logging directory: %s", run_folder)
+
 
 SAMPLE_FILE = os.path.join(
     os.path.dirname(__file__), "data", "raw", "sample_sow_contract.txt"
@@ -77,10 +95,11 @@ def run():
 
     graph, checkpointer = build_pipeline()
 
-    thread_id = "test-run-clean-001"
+    thread_id = f"test-run-{run_timestamp}"
     config = {"configurable": {"thread_id": thread_id}}
 
     initial_state = {
+        "run_folder": run_folder,
         "file_path": SAMPLE_FILE,
         "client_name": "Meridian Global Solutions Inc.",
         "project_name": "Enterprise Data Platform Modernization",

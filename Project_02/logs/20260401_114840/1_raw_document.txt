@@ -1,0 +1,104 @@
+STATEMENT OF WORK No. SOW-2026-001
+
+This Statement of Work ("SOW") is entered into as of April 1, 2026, by and between
+Meridian Global Solutions Inc. ("Client") and NovaTech Consulting Ltd. ("Service Provider"),
+pursuant to the Master Services Agreement dated January 15, 2025 ("MSA").
+
+1. PROJECT OVERVIEW
+
+1.1 Project Name: Enterprise Data Platform Modernization
+1.2 Project Manager (Client): Sarah Mitchell, VP of Technology
+1.3 Project Manager (Provider): James Rodriguez, Senior Engagement Director
+1.4 Engagement Type: Fixed-Price with Time & Materials Change Orders
+1.5 Project Location: New York, NY and Bangalore, India
+
+2. SCOPE OF WORK
+
+The Service Provider shall design, develop, and deploy a next-generation cloud-native
+data platform for the Client. The scope includes:
+
+2.1 Migration of legacy Oracle data warehouse to Google BigQuery
+2.2 Implementation of real-time data pipelines using Apache Kafka
+2.3 Development of a unified data catalog and governance layer
+2.4 Building self-service analytics dashboards using Tableau
+2.5 Data quality framework implementation and monitoring
+
+3. DELIVERABLES
+
+The following deliverables shall be produced under this SOW:
+
+3.1 Solution Architecture Document — Due: May 15, 2026
+3.2 Data Migration Runbook — Due: June 30, 2026
+3.3 Real-Time Pipeline MVP — Due: August 15, 2026
+3.4 Data Catalog & Governance Portal — Due: September 30, 2026
+3.5 Analytics Dashboard Suite — Due: October 31, 2026
+3.6 Production Deployment & Handover Package — Due: December 15, 2026
+
+4. MILESTONES AND PAYMENT SCHEDULE
+
+Milestone 1: Project Kickoff and Architecture Sign-off — $150,000 — Due: May 31, 2026
+Milestone 2: Data Migration Complete — $300,000 — Due: July 31, 2026
+Milestone 3: Pipeline MVP Acceptance — $250,000 — Due: August 31, 2026
+Milestone 4: Catalog & Dashboards Go-Live — $200,000 — Due: November 15, 2026
+Milestone 5: Final Acceptance & Warranty Start — $100,000 — Due: December 31, 2026
+
+Total Contract Value: $1,000,000 USD
+
+5. SERVICE LEVEL AGREEMENTS
+
+5.1 System Availability: The data platform shall maintain 99.9% uptime measured monthly.
+    Penalty: 2% credit per 0.1% below target.
+
+5.2 Data Freshness SLA: Real-time pipelines shall deliver data within 5 minutes of source change.
+    Penalty: $5,000 per incident exceeding 15 minutes.
+
+5.3 Incident Response Time: Critical incidents (P1) shall receive initial response within 30 minutes.
+    P2 incidents within 2 hours. P3 within 8 business hours.
+
+5.4 Data Quality Score: Minimum 98% accuracy on validated data sets, measured weekly.
+
+6. KEY PERFORMANCE INDICATORS
+
+6.1 Pipeline Throughput: Minimum 10,000 events per second sustained.
+6.2 Query Performance: 95th percentile dashboard query response under 3 seconds.
+6.3 Migration Accuracy: 100% data reconciliation between source and target systems.
+6.4 User Adoption: 80% of target users actively using dashboards within 60 days of go-live.
+
+7. PRICING MODEL
+
+7.1 This engagement follows a Fixed-Price model for the core scope.
+7.2 Rate Card for Change Orders:
+    - Senior Architect: $275/hour
+    - Lead Engineer: $225/hour
+    - Data Engineer: $185/hour
+    - QA Analyst: $150/hour
+    - Project Coordinator: $125/hour
+
+8. RESOURCE TEAM
+
+8.1 Senior Architect — Priya Sharma (NovaTech)
+8.2 Lead Data Engineer — Michael Chen (NovaTech)
+8.3 Cloud Infrastructure Lead — David Park (NovaTech)
+8.4 QA & Data Quality Lead — Emily Watson (NovaTech)
+8.5 Client Technical Lead — Robert Kim (Meridian Global Solutions)
+
+9. TERMS AND CONDITIONS
+
+9.1 This SOW is governed by the terms of the MSA dated January 15, 2025.
+9.2 Either party may terminate this SOW with 30 days written notice.
+9.3 All intellectual property developed under this SOW shall be owned by the Client upon final payment.
+9.4 Confidentiality obligations survive termination for a period of 3 years.
+
+10. ACCEPTANCE
+
+This Statement of Work is accepted and agreed to by the authorized representatives of both parties.
+
+Client: Meridian Global Solutions Inc.
+Signed: ____________________
+Name: Thomas Wright, Chief Operating Officer
+Date: April 1, 2026
+
+Service Provider: NovaTech Consulting Ltd.
+Signed: ____________________
+Name: Amanda Foster, Managing Director
+Date: April 1, 2026

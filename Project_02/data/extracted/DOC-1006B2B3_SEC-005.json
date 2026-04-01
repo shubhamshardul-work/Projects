@@ -1,0 +1,385 @@
+{
+  "document_id": "DOC-1006B2B3_SEC-005",
+  "entities": [
+    {
+      "name": "response time",
+      "diffbotUri": "https://diffbot.com/entity/EJ9I_RP8EPD6gxtUMQtca6Q",
+      "confidence": 0.61054593,
+      "salience": 0.99733394,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q578372"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Response Time",
+          "beginOffset": 304,
+          "endOffset": 317,
+          "confidence": 0.61054593
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "availability",
+      "diffbotUri": "https://diffbot.com/entity/Ep_czuShYOWOfrXESk_fI8w",
+      "confidence": 0.6021221,
+      "salience": 0.99030805,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q384871"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Availability",
+          "beginOffset": 12,
+          "endOffset": 24,
+          "confidence": 0.6021221
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "data quality",
+      "diffbotUri": "https://diffbot.com/entity/EUR7AkBJGP82GwxzEozkC9Q",
+      "confidence": 0.58768046,
+      "salience": 0.97716385,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1757694"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Data Quality",
+          "beginOffset": 459,
+          "endOffset": 471,
+          "confidence": 0.58768046
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ]
+    },
+    {
+      "name": "service-level agreement",
+      "diffbotUri": "https://diffbot.com/entity/EH9b3NByUNRaE1htZ47LRbw",
+      "confidence": 0.7674611,
+      "salience": 0.9722093,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q869830"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "SLA",
+          "beginOffset": 156,
+          "endOffset": 159,
+          "confidence": 0.7674611
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "replay attack",
+      "diffbotUri": "https://diffbot.com/entity/EXR7OqayGMmeoerluX6I8aQ",
+      "confidence": 0.6164032,
+      "salience": 0.9667971,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1756025"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Freshness",
+          "beginOffset": 146,
+          "endOffset": 155,
+          "confidence": 0.6164032
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "data",
+      "diffbotUri": "https://diffbot.com/entity/Ey7GPLePeMS-KZmVyUYpeRQ",
+      "confidence": 0.5615946,
+      "salience": 0.91280866,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q42848"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Data",
+          "beginOffset": 141,
+          "endOffset": 145,
+          "confidence": 0.5615946
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "system",
+      "diffbotUri": "https://diffbot.com/entity/EH8QJkz79OWSL5LcQUJB4-Q",
+      "confidence": 0.6136591,
+      "salience": 0.8650022,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q58778"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "System",
+          "beginOffset": 5,
+          "endOffset": 11,
+          "confidence": 0.6136591
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "penalty kick",
+      "diffbotUri": "https://diffbot.com/entity/ElTPnL0YQN6Og_IjXVQcCyg",
+      "confidence": 0.5608398,
+      "salience": 0.5342939,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q279532"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Penalty",
+          "beginOffset": 94,
+          "endOffset": 101,
+          "confidence": 0.5608398
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "uptime",
+      "diffbotUri": "https://diffbot.com/entity/EkChffRUNMmiASP7NQHuwzw",
+      "confidence": 0.91224337,
+      "salience": 0.42752215,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q709277"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "uptime",
+          "beginOffset": 65,
+          "endOffset": 71,
+          "confidence": 0.91224337
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "credit",
+      "diffbotUri": "https://diffbot.com/entity/EtOuc55L4M6O6LBO46pfiFQ",
+      "confidence": 0.567054,
+      "salience": 0.13450873,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q182076"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "credit",
+          "beginOffset": 106,
+          "endOffset": 112,
+          "confidence": 0.567054
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "5.3",
+      "confidence": 0.98535895,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5.3",
+          "beginOffset": 291,
+          "endOffset": 294,
+          "confidence": 0.98535895
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "5.2",
+      "confidence": 0.9940082,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5.2",
+          "beginOffset": 137,
+          "endOffset": 140,
+          "confidence": 0.9940082
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "5.1",
+      "confidence": 0.9395418,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5.1",
+          "beginOffset": 1,
+          "endOffset": 4,
+          "confidence": 0.9395418
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "5.4",
+      "confidence": 0.9848133,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5.4",
+          "beginOffset": 455,
+          "endOffset": 458,
+          "confidence": 0.9848133
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "5,000 USD",
+      "confidence": 0.9932166,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "money",
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "5,000",
+          "beginOffset": 249,
+          "endOffset": 254,
+          "confidence": 0.9932166
+        }
+      ],
+      "type": "Money",
+      "allTypeNames": [
+        "money"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

@@ -1,0 +1,694 @@
+{
+  "document_id": "DOC-5FEF33DA_SEC-002",
+  "entities": [
+    {
+      "name": "service provider",
+      "diffbotUri": "https://diffbot.com/entity/EiMOs-TgdNmWrdxYCaB3PQQ",
+      "confidence": 0.793167,
+      "salience": 0.99196875,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2169973"
+      ],
+      "allTypes": [
+        {
+          "name": "job title",
+          "diffbotUri": "https://diffbot.com/entity/E_E130Nm6M6OXvI6hVras_g"
+        },
+        {
+          "name": "award",
+          "diffbotUri": "https://diffbot.com/entity/EgXqbw14CORSyFpZeczosiQ",
+          "dbpediaUri": "http://dbpedia.org/ontology/Award"
+        },
+        {
+          "name": "occupation",
+          "diffbotUri": "https://diffbot.com/entity/ErZNo5eLfM4mNIiqiMORbhA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Profession"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Service Provider",
+          "beginOffset": 5,
+          "endOffset": 21,
+          "confidence": 0.793167
+        }
+      ],
+      "type": "Job Title",
+      "allTypeNames": [
+        "job title",
+        "award",
+        "occupation"
+      ]
+    },
+    {
+      "name": "Apache Kafka",
+      "diffbotUri": "https://diffbot.com/entity/EB4eVSJ7bOcK4haJu5Y4yBw",
+      "confidence": 0.9067636,
+      "salience": 0.97981906,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q16235208"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Apache Kafka",
+          "beginOffset": 256,
+          "endOffset": 268,
+          "confidence": 0.9067636
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "Oracle Database",
+      "diffbotUri": "https://diffbot.com/entity/EdpryBUwENJW9UaFRIb02FA",
+      "confidence": 0.8528648,
+      "salience": 0.966037,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q185524"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Oracle",
+          "beginOffset": 162,
+          "endOffset": 168,
+          "confidence": 0.8528648
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "client",
+      "diffbotUri": "https://diffbot.com/entity/EkkljGm9lNWOzuTFEderw5w",
+      "confidence": 0.8346144,
+      "salience": 0.9606902,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q528166"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Client",
+          "beginOffset": 109,
+          "endOffset": 115,
+          "confidence": 0.8346144
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "Google",
+      "diffbotUri": "https://diffbot.com/entity/EUFq-3WlpNsq0pvfUYWXOEA",
+      "confidence": 0.9495672,
+      "salience": 0.9369739,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q95"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Google",
+          "beginOffset": 187,
+          "endOffset": 193,
+          "confidence": 0.9495672
+        }
+      ],
+      "location": {
+        "latitude": 37.422,
+        "longitude": -122.08494,
+        "precision": 0.1
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization",
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "BigQuery",
+      "diffbotUri": "https://diffbot.com/entity/EI5b45tGQO9W9KrmAKGdZLQ",
+      "confidence": 0.83445245,
+      "salience": 0.9345469,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q4904867"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "BigQuery",
+          "beginOffset": 194,
+          "endOffset": 202,
+          "confidence": 0.83445245
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "implementation",
+      "diffbotUri": "https://diffbot.com/entity/E62OXXQmFNVWnPb3FRNI6Yw",
+      "confidence": 0.848322,
+      "salience": 0.92561924,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q245962"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Implementation",
+          "beginOffset": 207,
+          "endOffset": 221,
+          "confidence": 0.848322
+        },
+        {
+          "text": "implementation",
+          "beginOffset": 420,
+          "endOffset": 434,
+          "confidence": 0.848322
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "data quality",
+      "diffbotUri": "https://diffbot.com/entity/EUR7AkBJGP82GwxzEozkC9Q",
+      "confidence": 0.9101156,
+      "salience": 0.91132545,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1757694"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Data quality",
+          "beginOffset": 397,
+          "endOffset": 409,
+          "confidence": 0.9101156
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ]
+    },
+    {
+      "name": "Tableau",
+      "diffbotUri": "https://diffbot.com/entity/E9jflqbVOPcq9ZfgHhY63Rg",
+      "confidence": 0.92243457,
+      "salience": 0.8635278,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q7673435"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        },
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        },
+        {
+          "name": "creative work",
+          "diffbotUri": "https://diffbot.com/entity/EnuIck9oSO_2b9wNK6CD3Vw",
+          "dbpediaUri": "http://dbpedia.org/ontology/Work"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Tableau",
+          "beginOffset": 385,
+          "endOffset": 392,
+          "confidence": 0.92243457
+        }
+      ],
+      "location": {
+        "latitude": 47.647774,
+        "longitude": -122.33814,
+        "precision": 0.1
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization",
+        "skill",
+        "product",
+        "creative work"
+      ]
+    },
+    {
+      "name": "building",
+      "diffbotUri": "https://diffbot.com/entity/ECmnWnXJ4OJeQyrgOoAJYTA",
+      "confidence": 0.59641546,
+      "salience": 0.8093154,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q41176"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Building",
+          "beginOffset": 336,
+          "endOffset": 344,
+          "confidence": 0.59641546
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "database catalog",
+      "diffbotUri": "https://diffbot.com/entity/E2VhNuRvLNIO5ZaHvJcDhFg",
+      "confidence": 0.6558769,
+      "salience": 0.689435,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q5227399"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "data catalog",
+          "beginOffset": 298,
+          "endOffset": 310,
+          "confidence": 0.6558769
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "dashboard",
+      "diffbotUri": "https://diffbot.com/entity/Ejp94odQpMXaNKHV2_gotHg",
+      "confidence": 0.6491403,
+      "salience": 0.66855687,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q4343952"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "dashboards",
+          "beginOffset": 368,
+          "endOffset": 378,
+          "confidence": 0.6491403
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "self-service",
+      "diffbotUri": "https://diffbot.com/entity/EDe6nPwOXPhusyZJaRaNU9Q",
+      "confidence": 0.6015572,
+      "salience": 0.581809,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1369310"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "self-service",
+          "beginOffset": 345,
+          "endOffset": 357,
+          "confidence": 0.6015572
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "data warehouses",
+      "diffbotUri": "https://diffbot.com/entity/ETPvquoeSMh6PcB3AD3D7bw",
+      "confidence": 0.7069872,
+      "salience": 0.5777119,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q193351"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "data warehouse",
+          "beginOffset": 169,
+          "endOffset": 183,
+          "confidence": 0.7069872
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "analytics",
+      "diffbotUri": "https://diffbot.com/entity/EszHZIpZDNkS9PzdZGgLfMw",
+      "confidence": 0.87479234,
+      "salience": 0.5700886,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q485396"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "academic major",
+          "diffbotUri": "https://diffbot.com/entity/EOrH5adeiOXmszdCGT-9vZg"
+        },
+        {
+          "name": "field of work",
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ"
+        },
+        {
+          "name": "industry",
+          "diffbotUri": "https://diffbot.com/entity/EQbug06rNN8i5GW_tCDs0aA"
+        },
+        {
+          "name": "technology",
+          "diffbotUri": "https://diffbot.com/entity/E-5jnlQEGOt2x8rdkkht1NQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "analytics",
+          "beginOffset": 358,
+          "endOffset": 367,
+          "confidence": 0.87479234
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "academic major",
+        "field of work",
+        "industry",
+        "technology"
+      ]
+    },
+    {
+      "name": "Real-time data",
+      "diffbotUri": "https://diffbot.com/entity/EfRh60-aIOYCcjhnXWR90Ow",
+      "confidence": 0.730461,
+      "salience": 0.36844024,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q7300787"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "real-time data",
+          "beginOffset": 225,
+          "endOffset": 239,
+          "confidence": 0.730461
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "legacy system",
+      "diffbotUri": "https://diffbot.com/entity/Er-hcVaaRNxW_3zJiBRvOwg",
+      "confidence": 0.5869588,
+      "salience": 0.13995112,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q445962"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "legacy",
+          "beginOffset": 155,
+          "endOffset": 161,
+          "confidence": 0.5869588
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "software framework",
+      "diffbotUri": "https://diffbot.com/entity/El_Me7xpIMxqgEULpqCZfdQ",
+      "confidence": 0.7099451,
+      "salience": 0.13835081,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q271680"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "framework",
+          "beginOffset": 410,
+          "endOffset": 419,
+          "confidence": 0.7099451
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "scope",
+      "diffbotUri": "https://diffbot.com/entity/E5pl2-5LeN4aIloZnwdRAMw",
+      "confidence": 0.6741825,
+      "salience": 0.044976372,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1034415"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "scope",
+          "beginOffset": 121,
+          "endOffset": 126,
+          "confidence": 0.6741825
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "2.4",
+      "confidence": 0.8933617,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "2.4",
+          "beginOffset": 332,
+          "endOffset": 335,
+          "confidence": 0.8933617
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2.3",
+      "confidence": 0.72901464,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "2.3",
+          "beginOffset": 269,
+          "endOffset": 272,
+          "confidence": 0.72901464
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "2.5",
+      "confidence": 0.8148384,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "2.5",
+          "beginOffset": 393,
+          "endOffset": 396,
+          "confidence": 0.8148384
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

@@ -53,6 +53,14 @@ def load_and_preprocess(state: PipelineState) -> dict:
 
     logger.info("[%s] %d sections detected", record.document_id, len(processed["sections"]))
 
+    run_folder = state.get("run_folder")
+    if run_folder:
+        import os, json
+        with open(os.path.join(run_folder, "1_raw_document.txt"), "w", encoding="utf-8") as f:
+            f.write(processed["full_text"])
+        with open(os.path.join(run_folder, "1_sections.json"), "w", encoding="utf-8") as f:
+            json.dump(processed["sections"], f, indent=2)
+
     return {
         "document_id": record.document_id,
         "raw_text": processed["full_text"],
@@ -84,6 +92,13 @@ def extract_with_diffbot(state: PipelineState) -> dict:
     )
 
     update_status(doc_id, "extracted")
+    
+    run_folder = state.get("run_folder")
+    if run_folder:
+        import os, json
+        with open(os.path.join(run_folder, "2_diffbot_extracted.json"), "w", encoding="utf-8") as f:
+            json.dump(diffbot_results, f, indent=2)
+
     return {"diffbot_results": diffbot_results, "status": "extracted"}
 
 
@@ -108,6 +123,12 @@ def map_with_rules(state: PipelineState) -> dict:
     update_status(doc_id, "mapped", document_type=result.document_type)
     logger.info("[%s] Mapped: %d nodes, %d rels", doc_id, len(result.nodes), len(result.relationships))
 
+    run_folder = state.get("run_folder")
+    if run_folder:
+        import os, json
+        with open(os.path.join(run_folder, "3_mapped_results.json"), "w", encoding="utf-8") as f:
+            f.write(result.model_dump_json(indent=2))
+
     return {"mapped_result": result.model_dump(), "status": "mapped"}
 
 
@@ -131,6 +152,12 @@ def map_with_llm(state: PipelineState) -> dict:
     save_mapped_result(result)
     update_status(doc_id, "mapped", document_type=result.document_type)
     logger.info("[%s] Mapped: %d nodes, %d rels", doc_id, len(result.nodes), len(result.relationships))
+
+    run_folder = state.get("run_folder")
+    if run_folder:
+        import os, json
+        with open(os.path.join(run_folder, "3_mapped_results.json"), "w", encoding="utf-8") as f:
+            f.write(result.model_dump_json(indent=2))
 
     return {"mapped_result": result.model_dump(), "status": "mapped"}
 
@@ -264,12 +291,26 @@ def ingest_to_neo4j(state: PipelineState) -> dict:
             doc_id, summary["nodes_created"], summary["relationships_created"],
         )
 
+        run_folder = state.get("run_folder")
+        if run_folder:
+            import os, json
+            with open(os.path.join(run_folder, "4_neo4j_ingestion_summary.json"), "w", encoding="utf-8") as f:
+                json.dump(summary, f, indent=2)
+
         return {"ingestion_summary": summary, "status": "completed"}
 
     except Exception as e:
         logger.exception("[%s] Neo4j ingestion failed", doc_id)
         update_status(doc_id, "failed")
-        return {"ingestion_summary": {"errors": [str(e)]}, "status": "failed", "error": str(e)}
+        
+        err_summary = {"errors": [str(e)]}
+        run_folder = state.get("run_folder")
+        if run_folder:
+            import os, json
+            with open(os.path.join(run_folder, "4_neo4j_ingestion_summary.json"), "w", encoding="utf-8") as f:
+                json.dump(err_summary, f, indent=2)
+                
+        return {"ingestion_summary": err_summary, "status": "failed", "error": str(e)}
 
 
 # ── Routing functions ───────────────────────────────────────────────────────

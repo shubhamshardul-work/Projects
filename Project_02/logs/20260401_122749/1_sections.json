@@ -1,0 +1,57 @@
+[
+  {
+    "heading": "Preamble",
+    "number": "0",
+    "text": "STATEMENT OF WORK No. SOW-2026-001\n\nThis Statement of Work (\"SOW\") is entered into as of April 1, 2026, by and between\nMeridian Global Solutions Inc. (\"Client\") and NovaTech Consulting Ltd. (\"Service Provider\"),\npursuant to the Master Services Agreement dated January 15, 2025 (\"MSA\").\n"
+  },
+  {
+    "heading": "1. PROJECT OVERVIEW",
+    "number": "1",
+    "text": "\n1.1 Project Name: Enterprise Data Platform Modernization\n1.2 Project Manager (Client): Sarah Mitchell, VP of Technology\n1.3 Project Manager (Provider): James Rodriguez, Senior Engagement Director\n1.4 Engagement Type: Fixed-Price with Time & Materials Change Orders\n1.5 Project Location: New York, NY and Bangalore, India\n"
+  },
+  {
+    "heading": "2. SCOPE OF WORK",
+    "number": "2",
+    "text": "\nThe Service Provider shall design, develop, and deploy a next-generation cloud-native\ndata platform for the Client. The scope includes:\n\n2.1 Migration of legacy Oracle data warehouse to Google BigQuery\n2.2 Implementation of real-time data pipelines using Apache Kafka\n2.3 Development of a unified data catalog and governance layer\n2.4 Building self-service analytics dashboards using Tableau\n2.5 Data quality framework implementation and monitoring\n"
+  },
+  {
+    "heading": "3. DELIVERABLES",
+    "number": "3",
+    "text": "\nThe following deliverables shall be produced under this SOW:\n\n3.1 Solution Architecture Document \u2014 Due: May 15, 2026\n3.2 Data Migration Runbook \u2014 Due: June 30, 2026\n3.3 Real-Time Pipeline MVP \u2014 Due: August 15, 2026\n3.4 Data Catalog & Governance Portal \u2014 Due: September 30, 2026\n3.5 Analytics Dashboard Suite \u2014 Due: October 31, 2026\n3.6 Production Deployment & Handover Package \u2014 Due: December 15, 2026\n"
+  },
+  {
+    "heading": "4. MILESTONES AND PAYMENT SCHEDULE",
+    "number": "4",
+    "text": "\nMilestone 1: Project Kickoff and Architecture Sign-off \u2014 $150,000 \u2014 Due: May 31, 2026\nMilestone 2: Data Migration Complete \u2014 $300,000 \u2014 Due: July 31, 2026\nMilestone 3: Pipeline MVP Acceptance \u2014 $250,000 \u2014 Due: August 31, 2026\nMilestone 4: Catalog & Dashboards Go-Live \u2014 $200,000 \u2014 Due: November 15, 2026\nMilestone 5: Final Acceptance & Warranty Start \u2014 $100,000 \u2014 Due: December 31, 2026\n\nTotal Contract Value: $1,000,000 USD\n"
+  },
+  {
+    "heading": "5. SERVICE LEVEL AGREEMENTS",
+    "number": "5",
+    "text": "\n5.1 System Availability: The data platform shall maintain 99.9% uptime measured monthly.\n    Penalty: 2% credit per 0.1% below target.\n\n5.2 Data Freshness SLA: Real-time pipelines shall deliver data within 5 minutes of source change.\n    Penalty: $5,000 per incident exceeding 15 minutes.\n\n5.3 Incident Response Time: Critical incidents (P1) shall receive initial response within 30 minutes.\n    P2 incidents within 2 hours. P3 within 8 business hours.\n\n5.4 Data Quality Score: Minimum 98% accuracy on validated data sets, measured weekly.\n"
+  },
+  {
+    "heading": "6. KEY PERFORMANCE INDICATORS",
+    "number": "6",
+    "text": "\n6.1 Pipeline Throughput: Minimum 10,000 events per second sustained.\n6.2 Query Performance: 95th percentile dashboard query response under 3 seconds.\n6.3 Migration Accuracy: 100% data reconciliation between source and target systems.\n6.4 User Adoption: 80% of target users actively using dashboards within 60 days of go-live.\n"
+  },
+  {
+    "heading": "7. PRICING MODEL",
+    "number": "7",
+    "text": "\n7.1 This engagement follows a Fixed-Price model for the core scope.\n7.2 Rate Card for Change Orders:\n    - Senior Architect: $275/hour\n    - Lead Engineer: $225/hour\n    - Data Engineer: $185/hour\n    - QA Analyst: $150/hour\n    - Project Coordinator: $125/hour\n"
+  },
+  {
+    "heading": "8. RESOURCE TEAM",
+    "number": "8",
+    "text": "\n8.1 Senior Architect \u2014 Priya Sharma (NovaTech)\n8.2 Lead Data Engineer \u2014 Michael Chen (NovaTech)\n8.3 Cloud Infrastructure Lead \u2014 David Park (NovaTech)\n8.4 QA & Data Quality Lead \u2014 Emily Watson (NovaTech)\n8.5 Client Technical Lead \u2014 Robert Kim (Meridian Global Solutions)\n"
+  },
+  {
+    "heading": "9. TERMS AND CONDITIONS",
+    "number": "9",
+    "text": "\n9.1 This SOW is governed by the terms of the MSA dated January 15, 2025.\n9.2 Either party may terminate this SOW with 30 days written notice.\n9.3 All intellectual property developed under this SOW shall be owned by the Client upon final payment.\n9.4 Confidentiality obligations survive termination for a period of 3 years.\n"
+  },
+  {
+    "heading": "10. ACCEPTANCE",
+    "number": "10",
+    "text": "\nThis Statement of Work is accepted and agreed to by the authorized representatives of both parties.\n\nClient: Meridian Global Solutions Inc.\nSigned: ____________________\nName: Thomas Wright, Chief Operating Officer\nDate: April 1, 2026\n\nService Provider: NovaTech Consulting Ltd.\nSigned: ____________________\nName: Amanda Foster, Managing Director\nDate: April 1, 2026"
+  }
+]

@@ -24,7 +24,7 @@ DATA_DIR: str = os.getenv("DATA_DIR", "data")
 RAW_DIR: str = os.path.join(DATA_DIR, "raw")
 EXTRACTED_DIR: str = os.path.join(DATA_DIR, "extracted")
 MAPPED_DIR: str = os.path.join(DATA_DIR, "mapped")
-LOG_DIR: str = os.path.join(DATA_DIR, "logs")
+LOG_DIR: str = os.getenv("LOG_DIR", "logs")
 REGISTRY_FILE: str = os.path.join(DATA_DIR, "document_registry.json")
 
 # Diffbot settings

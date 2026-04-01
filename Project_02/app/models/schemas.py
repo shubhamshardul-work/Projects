@@ -98,11 +98,16 @@ class ReviewDecision(BaseModel):
 # ---------------------------------------------------------------------------
 
 class PipelineState(TypedDict, total=False):
-    # Input
+    """The state dictionary passed between LangGraph nodes."""
+
+    # Run metadata
+    run_folder: str | None
+
+    # Inputs
     file_path: str
-    client_name: str
-    project_name: str
-    mapper_mode: str  # "rule" or "llm"
+    client_name: str | None
+    project_name: str | None
+    mapper_mode: str  # "rules" or "llm"
 
     # Populated by pipeline nodes
     document_id: str

@@ -1,0 +1,200 @@
+{
+  "document_id": "DOC-1006B2B3_SEC-006",
+  "entities": [
+    {
+      "name": "throughput",
+      "diffbotUri": "https://diffbot.com/entity/EOh_BqGTDPE-eACKDJHhXng",
+      "confidence": 0.6212398,
+      "salience": 0.96750814,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1383412"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "Throughput",
+          "beginOffset": 14,
+          "endOffset": 24,
+          "confidence": 0.6212398
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "percentile",
+      "diffbotUri": "https://diffbot.com/entity/EXxognNhNMdmWTXlLLlrLWQ",
+      "confidence": 0.7587999,
+      "salience": 0.28370497,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q2913954"
+      ],
+      "allTypes": [],
+      "mentions": [
+        {
+          "text": "percentile",
+          "beginOffset": 98,
+          "endOffset": 108,
+          "confidence": 0.7587999
+        }
+      ],
+      "type": "Misc",
+      "allTypeNames": []
+    },
+    {
+      "name": "6.1",
+      "confidence": 0.9700898,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "6.1",
+          "beginOffset": 1,
+          "endOffset": 4,
+          "confidence": 0.9700898
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "10,000",
+      "confidence": 0.96250063,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "10,000",
+          "beginOffset": 34,
+          "endOffset": 40,
+          "confidence": 0.96250063
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "6.3",
+      "confidence": 0.9844657,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "6.3",
+          "beginOffset": 151,
+          "endOffset": 154,
+          "confidence": 0.9844657
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "60",
+      "confidence": 0.9990299,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "60 days",
+          "beginOffset": 307,
+          "endOffset": 314,
+          "confidence": 0.9990299
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "6.4",
+      "confidence": 0.9548382,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "6.4",
+          "beginOffset": 235,
+          "endOffset": 238,
+          "confidence": 0.9548382
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    },
+    {
+      "name": "6.2",
+      "confidence": 0.9899075,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "number",
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "6.2",
+          "beginOffset": 70,
+          "endOffset": 73,
+          "confidence": 0.9899075
+        }
+      ],
+      "type": "Number",
+      "allTypeNames": [
+        "number"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}

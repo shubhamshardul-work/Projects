@@ -1,0 +1,960 @@
+{
+  "document_id": "DOC-5FEF33DA",
+  "document_type": "SOW",
+  "source_file": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt",
+  "nodes": [
+    {
+      "type": "SOW",
+      "id": "DOC-5FEF33DA_SOW",
+      "properties": {
+        "name": "sample_sow_contract.txt",
+        "title": "sample_sow_contract.txt",
+        "sourceDocument": "/Users/shardulmac/Documents/Projects/Projects/Project_02/data/raw/sample_sow_contract.txt"
+      },
+      "confidence": 1.0
+    },
+    {
+      "type": "Client",
+      "id": "DOC-5FEF33DA_Client-MeridianGlobalSolutions",
+      "properties": {
+        "id": "DOC-5FEF33DA_Client-MeridianGlobalSolutions",
+        "name": "Meridian Global Solutions"
+      },
+      "confidence": 0.99986947
+    },
+    {
+      "type": "Client",
+      "id": "DOC-5FEF33DA_Client-NovaTechConsultingLtd",
+      "properties": {
+        "id": "DOC-5FEF33DA_Client-NovaTechConsultingLtd",
+        "name": "NovaTech Consulting Ltd."
+      },
+      "confidence": 0.99988365
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA_Deliverable-2025-01-15",
+      "properties": {
+        "dueDate": "2025-01-15",
+        "id": "DOC-5FEF33DA_Deliverable-2025-01-15",
+        "name": "2025-01-15"
+      },
+      "confidence": 0.99720323
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA_Deliverable-2026-04-01",
+      "properties": {
+        "dueDate": "2026-04-01",
+        "id": "DOC-5FEF33DA_Deliverable-2026-04-01",
+        "name": "2026-04-01"
+      },
+      "confidence": 0.99759394
+    },
+    {
+      "type": "Contract",
+      "id": "DOC-5FEF33DA_Contract-StatementOfWork",
+      "properties": {
+        "id": "DOC-5FEF33DA_Contract-StatementOfWork",
+        "title": "Statement of Work",
+        "name": "statement of work"
+      },
+      "confidence": 0.77969015
+    },
+    {
+      "type": "Location",
+      "id": "DOC-5FEF33DA_Location-Bengaluru",
+      "properties": {
+        "country": "India",
+        "name": "Bengaluru"
+      },
+      "confidence": 0.99583745
+    },
+    {
+      "type": "Location",
+      "id": "DOC-5FEF33DA_Location-New_York",
+      "properties": {
+        "name": "New York"
+      },
+      "confidence": 0.99848574
+    },
+    {
+      "type": "Location",
+      "id": "DOC-5FEF33DA_Location-New_York_City",
+      "properties": {
+        "name": "New York City"
+      },
+      "confidence": 0.9763485
+    },
+    {
+      "type": "Location",
+      "id": "DOC-5FEF33DA_Location-India",
+      "properties": {
+        "name": "India"
+      },
+      "confidence": 0.97283465
+    },
+    {
+      "type": "ResourceRole",
+      "id": "DOC-5FEF33DA_ResourceRole-Project_Manager",
+      "properties": {
+        "roleName": "Project Manager",
+        "name": "project manager"
+      },
+      "confidence": 0.93672186
+    },
+    {
+      "type": "ResourceRole",
+      "id": "DOC-5FEF33DA_ResourceRole-Senior_Engagement_Director",
+      "properties": {
+        "roleName": "Senior Engagement Director",
+        "name": "Senior Engagement Director"
+      },
+      "confidence": 0.51
+    },
+    {
+      "type": "ResourceRole",
+      "id": "DOC-5FEF33DA_Client-service_provider",
+      "properties": {
+        "roleName": "service provider",
+        "name": "service provider"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Software_Apache_Kafka",
+      "properties": {
+        "type": "Software",
+        "name": "Apache Kafka"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Software_Oracle_Database",
+      "properties": {
+        "type": "Software",
+        "name": "Oracle Database"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Client",
+      "id": "DOC-5FEF33DA_Organization_Google",
+      "properties": {
+        "name": "Google"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Client",
+      "id": "DOC-5FEF33DA_Organization_Tableau",
+      "properties": {
+        "name": "Tableau"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Skill_BigQuery",
+      "properties": {
+        "type": "Software",
+        "name": "BigQuery"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Skill_Analytics",
+      "properties": {
+        "type": "Service",
+        "name": "analytics"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Skill_Data_Quality",
+      "properties": {
+        "type": "Service",
+        "name": "data quality"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "PricingModel",
+      "id": "DOC-5FEF33DA_Skill_Real-time_Data",
+      "properties": {
+        "type": "Service",
+        "name": "Real-time data"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Solution_Architecture",
+      "properties": {
+        "name": "Solution architecture"
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Analytics",
+      "properties": {
+        "name": "analytics"
+      },
+      "confidence": 0.7
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Dashboard",
+      "properties": {
+        "name": "dashboard"
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Pipeline",
+      "properties": {
+        "name": "pipeline"
+      },
+      "confidence": 0.6
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Governance",
+      "properties": {
+        "name": "governance"
+      },
+      "confidence": 0.7
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Runbook",
+      "properties": {
+        "name": "runbook"
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Software_Suite",
+      "properties": {
+        "name": "software suite"
+      },
+      "confidence": 0.6
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Document",
+      "properties": {
+        "name": "document"
+      },
+      "confidence": 0.8
+    },
+    {
+      "type": "Deliverable",
+      "id": "DOC-5FEF33DA-Deliverable-Web_Portal",
+      "properties": {
+        "name": "web portal"
+      },
+      "confidence": 0.7
+    },
+    {
+      "type": "Milestone",
+      "id": "DOC-5FEF33DA-Deliverable-2026-05-15",
+      "properties": {
+        "dueDate": "2026-05-15",
+        "name": "2026-05-15"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Milestone",
+      "id": "DOC-5FEF33DA-Deliverable-2026-09-30",
+      "properties": {
+        "dueDate": "2026-09-30",
+        "name": "2026-09-30"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Milestone",
+      "id": "DOC-5FEF33DA-Deliverable-2026-10-31",
+      "properties": {
+        "dueDate": "2026-10-31",
+        "name": "2026-10-31"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Milestone",
+      "id": "DOC-5FEF33DA-Deliverable-2026-12-15",
+      "properties": {
+        "dueDate": "2026-12-15",
+        "name": "2026-12-15"
+      },
+      "confidence": 0.9
+    },
+    {
+      "type": "Milestone",
+      "id": "DOC-5FEF33DA_Milestone-1",
+      "properties": {
+        "dueDate": "2026-05-31",
+        "name": "milestone",
+        "paymentAmount": "150,000 USD"
+      },
+      "confidence": 0.8
+    }
+  ],
+  "relationships": [],
+  "unmapped_entities": [
+    {
+      "name": "James Rodriguez",
+      "type": "Person",
+      "section": "1. PROJECT OVERVIEW"
+    },
+    {
+      "name": "Sarah Mitchell",
+      "type": "Person",
+      "section": "1. PROJECT OVERVIEW"
+    },
+    {
+      "name": "Enterprise Data",
+      "type": "Organization"
+    },
+    {
+      "name": "price",
+      "type": "Misc"
+    },
+    {
+      "name": "customer",
+      "type": "Misc"
+    },
+    {
+      "name": "project",
+      "type": "Misc"
+    },
+    {
+      "name": "1.4",
+      "type": "Number"
+    },
+    {
+      "name": "1.3",
+      "type": "Number"
+    },
+    {
+      "name": "1.5",
+      "type": "Number"
+    },
+    {
+      "name": "1.2",
+      "type": "Number"
+    },
+    {
+      "name": "1.1",
+      "type": "Number"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/E62OXXQmFNVWnPb3FRNI6Yw",
+      "name": "implementation"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/ECmnWnXJ4OJeQyrgOoAJYTA",
+      "name": "building"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/E2VhNuRvLNIO5ZaHvJcDhFg",
+      "name": "database catalog"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/Ejp94odQpMXaNKHV2_gotHg",
+      "name": "dashboard"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/EDe6nPwOXPhusyZJaRaNU9Q",
+      "name": "self-service"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/ETPvquoeSMh6PcB3AD3D7bw",
+      "name": "data warehouses"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/Er-hcVaaRNxW_3zJiBRvOwg",
+      "name": "legacy system"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/El_Me7xpIMxqgEULpqCZfdQ",
+      "name": "software framework"
+    },
+    {
+      "diffbotUri": "https://diffbot.com/entity/E5pl2-5LeN4aIloZnwdRAMw",
+      "name": "scope"
+    },
+    {
+      "diffbotUri": "",
+      "name": "2.4"
+    },
+    {
+      "diffbotUri": "",
+      "name": "2.3"
+    },
+    {
+      "diffbotUri": "",
+      "name": "2.5"
+    },
+    {
+      "name": "3.3",
+      "type": "Number"
+    },
+    {
+      "name": "3.2",
+      "type": "Number"
+    },
+    {
+      "name": "3.1",
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "skill",
+        "field of work"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ",
+          "name": "skill"
+        },
+        {
+          "diffbotUri": "https://diffbot.com/entity/EjGOLMsQZOGSg549SwYfFyQ",
+          "name": "field of work"
+        }
+      ],
+      "allUris": [
+        "http://www.wikidata.org/entity/Q12271"
+      ],
+      "confidence": 0.75969225,
+      "diffbotUri": "https://diffbot.com/entity/EH0YLKYV8Ml6mqt_htCE3hw",
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 34,
+          "confidence": 0.75969225,
+          "endOffset": 46,
+          "text": "Architecture"
+        }
+      ],
+      "name": "architecture",
+      "salience": 0.8208548,
+      "type": "Skill"
+    },
+    {
+      "allTypeNames": [],
+      "allTypes": [],
+      "allUris": [
+        "http://www.wikidata.org/entity/Q170584"
+      ],
+      "confidence": 0.5981705,
+      "diffbotUri": "https://diffbot.com/entity/E5maRYlMJOL6IlWuCRhXF8A",
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 14,
+          "confidence": 0.5981705,
+          "endOffset": 21,
+          "text": "Project"
+        }
+      ],
+      "name": "project",
+      "salience": 0.61732614,
+      "type": "Misc"
+    },
+    {
+      "allTypeNames": [],
+      "allTypes": [],
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1740847"
+      ],
+      "confidence": 0.55079615,
+      "diffbotUri": "https://diffbot.com/entity/Ehzogu8gHPrutlhM81zOhng",
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 22,
+          "confidence": 0.55079615,
+          "endOffset": 29,
+          "text": "Kickoff"
+        }
+      ],
+      "name": "kickoff",
+      "salience": 0.4601536,
+      "type": "Misc"
+    },
+    {
+      "allTypeNames": [],
+      "allTypes": [],
+      "allUris": [
+        "http://www.wikidata.org/entity/Q329717"
+      ],
+      "confidence": 0.6228739,
+      "diffbotUri": "https://diffbot.com/entity/Ee0hylibsOEOa_ZB66aNx_g",
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 337,
+          "confidence": 0.6228739,
+          "endOffset": 345,
+          "text": "Warranty"
+        }
+      ],
+      "name": "warranty",
+      "salience": 0.42542076,
+      "type": "Misc"
+    },
+    {
+      "allTypeNames": [],
+      "allTypes": [],
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1372040"
+      ],
+      "confidence": 0.5891857,
+      "diffbotUri": "https://diffbot.com/entity/EL6C9EUAAPQWsqDRNUncRMA",
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 178,
+          "confidence": 0.5891857,
+          "endOffset": 181,
+          "text": "MVP"
+        }
+      ],
+      "name": "World Series Most Valuable Player Award",
+      "salience": 0.40700477,
+      "type": "Misc"
+    },
+    {
+      "allTypeNames": [
+        "number"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g",
+          "name": "number"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.8862494,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 315,
+          "confidence": 0.8862494,
+          "endOffset": 316,
+          "text": "5"
+        }
+      ],
+      "name": "5",
+      "salience": 0,
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.909508,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 411,
+          "confidence": 0.909508,
+          "endOffset": 425,
+          "text": "$1,000,000 USD"
+        }
+      ],
+      "name": "1,000,000 USD",
+      "salience": 0,
+      "type": "Money"
+    },
+    {
+      "allTypeNames": [
+        "number"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g",
+          "name": "number"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9271472,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 166,
+          "confidence": 0.9271472,
+          "endOffset": 167,
+          "text": "3"
+        }
+      ],
+      "name": "3",
+      "salience": 0,
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9982346,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 196,
+          "confidence": 0.9982346,
+          "endOffset": 203,
+          "text": "250,000"
+        }
+      ],
+      "name": "250,000 USD",
+      "salience": 0,
+      "type": "Money"
+    },
+    {
+      "allTypeNames": [
+        "number"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g",
+          "name": "number"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.91683966,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 97,
+          "confidence": 0.91683966,
+          "endOffset": 98,
+          "text": "2"
+        }
+      ],
+      "name": "2",
+      "salience": 0,
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "date"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg",
+          "name": "date"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9919127,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 211,
+          "confidence": 0.9919127,
+          "endOffset": 226,
+          "text": "August 31, 2026"
+        }
+      ],
+      "name": "2026-08-31",
+      "salience": 0,
+      "type": "Date"
+    },
+    {
+      "allTypeNames": [
+        "number"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g",
+          "name": "number"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.8896891,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 11,
+          "confidence": 0.8896891,
+          "endOffset": 12,
+          "text": "1"
+        }
+      ],
+      "name": "1",
+      "salience": 0,
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.99817026,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 127,
+          "confidence": 0.99817026,
+          "endOffset": 134,
+          "text": "300,000"
+        }
+      ],
+      "name": "300,000 USD",
+      "salience": 0,
+      "type": "Money"
+    },
+    {
+      "allTypeNames": [
+        "date"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg",
+          "name": "date"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.96770525,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 142,
+          "confidence": 0.96770525,
+          "endOffset": 155,
+          "text": "July 31, 2026"
+        }
+      ],
+      "name": "2026-07-31",
+      "salience": 0,
+      "type": "Date"
+    },
+    {
+      "allTypeNames": [
+        "date"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg",
+          "name": "date"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9928544,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 287,
+          "confidence": 0.9928544,
+          "endOffset": 304,
+          "text": "November 15, 2026"
+        }
+      ],
+      "name": "2026-11-15",
+      "salience": 0,
+      "type": "Date"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9984054,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 59,
+          "confidence": 0.9984054,
+          "endOffset": 66,
+          "text": "150,000"
+        }
+      ],
+      "name": "150,000 USD",
+      "salience": 0,
+      "type": "Money"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.99728775,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 272,
+          "confidence": 0.99728775,
+          "endOffset": 279,
+          "text": "200,000"
+        }
+      ],
+      "name": "200,000 USD",
+      "salience": 0,
+      "type": "Money"
+    },
+    {
+      "allTypeNames": [
+        "date"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg",
+          "name": "date"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9843572,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 370,
+          "confidence": 0.9843572,
+          "endOffset": 387,
+          "text": "December 31, 2026"
+        }
+      ],
+      "name": "2026-12-31",
+      "salience": 0,
+      "type": "Date"
+    },
+    {
+      "allTypeNames": [
+        "date"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg",
+          "name": "date"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9846283,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 74,
+          "confidence": 0.9846283,
+          "endOffset": 86,
+          "text": "May 31, 2026"
+        }
+      ],
+      "name": "2026-05-31",
+      "salience": 0,
+      "type": "Date"
+    },
+    {
+      "allTypeNames": [
+        "number"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/E7TnJgFyiMYqQUg3cvm8I3g",
+          "name": "number"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.93460155,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 237,
+          "confidence": 0.93460155,
+          "endOffset": 238,
+          "text": "4"
+        }
+      ],
+      "name": "4",
+      "salience": 0,
+      "type": "Number"
+    },
+    {
+      "allTypeNames": [
+        "money"
+      ],
+      "allTypes": [
+        {
+          "diffbotUri": "https://diffbot.com/entity/ELRzIOsrYN-uw703z4KTm-A",
+          "name": "money"
+        }
+      ],
+      "allUris": [],
+      "confidence": 0.9970956,
+      "isCustom": false,
+      "mentions": [
+        {
+          "beginOffset": 355,
+          "confidence": 0.9970956,
+          "endOffset": 362,
+          "text": "100,000"
+        }
+      ],
+      "name": "100,000 USD",
+      "salience": 0,
+      "type": "Money"
+    }
+  ],
+  "unmapped_relationships": [
+    {
+      "from": "DOC-5FEF33DA_Person-James_Rodriguez",
+      "to": "DOC-5FEF33DA_ResourceRole-Project_Manager",
+      "type": "DELIVERED_BY"
+    },
+    {
+      "from": "DOC-5FEF33DA_Person-James_Rodriguez",
+      "to": "DOC-5FEF33DA_ResourceRole-Senior_Engagement_Director",
+      "type": "DELIVERED_BY"
+    }
+  ],
+  "warnings": [
+    "LLM mapper failed for section '5. SERVICE LEVEL AGREEMENTS': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99973, Requested 4995. Please try again in 1h11m32.352s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "LLM mapper failed for section '6. KEY PERFORMANCE INDICATORS': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99955, Requested 4187. Please try again in 59m38.687999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "LLM mapper failed for section '7. PRICING MODEL': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99937, Requested 3806. Please try again in 53m53.952s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "LLM mapper failed for section '8. RESOURCE TEAM': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99919, Requested 7332. Please try again in 1h44m24.864s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "LLM mapper failed for section '9. TERMS AND CONDITIONS': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99902, Requested 3936. Please try again in 55m16.031999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "LLM mapper failed for section '10. ACCEPTANCE': Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kmk1hn0ee5fa3tmncqev5jyy` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99884, Requested 5738. Please try again in 1h20m57.408s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+    "47 entities could not be mapped"
+  ]
+}

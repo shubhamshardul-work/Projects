@@ -1,0 +1,163 @@
+{
+  "document_id": "DOC-1006B2B3_SEC-000",
+  "entities": [
+    {
+      "name": "Meridian Global Solutions",
+      "diffbotUri": "https://diffbot.com/entity/EkR_75q80No2XUOJ1qV7EQw",
+      "confidence": 0.99986947,
+      "salience": 0.94955134,
+      "isCustom": false,
+      "allUris": [
+        "http://www.crunchbase.com/organization/meridian-global-solutions"
+      ],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "Meridian Global Solutions Inc.",
+          "beginOffset": 119,
+          "endOffset": 149,
+          "confidence": 0.99986947
+        }
+      ],
+      "location": {
+        "latitude": -34.607357,
+        "longitude": -58.454594,
+        "precision": 14.258494
+      },
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "statement of work",
+      "diffbotUri": "https://diffbot.com/entity/EyyTDm2E4NFueFGQDo99lxg",
+      "confidence": 0.77969015,
+      "salience": 0.8385761,
+      "isCustom": false,
+      "allUris": [
+        "http://www.wikidata.org/entity/Q1815887"
+      ],
+      "allTypes": [
+        {
+          "name": "skill",
+          "diffbotUri": "https://diffbot.com/entity/EvfbHngnSNVOh7ZBM5XTywQ"
+        },
+        {
+          "name": "product",
+          "diffbotUri": "https://diffbot.com/entity/EgSPUye7QPcyQoPylO8biMQ"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "SOW",
+          "beginOffset": 22,
+          "endOffset": 25,
+          "confidence": 0.77969015
+        },
+        {
+          "text": "Statement of Work",
+          "beginOffset": 41,
+          "endOffset": 58,
+          "confidence": 0.77969015
+        },
+        {
+          "text": "SOW",
+          "beginOffset": 61,
+          "endOffset": 64,
+          "confidence": 0.77969015
+        }
+      ],
+      "type": "Skill",
+      "allTypeNames": [
+        "skill",
+        "product"
+      ]
+    },
+    {
+      "name": "NovaTech Consulting Ltd.",
+      "confidence": 0.99988365,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "organization",
+          "diffbotUri": "https://diffbot.com/entity/EN1ClYEdMMQCxB6AWTkT3mA",
+          "dbpediaUri": "http://dbpedia.org/ontology/Organisation"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "NovaTech Consulting Ltd.",
+          "beginOffset": 165,
+          "endOffset": 189,
+          "confidence": 0.99988365
+        }
+      ],
+      "type": "Organization",
+      "allTypeNames": [
+        "organization"
+      ]
+    },
+    {
+      "name": "2026-04-01",
+      "confidence": 0.99759394,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "April 1, 2026",
+          "beginOffset": 89,
+          "endOffset": 102,
+          "confidence": 0.99759394
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    },
+    {
+      "name": "2025-01-15",
+      "confidence": 0.99720323,
+      "salience": 0.0,
+      "isCustom": false,
+      "allUris": [],
+      "allTypes": [
+        {
+          "name": "date",
+          "diffbotUri": "https://diffbot.com/entity/EGTSOJhZ0NnqIjbjgQ8pyLg"
+        }
+      ],
+      "mentions": [
+        {
+          "text": "January 15, 2025",
+          "beginOffset": 260,
+          "endOffset": 276,
+          "confidence": 0.99720323
+        }
+      ],
+      "type": "Date",
+      "allTypeNames": [
+        "date"
+      ]
+    }
+  ],
+  "relationships": [],
+  "properties": [],
+  "sentiment": 0.0
+}
