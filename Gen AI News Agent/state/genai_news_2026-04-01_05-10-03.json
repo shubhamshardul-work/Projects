@@ -1,0 +1,352 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "summary": "Slack just got a whole lot more useful. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 337432",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 50497",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3721",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "summary": "HN Score: 1010. Comments: 386",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "summary": "HN Score: 169. Comments: 72",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "summary": "HN Score: 391. Comments: 329",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+      "url": "https://hypha.pub/back-to-freebsd-part-2",
+      "summary": "HN Score: 63. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "summary": "HN Score: 236. Comments: 601",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "summary": "A human really borks things at Anthropic for the second time this week.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "summary": "Slack just got a whole lot more useful. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 337432",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 50497",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3721",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "summary": "HN Score: 1010. Comments: 386",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "summary": "HN Score: 169. Comments: 72",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "summary": "HN Score: 391. Comments: 329",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Back to FreeBSD \u2013 Part 2 \u2013 Jails",
+      "url": "https://hypha.pub/back-to-freebsd-part-2",
+      "summary": "HN Score: 63. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+      "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+      "summary": "HN Score: 236. Comments: 601",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+        "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+        "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
+      },
+      {
+        "title": "[HackerNews] OpenAI closes funding round at an $852B valuation",
+        "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+        "summary": "HN Score: 391. Comments: 329"
+      },
+      {
+        "title": "[RSS] Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+        "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+        "summary": "Slack just got a whole lot more useful. "
+      },
+      {
+        "title": "[RSS] Anthropic is having a month",
+        "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+        "summary": "A human really borks things at Anthropic for the second time this week."
+      },
+      {
+        "title": "[Tavily] AI News | U-M Generative AI",
+        "url": "https://genai.umich.edu/news",
+        "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+        "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+        "summary": "HN Score: 1010. Comments: 386"
+      },
+      {
+        "title": "[RSS] Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+        "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litelllm-project/",
+        "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
+      },
+      {
+        "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+        "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 50497"
+      },
+      {
+        "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+        "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+        "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3721"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HackerNews] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+        "url": "https://prismml.com/",
+        "summary": "HN Score: 169. Comments: 72"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+      "url": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
+    },
+    {
+      "title": "[HackerNews] OpenAI closes funding round at an $852B valuation",
+      "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+      "summary": "HN Score: 391. Comments: 329"
+    },
+    {
+      "title": "[RSS] Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+      "url": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+      "summary": "Slack just got a whole lot more useful. "
+    },
+    {
+      "title": "[RSS] Anthropic is having a month",
+      "url": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+      "summary": "A human really borks things at Anthropic for the second time this week."
+    },
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI"
+    },
+    {
+      "title": "[HackerNews] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+      "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+      "summary": "HN Score: 1010. Comments: 386"
+    },
+    {
+      "title": "[RSS] Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+      "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litelllm-project/",
+      "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems."
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 50497"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3721"
+    },
+    {
+      "title": "[HackerNews] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+      "url": "https://prismml.com/",
+      "summary": "HN Score: 169. Comments: 72"
+    }
+  ],
+  "final_report": "# AI Pulse: OpenAI's Monumental Valuation and the Race for Enterprise AI\n\nToday's intelligence report unveils a staggering valuation for OpenAI, signaling an unprecedented investor appetite for AI dominance, while competitors and partners alike push the boundaries of enterprise integration and efficiency. The AI landscape is rapidly maturing, with both strategic investments and technical innovations driving its relentless expansion.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI's Monster Funding Round & Valuation](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)**\nOpenAI has reportedly closed a colossal funding round, valuing the AI powerhouse at an eye-watering $852 billion as it inches closer to an IPO. This unprecedented valuation, bolstered by significant retail investor participation, underscores a profound market confidence in OpenAI's long-term trajectory and its pivotal role in shaping the future of AI. It sets a new benchmark for AI company valuations and highlights the intense competition for a stake in the leading generative AI firms.\n\n### **[Salesforce Announces an AI-Heavy Makeover for Slack](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/)**\nSalesforce is aggressively integrating AI into its enterprise communication platform, Slack, with the rollout of 30 new AI-powered features. This strategic move demonstrates Salesforce's commitment to enhancing productivity and user experience within its ecosystem, signaling that AI-driven efficiency is becoming a non-negotiable expectation for enterprise software. Competitors will undoubtedly feel pressure to accelerate their own AI integrations to keep pace with this rapid evolution.\n\n### **[Anthropic is Having a Month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/)**\nA brief but intriguing note suggests internal challenges at Anthropic, with a human reportedly \"borking things\" for the second time this week. While details are scarce, this highlights the inherent human element in even the most advanced AI organizations and the potential for operational missteps to impact a company's competitive standing and market perception in the fast-moving AI race.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/)**\nA reported leak of Anthropic's Claude code source has sent ripples through the developer community, potentially offering unprecedented insights into its architecture and internal tools. This event presents a dual-edged sword: while it could provide valuable learning opportunities for those building similar models, it also raises significant concerns about intellectual property security and the competitive landscape of large language model development.\n\n### **[Mercor Hit by Cyberattack Tied to Compromise of Open-Source LiteLLM Project](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litelllm-project/)**\nAI recruiting startup Mercor confirmed a security incident linked to a compromise of the open-source LiteLLM project, underscoring the escalating cybersecurity risks in the AI ecosystem. This incident serves as a critical reminder for developers and organizations to prioritize robust security practices and supply chain vigilance when integrating open-source AI tools and APIs, as vulnerabilities can lead to severe data breaches and operational disruptions.\n\n### **[CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)**\nCohere's latest Automatic Speech Recognition (ASR) model is trending on Hugging Face, indicating continued advancements in making high-quality speech-to-text technology more accessible. This offers developers a powerful, readily available tool to integrate accurate transcription capabilities into their applications, fostering innovation in voice-enabled AI solutions across various industries.\n\n### **[mistralai/Voxtral-4B-TTS-2603](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603)**\nMistral AI's new multilingual Text-to-Speech (TTS) model is gaining traction on Hugging Face, showcasing progress in creating more natural and versatile voice synthesis. This provides developers with a valuable resource for building applications that require high-quality, multi-language audio output, from enhancing virtual assistants to revolutionizing content creation workflows.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/)**\nThe introduction of \"1-Bit Bonsai\" by PrismML marks a significant breakthrough in efficient AI, claiming to be the first commercially viable 1-Bit LLMs. This innovation promises drastically reduced computational and memory requirements, potentially democratizing access to powerful language models by enabling their deployment on edge devices and in resource-constrained environments, fundamentally altering the landscape of AI accessibility and application.\n\n---\n**Today's Signal:** The AI market is consolidating around a few dominant players while simultaneously pushing the boundaries of efficiency and integration, making AI both a strategic imperative and a technical challenge across all sectors.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014D... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Accelerating the next phase of AI ](https://openai.com/index/accelerating-the-next-phase-ai) | OpenAI raises $122 billion in new funding to expand frontier AI globally, invest... |\n| [Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project ](https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/) | The AI recruiting startup confirmed a security incident after an extortion hacki... |\n| [[RSS] Anthropic is having a month](https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/) | A human really borks things at Anthropic for the second time this week. |\n| [[RSS] Salesforce announces an AI-heavy makeover for Slack, with 30 new features](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) | Slack just got a whole lot more useful.  |\n| [OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise ](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/) | OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the A... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [CohereLabs/cohere-transcribe-03-2026 ](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) | Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech... |\n| [mistralai/Voxtral-4B-TTS-2603 ](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downl... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The Claude Code Source Leak: fake tools, frustration regexes, undercover mode](https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/) | HN Score: 1010. Comments: 386 |\n| [[HackerNews] Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs](https://prismml.com/) | HN Score: 169. Comments: 72 |\n| [[HackerNews] OpenAI closes funding round at an $852B valuation](https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html) | HN Score: 391. Comments: 329 |\n| [[HackerNews] Back to FreeBSD \u2013 Part 2 \u2013 Jails](https://hypha.pub/back-to-freebsd-part-2) | HN Score: 63. Comments: 12 |\n| [[HackerNews] Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz](https://responsiblestatecraft.org/iran-strait-of-hormuz/) | HN Score: 236. Comments: 601 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "sent_to_11"
+  }
+}
