@@ -1,0 +1,471 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta\u2019s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+      "url": "http://arxiv.org/abs/2604.01221v1",
+      "summary": "We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Universal YOCO for Efficient Depth Scaling",
+      "url": "http://arxiv.org/abs/2604.01220v1",
+      "summary": "The rise of test-time scaling has remarkably boosted the reasoning and agentic proficiency of Large Language Models (LLMs). Yet, standard Transformers struggle to scale inference-time compute efficien...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)",
+      "url": "http://arxiv.org/abs/2604.01216v1",
+      "summary": "Reconstructing full spatio-temporal dynamics from sparse observations in both space and time remains a central challenge in complex systems, as measurements can be spatially incomplete and can be also...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language Steering for Multilingual In-Context Learning",
+      "url": "http://arxiv.org/abs/2602.02326v2",
+      "summary": "If large language models operate in a universal semantic space, then switching between languages should require only a simple activation offset. To test this, we take multilingual in-context learning ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline",
+      "url": "http://arxiv.org/abs/2604.01215v1",
+      "summary": "AI weather prediction has advanced rapidly, yet no unified mathematical framework explains what determines forecast skill. Existing theory addresses specific architectural choices rather than the lear...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
+      "url": "http://arxiv.org/abs/2604.01212v1",
+      "summary": "As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
+      "url": "http://arxiv.org/abs/2604.01210v1",
+      "summary": "Scientific algorithm discovery is iterative: hypotheses are proposed, implemented, stress-tested, and revised. Current LLM-guided search systems accelerate proposal generation, but often under-represe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM REgression with a Latent Iterative State Head",
+      "url": "http://arxiv.org/abs/2604.01206v1",
+      "summary": "We present RELISH (REgression with a Latent Iterative State Head), a novel, lightweight architecture designed for text regression with large language models. Rather than decoding numeric targets as te...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
+      "url": "http://arxiv.org/abs/2604.01204v1",
+      "summary": "Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstruction tasks. Compared to neural fields, these representati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Therefore I am. I Think",
+      "url": "http://arxiv.org/abs/2604.01202v1",
+      "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 353205",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 58683",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3851",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The Claude Code Leak",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "summary": "HN Score: 33. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "summary": "HN Score: 172. Comments: 109",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] InspectMind AI (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "summary": "HN Score: 153. Comments: 65",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta\u2019s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+      "url": "http://arxiv.org/abs/2604.01221v1",
+      "summary": "We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Universal YOCO for Efficient Depth Scaling",
+      "url": "http://arxiv.org/abs/2604.01220v1",
+      "summary": "The rise of test-time scaling has remarkably boosted the reasoning and agentic proficiency of Large Language Models (LLMs). Yet, standard Transformers struggle to scale inference-time compute efficien...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)",
+      "url": "http://arxiv.org/abs/2604.01216v1",
+      "summary": "Reconstructing full spatio-temporal dynamics from sparse observations in both space and time remains a central challenge in complex systems, as measurements can be spatially incomplete and can be also...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language Steering for Multilingual In-Context Learning",
+      "url": "http://arxiv.org/abs/2602.02326v2",
+      "summary": "If large language models operate in a universal semantic space, then switching between languages should require only a simple activation offset. To test this, we take multilingual in-context learning ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline",
+      "url": "http://arxiv.org/abs/2604.01215v1",
+      "summary": "AI weather prediction has advanced rapidly, yet no unified mathematical framework explains what determines forecast skill. Existing theory addresses specific architectural choices rather than the lear...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] $\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
+      "url": "http://arxiv.org/abs/2604.01212v1",
+      "summary": "As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
+      "url": "http://arxiv.org/abs/2604.01210v1",
+      "summary": "Scientific algorithm discovery is iterative: hypotheses are proposed, implemented, stress-tested, and revised. Current LLM-guided search systems accelerate proposal generation, but often under-represe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM REgression with a Latent Iterative State Head",
+      "url": "http://arxiv.org/abs/2604.01206v1",
+      "summary": "We present RELISH (REgression with a Latent Iterative State Head), a novel, lightweight architecture designed for text regression with large language models. Rather than decoding numeric targets as te...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
+      "url": "http://arxiv.org/abs/2604.01204v1",
+      "summary": "Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstruction tasks. Compared to neural fields, these representati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Therefore I am. I Think",
+      "url": "http://arxiv.org/abs/2604.01202v1",
+      "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 353205",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 58683",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Voxtral-4B-TTS-2603",
+      "url": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+      "summary": "Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downloads: 3851",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The Claude Code Leak",
+      "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+      "summary": "HN Score: 33. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI for American-produced cement and concrete",
+      "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+      "summary": "HN Score: 172. Comments: 109",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] InspectMind AI (YC W24) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "summary": "HN Score: 153. Comments: 65",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Accelerating the next phase of AI",
+        "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+        "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI."
+      },
+      {
+        "title": "[RSS] Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+        "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+      },
+      {
+        "title": "[RSS] Meta\u2019s natural gas binge could power South Dakota",
+        "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+        "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
+      },
+      {
+        "title": "[RSS] Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+        "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60M-to-try/",
+        "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
+      },
+      {
+        "title": "[RSS] Gradient Labs gives every bank customer an AI account manager",
+        "url": "https://openai.com/index/gradient-labs",
+        "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+        "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+        "summary": "HN Score: 153. Comments: 65"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Therefore I am. I Think",
+        "url": "http://arxiv.org/abs/2604.01202v1",
+        "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl..."
+      },
+      {
+        "title": "[ArXiv] $\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
+        "url": "http://arxiv.org/abs/2604.01212v1",
+        "summary": "As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, an..."
+      },
+      {
+        "title": "[ArXiv] HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+        "url": "http://arxiv.org/abs/2604.01221v1",
+        "summary": "We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s..."
+      },
+      {
+        "title": "[ArXiv] Universal YOCO for Efficient Depth Scaling",
+        "url": "http://arxiv.org/abs/2604.01220v1",
+        "summary": "The rise of test-time scaling has remarkably boosted the reasoning and agentic proficiency of Large Language Models (LLMs). Yet, standard Transformers struggle to scale inference-time compute efficien..."
+      },
+      {
+        "title": "[ArXiv] CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
+        "url": "http://arxiv.org/abs/2604.01210v1",
+        "summary": "Scientific algorithm discovery is iterative: hypotheses are proposed, implemented, stress-tested, and revised. Current LLM-guided search systems accelerate proposal generation, but often under-represe..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Accelerating the next phase of AI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI."
+    },
+    {
+      "title": "[RSS] Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident",
+      "url": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+      "summary": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices."
+    },
+    {
+      "title": "[RSS] Meta\u2019s natural gas binge could power South Dakota",
+      "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+      "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants."
+    },
+    {
+      "title": "[RSS] Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+      "url": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60M-to-try/",
+      "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half."
+    },
+    {
+      "title": "[RSS] Gradient Labs gives every bank customer an AI account manager",
+      "url": "https://openai.com/index/gradient-labs",
+      "summary": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability."
+    },
+    {
+      "title": "[HackerNews] StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)",
+      "url": "https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn",
+      "summary": "HN Score: 153. Comments: 65"
+    },
+    {
+      "title": "[ArXiv] Therefore I am. I Think",
+      "url": "http://arxiv.org/abs/2604.01202v1",
+      "summary": "We consider the question: when a large language reasoning model makes a choice, did it think first and then decide to, or decide first and then think? In this paper, we present evidence that detectabl..."
+    },
+    {
+      "title": "[ArXiv] $\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution",
+      "url": "http://arxiv.org/abs/2604.01212v1",
+      "summary": "As LLM agents tackle increasingly complex tasks, a critical question is whether they can maintain strategic coherence over long horizons: planning under uncertainty, learning from delayed feedback, an..."
+    },
+    {
+      "title": "[ArXiv] HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+      "url": "http://arxiv.org/abs/2604.01221v1",
+      "summary": "We present HippoCamp, a new benchmark designed to evaluate agents' capabilities on multimodal file management. Unlike existing agent benchmarks that focus on tasks like web interaction, tool use, or s..."
+    },
+    {
+      "title": "[ArXiv] Universal YOCO for Efficient Depth Scaling",
+      "url": "http://arxiv.org/abs/2604.01220v1",
+      "summary": "The rise of test-time scaling has remarkably boosted the reasoning and agentic proficiency of Large Language Models (LLMs). Yet, standard Transformers struggle to scale inference-time compute efficien..."
+    },
+    {
+      "title": "[ArXiv] CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery",
+      "url": "http://arxiv.org/abs/2604.01210v1",
+      "summary": "Scientific algorithm discovery is iterative: hypotheses are proposed, implemented, stress-tested, and revised. Current LLM-guided search systems accelerate proposal generation, but often under-represe..."
+    }
+  ],
+  "final_report": "# AI's Accelerated Ascent: Billions Flow, Agents Evolve, and Infrastructure Demands Soar\n\nToday's intelligence report highlights a dynamic landscape where massive investments are fueling the next generation of AI, while researchers push the boundaries of agentic intelligence and efficient model design. From enterprise adoption to foundational breakthroughs, the industry is rapidly expanding its reach and capabilities.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai)**\nOpenAI has secured a staggering $122 billion in new funding, signaling aggressive plans to expand frontier AI globally and invest heavily in next-generation compute. This massive capital injection underscores the intense race for AI dominance and the escalating demand for advanced models like ChatGPT and enterprise solutions.\n\n### **[Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)**\nA significant operational misstep saw Anthropic accidentally issue takedown notices for thousands of GitHub repositories while attempting to remove leaked source code. This incident highlights the critical challenges companies face in protecting intellectual property in the fast-paced AI landscape, even as it raises questions about automated content enforcement.\n\n### **[Meta\u2019s natural gas binge could power South Dakota](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/)**\nMeta's plans for its Hyperion AI data center reveal a substantial reliance on ten new natural gas plants, illustrating the immense energy demands of cutting-edge AI infrastructure. This move underscores the growing environmental and resource considerations for tech giants as they scale their AI capabilities.\n\n### **[Cognichip wants AI to design the chips that power AI, and just raised $60M to try](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60M-to-try/)**\nCognichip secured $60 million to develop AI that designs AI chips, aiming to drastically reduce chip development costs and timelines by over 75% and 50% respectively. This investment points to a future where AI accelerates its own hardware innovation, potentially democratizing access to advanced compute and reshaping the semiconductor industry.\n\n### **[Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs)**\nGradient Labs is leveraging advanced LLMs like GPT-4.1 and GPT-5.4 mini/nano to deploy AI agents as automated banking support managers. This initiative showcases the accelerating trend of AI-powered automation in customer service, promising low-latency, high-reliability solutions that could redefine financial interactions.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn)**\nThe StepFun 3.5 Flash model has emerged as the top performer in cost-effectiveness for OpenClaw tasks, according to 300 battle simulations. This highlights the ongoing optimization efforts in AI model development, where efficiency and practical deployment costs are becoming as crucial as raw performance for developers.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Therefore I am. I Think](http://arxiv.org/abs/2604.01202v1)**\nThis paper delves into the fundamental question of whether large language reasoning models \"think\" before deciding or decide before \"thinking.\" The research presents evidence to detect this sequence, offering crucial insights into the cognitive processes and decision-making architectures of advanced AI.\n\n### **[$\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution](http://arxiv.org/abs/2604.01212v1)**\nAs LLM agents tackle increasingly complex, multi-step tasks, the YC-Bench benchmark addresses the critical challenge of maintaining strategic coherence over long horizons. This work is vital for evaluating agents' ability to plan under uncertainty, learn from delayed feedback, and execute consistently, pushing towards more robust and autonomous AI.\n\n### **[HippoCamp: Benchmarking Contextual Agents on Personal Computers](http://arxiv.org/abs/2604.01221v1)**\nHippoCamp introduces a novel benchmark specifically designed to assess AI agents' capabilities in multimodal file management on personal computers. This fills a gap in existing benchmarks, focusing on practical, real-world interactions with local environments and advancing the development of truly helpful desktop AI assistants.\n\n### **[Universal YOCO for Efficient Depth Scaling](http://arxiv.org/abs/2604.01220v1)**\nThis research explores Universal YOCO as a method for efficient depth scaling, aiming to improve how standard Transformers handle inference-time compute. The work is critical for boosting the reasoning and agentic proficiency of LLMs while making test-time scaling more computationally feasible and sustainable.\n\n### **[CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery](http://arxiv.org/abs/2604.01210v1)**\nCliffSearch proposes a novel approach for scientific algorithm discovery, combining agentic co-evolution over both theoretical hypotheses and practical code implementations. This iterative system promises to accelerate the scientific process by enabling LLM-guided search systems to better stress-test and revise proposals, leading to more robust discoveries.\n\n---\n\n**Today's Signal:** Today's signal points to an industry rapidly maturing, driven by unprecedented investment, a relentless pursuit of agentic intelligence, and a growing focus on the practical challenges of scaling AI's computational and energy demands.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Gradient Labs gives every bank customer an AI account manager ](https://openai.com/index/gradient-labs) | Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that aut... |\n| [Accelerating the next phase of AI ](https://openai.com/index/accelerating-the-next-phase-ai) | OpenAI raises $122 billion in new funding to expand frontier AI globally, invest... |\n| [Anthropic took down thousands of GitHub repos trying to yank its leaked source code \u2014 a move the company says was an accident ](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/) | Anthropic executives said it was an accident and retracted the bulk of the taked... |\n| [Meta\u2019s natural gas binge could power South Dakota ](https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/) | Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas pl... |\n| [Cognichip wants AI to design the chips that power AI, and just raised $60M to try ](https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/) | The firm says it can reduce the cost of chip development by more than 75% and cu... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [HippoCamp: Benchmarking Contextual Agents on Personal Computers ](http://arxiv.org/abs/2604.01221v1) | We present HippoCamp, a new benchmark designed to evaluate agents' capabilities ... |\n| [Universal YOCO for Efficient Depth Scaling ](http://arxiv.org/abs/2604.01220v1) | The rise of test-time scaling has remarkably boosted the reasoning and agentic p... |\n| [LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED) ](http://arxiv.org/abs/2604.01216v1) | Reconstructing full spatio-temporal dynamics from sparse observations in both sp... |\n| [Language Steering for Multilingual In-Context Learning ](http://arxiv.org/abs/2602.02326v2) | If large language models operate in a universal semantic space, then switching b... |\n| [The Recipe Matters More Than the Kitchen:Mathematical Foundations of the AI Weather Prediction Pipeline ](http://arxiv.org/abs/2604.01215v1) | AI weather prediction has advanced rapidly, yet no unified mathematical framewor... |\n| [$\\texttt{YC-Bench}$: Benchmarking AI Agents for Long-Term Planning and Consistent Execution ](http://arxiv.org/abs/2604.01212v1) | As LLM agents tackle increasingly complex tasks, a critical question is whether ... |\n| [CliffSearch: Structured Agentic Co-Evolution over Theory and Code for Scientific Algorithm Discovery ](http://arxiv.org/abs/2604.01210v1) | Scientific algorithm discovery is iterative: hypotheses are proposed, implemente... |\n| [LLM REgression with a Latent Iterative State Head ](http://arxiv.org/abs/2604.01206v1) | We present RELISH (REgression with a Latent Iterative State Head), a novel, ligh... |\n| [Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction ](http://arxiv.org/abs/2604.01204v1) | Primitive-based methods such as 3D Gaussian Splatting have recently become the s... |\n| [Therefore I am. I Think ](http://arxiv.org/abs/2604.01202v1) | We consider the question: when a large language reasoning model makes a choice, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [CohereLabs/cohere-transcribe-03-2026 ](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) | Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech... |\n| [mistralai/Voxtral-4B-TTS-2603 ](https://huggingface.co/mistralai/Voxtral-4B-TTS-2603) | Trending HF Model. Tags: vllm, mistral-common, text-to-speech, en, fr, es. Downl... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The Claude Code Leak](https://build.ms/2026/4/1/the-claude-code-leak/) | HN Score: 33. Comments: 13 |\n| [[HackerNews] AI for American-produced cement and concrete](https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/) | HN Score: 172. Comments: 109 |\n| [[HackerNews] InspectMind AI (YC W24) Is Hiring](https://www.ycombinator.com/companies/inspectmind-ai/jobs/jQNra64-software-engineer-build-the-world-s-best-ai-plan-checker) | HN Score: 1. Comments: 0 |\n| [[HackerNews] StepFun 3.5 Flash is #1 cost-effective model for OpenClaw tasks (300 battles)](https://app.uniclaw.ai/arena?tab=costEffectiveness&via=hn) | HN Score: 153. Comments: 65 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "sent_to_11"
+  }
+}
