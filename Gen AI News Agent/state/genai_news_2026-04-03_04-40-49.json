@@ -1,0 +1,473 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft takes on AI rivals with three new foundational models",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google now lets you direct avatars through prompts in its Vids app",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
+      "url": "http://arxiv.org/abs/2601.14674v2",
+      "summary": "Given a monocular video, the goal of video re-rendering is to generate views of the scene from a novel camera trajectory. Existing methods face two distinct challenges. Geometrically unconditioned mod...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+      "url": "http://arxiv.org/abs/2603.29399v2",
+      "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Single Best Model for Diversity: Learning a Router for Sample Diversity",
+      "url": "http://arxiv.org/abs/2604.02319v1",
+      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Intervening to Learn and Compose Causally Disentangled Representations",
+      "url": "http://arxiv.org/abs/2507.04754v2",
+      "summary": "In designing generative models, it is commonly believed that in order to learn useful latent structure, we face a fundamental tension between expressivity and structure. In this paper we challenge thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Topological Effects in Neural Network Field Theory",
+      "url": "http://arxiv.org/abs/2604.02313v1",
+      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 428791",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 71028",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Qianfan-OCR",
+      "url": "https://huggingface.co/baidu/Qianfan-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extraction, vision-language, ocr. Downloads: 19085",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "summary": "HN Score: 1243. Comments: 369",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "summary": "HN Score: 371. Comments: 183",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "summary": "HN Score: 198. Comments: 87",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "summary": "HN Score: 51. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "summary": "HN Score: 175. Comments: 145",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft takes on AI rivals with three new foundational models",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google now lets you direct avatars through prompts in its Vids app",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
+      "url": "http://arxiv.org/abs/2601.14674v2",
+      "summary": "Given a monocular video, the goal of video re-rendering is to generate views of the scene from a novel camera trajectory. Existing methods face two distinct challenges. Geometrically unconditioned mod...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+      "url": "http://arxiv.org/abs/2603.29399v2",
+      "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Single Best Model for Diversity: Learning a Router for Sample Diversity",
+      "url": "http://arxiv.org/abs/2604.02319v1",
+      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Intervening to Learn and Compose Causally Disentangled Representations",
+      "url": "http://arxiv.org/abs/2507.04754v2",
+      "summary": "In designing generative models, it is commonly believed that in order to learn useful latent structure, we face a fundamental tension between expressivity and structure. In this paper we challenge thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Topological Effects in Neural Network Field Theory",
+      "url": "http://arxiv.org/abs/2604.02313v1",
+      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 428791",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 71028",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Qianfan-OCR",
+      "url": "https://huggingface.co/baidu/Qianfan-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extraction, vision-language, ocr. Downloads: 19085",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "summary": "HN Score: 1243. Comments: 369",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tailscale's new macOS home",
+      "url": "https://tailscale.com/blog/macos-notch-escape",
+      "summary": "HN Score: 371. Comments: 183",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+      "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+      "summary": "HN Score: 198. Comments: 87",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "summary": "HN Score: 51. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "summary": "HN Score: 175. Comments: 145",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI acquires TBPN, the buzzy founder-led business talk show",
+        "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+        "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
+      },
+      {
+        "title": "[RSS] Microsoft takes on AI rivals with three new foundational models",
+        "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+        "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
+      },
+      {
+        "title": "[RSS] Google now lets you direct avatars through prompts in its Vids app",
+        "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+        "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app."
+      },
+      {
+        "title": "[RSS] Codex now offers more flexible pricing for teams",
+        "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+        "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Google releases Gemma 4 open models",
+        "url": "https://deepmind.google/models/gemma/gemma-4/",
+        "summary": "HN Score: 1243. Comments: 369"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+        "url": "http://arxiv.org/abs/2604.02330v1",
+        "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..."
+      },
+      {
+        "title": "[ArXiv] Steerable Visual Representations",
+        "url": "http://arxiv.org/abs/2604.02327v1",
+        "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho..."
+      },
+      {
+        "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+        "url": "http://arxiv.org/abs/2604.02322v1",
+        "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp..."
+      },
+      {
+        "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+        "url": "http://arxiv.org/abs/2604.02315v1",
+        "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e..."
+      },
+      {
+        "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+        "url": "http://arxiv.org/abs/2604.02324v1",
+        "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI acquires TBPN, the buzzy founder-led business talk show",
+      "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+      "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
+    },
+    {
+      "title": "[RSS] Microsoft takes on AI rivals with three new foundational models",
+      "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+      "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
+    },
+    {
+      "title": "[RSS] Google now lets you direct avatars through prompts in its Vids app",
+      "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+      "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app."
+    },
+    {
+      "title": "[RSS] Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
+    },
+    {
+      "title": "[HackerNews] Google releases Gemma 4 open models",
+      "url": "https://deepmind.google/models/gemma/gemma-4/",
+      "summary": "HN Score: 1243. Comments: 369"
+    },
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..."
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho..."
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp..."
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e..."
+    },
+    {
+      "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Brief: Strategic Moves & Open Models Drive AI Evolution\n\nToday's AI landscape is marked by aggressive strategic plays from tech giants expanding their influence and a significant push towards democratizing advanced models for developers. From OpenAI's foray into media to Google's latest open-source releases, the industry is rapidly evolving on both business and technical fronts.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI acquires TBPN, the buzzy founder-led business talk show](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/)**\nThis isn't just a media acquisition; it's a strategic move for OpenAI to control narrative and influence public perception, especially with a political operative at the helm. It signals a broader ambition beyond pure tech, venturing into thought leadership and public relations to shape the AI discourse.\n\n### **[Microsoft takes on AI rivals with three new foundational models](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/)**\nMicrosoft's rapid release of new foundational models in voice-to-text, audio, and image generation underscores its aggressive strategy to diversify its AI portfolio and directly challenge competitors like Google and OpenAI across multiple modalities. This expansion positions Microsoft as a full-stack AI provider, crucial for securing market share in the evolving AI ecosystem.\n\n### **[Google now lets you direct avatars through prompts in its Vids app](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/)**\nGoogle's integration of prompt-driven avatar direction in its Vids app highlights the growing trend of democratizing content creation through intuitive AI tools. This move could significantly lower the barrier to entry for professional-looking video production, empowering businesses and individuals to create engaging visual content at scale without extensive technical skills.\n\n### **[Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams)**\nOpenAI's introduction of flexible, pay-as-you-go pricing for Codex (ChatGPT Business/Enterprise) is a strategic move to accelerate enterprise adoption and reduce friction for businesses experimenting with or scaling AI solutions. This pricing model directly addresses a key barrier for many organizations, signaling OpenAI's focus on commercializing its advanced models more broadly across the corporate landscape.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/)**\nGoogle's release of Gemma 4 open models is a significant development for the developer community, providing powerful new tools for building and experimenting with AI applications. This move reinforces Google's commitment to the open-source AI ecosystem, offering practitioners advanced, customizable models that can be integrated into a wide range of projects and research initiatives.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**\nThis research tackles a critical limitation in current \"world models\" by enabling multi-subject action binding in generative video games, moving beyond single-agent simulations. It opens new avenues for creating more complex, interactive, and realistic AI-driven virtual environments, with implications for advanced simulation, training, and entertainment.\n\n### **[Steerable Visual Representations](http://arxiv.org/abs/2604.02327v1)**\nThis paper explores \"steerable visual representations\" within pretrained Vision Transformers, aiming to enhance their adaptability and control for diverse downstream tasks. The ability to finely tune these foundational visual features could lead to more robust and versatile computer vision systems, improving performance across a spectrum of applications from image generation to complex scene understanding.\n\n### **[Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)**\nThis research addresses the high inference costs of Chain-of-Thought reasoning in LLMs by proposing \"Batched Contextual Reinforcement\" and a task-scaling law for efficient reasoning. This work is crucial for making advanced LLM reasoning more economically viable and scalable, potentially enabling broader deployment of complex AI agents in resource-constrained environments.\n\n### **[Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models](http://arxiv.org/abs/2604.02315v1)**\nThis paper introduces a novel evaluation paradigm by focusing on \"user turn generation\" to assess an LLM's interaction awareness, moving beyond the traditional \"assistant turn\" benchmarks. This approach could provide deeper insights into an LLM's ability to understand and anticipate conversational flow, paving the way for more natural and contextually intelligent AI dialogue systems.\n\n### **[Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation](http://arxiv.org/abs/2604.02324v1)**\nThis research proposes \"grounded token initialization\" to improve how LMs integrate new, domain-specific vocabulary, particularly for generative recommendation systems. By providing better initial embeddings for novel tokens, this method could significantly enhance the performance and efficiency of LMs in specialized applications, leading to more accurate and relevant recommendations.\n\nToday's Signal: Major AI players are simultaneously expanding their market reach through strategic acquisitions and flexible pricing, while also fueling the developer ecosystem with powerful open-source models and pushing the boundaries of interactive and efficient AI research.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI acquires TBPN ](https://openai.com/index/openai-acquires-tbpn) | OpenAI acquires TBPN to accelerate global conversations around AI and support in... |\n| [Codex now offers more flexible pricing for teams ](https://openai.com/index/codex-flexible-pricing-for-teams) | Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, pr... |\n| [OpenAI acquires TBPN, the buzzy founder-led business talk show ](https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/) | TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, e... |\n| [Microsoft takes on AI rivals with three new foundational models ](https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/) | MAI released models that can transcribe voice into text as well as generate audi... |\n| [Google now lets you direct avatars through prompts in its Vids app ](https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/) | Google is adding a way to customize and instruct avatars for video creation in t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ActionParty: Multi-Subject Action Binding in Generative Video Games ](http://arxiv.org/abs/2604.02330v1) | Recent advances in video diffusion have enabled the development of \"world models... |\n| [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models ](http://arxiv.org/abs/2601.14674v2) | Given a monocular video, the goal of video re-rendering is to generate views of ... |\n| [Steerable Visual Representations ](http://arxiv.org/abs/2604.02327v1) | Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic ima... |\n| [ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities ](http://arxiv.org/abs/2603.29399v2) | Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data en... |\n| [Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation ](http://arxiv.org/abs/2604.02324v1) | Language models (LMs) are increasingly extended with new learnable vocabulary to... |\n| [Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning ](http://arxiv.org/abs/2604.02322v1) | Large Language Models employing Chain-of-Thought reasoning achieve strong perfor... |\n| [No Single Best Model for Diversity: Learning a Router for Sample Diversity ](http://arxiv.org/abs/2604.02319v1) | When posed with prompts that permit a large number of valid answers, comprehensi... |\n| [Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models ](http://arxiv.org/abs/2604.02315v1) | Standard LLM benchmarks evaluate the assistant turn: the model generates a respo... |\n| [Intervening to Learn and Compose Causally Disentangled Representations ](http://arxiv.org/abs/2507.04754v2) | In designing generative models, it is commonly believed that in order to learn u... |\n| [Topological Effects in Neural Network Field Theory ](http://arxiv.org/abs/2604.02313v1) | Neural network field theory formulates field theory as a statistical ensemble of... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [CohereLabs/cohere-transcribe-03-2026 ](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) | Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech... |\n| [baidu/Qianfan-OCR ](https://huggingface.co/baidu/Qianfan-OCR) | Trending HF Model. Tags: transformers, safetensors, internvl_chat, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Google releases Gemma 4 open models](https://deepmind.google/models/gemma/gemma-4/) | HN Score: 1243. Comments: 369 |\n| [[HackerNews] Tailscale's new macOS home](https://tailscale.com/blog/macos-notch-escape) | HN Score: 371. Comments: 183 |\n| [[HackerNews] Good ideas do not need lots of lies in order to gain public acceptance (2008)](https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html) | HN Score: 198. Comments: 87 |\n| [[HackerNews] Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) | HN Score: 51. Comments: 27 |\n| [[HackerNews] OpenAI Acquires TBPN](https://openai.com/index/openai-acquires-tbpn/) | HN Score: 175. Comments: 145 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "sent_to_11"
+  }
+}
