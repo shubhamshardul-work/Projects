@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.\n",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
+      "url": "http://arxiv.org/abs/2601.14674v2",
+      "summary": "Given a monocular video, the goal of video re-rendering is to generate views of the scene from a novel camera trajectory. Existing methods face two distinct challenges. Geometrically unconditioned mod...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+      "url": "http://arxiv.org/abs/2603.29399v2",
+      "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Single Best Model for Diversity: Learning a Router for Sample Diversity",
+      "url": "http://arxiv.org/abs/2604.02319v1",
+      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Intervening to Learn and Compose Causally Disentangled Representations",
+      "url": "http://arxiv.org/abs/2507.04754v2",
+      "summary": "In designing generative models, it is commonly believed that in order to learn useful latent structure, we face a fundamental tension between expressivity and structure. In this paper we challenge thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Topological Effects in Neural Network Field Theory",
+      "url": "http://arxiv.org/abs/2604.02313v1",
+      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 487446",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 76200",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 84600",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "HN Score: 411. Comments: 404",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "summary": "HN Score: 33. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "summary": "HN Score: 54. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "summary": "HN Score: 248. Comments: 107",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "summary": "HN Score: 210. Comments: 88",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Codex now offers more flexible pricing for teams",
+      "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.\n",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
+      "url": "http://arxiv.org/abs/2601.14674v2",
+      "summary": "Given a monocular video, the goal of video re-rendering is to generate views of the scene from a novel camera trajectory. Existing methods face two distinct challenges. Geometrically unconditioned mod...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+      "url": "http://arxiv.org/abs/2603.29399v2",
+      "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2604.02324v1",
+      "summary": "Language models (LMs) are increasingly extended with new learnable vocabulary tokens for domain-specific tasks, such as Semantic-ID tokens in generative recommendation. The standard practice initializ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] No Single Best Model for Diversity: Learning a Router for Sample Diversity",
+      "url": "http://arxiv.org/abs/2604.02319v1",
+      "summary": "When posed with prompts that permit a large number of valid answers, comprehensively generating them is the first step towards satisfying a wide range of users. In this paper, we study methods to elic...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Intervening to Learn and Compose Causally Disentangled Representations",
+      "url": "http://arxiv.org/abs/2507.04754v2",
+      "summary": "In designing generative models, it is commonly believed that in order to learn useful latent structure, we face a fundamental tension between expressivity and structure. In this paper we challenge thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Topological Effects in Neural Network Field Theory",
+      "url": "http://arxiv.org/abs/2604.02313v1",
+      "summary": "Neural network field theory formulates field theory as a statistical ensemble of fields defined by a network architecture and a density on its parameters. We extend the construction to topological set...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 487446",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 76200",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 84600",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "HN Score: 411. Comments: 404",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "summary": "HN Score: 33. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Run Linux containers on Android, no root required",
+      "url": "https://github.com/ExTV/Podroid",
+      "summary": "HN Score: 54. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "summary": "HN Score: 248. Comments: 107",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Post Mortem: axios NPM supply chain compromise",
+      "url": "https://github.com/axios/axios/issues/10636",
+      "summary": "HN Score: 210. Comments: 88",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI acquires TBPN",
+        "url": "https://openai.com/index/openai-acquires-tbpn",
+        "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n"
+      },
+      {
+        "title": "[RSS] Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+        "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.\n"
+      },
+      {
+        "title": "[RSS] OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+        "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+        "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+      },
+      {
+        "title": "[RSS] Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+        "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+        "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+      },
+      {
+        "title": "[HackerNews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+        "url": "https://news.ycombinator.com/item?id=47633396",
+        "summary": "HN Score: 411. Comments: 404"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] We replaced RAG with a virtual filesystem for our AI documentation assistant",
+        "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+        "summary": "HN Score: 248. Comments: 107"
+      },
+      {
+        "title": "[HackerNews] Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+        "url": "https://github.com/borski/travel-hacking-toolkit",
+        "summary": "HN Score: 33. Comments: 10"
+      },
+      {
+        "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+        "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 84600"
+      },
+      {
+        "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+        "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 487446"
+      },
+      {
+        "title": "[HuggingFace] google/gemma-4-31B-it",
+        "url": "https://huggingface.co/google/gemma-4-31B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 76200"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+        "url": "http://arxiv.org/abs/2604.02330v1",
+        "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..."
+      },
+      {
+        "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+        "url": "http://arxiv.org/abs/2603.29399v2",
+        "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline..."
+      },
+      {
+        "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+        "url": "http://arxiv.org/abs/2604.02322v1",
+        "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp..."
+      },
+      {
+        "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+        "url": "http://arxiv.org/abs/2604.02315v1",
+        "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e..."
+      },
+      {
+        "title": "[ArXiv] Steerable Visual Representations",
+        "url": "http://arxiv.org/abs/2604.02327v1",
+        "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI acquires TBPN",
+      "url": "https://openai.com/index/openai-acquires-tbpn",
+      "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n"
+    },
+    {
+      "title": "[RSS] Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+      "summary": "Glen Anderson, president of Rainmaker Securities, says the secondary market for private shares has never been more active \u2014 with Anthropic the hottest trade around, OpenAI losing ground, and SpaceX's looming IPO poised to reshape the landscape for everyone.\n"
+    },
+    {
+      "title": "[RSS] OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019",
+      "url": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+      "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+    },
+    {
+      "title": "[RSS] Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+      "url": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+      "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+    },
+    {
+      "title": "[HackerNews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+      "url": "https://news.ycombinator.com/item?id=47633396",
+      "summary": "HN Score: 411. Comments: 404"
+    },
+    {
+      "title": "[HackerNews] We replaced RAG with a virtual filesystem for our AI documentation assistant",
+      "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+      "summary": "HN Score: 248. Comments: 107"
+    },
+    {
+      "title": "[HackerNews] Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI",
+      "url": "https://github.com/borski/travel-hacking-toolkit",
+      "summary": "HN Score: 33. Comments: 10"
+    },
+    {
+      "title": "[HuggingFace] CohereLabs/cohere-transcribe-03-2026",
+      "url": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech-recognition, audio, hf-asr-leaderboard. Downloads: 84600"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 487446"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 76200"
+    },
+    {
+      "title": "[ArXiv] ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "url": "http://arxiv.org/abs/2604.02330v1",
+      "summary": "Recent advances in video diffusion have enabled the development of \"world models\" capable of simulating interactive environments. However, these models are largely restricted to single-agent settings,..."
+    },
+    {
+      "title": "[ArXiv] ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities",
+      "url": "http://arxiv.org/abs/2603.29399v2",
+      "summary": "Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data engineering task and a high-impact target for AI automation. On ELT-Bench, the first benchmark for end-to-end ELT pipeline..."
+    },
+    {
+      "title": "[ArXiv] Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2604.02322v1",
+      "summary": "Large Language Models employing Chain-of-Thought reasoning achieve strong performance but suffer from excessive token consumption that inflates inference costs. Existing efficiency methods such as exp..."
+    },
+    {
+      "title": "[ArXiv] Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models",
+      "url": "http://arxiv.org/abs/2604.02315v1",
+      "summary": "Standard LLM benchmarks evaluate the assistant turn: the model generates a response to an input, a verifier scores correctness, and the analysis ends. This paradigm leaves unmeasured whether the LLM e..."
+    },
+    {
+      "title": "[ArXiv] Steerable Visual Representations",
+      "url": "http://arxiv.org/abs/2604.02327v1",
+      "summary": "Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic image features that can be applied to a variety of downstream tasks such as retrieval, classification, and segmentation. Ho..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Market Dynamics, Strategic Shifts, and Frontier Innovations\n\nToday's AI landscape is marked by intense market competition and strategic maneuvering, with major players like Anthropic and OpenAI making significant moves in M&A and internal restructuring. Simultaneously, developers are exploring novel architectural approaches and leveraging powerful new models, while researchers push the boundaries of AI agents, efficiency, and interaction.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn)**\nOpenAI's acquisition of TBPN signals a strategic move to broaden its influence beyond core AI development, aiming to shape global conversations and foster independent media engagement around AI. This expansion into media and dialogue control underscores the growing importance of narrative and public perception in the competitive AI ecosystem.\n\n### **[Anthropic is having a moment in the private markets; SpaceX could spoil the party](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/)**\nAnthropic is currently the darling of the private secondary markets, commanding high valuations as OpenAI's market position reportedly softens. However, the looming IPO of SpaceX could significantly alter the investment landscape, potentially drawing capital away from other high-growth private tech companies and reshaping investor priorities.\n\n### **[OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/)**\nOpenAI is undergoing significant internal restructuring, with COO Brad Lightcap transitioning to lead \"special projects,\" indicating a focus on new, potentially disruptive initiatives. This executive reshuffle, alongside CMO Kate Rouch's temporary departure for health reasons, suggests a period of strategic recalibration within the company.\n\n### **[Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/)**\nAnthropic's reported $400 million acquisition of stealth biotech AI startup Coefficient Bio marks a significant strategic diversification into the burgeoning AI-biotech sector. This move highlights Anthropic's ambition to apply its foundational AI capabilities to high-impact scientific domains, potentially opening new revenue streams and competitive fronts.\n\n### **[Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396)**\nA policy change by Anthropic restricting Claude Code subscriptions from using OpenClaw has sparked considerable discussion among developers. This decision could impact the developer ecosystem around Claude, raising questions about platform interoperability and the balance between proprietary control and open innovation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant)**\nThis innovative approach demonstrates a significant architectural shift for AI documentation assistants, moving beyond traditional Retrieval Augmented Generation (RAG) by implementing a virtual filesystem. Developers should watch this for potential improvements in context management, scalability, and the accuracy of AI-powered knowledge retrieval.\n\n### **[Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit)**\nThis \"Show HN\" project highlights a practical application of AI in a niche domain, offering a toolkit for optimizing travel with points and AI-assisted trip planning. It's a great example for developers looking to build consumer-facing AI tools that solve specific, complex problems.\n\n### **[CohereLabs/cohere-transcribe-03-2026](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)**\nCohereLabs' latest automatic speech recognition (ASR) model is trending on Hugging Face, indicating strong community interest and potential for high performance. Engineers working on audio processing or conversational AI should evaluate this model for its capabilities in transcription and integration into their applications.\n\n### **[Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled)**\nThis trending Hugging Face model represents an intriguing distillation effort, combining the Qwen3.5 architecture with the reasoning capabilities of Claude 4.6 Opus. Developers seeking efficient yet powerful models for complex reasoning tasks should explore this for its potential to deliver high-quality outputs with reduced computational overhead.\n\n### **[google/gemma-4-31B-it](https://huggingface.co/google/gemma-4-31B-it)**\nGoogle's Gemma-4-31B-it model is gaining traction, offering robust capabilities for image-text-to-text and conversational applications. This model is a key resource for developers building multimodal AI systems that require strong understanding and generation across both visual and textual inputs.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ActionParty: Multi-Subject Action Binding in Generative Video Games](http://arxiv.org/abs/2604.02330v1)**\nThis research explores a critical advancement in generative video game \"world models,\" moving beyond single-agent simulations to enable multi-subject action binding. This work has profound implications for creating more dynamic, interactive, and believable AI-driven virtual environments, pushing the boundaries of AI in complex simulation and game design.\n\n### **[ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities](http://arxiv.org/abs/2603.29399v2)**\nThis paper critically examines existing benchmarks for Extract-Load-Transform (ELT) pipeline construction, arguing that quality issues in these benchmarks may be underestimating the true capabilities of AI agents. Researchers should take note, as this highlights the ongoing challenge of creating robust and fair evaluation metrics for complex AI tasks.\n\n### **[Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning](http://arxiv.org/abs/2604.02322v1)**\nAddressing the high token consumption and inference costs associated with Chain-of-Thought reasoning in Large Language Models, this paper introduces \"Batched Contextual Reinforcement\" as a new efficiency method. This research is crucial for developing more cost-effective and scalable LLM applications, offering a potential \"task-scaling law\" for efficient reasoning.\n\n### **[Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models](http://arxiv.org/abs/2604.02315v1)**\nChallenging standard LLM evaluation paradigms, this research proposes evaluating language models by their ability to generate user turns, rather than just assistant responses. This novel approach offers a deeper probe into an LLM's \"interaction awareness,\" providing new insights into the sophistication of conversational AI.\n\n### **[Steerable Visual Representations](http://arxiv.org/abs/2604.02327v1)**\nThis paper investigates methods to make pretrained Vision Transformers (ViTs) more \"steerable,\" allowing for greater control and adaptability of their generic image features for various downstream tasks. This research is vital for enhancing the utility and flexibility of foundational vision models, enabling more precise application in areas like retrieval, classification, and segmentation.\n\nToday's Signal: The AI landscape is rapidly evolving with strategic market consolidation, aggressive diversification into new sectors, and a relentless pursuit of both practical application efficiency and foundational research breakthroughs.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014D... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI acquires TBPN ](https://openai.com/index/openai-acquires-tbpn) | OpenAI acquires TBPN to accelerate global conversations around AI and support in... |\n| [Codex now offers more flexible pricing for teams ](https://openai.com/index/codex-flexible-pricing-for-teams) | Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, pr... |\n| [Anthropic is having a moment in the private markets; SpaceX could spoil the party ](https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/) | Glen Anderson, president of Rainmaker Securities, says the secondary market for ... |\n| [OpenAI executive shuffle includes new role for COO Brad Lightcap to lead \u2018special projects\u2019 ](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/) | In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away ... |\n| [Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports ](https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/) | Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ActionParty: Multi-Subject Action Binding in Generative Video Games ](http://arxiv.org/abs/2604.02330v1) | Recent advances in video diffusion have enabled the development of \"world models... |\n| [LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models ](http://arxiv.org/abs/2601.14674v2) | Given a monocular video, the goal of video re-rendering is to generate views of ... |\n| [Steerable Visual Representations ](http://arxiv.org/abs/2604.02327v1) | Pretrained Vision Transformers (ViTs) such as DINOv2 and MAE provide generic ima... |\n| [ELT-Bench-Verified: Benchmark Quality Issues Underestimate AI Agent Capabilities ](http://arxiv.org/abs/2603.29399v2) | Constructing Extract-Load-Transform (ELT) pipelines is a labor-intensive data en... |\n| [Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation ](http://arxiv.org/abs/2604.02324v1) | Language models (LMs) are increasingly extended with new learnable vocabulary to... |\n| [Batched Contextual Reinforcement: A Task-Scaling Law for Efficient Reasoning ](http://arxiv.org/abs/2604.02322v1) | Large Language Models employing Chain-of-Thought reasoning achieve strong perfor... |\n| [No Single Best Model for Diversity: Learning a Router for Sample Diversity ](http://arxiv.org/abs/2604.02319v1) | When posed with prompts that permit a large number of valid answers, comprehensi... |\n| [Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models ](http://arxiv.org/abs/2604.02315v1) | Standard LLM benchmarks evaluate the assistant turn: the model generates a respo... |\n| [Intervening to Learn and Compose Causally Disentangled Representations ](http://arxiv.org/abs/2507.04754v2) | In designing generative models, it is commonly believed that in order to learn u... |\n| [Topological Effects in Neural Network Field Theory ](http://arxiv.org/abs/2604.02313v1) | Neural network field theory formulates field theory as a statistical ensemble of... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [google/gemma-4-31B-it ](https://huggingface.co/google/gemma-4-31B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n| [CohereLabs/cohere-transcribe-03-2026 ](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026) | Trending HF Model. Tags: transformers, safetensors, cohere_asr, automatic-speech... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw](https://news.ycombinator.com/item?id=47633396) | HN Score: 411. Comments: 404 |\n| [[HackerNews] Show HN: Travel Hacking Toolkit \u2013 Points search and trip planning with AI](https://github.com/borski/travel-hacking-toolkit) | HN Score: 33. Comments: 10 |\n| [[HackerNews] Run Linux containers on Android, no root required](https://github.com/ExTV/Podroid) | HN Score: 54. Comments: 15 |\n| [[HackerNews] We replaced RAG with a virtual filesystem for our AI documentation assistant](https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant) | HN Score: 248. Comments: 107 |\n| [[HackerNews] Post Mortem: axios NPM supply chain compromise](https://github.com/axios/axios/issues/10636) | HN Score: 210. Comments: 88 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "failed",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "error: (421, b'4.3.0 Temporary System Problem. Try again later. For more information, go to\\n4.3.0  https://support.google.com/a/answer/3221692 a92af1059eb24-12bede7f542sm6152681c88.14 - gsmtp')"
+  }
+}
