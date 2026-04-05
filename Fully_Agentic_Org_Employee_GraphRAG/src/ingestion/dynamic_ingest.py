@@ -111,8 +111,12 @@ def _prepare_node_rows(
     node: NodeMapping,
     df: pd.DataFrame,
 ) -> List[Dict[str, Any]]:
-    """Convert DataFrame rows to dicts using the node's property mappings."""
+    """Convert DataFrame rows to dicts using the node's property mappings.
+    Rows where the primary key is null are skipped (Neo4j rejects null merge keys)."""
+    pk = node.primary_key_property
+    pk_col = node.primary_key_column
     rows = []
+    skipped = 0
     for _, r in df.iterrows():
         row_dict = {}
         for p in node.properties:
@@ -120,7 +124,16 @@ def _prepare_node_rows(
                 row_dict[p.property_name] = _safe(r[p.column_name])
             else:
                 row_dict[p.property_name] = None
+        # Ensure PK is present even if LLM omitted it from properties list
+        if pk not in row_dict and pk_col in df.columns:
+            row_dict[pk] = _safe(r[pk_col])
+        # Skip rows where the primary key is null — Neo4j MERGE requires non-null keys
+        if row_dict.get(pk) is None:
+            skipped += 1
+            continue
         rows.append(row_dict)
+    if skipped:
+        log.warning(f"  ⚠️ Skipped {skipped} rows with null primary key '{pk}'")
     return rows
 
 

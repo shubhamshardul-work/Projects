@@ -225,7 +225,10 @@ with st.sidebar:
             except Exception as e:
                 st.error(f"❌ Error: {str(e)}")
             finally:
-                os.unlink(tmp_path)
+                try:
+                    os.unlink(tmp_path)
+                except PermissionError:
+                    pass  # Windows may still hold a lock on the temp file
 
     st.markdown("---")
 

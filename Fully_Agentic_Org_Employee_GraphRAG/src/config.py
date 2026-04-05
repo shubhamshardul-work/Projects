@@ -17,9 +17,12 @@ GROQ_API_KEY: str = os.getenv("GROQ_API_KEY", "")
 GOOGLE_API_KEY: str = os.getenv("GOOGLE_API_KEY", "")
 OPENAI_API_KEY: str = os.getenv("OPENAI_API_KEY", "")
 
-GROQ_MODEL: str = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
-GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "gemini-2.0-flash")
-OPENAI_MODEL: str = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+# Generic model override — applies to the active provider
+LLM_MODEL: str = os.getenv("LLM_MODEL", "")
+
+GROQ_MODEL: str = os.getenv("GROQ_MODEL", "") or LLM_MODEL or "llama-3.3-70b-versatile"
+GEMINI_MODEL: str = os.getenv("GEMINI_MODEL", "") or LLM_MODEL or "gemini-2.0-flash"
+OPENAI_MODEL: str = os.getenv("OPENAI_MODEL", "") or LLM_MODEL or "gpt-4o-mini"
 
 LLM_TEMPERATURE: float = float(os.getenv("LLM_TEMPERATURE", "0"))
 

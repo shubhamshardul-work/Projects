@@ -18,7 +18,7 @@ from src.utils.logger import log
 
 def _clean_df(df: pd.DataFrame) -> pd.DataFrame:
     """Strip whitespace from string columns, drop fully-empty rows."""
-    df = df.dropna(how="all")
+    df = df.dropna(how="all").copy()
     for col in df.select_dtypes(include=["object"]).columns:
         df[col] = df[col].astype(str).str.strip()
         df[col] = df[col].replace({"None": None, "nan": None, "": None})
