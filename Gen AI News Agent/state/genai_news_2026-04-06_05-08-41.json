@@ -1,0 +1,329 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Can orbital data centers help justify a massive valuation for SpaceX?",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 490192",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 539356",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] prism-ml/Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "summary": "Trending HF Model. Tags: llama.cpp, gguf, 1-bit, llama-cpp, cuda, metal. Downloads: 38631",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "summary": "HN Score: 197. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "HN Score: 95. Comments: 16",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "summary": "HN Score: 708. Comments: 218",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "summary": "HN Score: 37. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Endian wars and anti-portability: this again?",
+      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+      "summary": "HN Score: 35. Comments: 39",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Can orbital data centers help justify a massive valuation for SpaceX?",
+      "url": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
+      "summary": "On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vision for data centers in space.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 490192",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "url": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning. Downloads: 539356",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] prism-ml/Bonsai-8B-gguf",
+      "url": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+      "summary": "Trending HF Model. Tags: llama.cpp, gguf, 1-bit, llama-cpp, cuda, metal. Downloads: 38631",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "summary": "HN Score: 197. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Copilot is 'for entertainment purposes only', per Microsoft's terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "HN Score: 95. Comments: 16",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "summary": "HN Score: 708. Comments: 218",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "summary": "HN Score: 37. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Endian wars and anti-portability: this again?",
+      "url": "https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/",
+      "summary": "HN Score: 35. Comments: 39",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] AI News | U-M Generative AI",
+        "url": "https://genai.umich.edu/news",
+        "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI"
+      },
+      {
+        "title": "[RSS] Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
+        "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+        "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service."
+      },
+      {
+        "title": "[RSS] In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+        "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+        "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
+      },
+      {
+        "title": "[RSS] Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+        "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+        "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools."
+      },
+      {
+        "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+        "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] google/gemma-4-31B-it",
+        "url": "https://huggingface.co/google/gemma-4-31B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 490192"
+      },
+      {
+        "title": "[HackerNews] Show HN: I built a tiny LLM to demystify how language models work",
+        "url": "https://github.com/arman-bd/guppylm",
+        "summary": "HN Score: 197. Comments: 13"
+      },
+      {
+        "title": "[HackerNews] Eight years of wanting, three months of building with AI",
+        "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+        "summary": "HN Score: 708. Comments: 218"
+      },
+      {
+        "title": "[HackerNews] Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+        "url": "https://github.com/kessler/gemma-gem",
+        "summary": "HN Score: 37. Comments: 4"
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014Do. Time Magazine ; March 24, 2026. AI MedTech Match: Uniting clinical and AI"
+    },
+    {
+      "title": "[RSS] Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use",
+      "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+      "summary": "AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019 outputs \u2014 that\u2019s what the AI companies say themselves in their terms of service."
+    },
+    {
+      "title": "[RSS] In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants",
+      "url": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+      "summary": "Driven by labor shortages, Japan is pushing physical AI from pilot projects into real-world deployment."
+    },
+    {
+      "title": "[RSS] Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "summary": "It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic\u2019s coding assistant with OpenClaw and other third-party tools."
+    },
+    {
+      "title": "[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?",
+      "url": "https://www.youtube.com/watch?v=s4tptozUJ8Y",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 490192"
+    },
+    {
+      "title": "[HackerNews] Show HN: I built a tiny LLM to demystify how language models work",
+      "url": "https://github.com/arman-bd/guppylm",
+      "summary": "HN Score: 197. Comments: 13"
+    },
+    {
+      "title": "[HackerNews] Eight years of wanting, three months of building with AI",
+      "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+      "summary": "HN Score: 708. Comments: 218"
+    },
+    {
+      "title": "[HackerNews] Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud",
+      "url": "https://github.com/kessler/gemma-gem",
+      "summary": "HN Score: 37. Comments: 4"
+    }
+  ],
+  "final_report": "# AI's Reality Check: Strategic Disclaimers Meet On-Device Power and Practical Deployment\n\nToday's AI intelligence report highlights a fascinating dichotomy: while major players like Microsoft issue disclaimers about AI's 'entertainment' nature, practical AI deployments are accelerating, from filling labor gaps in Japan to powerful new models running directly in browsers. This tension underscores the evolving landscape where strategic caution meets relentless innovation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[AI Governance & MedTech Integration Signal Strategic Shifts](https://genai.umich.edu/news)**\nThe University of Michigan's AI news highlights critical discussions around how OpenAI governs ChatGPT's capabilities and limitations, alongside the burgeoning \"AI MedTech Match.\" This signals a growing strategic imperative for businesses to not only adopt AI but also deeply understand its ethical frameworks, governance models, and sector-specific applications, particularly in highly regulated fields like healthcare. Leaders must prioritize responsible AI deployment and clear internal policies.\n\n### **[Microsoft's Copilot Disclaimer: A Strategic Warning for Enterprise AI](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)**\nMicrosoft's terms of service for Copilot, labeling it \"for entertainment purposes only,\" serves as a stark reminder of the inherent risks and limitations of current generative AI. For business leaders, this isn't just a legal formality; it's a strategic warning to implement robust human oversight, validate AI outputs rigorously, and manage expectations across the organization to mitigate potential liabilities and reputational damage. The onus remains on the user to ensure accuracy and appropriateness.\n\n### **[Japan's AI Strategy: Robots as Workforce Solutions, Not Replacements](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/)**\nJapan's proactive deployment of physical AI to address severe labor shortages offers a compelling strategic blueprint for other nations facing similar demographic challenges. This shift from experimental pilot projects to real-world integration demonstrates AI's potential to augment human capabilities and fill critical gaps, rather than solely replacing jobs. Businesses should evaluate how physical AI can solve operational bottlenecks and enhance productivity in roles struggling with recruitment.\n\n### **[Anthropic's Pricing Shift: Navigating the Evolving Cost of AI Integration](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/)**\nAnthropic's decision to charge extra for OpenClaw usage with Claude Code signals a maturing AI market where advanced features and third-party tool integrations come at a premium. For businesses leveraging AI, this underscores the importance of scrutinizing pricing models, understanding the total cost of ownership for AI solutions, and strategically planning budgets for evolving feature sets. Vendor lock-in and the cost of specialized capabilities will become increasingly critical considerations.\n\n### **[Government Urgency Around AI: A Looming Regulatory Challenge](https://www.youtube.com/watch?v=s4tptozUJ8Y)**\nThe discussion around two AI models potentially \"stirring government urgency\" highlights the accelerating pace of regulatory scrutiny on AI. Business leaders must anticipate and prepare for increased governmental oversight, data privacy regulations, and ethical guidelines that could impact AI development and deployment. Proactive engagement with policy discussions and robust internal compliance frameworks will be crucial for navigating this evolving landscape.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Google's Gemma-4-31B-it: A New Powerhouse for Conversational AI](https://huggingface.co/google/gemma-4-31B-it)**\nGoogle's release of `gemma-4-31B-it` on Hugging Face is a significant development for practitioners, offering a powerful new image-text-to-text and conversational model under an Apache 2.0 license. Developers should explore this model for applications requiring advanced multimodal understanding and natural dialogue, leveraging its capabilities for enhanced user experiences and more sophisticated AI agents. Its high download count indicates strong community interest and potential for rapid adoption.\n\n### **[Demystifying LLMs: Building a Tiny Model for Deeper Understanding](https://github.com/arman-bd/guppylm)**\nThe \"Show HN\" project `guppylm`, a tiny LLM built to demystify how language models work, is an invaluable resource for developers seeking to understand the foundational mechanics of AI. For engineers looking to move beyond black-box usage, diving into such projects can provide crucial insights into architecture, training, and inference, fostering a deeper understanding that can lead to more innovative and efficient applications. This initiative promotes essential AI literacy within the developer community.\n\n### **[AI as an Accelerator: Rapid Development with Syntaqlite AI](https://lalitm.com/post/building-syntaqlite-ai/)**\nThe Hacker News story \"Eight years of wanting, three months of building with AI\" showcases the transformative power of AI tools in accelerating development cycles. This narrative inspires developers to leverage AI not just as a feature, but as a co-pilot for rapid prototyping, code generation, and problem-solving, dramatically reducing the time from concept to deployment. It highlights AI's potential to empower individual creators and small teams to achieve ambitious projects quickly.\n\n### **[Gemma Gem: On-Device AI for Privacy and Performance](https://github.com/kessler/gemma-gem)**\n\"Gemma Gem,\" an AI model embedded directly in a browser without requiring API keys or cloud access, represents a significant leap towards edge AI and enhanced privacy. Developers should watch this trend closely, as it opens new avenues for building AI applications that are faster, more secure, and less dependent on external services. This approach is ideal for sensitive data processing and scenarios where offline functionality or reduced latency is paramount.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, demanding both strategic caution from business leaders regarding disclaimers and costs, and agile innovation from developers leveraging powerful new on-device and open-source models.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News ; March 26, 2026. How OpenAI Decides What ChatGPT Should\u2014and Shouldn't\u2014D... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Copilot is \u2018for entertainment purposes only,\u2019 according to Microsoft\u2019s terms of use ](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) | AI skeptics aren\u2019t the only ones warning users not to unthinkingly trust models\u2019... |\n| [Can orbital data centers help justify a massive valuation for SpaceX? ](https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/) | On the latest episode of TechCrunch\u2019s Equity podcast, we debated Elon Musk's vis... |\n| [In Japan, the robot isn\u2019t coming for your job; it\u2019s filling the one nobody wants ](https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/) | Driven by labor shortages, Japan is pushing physical AI from pilot projects into... |\n| [Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage ](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) | It\u2019s about to become more expensive for Claude Code subscribers to use Anthropic... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/gemma-4-31B-it ](https://huggingface.co/google/gemma-4-31B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n| [Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled ](https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled) | Trending HF Model. Tags: safetensors, qwen3_5, unsloth, qwen, qwen3.5, reasoning... |\n| [prism-ml/Bonsai-8B-gguf ](https://huggingface.co/prism-ml/Bonsai-8B-gguf) | Trending HF Model. Tags: llama.cpp, gguf, 1-bit, llama-cpp, cuda, metal. Downloa... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Show HN: I built a tiny LLM to demystify how language models work](https://github.com/arman-bd/guppylm) | HN Score: 197. Comments: 13 |\n| [[HackerNews] Copilot is 'for entertainment purposes only', per Microsoft's terms of use](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/) | HN Score: 95. Comments: 16 |\n| [[HackerNews] Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/) | HN Score: 708. Comments: 218 |\n| [[HackerNews] Show HN: Gemma Gem \u2013 AI model embedded in a browser \u2013 no API keys, no cloud](https://github.com/kessler/gemma-gem) | HN Score: 37. Comments: 4 |\n| [[HackerNews] Endian wars and anti-portability: this again?](https://dalmatian.life/2026/04/03/endian-wars-and-anti-portability-this-again/) | HN Score: 35. Comments: 39 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Two AI Models Set to \u201cstir government urgency\u201d, But Will This Challenge Undo Them?](https://www.youtube.com/watch?v=s4tptozUJ8Y) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 11,
+    "sheet_status": "ok_10_subscribers_from_10_rows",
+    "email_status": "sent_to_11"
+  }
+}
