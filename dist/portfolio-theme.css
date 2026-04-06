@@ -449,3 +449,78 @@ footer {
         margin-left: 15px;
     }
 }
+
+/* Redesigned About Me Card */
+.about-card {
+    margin-bottom: 40px;
+    max-width: 800px;
+    padding: 0 !important;
+    /* Override standard glass-panel padding */
+    overflow: hidden;
+    cursor: default;
+}
+
+.about-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 32px;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.02);
+    transition: background 0.3s ease;
+}
+
+.about-header:hover {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.about-title {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: var(--text-main);
+}
+
+.about-title i {
+    font-size: 1.4rem;
+    color: var(--accent-1);
+}
+
+.about-header .toggle-icon {
+    font-size: 1.2rem;
+    color: var(--text-muted);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.about-body {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: grid-template-rows 0.5s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.4s ease;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.about-text {
+    overflow: hidden;
+    padding: 0 32px 32px;
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: var(--text-muted);
+}
+
+/* Open State */
+.about-card.active .about-body {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    pointer-events: all;
+}
+
+.about-card.active .toggle-icon {
+    transform: rotate(180deg);
+}
+
+.about-card.active .about-header {
+    background: rgba(255, 255, 255, 0.04);
+}

@@ -250,13 +250,15 @@ if (subscribeForm) {
     btn.innerText = 'Joining...';
 
     try {
-      const url = 'https://docs.google.com/forms/d/e/1FAIpQLSe4zr6n7rEdPx0mjMaLjf6RNAduE3yRhezOtPLtomrtwnz1fg/formResponse';
+      // ⚠️ REPLACE THIS CONST URL WITH YOUR GOOGLE APPS SCRIPT WEB APP URL!
+      const url = 'https://script.google.com/macros/s/AKfycbx-yFw_egYYYGlv3w5-d3CL2A-ghgyq4zWgiwmMe3uL8rm8zKHp4Pfx_c4nssuyqvqt/exec';
+
       const formData = new URLSearchParams();
-      formData.append('entry.1045781291', email);
+      formData.append('email', email);
 
       await fetch(url, {
         method: 'POST',
-        mode: 'no-cors', // Bypass CORS since Google Forms doesn't return allowed headers
+        mode: 'no-cors', // The App Script Handles the response
         headers: {
           'Content-Type': 'application/x-www-form-urlencoded'
         },

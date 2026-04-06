@@ -306,6 +306,11 @@ a:hover {
     color: var(--success);
 }
 
+/* Global fix for 'hidden' attribute to override display: flex/grid */
+[hidden] {
+    display: none !important;
+}
+
 .status-banner.error {
     background: rgba(248, 113, 113, 0.12);
     border-color: rgba(248, 113, 113, 0.25);
