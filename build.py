@@ -15,10 +15,11 @@ import re
 import shutil
 from pathlib import Path
 
-REPORTS_DIR = Path("Gen AI News Agent/reports")
-GENAI_SRC   = Path("site-src")
+REPORTS_DIR   = Path("Gen AI News Agent/reports")
+GENAI_SRC     = Path("site-src")
 PORTFOLIO_SRC = Path("portfolio-src")
-DIST_DIR    = Path("dist")
+SHOWCASE_SRC  = Path("Fully_Agentic_Org_Employee_GraphRAG/showcase")
+DIST_DIR      = Path("dist")
 
 
 def extract_title(filepath: Path) -> str:
@@ -60,7 +61,15 @@ def build():
     shutil.copytree(GENAI_SRC, genai_out)
     print(f"  ✅ Copied {GENAI_SRC}/ → {genai_out}/")
 
-    # 3. Process GenAI Reports
+    # 3. Copy OrgGraph AI Showcase to dist/OrgGraphAI
+    if SHOWCASE_SRC.exists():
+        showcase_out = DIST_DIR / "OrgGraphAI"
+        shutil.copytree(SHOWCASE_SRC, showcase_out)
+        print(f"  ✅ Copied {SHOWCASE_SRC}/ → {showcase_out}/")
+    else:
+        print(f"  ⚠️  Showcase directory not found at {SHOWCASE_SRC}/")
+
+    # 4. Process GenAI Reports
     reports_out = genai_out / "reports"
     reports_out.mkdir(exist_ok=True)
 

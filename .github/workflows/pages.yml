@@ -9,6 +9,7 @@ on:
       - 'Gen AI News Agent/reports/**'
       - 'site-src/**'
       - 'portfolio-src/**'
+      - 'Fully_Agentic_Org_Employee_GraphRAG/showcase/**'
       - 'build.py'
   workflow_run:
     workflows: ["Generate GenAI News Report"]
