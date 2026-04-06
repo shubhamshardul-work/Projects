@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OrgGraph AI — Fully Agentic GraphRAG Showcase</title>
+  <meta name="description" content="Fully agentic GraphRAG system that auto-discovers graph schemas from any CSV/Excel, builds Neo4j knowledge graphs, and enables natural language queries. Zero hardcoding.">
+  <meta property="og:title" content="OrgGraph AI — Fully Agentic GraphRAG">
+  <meta property="og:description" content="Upload any data → LLM discovers schema → Neo4j graph → Natural language Q&A. Built with Python, LangGraph, Neo4j.">
+  <meta property="og:type" content="website">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Libraries -->
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+  <link rel="stylesheet" href="showcase.css">
+</head>
+<body>
+
+  <!-- Animated Backgrounds -->
+  <div class="bg-grid"></div>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <div class="container">
+
+    <!-- Back Navigation -->
+    <nav class="back-nav anim-in">
+      <a href="../../portfolio-src/index.html" class="back-link">
+        <i class="ph ph-arrow-left"></i> Back to Portfolio
+      </a>
+    </nav>
+
+    <!-- ────────── Hero ────────── -->
+    <section class="hero anim-in">
+      <div class="hero-badge">
+        <span class="badge-pulse"></span>
+        <i class="ph-fill ph-graph"></i>
+        <span>Featured Project</span>
+      </div>
+      <h1><span class="gradient-text">OrgGraph AI</span></h1>
+      <h2 class="subtitle">Fully Agentic Employee Intelligence GraphRAG</h2>
+      <p class="hero-desc">
+        An end-to-end agentic system that ingests <strong>any</strong> organizational Excel/CSV data,
+        auto-discovers the graph schema using LLMs, builds a Neo4j knowledge graph,
+        and powers natural language queries — <em>zero hardcoding</em>.
+      </p>
+      <div class="arch-flow">
+        <div class="arch-pill"><i class="ph ph-file-xls"></i> Upload Data</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-brain"></i> LLM Schema Discovery</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-graph"></i> Neo4j Graph</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-chat-circle-dots"></i> Natural Language Q&A</div>
+      </div>
+      <div class="tech-stack">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">LangChain</span>
+        <span class="tech-tag">LangGraph</span>
+        <span class="tech-tag">Neo4j</span>
+        <span class="tech-tag">OpenAI</span>
+        <span class="tech-tag">Streamlit</span>
+        <span class="tech-tag">Pydantic</span>
+      </div>
+    </section>
+
+    <!-- ────────── Stats ────────── -->
+    <section class="stats-row anim-in">
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-users-three"></i></div>
+        <div class="stat-number" data-target="151">0</div>
+        <div class="stat-label">Employees</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-circles-four"></i></div>
+        <div class="stat-number" data-target="12">0</div>
+        <div class="stat-label">Node Types</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-arrows-left-right"></i></div>
+        <div class="stat-number" data-target="10">0</div>
+        <div class="stat-label">Relationship Types</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-database"></i></div>
+        <div class="stat-number" data-target="2385">0</div>
+        <div class="stat-label">Graph Entries</div>
+      </div>
+    </section>
+
+    <!-- ────────── Knowledge Graph ────────── -->
+    <section class="graph-section anim-in" id="graph-section">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-graph"></i> Live Knowledge Graph</h3>
+        <p class="section-subtitle">Interactive subgraph of 5 real employees from the Neo4j export — departments, offices, skills, projects, certifications, and reporting lines.</p>
+      </div>
+      <div class="graph-wrapper glass-panel">
+        <div class="graph-toolbar">
+          <button class="graph-filter active" data-filter="all"><i class="ph ph-circles-four"></i> All</button>
+          <button class="graph-filter" data-filter="employees"><i class="ph ph-users"></i> People</button>
+          <button class="graph-filter" data-filter="skills"><i class="ph ph-lightbulb"></i> Skills</button>
+          <button class="graph-filter" data-filter="projects"><i class="ph ph-briefcase"></i> Projects</button>
+          <button class="graph-filter" data-filter="certs"><i class="ph ph-certificate"></i> Certs</button>
+          <div class="toolbar-spacer"></div>
+          <button class="graph-action" id="replay-btn" title="Replay animation"><i class="ph ph-play"></i> Replay</button>
+        </div>
+        <div class="graph-body">
+          <div class="graph-canvas-wrap">
+            <div id="graph-canvas"></div>
+            <div id="graph-loader" class="graph-loader">
+              <div class="loader-spinner"></div>
+              <span>Computing layout&hellip;</span>
+            </div>
+          </div>
+          <div id="detail-panel" class="detail-panel">
+            <div class="detail-placeholder" id="detail-placeholder">
+              <i class="ph-duotone ph-cursor-click"></i>
+              <p>Click a node to explore</p>
+            </div>
+            <div class="detail-content" id="detail-content" style="display:none">
+              <button class="detail-close" id="detail-close"><i class="ph ph-x"></i></button>
+              <div id="detail-inner"></div>
+            </div>
+          </div>
+        </div>
+        <div class="graph-footer">
+          <div class="graph-legend">
+            <div class="legend-item"><span class="legend-dot" style="background:#8b5cf6"></span> Employee</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#a78bfa"></span> Manager</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#3b82f6"></span> Department</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#06b6d4"></span> Office</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#10b981"></span> Skill</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#f59e0b"></span> Project</div>
+            <div class="legend-item"><span class="legend-dot" style="background:#ec4899"></span> Certification</div>
+          </div>
+          <div class="graph-note">
+            <i class="ph ph-info"></i> Data extracted from the real Neo4j knowledge graph export &mdash; 43 nodes &middot; 50 relationships
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── Chat Demo ────────── -->
+    <section class="chat-section anim-in">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-chat-circle-dots"></i> AI Chat Demo</h3>
+        <p class="section-subtitle">The agentic system answering natural language queries over the knowledge graph.</p>
+      </div>
+      <div class="chat-container glass-panel">
+        <div class="chat-msg user-msg">
+          <div class="chat-avatar user-avatar"><i class="ph-fill ph-user"></i></div>
+          <div class="chat-bubble user-bubble">
+            Give me list of employees arranged in order of best at top, I want for a Project requiring skills in AI development.
+          </div>
+        </div>
+        <div class="chat-msg bot-msg">
+          <div class="chat-avatar bot-avatar"><i class="ph-fill ph-robot"></i></div>
+          <div class="chat-bubble bot-bubble">
+            <p class="bot-intro">Here&rsquo;s a ranked list of employees best suited for AI development projects, based on graph query results.</p>
+            <div class="table-wrapper">
+              <table class="result-table">
+                <thead>
+                  <tr><th>Rank</th><th>Employee</th><th>Designation</th><th>Score</th><th>Skills</th><th>Project Matches</th></tr>
+                </thead>
+                <tbody>
+                  <tr><td>1</td><td><strong>Vivek Kaur</strong></td><td>Team Lead</td><td class="score">76.5</td><td>Python, Airflow</td><td>MLOps Platform Impl.</td></tr>
+                  <tr><td>2</td><td><strong>Aarti Naik</strong></td><td>Assoc. Director</td><td class="score">51.2</td><td>Python, AWS</td><td>Healthcare Data Lake</td></tr>
+                  <tr><td>3</td><td><strong>Meera Pandey</strong></td><td>Assoc. Director</td><td class="score">47.0</td><td>Deep Learning</td><td>GenAI Virtual Assistant</td></tr>
+                  <tr><td>4</td><td><strong>Kavya Kumar</strong></td><td>Manager</td><td class="score">45.8</td><td>Python</td><td>Fraud Detection System</td></tr>
+                </tbody>
+              </table>
+            </div>
+            <ul class="bot-list">
+              <li><strong>Vivek Kaur</strong> scores highest with Python + Airflow expertise aligned to MLOps.</li>
+              <li><strong>Aarti Naik</strong> brings AWS + Kubernetes for cloud-native AI workloads.</li>
+              <li><strong>Meera Pandey</strong> has the strongest deep learning alignment.</li>
+            </ul>
+            <div class="cypher-expander">
+              <button class="cypher-toggle" onclick="this.parentElement.classList.toggle('open')">
+                <i class="ph ph-code"></i> View Cypher Query
+                <i class="ph ph-caret-down cypher-caret"></i>
+              </button>
+              <div class="cypher-body">
+                <pre><code>MATCH (p:Project)-[rs:REQUIRES_SKILL]-&gt;(s:Skill)
+WHERE toLower(s.skill_name) CONTAINS 'ai'
+   OR toLower(s.skill_name) CONTAINS 'python'
+   OR toLower(s.skill_name) CONTAINS 'deep learning'
+MATCH (e:Employee)-[hs:HAS_SKILL]-&gt;(s)
+WITH p, e, sum(importance * proficiency_weight) AS fit_score,
+     collect(DISTINCT s.skill_name) AS matched_skills
+RETURN e.full_name, e.designation, fit_score, matched_skills
+ORDER BY fit_score DESC LIMIT 25</code></pre>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="chat-input-bar">
+          <div class="chat-input-fake">
+            <i class="ph ph-chat-circle-dots"></i>
+            <span>Ask anything about your organization&hellip;</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── How It Works ────────── -->
+    <section class="how-section anim-in">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-lightning"></i> How It Works</h3>
+      </div>
+      <div class="steps-grid">
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-upload-simple"></i></div>
+          <div class="step-num">01</div>
+          <h4>Upload Any Data</h4>
+          <p>Drop any Excel or CSV — employee records, skills, projects — no predefined schema needed.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-brain"></i></div>
+          <div class="step-num">02</div>
+          <h4>LLM Schema Discovery</h4>
+          <p>The LLM agent profiles your data, detects foreign keys, and infers a full graph schema automatically.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-database"></i></div>
+          <div class="step-num">03</div>
+          <h4>Auto Ingestion</h4>
+          <p>Dynamic Cypher queries generated and executed — nodes, relationships, and constraints on the fly.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-chat-circle-text"></i></div>
+          <div class="step-num">04</div>
+          <h4>Ask Questions</h4>
+          <p>LangGraph agent generates Cypher from natural language and synthesizes human-readable answers.</p>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2026 Shubham Shardul &mdash; OrgGraph AI Project Showcase</p>
+    </footer>
+
+  </div>
+
+  <script src="showcase.js"></script>
+</body>
+</html>
