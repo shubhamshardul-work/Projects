@@ -53,6 +53,38 @@ The system is orchestrated using a modern AI technology stack:
 
 The pipeline automates data from flat-file to conversational AI in four autonomous phases:
 
+```mermaid
+graph TD
+    classDef llm fill:#8b5cf6,stroke:#c4b5fd,stroke-width:2px,color:#fff
+    classDef data fill:#3b82f6,stroke:#93c5fd,stroke-width:2px,color:#fff
+    classDef db fill:#10b981,stroke:#6ee7b7,stroke-width:2px,color:#fff
+    classDef logic fill:#0ea5e9,stroke:#7dd3fc,stroke-width:2px,color:#fff
+    classDef ui fill:#ec4899,stroke:#f9a8d4,stroke-width:2px,color:#fff
+
+    subgraph Data_Ingestion_Pipeline ["Phase 1: Autonomous Schema Discovery & Ingestion"]
+        A["Raw Data (Any Excel/CSV)"]:::data --> B["MetadataProfiler\n(Extracts types, unique counts, FK hints)"]:::logic
+        B -->|Lightweight Profile| C["LLM Schema Agent\n(Acting as Principal Data Architect)"]:::llm
+        C -->|Outputs JSON via Pydantic| D["GraphMappingModel\n(Nodes, Edges, Primary Keys)"]:::data
+        D --> E["Dynamic Ingestion Engine\n(Generates Cypher MERGE/SET scripts)"]:::logic
+    end
+
+    subgraph Knowledge_Base ["Phase 2: Graph Storage"]
+        E -->|Executes Queries| F[("Neo4j Knowledge Graph\n(Nodes & Relationships)")]:::db
+    end
+
+    subgraph Retrieval_Architecture ["Phase 3: Conversational GraphRAG"]
+        F -. "apoc.meta.schema()" .-> G["Dynamic Schema Introspection"]:::logic
+        G --> H["LangGraph Agent\n(System Prompt injected with live schema)"]:::llm
+        H -->|Generates optimized query| F
+        F -->|Returns Graph Data| H
+    end
+
+    subgraph User_Experience ["Phase 4: Frontend Delivery"]
+        H -->|Natural Language Synthesis| I["Streamlit Ops Dashboard"]:::ui
+        F -->|Exports Graph Slice| J["Vis.js + GSAP Cinematic Showcase"]:::ui
+    end
+```
+
 ### Step A: The Metadata Profiler (The "Eyes")
 Before an LLM can understand how to map data, it needs context. Dumping a 50,000-row Excel file into a prompt window is expensive and inefficient.
 
@@ -85,7 +117,20 @@ The LLM instinctively understands what nodes and edges currently exist in Neo4j,
 
 ---
 
-## 4. The Interactive Showcase
+## 4. Crucial Enterprise Details: Privacy & Chaos Handling
+
+When building enterprise tools, "cool AI pipelines" fail if they don't adhere to security standards. Two major design decisions addressed this:
+
+1. **Absolute Data Privacy During Profiling:** 
+   The most common enterprise objection to GenAI is sending PII (Personally Identifiable Information) to OpenAI/Google. In this architecture, **the LLM never sees the raw data.** The `profiler.py` handles the data locally on the secure server. It only extracts structural metadata (e.g., column headers, statistical counts, and datatypes). The LLM is only given the structural outline to generate the schema, ensuring strict data compliance.
+2. **LLM Provider Agnosticism:** 
+   Enterprises get locked into vendor ecosystems. I built an "LLM Factory" pattern into the core architecture. By simply changing an environment variable (`LLM_PROVIDER=gemini` or `openai`), the entire system seamlessly hands off reasoning duties to different models without altering a single LangGraph node.
+3. **Handling Human-Input Chaos:** 
+   Corporate Excel sheets are never clean. The `dynamic_ingest.py` engine features robust pre-ingestion cleaning decorators—handling trailing spaces, inconsistent date formats, and unexpected `NaN` values before they breach the graph database layer.
+
+---
+
+## 5. The Interactive Showcase
 
 To demonstrate the success of this agentic pipeline, I exported a sample of the resulting knowledge graph (handling Employees, Managers, Skills, Projects, and Certifications) and built a rich, cinematic frontend showcase.
 
