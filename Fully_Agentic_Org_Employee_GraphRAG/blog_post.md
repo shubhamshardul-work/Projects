@@ -53,37 +53,7 @@ The system is orchestrated using a modern AI technology stack:
 
 The pipeline automates data from flat-file to conversational AI in four autonomous phases:
 
-```mermaid
-graph TD
-    classDef llm fill:#8b5cf6,stroke:#c4b5fd,stroke-width:2px,color:#fff
-    classDef data fill:#3b82f6,stroke:#93c5fd,stroke-width:2px,color:#fff
-    classDef db fill:#10b981,stroke:#6ee7b7,stroke-width:2px,color:#fff
-    classDef logic fill:#0ea5e9,stroke:#7dd3fc,stroke-width:2px,color:#fff
-    classDef ui fill:#ec4899,stroke:#f9a8d4,stroke-width:2px,color:#fff
-
-    subgraph Data_Ingestion_Pipeline ["Phase 1: Autonomous Schema Discovery & Ingestion"]
-        A["Raw Data (Any Excel/CSV)"]:::data --> B["MetadataProfiler\n(Extracts types, unique counts, FK hints)"]:::logic
-        B -->|Lightweight Profile| C["LLM Schema Agent\n(Acting as Principal Data Architect)"]:::llm
-        C -->|Outputs JSON via Pydantic| D["GraphMappingModel\n(Nodes, Edges, Primary Keys)"]:::data
-        D --> E["Dynamic Ingestion Engine\n(Generates Cypher MERGE/SET scripts)"]:::logic
-    end
-
-    subgraph Knowledge_Base ["Phase 2: Graph Storage"]
-        E -->|Executes Queries| F[("Neo4j Knowledge Graph\n(Nodes & Relationships)")]:::db
-    end
-
-    subgraph Retrieval_Architecture ["Phase 3: Conversational GraphRAG"]
-        F -. "apoc.meta.schema()" .-> G["Dynamic Schema Introspection"]:::logic
-        G --> H["LangGraph Agent\n(System Prompt injected with live schema)"]:::llm
-        H -->|Generates optimized query| F
-        F -->|Returns Graph Data| H
-    end
-
-    subgraph User_Experience ["Phase 4: Frontend Delivery"]
-        H -->|Natural Language Synthesis| I["Streamlit Ops Dashboard"]:::ui
-        F -->|Exports Graph Slice| J["Vis.js + GSAP Cinematic Showcase"]:::ui
-    end
-```
+![Architecture Pipeline](https://mermaid.ink/svg/Z3JhcGggVEQKICAgIGNsYXNzRGVmIGxsbSBmaWxsOiM4YjVjZjYsc3Ryb2tlOiNjNGI1ZmQsc3Ryb2tlLXdpZHRoOjJweCxjb2xvcjojZmZmCiAgICBjbGFzc0RlZiBkYXRhIGZpbGw6IzNiODJmNixzdHJva2U6IzkzYzVmZCxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiNmZmYKICAgIGNsYXNzRGVmIGRiIGZpbGw6IzEwYjk4MSxzdHJva2U6IzZlZTdiNyxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiNmZmYKICAgIGNsYXNzRGVmIGxvZ2ljIGZpbGw6IzBlYTVlOSxzdHJva2U6IzdkZDNmYyxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiNmZmYKICAgIGNsYXNzRGVmIHVpIGZpbGw6I2VjNDg5OSxzdHJva2U6I2Y5YThkNCxzdHJva2Utd2lkdGg6MnB4LGNvbG9yOiNmZmYKCiAgICBzdWJncmFwaCBEYXRhX0luZ2VzdGlvbl9QaXBlbGluZSBbIlBoYXNlIDE6IEF1dG9ub21vdXMgU2NoZW1hIERpc2NvdmVyeSAmIEluZ2VzdGlvbiJdCiAgICAgICAgQVsiUmF3IERhdGEgKEFueSBFeGNlbC9DU1YpIl06OjpkYXRhIC0tPiBCWyJNZXRhZGF0YVByb2ZpbGVyCihFeHRyYWN0cyB0eXBlcywgdW5pcXVlIGNvdW50cywgRksgaGludHMpIl06Ojpsb2dpYwogICAgICAgIEIgLS0-fExpZ2h0d2VpZ2h0IFByb2ZpbGV8IENbIkxMTSBTY2hlbWEgQWdlbnQKKEFjdGluZyBhcyBQcmluY2lwYWwgRGF0YSBBcmNoaXRlY3QpIl06OjpsbG0KICAgICAgICBDIC0tPnxPdXRwdXRzIEpTT04gdmlhIFB5ZGFudGljfCBEWyJHcmFwaE1hcHBpbmdNb2RlbAooTm9kZXMsIEVkZ2VzLCBQcmltYXJ5IEtleXMpIl06OjpkYXRhCiAgICAgICAgRCAtLT4gRVsiRHluYW1pYyBJbmdlc3Rpb24gRW5naW5lCihHZW5lcmF0ZXMgQ3lwaGVyIE1FUkdFL1NFVCBzY3JpcHRzKSJdOjo6bG9naWMKICAgIGVuZAoKICAgIHN1YmdyYXBoIEtub3dsZWRnZV9CYXNlIFsiUGhhc2UgMjogR3JhcGggU3RvcmFnZSJdCiAgICAgICAgRSAtLT58RXhlY3V0ZXMgUXVlcmllc3wgRlsoIk5lbzRqIEtub3dsZWRnZSBHcmFwaAooTm9kZXMgJiBSZWxhdGlvbnNoaXBzKSIpXTo6OmRiCiAgICBlbmQKCiAgICBzdWJncmFwaCBSZXRyaWV2YWxfQXJjaGl0ZWN0dXJlIFsiUGhhc2UgMzogQ29udmVyc2F0aW9uYWwgR3JhcGhSQUciXQogICAgICAgIEYgLS4gImFwb2MubWV0YS5zY2hlbWEoKSIgLi0-IEdbIkR5bmFtaWMgU2NoZW1hIEludHJvc3BlY3Rpb24iXTo6OmxvZ2ljCiAgICAgICAgRyAtLT4gSFsiTGFuZ0dyYXBoIEFnZW50CihTeXN0ZW0gUHJvbXB0IGluamVjdGVkIHdpdGggbGl2ZSBzY2hlbWEpIl06OjpsbG0KICAgICAgICBIIC0tPnxHZW5lcmF0ZXMgb3B0aW1pemVkIHF1ZXJ5fCBGCiAgICAgICAgRiAtLT58UmV0dXJucyBHcmFwaCBEYXRhfCBICiAgICBlbmQKCiAgICBzdWJncmFwaCBVc2VyX0V4cGVyaWVuY2UgWyJQaGFzZSA0OiBGcm9udGVuZCBEZWxpdmVyeSJdCiAgICAgICAgSCAtLT58TmF0dXJhbCBMYW5ndWFnZSBTeW50aGVzaXN8IElbIlN0cmVhbWxpdCBPcHMgRGFzaGJvYXJkIl06Ojp1aQogICAgICAgIEYgLS0-fEV4cG9ydHMgR3JhcGggU2xpY2V8IEpbIlZpcy5qcyArIEdTQVAgQ2luZW1hdGljIFNob3djYXNlIl06Ojp1aQogICAgZW5k)
 
 ### Step A: The Metadata Profiler (The "Eyes")
 Before an LLM can understand how to map data, it needs context. Dumping a 50,000-row Excel file into a prompt window is expensive and inefficient.
