@@ -1,6 +1,6 @@
 # Finding the Needle in the Enterprise Haystack: Building a Fully Agentic Talent Knowledge Graph
 
-Modern enterprises employ tens of thousands of people across global offices. HR data lives in Workday. Project assignments live in Jira. Skills live on LinkedIn profiles. Certifications live in training portals.
+The modern enterprise operates on a crippling paradox: we have more data about our global workforce than ever before, yet finding the perfect person for a critical project remains nearly impossible. Your master HR data sits in Workday, project allocations are locked in Jira, technical proficiencies are scattered across LinkedIn, and vital certifications languish in legacy training portals.
 
 And yet, when a high-priority AI project lands and the delivery lead asks:
 
