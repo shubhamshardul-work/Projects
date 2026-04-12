@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: '30 2 * * *' # Run at 8:00 AM IST (2:30 AM UTC) every day
   workflow_dispatch: # Allow manual triggering from GitHub UI
+  # Re-registered after GitHub abuse flag resolution (Apr 2026)
 
 permissions:
   contents: write # Needed to push new reports to the repo
