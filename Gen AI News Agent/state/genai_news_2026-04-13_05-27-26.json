@@ -1,0 +1,452 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple reportedly testing four designs for upcoming smart glasses",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "url": "http://arxiv.org/abs/2604.09544v1",
+      "summary": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ANTIC: Adaptive Neural Temporal In-situ Compressor",
+      "url": "http://arxiv.org/abs/2604.09543v1",
+      "summary": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
+      "url": "http://arxiv.org/abs/2604.09537v1",
+      "summary": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Many Preferences, Few Policies: Towards Scalable Language Model Personalization",
+      "url": "http://arxiv.org/abs/2604.04144v2",
+      "summary": "The holy grail of LLM personalization is a single LLM for each user, perfectly aligned with that user's preferences. However, maintaining a separate LLM per user is impractical due to constraints on c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution",
+      "url": "http://arxiv.org/abs/2604.07725v2",
+      "summary": "We show that verifier-free evolution is bottlenecked by both diversity and efficiency: without external correction, repeated evolution accelerates collapse toward narrow modes, while the uniform use o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation",
+      "url": "http://arxiv.org/abs/2510.23636v3",
+      "summary": "Flight delay prediction has become a key focus in air traffic management (ATM), as delays reflect inefficiencies in the system. This paper proposes LLM4Delay, a large language model (LLM)-based framew...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
+      "url": "http://arxiv.org/abs/2604.09532v1",
+      "summary": "Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic infor...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+      "url": "http://arxiv.org/abs/2604.09531v1",
+      "summary": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+      "url": "http://arxiv.org/abs/2604.09529v1",
+      "summary": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Envisioning the Future, One Step at a Time",
+      "url": "http://arxiv.org/abs/2604.09527v1",
+      "summary": "Accurately anticipating how complex, diverse scenes will evolve requires models that represent uncertainty, simulate along extended interaction chains, and efficiently explore many plausible futures. ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 28826",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 2242541",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/VoxCPM2",
+      "url": "https://huggingface.co/openbmb/VoxCPM2",
+      "summary": "Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual, voice-cloning. Downloads: 7452",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "summary": "HN Score: 80. Comments: 67",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
+      "summary": "HN Score: 247. Comments: 48",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "summary": "HN Score: 738. Comments: 288",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We have a 99% email reputation, but Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "summary": "HN Score: 207. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "HN Score: 503. Comments: 130",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and AI Breakthroughs that Matter Most: 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple reportedly testing four designs for upcoming smart glasses",
+      "url": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+      "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] From LLMs to hallucinations, here\u2019s a simple guide to common AI terms",
+      "url": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "url": "http://arxiv.org/abs/2604.09544v1",
+      "summary": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ANTIC: Adaptive Neural Temporal In-situ Compressor",
+      "url": "http://arxiv.org/abs/2604.09543v1",
+      "summary": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
+      "url": "http://arxiv.org/abs/2604.09537v1",
+      "summary": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Many Preferences, Few Policies: Towards Scalable Language Model Personalization",
+      "url": "http://arxiv.org/abs/2604.04144v2",
+      "summary": "The holy grail of LLM personalization is a single LLM for each user, perfectly aligned with that user's preferences. However, maintaining a separate LLM per user is impractical due to constraints on c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution",
+      "url": "http://arxiv.org/abs/2604.07725v2",
+      "summary": "We show that verifier-free evolution is bottlenecked by both diversity and efficiency: without external correction, repeated evolution accelerates collapse toward narrow modes, while the uniform use o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation",
+      "url": "http://arxiv.org/abs/2510.23636v3",
+      "summary": "Flight delay prediction has become a key focus in air traffic management (ATM), as delays reflect inefficiencies in the system. This paper proposes LLM4Delay, a large language model (LLM)-based framew...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
+      "url": "http://arxiv.org/abs/2604.09532v1",
+      "summary": "Prompt learning is a parameter-efficient approach for vision-language models, yet its robustness under label noise is less investigated. Visual content contains richer and more reliable semantic infor...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+      "url": "http://arxiv.org/abs/2604.09531v1",
+      "summary": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+      "url": "http://arxiv.org/abs/2604.09529v1",
+      "summary": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Envisioning the Future, One Step at a Time",
+      "url": "http://arxiv.org/abs/2604.09527v1",
+      "summary": "Accurately anticipating how complex, diverse scenes will evolve requires models that represent uncertainty, simulate along extended interaction chains, and efficiently explore many plausible futures. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 28826",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 2242541",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/VoxCPM2",
+      "url": "https://huggingface.co/openbmb/VoxCPM2",
+      "summary": "Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual, voice-cloning. Downloads: 7452",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Apple's accidental moat: How the \"AI Loser\" may end up winning",
+      "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+      "summary": "HN Score: 80. Comments: 67",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I gave every train in New York an instrument",
+      "url": "https://www.trainjazz.com/",
+      "summary": "HN Score: 247. Comments: 48",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+      "url": "https://news.ycombinator.com/item?id=47738883",
+      "summary": "HN Score: 738. Comments: 288",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We have a 99% email reputation, but Gmail disagrees",
+      "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+      "summary": "HN Score: 207. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Exploiting the most prominent AI agent benchmarks",
+      "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+      "summary": "HN Score: 503. Comments: 130",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+        "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+        "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+      },
+      {
+        "title": "[RSS] At the HumanX conference, everyone was talking about Claude",
+        "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+        "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+      },
+      {
+        "title": "[RSS] Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+        "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+        "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+      }
+    ],
+    "technical": [],
+    "research": [
+      {
+        "title": "[ArXiv] Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+        "url": "http://arxiv.org/abs/2604.09544v1",
+        "summary": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can..."
+      },
+      {
+        "title": "[ArXiv] ANTIC: Adaptive Neural Temporal In-situ Compressor",
+        "url": "http://arxiv.org/abs/2604.09543v1",
+        "summary": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-t..."
+      },
+      {
+        "title": "[ArXiv] Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
+        "url": "http://arxiv.org/abs/2604.09537v1",
+        "summary": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi..."
+      },
+      {
+        "title": "[ArXiv] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+        "url": "http://arxiv.org/abs/2604.09531v1",
+        "summary": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov..."
+      },
+      {
+        "title": "[ArXiv] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+        "url": "http://arxiv.org/abs/2604.09529v1",
+        "summary": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model",
+      "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+      "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+    },
+    {
+      "title": "[RSS] At the HumanX conference, everyone was talking about Claude",
+      "url": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+      "summary": "Anthropic was the star of the show at San Francisco's AI-centric conference."
+    },
+    {
+      "title": "[RSS] Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+    },
+    {
+      "title": "[ArXiv] Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism",
+      "url": "http://arxiv.org/abs/2604.09544v1",
+      "summary": "Large language models (LLMs) undergo alignment training to avoid harmful behaviors, yet the resulting safeguards remain brittle: jailbreaks routinely bypass them, and fine-tuning on narrow domains can..."
+    },
+    {
+      "title": "[ArXiv] ANTIC: Adaptive Neural Temporal In-situ Compressor",
+      "url": "http://arxiv.org/abs/2604.09543v1",
+      "summary": "The persistent storage requirements for high-resolution, spatiotemporally evolving fields governed by large-scale and high-dimensional partial differential equations (PDEs) have reached the petabyte-t..."
+    },
+    {
+      "title": "[ArXiv] Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision",
+      "url": "http://arxiv.org/abs/2604.09537v1",
+      "summary": "Evidence-grounded reasoning requires more than attaching retrieved text to a prediction: a model should make decisions that depend on whether the provided evidence supports the target claim. In practi..."
+    },
+    {
+      "title": "[ArXiv] VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+      "url": "http://arxiv.org/abs/2604.09531v1",
+      "summary": "Vision-language models (VLMs) still struggle with visual perception tasks such as spatial understanding and viewpoint recognition. One plausible contributing factor is that natural image datasets prov..."
+    },
+    {
+      "title": "[ArXiv] VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning",
+      "url": "http://arxiv.org/abs/2604.09529v1",
+      "summary": "Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but frequently exhibit hallucinations and incorrect responses with high certainty, which hinders their usage in high-stakes dom..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Anthropic's Ascent and the Quest for Trustworthy Models\n\nToday's intelligence report highlights Anthropic's growing strategic importance in the enterprise sector amidst a complex regulatory landscape, while the research community grapples with fundamental challenges in AI safety and perception. The industry continues to navigate both rapid innovation and the critical need for reliable, ethical AI systems.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)**\nThis surprising development suggests potential government endorsement or at least significant interest in Anthropic's enterprise offerings, particularly within the highly regulated financial sector. Despite a recent Department of Defense declaration labeling Anthropic a \"supply-chain risk,\" this move could open substantial doors for the company, challenging competitors and hinting at internal policy debates regarding AI vendor diversification.\n\n### **[At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/)**\nThe buzz around Anthropic's Claude model at a major AI conference signals strong market momentum and positive sentiment within the developer and practitioner community. Such visibility can translate directly into increased adoption and investor confidence, solidifying Anthropic's position as a leading generative AI player and underscoring the fierce competition for mindshare in this rapidly evolving market.\n\n### **[Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/)**\nThis news underscores the intense scrutiny and personal risks faced by leaders at the forefront of AI development, highlighting the reputational and security challenges that can arise even for industry titans. For business leaders, it emphasizes the ongoing public debate and ethical questions surrounding AI's power and the trustworthiness of its key figures, which can significantly impact public perception and regulatory outlook.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism](http://arxiv.org/abs/2604.09544v1)**\nThis research offers a critical insight into the fundamental mechanisms behind LLM \"jailbreaks,\" suggesting a common underlying vulnerability despite extensive alignment training. Understanding this unified mechanism is paramount for developing more robust and resilient safety measures, moving beyond reactive patching to proactive architectural solutions that address the root causes of harmful content generation.\n\n### **[ANTIC: Adaptive Neural Temporal In-situ Compressor](http://arxiv.org/abs/2604.09543v1)**\nAddressing the massive data storage challenge for high-resolution scientific simulations, this paper proposes an AI-driven compression method that could be transformative for fields like climate modeling or fluid dynamics. For researchers, ANTIC promises to enable the storage and analysis of previously unmanageable petabyte-scale datasets, highlighting the growing intersection of AI with scientific computing infrastructure.\n\n### **[Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision](http://arxiv.org/abs/2604.09537v1)**\nThis research tackles the crucial problem of AI models making decisions *based on* evidence, rather than merely *with* evidence, by proposing a framework for better training data. This advancement is vital for developing more reliable and explainable AI systems, particularly in domains requiring high factual accuracy like legal or medical applications, moving beyond simple retrieval-augmented generation towards true evidence-based reasoning.\n\n### **[VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images](http://arxiv.org/abs/2604.09531v1)**\nExploring the use of synthetic data to enhance Vision-Language Models' (VLMs) understanding of visual perception, such as spatial reasoning, this work offers a promising path to overcome limitations of natural image datasets. This approach could lead to VLMs with a more nuanced and robust grasp of the visual world, accelerating progress in robotics, autonomous systems, and advanced image analysis.\n\n### **[VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning](http://arxiv.org/abs/2604.09529v1)**\nThis paper addresses the significant issue of VLMs exhibiting high confidence in incorrect responses, a major hurdle for their deployment in critical applications. By proposing a decoupled calibration method, researchers aim to make VLMs more trustworthy by accurately reflecting their uncertainty, which is essential for building reliable multimodal AI systems where miscalibration can have severe consequences.\n\n---\n**Today's Signal:** Anthropic is rapidly gaining strategic traction in key enterprise sectors, while the broader AI community intensifies its focus on fundamental research to ensure the safety, reliability, and perceptual capabilities of next-generation models.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News and AI Breakthroughs that Matter Most: 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an ap... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Trump officials may be encouraging banks to test Anthropic\u2019s Mythos model ](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/) | The report is particularly surprising since the Department of Defense recently d... |\n| [Apple reportedly testing four designs for upcoming smart glasses ](https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/) | These glasses are a step back from an ambitious plan that once called for Apple ... |\n| [From LLMs to hallucinations, here\u2019s a simple guide to common AI terms ](https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) | The rise of AI has brought an avalanche of new terms and slang. Here is a glossa... |\n| [[RSS] At the HumanX conference, everyone was talking about Claude](https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/) | Anthropic was the star of the show at San Francisco's AI-centric conference.  |\n| [Sam Altman responds to \u2018incendiary\u2019 New Yorker article after attack on his home ](https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/) | The OpenAI CEO's new blog post responds to both an apparent attack on his home a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism ](http://arxiv.org/abs/2604.09544v1) | Large language models (LLMs) undergo alignment training to avoid harmful behavio... |\n| [ANTIC: Adaptive Neural Temporal In-situ Compressor ](http://arxiv.org/abs/2604.09543v1) | The persistent storage requirements for high-resolution, spatiotemporally evolvi... |\n| [Case-Grounded Evidence Verification: A Framework for Constructing Evidence-Sensitive Supervision ](http://arxiv.org/abs/2604.09537v1) | Evidence-grounded reasoning requires more than attaching retrieved text to a pre... |\n| [Many Preferences, Few Policies: Towards Scalable Language Model Personalization ](http://arxiv.org/abs/2604.04144v2) | The holy grail of LLM personalization is a single LLM for each user, perfectly a... |\n| [Squeeze Evolve: Unified Multi-Model Orchestration for Verifier-Free Evolution ](http://arxiv.org/abs/2604.07725v2) | We show that verifier-free evolution is bottlenecked by both diversity and effic... |\n| [LLM4Delay: Flight Delay Prediction via Cross-Modality Adaptation of Large Language Models and Aircraft Trajectory Representation ](http://arxiv.org/abs/2510.23636v3) | Flight delay prediction has become a key focus in air traffic management (ATM), ... |\n| [Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise ](http://arxiv.org/abs/2604.09532v1) | Prompt learning is a parameter-efficient approach for vision-language models, ye... |\n| [VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images ](http://arxiv.org/abs/2604.09531v1) | Vision-language models (VLMs) still struggle with visual perception tasks such a... |\n| [VL-Calibration: Decoupled Confidence Calibration for Large Vision-Language Models Reasoning ](http://arxiv.org/abs/2604.09529v1) | Large Vision Language Models (LVLMs) achieve strong multimodal reasoning but fre... |\n| [Envisioning the Future, One Step at a Time ](http://arxiv.org/abs/2604.09527v1) | Accurately anticipating how complex, diverse scenes will evolve requires models ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [zai-org/GLM-5.1 ](https://huggingface.co/zai-org/GLM-5.1) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [google/gemma-4-31B-it ](https://huggingface.co/google/gemma-4-31B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n| [openbmb/VoxCPM2 ](https://huggingface.co/openbmb/VoxCPM2) | Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Apple's accidental moat: How the \"AI Loser\" may end up winning](https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end) | HN Score: 80. Comments: 67 |\n| [[HackerNews] I gave every train in New York an instrument](https://www.trainjazz.com/) | HN Score: 247. Comments: 48 |\n| [[HackerNews] Tell HN: Docker pull fails in Spain due to football Cloudflare block](https://news.ycombinator.com/item?id=47738883) | HN Score: 738. Comments: 288 |\n| [[HackerNews] We have a 99% email reputation, but Gmail disagrees](https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/) | HN Score: 207. Comments: 193 |\n| [[HackerNews] Exploiting the most prominent AI agent benchmarks](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/) | HN Score: 503. Comments: 130 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Claude Mythos: Highlights from 244-page Release](https://www.youtube.com/watch?v=txx6ec6MLNY) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
