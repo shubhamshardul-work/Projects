@@ -1,0 +1,451 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "summary": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+      "url": "http://arxiv.org/abs/2604.11807v1",
+      "summary": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Detecting Safety Violations Across Many Agent Traces",
+      "url": "http://arxiv.org/abs/2604.11806v1",
+      "summary": "To identify safety violations, auditors often search over large sets of agent traces. This search is difficult because failures are often rare, complex, and sometimes even adversarially hidden and onl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "url": "http://arxiv.org/abs/2604.11805v1",
+      "summary": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Saar-Voice: A Multi-Speaker Saarbr\u00fccken Dialect Speech Corpus",
+      "url": "http://arxiv.org/abs/2604.11803v1",
+      "summary": "Natural language processing (NLP) and speech technologies have made significant progress in recent years; however, they remain largely focused on standardized language varieties. Dialects, despite the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
+      "url": "http://arxiv.org/abs/2604.11802v1",
+      "summary": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consisten...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "http://arxiv.org/abs/2604.11801v1",
+      "summary": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
+      "url": "http://arxiv.org/abs/2604.11798v1",
+      "summary": "Accurate delineation of the Clinical Target Volume (CTV) is essential for radiotherapy planning, yet remains time-consuming and difficult to assess, especially for complex treatments such as Total Mar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "summary": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Mechanistic Analysis of Looped Reasoning Language Models",
+      "url": "http://arxiv.org/abs/2604.11791v1",
+      "summary": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "summary": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adver...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 35906",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/VoxCPM2",
+      "url": "https://huggingface.co/openbmb/VoxCPM2",
+      "summary": "Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual, voice-cloning. Downloads: 9301",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 2439350",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The AI revolution in math has arrived",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "summary": "HN Score: 64. Comments: 31",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Air Powered Segment Display? [video]",
+      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "summary": "HN Score: 74. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+      "url": "https://amd-gaia.ai/docs",
+      "summary": "HN Score: 113. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+      "url": "https://ndaybench.winfunc.com",
+      "summary": "HN Score: 50. Comments: 12",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Stanford report highlights growing disconnect between AI insiders and everyone else",
+      "url": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+      "summary": "Stanford\u2019s latest AI Index shows a widening gap between experts and the public, with rising anxiety over jobs, healthcare, and the economy.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+      "url": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+      "summary": "While many startups founded prior to the emergence of ChatGPT are struggling to position themselves for the AI era, Vercel, a 10-year-old dev tool and website hosting platform, is benefiting from the explosion of AI-generated apps and agents.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems",
+      "url": "http://arxiv.org/abs/2604.11807v1",
+      "summary": "The stable operation of autonomous off-grid photovoltaic systems dictates reliance on solar forecasting algorithms that respect atmospheric thermodynamics. Contemporary deep learning models consistent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Detecting Safety Violations Across Many Agent Traces",
+      "url": "http://arxiv.org/abs/2604.11806v1",
+      "summary": "To identify safety violations, auditors often search over large sets of agent traces. This search is difficult because failures are often rare, complex, and sometimes even adversarially hidden and onl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "url": "http://arxiv.org/abs/2604.11805v1",
+      "summary": "We have witnessed remarkable advances in LLM reasoning capabilities with the advent of DeepSeek-R1. However, much of this progress has been fueled by the abundance of internet question-answer (QA) pai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Saar-Voice: A Multi-Speaker Saarbr\u00fccken Dialect Speech Corpus",
+      "url": "http://arxiv.org/abs/2604.11803v1",
+      "summary": "Natural language processing (NLP) and speech technologies have made significant progress in recent years; however, they remain largely focused on standardized language varieties. Dialects, despite the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs?",
+      "url": "http://arxiv.org/abs/2604.11802v1",
+      "summary": "Using psychological constructs such as the Big Five, large language models (LLMs) can imitate specific personality profiles and predict a user's personality. While LLMs can exhibit behaviors consisten...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation",
+      "url": "http://arxiv.org/abs/2604.11801v1",
+      "summary": "With the recent progress of Large Language Models (LLMs), there is a growing interest in applying these models to solve complex and challenging problems. Modern LLMs, capable of processing long contex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
+      "url": "http://arxiv.org/abs/2604.11798v1",
+      "summary": "Accurate delineation of the Clinical Target Volume (CTV) is essential for radiotherapy planning, yet remains time-consuming and difficult to assess, especially for complex treatments such as Total Mar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts",
+      "url": "http://arxiv.org/abs/2604.11796v1",
+      "summary": "Recently, large language models (LLMs) are capable of generating highly fluent textual content. While they offer significant convenience to humans, they also introduce various risks, like phishing and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Mechanistic Analysis of Looped Reasoning Language Models",
+      "url": "http://arxiv.org/abs/2604.11791v1",
+      "summary": "Reasoning has become a central capability in large language models. Recent research has shown that reasoning performance can be improved by looping an LLM's layers in the latent dimension, resulting i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection",
+      "url": "http://arxiv.org/abs/2604.11790v1",
+      "summary": "Tool-augmented Large Language Model (LLM) agents have demonstrated impressive capabilities in automating complex, multi-step real-world tasks, yet remain vulnerable to indirect prompt injection. Adver...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 35906",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/VoxCPM2",
+      "url": "https://huggingface.co/openbmb/VoxCPM2",
+      "summary": "Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual, voice-cloning. Downloads: 9301",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-31B-it",
+      "url": "https://huggingface.co/google/gemma-4-31B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, conversational, license:apache-2.0. Downloads: 2439350",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The AI revolution in math has arrived",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "summary": "HN Score: 64. Comments: 31",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Air Powered Segment Display? [video]",
+      "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+      "summary": "HN Score: 74. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+      "url": "https://amd-gaia.ai/docs",
+      "summary": "HN Score: 113. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+      "url": "https://ndaybench.winfunc.com",
+      "summary": "HN Score: 50. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+        "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+        "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor"
+      },
+      {
+        "title": "[RSS] Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+        "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+        "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+      },
+      {
+        "title": "[RSS] OpenAI has bought AI personal finance startup Hiro",
+        "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+        "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+      },
+      {
+        "title": "[RSS] Microsoft is working on yet another OpenClaw-like agent",
+        "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+        "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+      },
+      {
+        "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+        "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+        "url": "https://www.artificialintelligence-news.com/",
+        "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI"
+      },
+      {
+        "title": "[HackerNews] GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+        "url": "https://amd-gaia.ai/docs",
+        "summary": "HN Score: 113. Comments: 27"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HackerNews] The AI revolution in math has arrived",
+        "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+        "summary": "HN Score: 64. Comments: 31"
+      },
+      {
+        "title": "[HackerNews] N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+        "url": "https://ndaybench.winfunc.com",
+        "summary": "HN Score: 50. Comments: 12"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor"
+    },
+    {
+      "title": "[RSS] Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "summary": "Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprises to build, deploy, and scale AI agents for real-world tasks with speed and security."
+    },
+    {
+      "title": "[RSS] OpenAI has bought AI personal finance startup Hiro",
+      "url": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
+      "summary": "The acquisition indicates a capability that OpenAI is building into ChatGPT: financial planning."
+    },
+    {
+      "title": "[RSS] Microsoft is working on yet another OpenClaw-like agent",
+      "url": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+      "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+    },
+    {
+      "title": "[YouTube AI] Claude Mythos: Highlights from 244-page Release",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 AI ... On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI"
+    },
+    {
+      "title": "[HackerNews] GAIA \u2013 Open-source framework for building AI agents that run on local hardware",
+      "url": "https://amd-gaia.ai/docs",
+      "summary": "HN Score: 113. Comments: 27"
+    },
+    {
+      "title": "[HackerNews] The AI revolution in math has arrived",
+      "url": "https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/",
+      "summary": "HN Score: 64. Comments: 31"
+    },
+    {
+      "title": "[HackerNews] N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?",
+      "url": "https://ndaybench.winfunc.com",
+      "summary": "HN Score: 50. Comments: 12"
+    }
+  ],
+  "final_report": "# AI's Rapid Ascent: New Models, Strategic Acquisitions, and Agentic Futures\n\nToday's AI landscape is marked by an unprecedented surge in foundational model releases and strategic plays by tech giants, signaling a rapid maturation of AI capabilities and their integration into core business functions. From advanced agentic workflows to specialized financial AI, the industry is accelerating towards more intelligent and autonomous systems.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Major Players Unleash Next-Gen AI Models & Features](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8)**\nThe past 24 hours have seen a flurry of significant releases, including OpenAI's GPT-5.2, Runway's Gen 4.5, Google's Gemini 3 Deep Think, and new AI integrations in Amazon Kindle and Cursor. This rapid pace of innovation from leading AI developers underscores an intensely competitive market, forcing businesses to constantly re-evaluate their technology stacks and strategic roadmaps to leverage these cutting-edge capabilities. The sheer volume of advancements signals a new era of AI-powered product development and user experience.\n\n### **[Cloudflare and OpenAI Partner to Power Enterprise Agentic Workflows](https://openai.com/index/cloudflare-openai-agent-cloud)**\nCloudflare is integrating OpenAI\u2019s GPT-5.4 and Codex into its Agent Cloud, providing enterprises with a secure and scalable platform to build, deploy, and manage AI agents for real-world tasks. This collaboration is a significant leap for enterprise AI adoption, addressing critical concerns around security, performance, and ease of deployment for complex, automated workflows. Business leaders should view this as a key enabler for operational efficiency and competitive advantage through intelligent automation.\n\n### **[OpenAI Acquires AI Personal Finance Startup Hiro](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)**\nOpenAI's acquisition of Hiro, an AI personal finance startup, clearly signals its strategic intent to embed sophisticated financial planning capabilities directly into ChatGPT. This move positions OpenAI to disrupt traditional financial services by offering accessible, AI-driven financial advice, creating both partnership opportunities and competitive pressures for existing fintech companies and financial institutions. It highlights the growing trend of general-purpose AI models specializing in high-value, domain-specific applications.\n\n### **[Microsoft Develops New Enterprise-Grade OpenClaw-like Agent](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/)**\nMicrosoft is reportedly developing a new AI agent, similar to the open-source OpenClaw, but with enhanced security controls specifically for enterprise customers. This initiative underscores the critical need for robust, secure, and compliant AI solutions in corporate environments, addressing the inherent risks associated with less controlled open-source alternatives. For businesses, this offers a more trustworthy pathway to integrating powerful AI agents into their operations, mitigating potential security vulnerabilities and data privacy concerns.\n\n### **[Claude Mythos: Highlights from 244-page Release](https://www.youtube.com/watch?v=txx6ec6MLNY)**\nWhile specific details are pending, the release of a 244-page document on \"Claude Mythos\" from Anthropic suggests a substantial update or deep dive into their foundational AI model. Such a comprehensive release typically indicates significant advancements in architecture, capabilities, or safety protocols, which could redefine benchmarks in the LLM space. Business leaders should monitor this closely for potential shifts in the competitive landscape and new opportunities for leveraging advanced conversational AI.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[IBM Research Unveils Breakthrough Analog AI Chip for Efficient Deep Learning](https://www.artificialintelligence-news.com/)**\nIBM Research has announced a groundbreaking analog AI chip designed for highly efficient deep learning, promising significant advancements in computational power and energy consumption. Developers should closely monitor this hardware innovation, as it could pave the way for more powerful, sustainable, and cost-effective deployment of complex AI models, particularly for edge computing and resource-constrained environments. This technology has the potential to redefine the performance ceiling for AI applications.\n\n### **[GAIA \u2013 Open-source framework for building AI agents that run on local hardware](https://amd-gaia.ai/docs)**\nGAIA emerges as a compelling open-source framework enabling developers to build and deploy AI agents directly on local hardware, offering a powerful alternative to cloud-dependent solutions. This framework is ideal for practitioners focused on privacy-sensitive applications, offline capabilities, or those seeking to minimize operational costs and latency by keeping AI processing on-device. GAIA empowers developers with greater control and flexibility in designing and implementing autonomous AI systems.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/)**\nThis Quanta Magazine article highlights the transformative impact AI is having on mathematical research, from assisting in the discovery of new theorems to generating novel conjectures. Researchers should explore how AI tools can augment their analytical and problem-solving capabilities, potentially accelerating breakthroughs in theoretical mathematics and opening entirely new avenues for scientific inquiry. The synergy between human intuition and AI computation is poised to redefine the pace of mathematical discovery.\n\n### **[N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com)**\nN-Day-Bench introduces a critical benchmark for evaluating the efficacy of Large Language Models (LLMs) in identifying genuine vulnerabilities within real-world codebases. This research is vital for cybersecurity and AI safety, pushing the boundaries of what LLMs can achieve in code analysis and security auditing. Academics and deep-tech thinkers should delve into this work to understand the current limitations and future potential of AI in automated vulnerability detection, fostering the development of more robust and reliable security tools.\n\n**Today's Signal:** The AI industry is rapidly maturing, with major players pushing the boundaries of foundational models and strategically acquiring specialized capabilities, while the research community explores AI's profound impact on fundamental sciences and critical security applications.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [AI News | Latest News | Insights Powering AI-Driven Business Growth ](https://www.artificialintelligence-news.com/) | IBM Research unveils breakthrough analog AI chip for efficient deep learning \u00b7 A... |\n| [Here is a comprehensive summary of the most recent AI ... - Medium ](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8) | OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Dee... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI ](https://openai.com/index/cloudflare-openai-agent-cloud) | Cloudflare brings OpenAI\u2019s GPT-5.4 and Codex to Agent Cloud, enabling enterprise... |\n| [OpenAI has bought AI personal finance startup Hiro ](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/) | The acquisition indicates a capability that OpenAI is building into ChatGPT: fin... |\n| [Microsoft is working on yet another OpenClaw-like agent ](https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/) | The new features would be geared toward enterprise customers, with better securi... |\n| [Stanford report highlights growing disconnect between AI insiders and everyone else ](https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/) | Stanford\u2019s latest AI Index shows a widening gap between experts and the public, ... |\n| [Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge ](https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/) | While many startups founded prior to the emergence of ChatGPT are struggling to ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Physics-Informed State Space Models for Reliable Solar Irradiance Forecasting in Off-Grid Systems ](http://arxiv.org/abs/2604.11807v1) | The stable operation of autonomous off-grid photovoltaic systems dictates relian... |\n| [Detecting Safety Violations Across Many Agent Traces ](http://arxiv.org/abs/2604.11806v1) | To identify safety violations, auditors often search over large sets of agent tr... |\n| [Solving Physics Olympiad via Reinforcement Learning on Physics Simulators ](http://arxiv.org/abs/2604.11805v1) | We have witnessed remarkable advances in LLM reasoning capabilities with the adv... |\n| [Saar-Voice: A Multi-Speaker Saarbr\u00fccken Dialect Speech Corpus ](http://arxiv.org/abs/2604.11803v1) | Natural language processing (NLP) and speech technologies have made significant ... |\n| [Psychological Concept Neurons: Can Neural Control Bias Probing and Shift Generation in LLMs? ](http://arxiv.org/abs/2604.11802v1) | Using psychological constructs such as the Big Five, large language models (LLMs... |\n| [CLSGen: A Dual-Head Fine-Tuning Framework for Joint Probabilistic Classification and Verbalized Explanation ](http://arxiv.org/abs/2604.11801v1) | With the recent progress of Large Language Models (LLMs), there is a growing int... |\n| [Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net ](http://arxiv.org/abs/2604.11798v1) | Accurate delineation of the Clinical Target Volume (CTV) is essential for radiot... |\n| [C-ReD: A Comprehensive Chinese Benchmark for AI-Generated Text Detection Derived from Real-World Prompts ](http://arxiv.org/abs/2604.11796v1) | Recently, large language models (LLMs) are capable of generating highly fluent t... |\n| [A Mechanistic Analysis of Looped Reasoning Language Models ](http://arxiv.org/abs/2604.11791v1) | Reasoning has become a central capability in large language models. Recent resea... |\n| [ClawGuard: A Runtime Security Framework for Tool-Augmented LLM Agents Against Indirect Prompt Injection ](http://arxiv.org/abs/2604.11790v1) | Tool-augmented Large Language Model (LLM) agents have demonstrated impressive ca... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [zai-org/GLM-5.1 ](https://huggingface.co/zai-org/GLM-5.1) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [openbmb/VoxCPM2 ](https://huggingface.co/openbmb/VoxCPM2) | Trending HF Model. Tags: voxcpm, safetensors, text-to-speech, tts, multilingual,... |\n| [google/gemma-4-31B-it ](https://huggingface.co/google/gemma-4-31B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The AI revolution in math has arrived](https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/) | HN Score: 64. Comments: 31 |\n| [[HackerNews] Air Powered Segment Display? [video]](https://www.youtube.com/watch?v=E1BLGpE5zH0) | HN Score: 74. Comments: 9 |\n| [[HackerNews] GAIA \u2013 Open-source framework for building AI agents that run on local hardware](https://amd-gaia.ai/docs) | HN Score: 113. Comments: 27 |\n| [[HackerNews] N-Day-Bench \u2013 Can LLMs find real vulnerabilities in real codebases?](https://ndaybench.winfunc.com) | HN Score: 50. Comments: 12 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Claude Mythos: Highlights from 244-page Release](https://www.youtube.com/watch?v=txx6ec6MLNY) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
