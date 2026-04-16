@@ -1,0 +1,479 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "url": "http://arxiv.org/abs/2604.14144v1",
+      "summary": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+      "url": "http://arxiv.org/abs/2604.14142v1",
+      "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+      "url": "http://arxiv.org/abs/2604.14140v1",
+      "summary": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
+      "url": "http://arxiv.org/abs/2604.14137v1",
+      "summary": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Structural Abstraction and Tractability Limits",
+      "url": "http://arxiv.org/abs/2604.07349v4",
+      "summary": "Any rigorously specified problem determines an admissible-output relation $R$, and the only state distinctions that matter are the classes $s \\sim_R s' \\iff \\mathrm{Adm}_R(s)=\\mathrm{Adm}_R(s')$. Ever...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rhetorical Questions in LLM Representations: A Linear Probing Study",
+      "url": "http://arxiv.org/abs/2604.14128v1",
+      "summary": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM rep...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "url": "http://arxiv.org/abs/2604.14125v1",
+      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+      "url": "http://arxiv.org/abs/2604.13016v2",
+      "summary": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+      "url": "http://arxiv.org/abs/2604.14121v1",
+      "summary": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural appr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Strategic Response of News Publishers to Generative AI",
+      "url": "http://arxiv.org/abs/2512.24968v4",
+      "summary": "Generative AI can adversely impact news publishers by lowering consumer demand. It can also reduce demand for newsroom employees, and increase the creation of news \"slop.\" However, it can also form a ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 85549",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 818",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 91474",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "HN Score: 18. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "summary": "HN Score: 150. Comments: 110",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "summary": "HN Score: 113. Comments: 86",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "url": "http://arxiv.org/abs/2604.14144v1",
+      "summary": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+      "url": "http://arxiv.org/abs/2604.14142v1",
+      "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+      "url": "http://arxiv.org/abs/2604.14140v1",
+      "summary": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs",
+      "url": "http://arxiv.org/abs/2604.14137v1",
+      "summary": "Evaluating LLMs is challenging, as benchmark scores often fail to capture models' real-world usefulness. Instead, users often rely on ``vibe-testing'': informal experience-based evaluation, such as co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Structural Abstraction and Tractability Limits",
+      "url": "http://arxiv.org/abs/2604.07349v4",
+      "summary": "Any rigorously specified problem determines an admissible-output relation $R$, and the only state distinctions that matter are the classes $s \\sim_R s' \\iff \\mathrm{Adm}_R(s)=\\mathrm{Adm}_R(s')$. Ever...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rhetorical Questions in LLM Representations: A Linear Probing Study",
+      "url": "http://arxiv.org/abs/2604.14128v1",
+      "summary": "Rhetorical questions are asked not to seek information but to persuade or signal stance. How large language models internally represent them remains unclear. We analyze rhetorical questions in LLM rep...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "url": "http://arxiv.org/abs/2604.14125v1",
+      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
+      "url": "http://arxiv.org/abs/2604.13016v2",
+      "summary": "On-policy distillation (OPD) has become a core technique in the post-training of large language models, yet its training dynamics remain poorly understood. This paper provides a systematic investigati...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+      "url": "http://arxiv.org/abs/2604.14121v1",
+      "summary": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural appr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Strategic Response of News Publishers to Generative AI",
+      "url": "http://arxiv.org/abs/2512.24968v4",
+      "summary": "Generative AI can adversely impact news publishers by lowering consumer demand. It can also reduce demand for newsroom employees, and increase the creation of news \"slop.\" However, it can also form a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 85549",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 818",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.1",
+      "url": "https://huggingface.co/zai-org/GLM-5.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 91474",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
+      "url": "https://daedal.io/@thomzane/116410863009847575",
+      "summary": "HN Score: 18. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "summary": "HN Score: 150. Comments: 110",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "summary": "HN Score: 113. Comments: 86",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=txx6ec6MLNY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+        "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+        "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
+      },
+      {
+        "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+        "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+        "summary": "HN Score: 113. Comments: 86"
+      },
+      {
+        "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+        "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+        "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+      },
+      {
+        "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+        "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+        "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+      },
+      {
+        "title": "LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+        "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+        "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown."
+      }
+    ],
+    "technical": [
+      {
+        "title": "The next evolution of the Agents SDK",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+        "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+      },
+      {
+        "title": "ChatGPT for Excel",
+        "url": "https://chatgpt.com/apps/spreadsheets/",
+        "summary": "HN Score: 150. Comments: 110"
+      },
+      {
+        "title": "AI News | U-M Generative AI",
+        "url": "https://genai.umich.edu/news",
+        "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026."
+      }
+    ],
+    "research": [
+      {
+        "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+        "url": "http://arxiv.org/abs/2604.14144v1",
+        "summary": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol..."
+      },
+      {
+        "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+        "url": "http://arxiv.org/abs/2604.14142v1",
+        "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m..."
+      },
+      {
+        "title": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+        "url": "http://arxiv.org/abs/2604.14140v1",
+        "summary": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ..."
+      },
+      {
+        "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+        "url": "http://arxiv.org/abs/2604.14125v1",
+        "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities ..."
+      },
+      {
+        "title": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+        "url": "http://arxiv.org/abs/2604.14121v1",
+        "summary": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural appr..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+      "url": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+      "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity."
+    },
+    {
+      "title": "US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]",
+      "url": "https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf",
+      "summary": "HN Score: 113. Comments: 86"
+    },
+    {
+      "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+      "url": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+      "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers."
+    },
+    {
+      "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+      "url": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+      "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+    },
+    {
+      "title": "LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet",
+      "url": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+      "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 not AI \u2014 for the slowdown."
+    },
+    {
+      "title": "The next evolution of the Agents SDK",
+      "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+      "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+    },
+    {
+      "title": "ChatGPT for Excel",
+      "url": "https://chatgpt.com/apps/spreadsheets/",
+      "summary": "HN Score: 150. Comments: 110"
+    },
+    {
+      "title": "AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an app to argue with them. The Washington Post. March 26, 2026."
+    },
+    {
+      "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "url": "http://arxiv.org/abs/2604.14144v1",
+      "summary": "Spatial reasoning over three-dimensional scenes is a core capability for embodied intelligence, yet continuous model improvement remains bottlenecked by the cost of geometric annotation. The self-evol..."
+    },
+    {
+      "title": "From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space",
+      "url": "http://arxiv.org/abs/2604.14142v1",
+      "summary": "While reinforcement learning with verifiable rewards (RLVR) significantly enhances LLM reasoning by optimizing the conditional distribution P(y|x), its potential is fundamentally bounded by the base m..."
+    },
+    {
+      "title": "LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning",
+      "url": "http://arxiv.org/abs/2604.14140v1",
+      "summary": "As language models are increasingly deployed for complex autonomous tasks, their ability to reason accurately over longer horizons becomes critical. An essential component of this ability is planning ..."
+    },
+    {
+      "title": "HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System",
+      "url": "http://arxiv.org/abs/2604.14125v1",
+      "summary": "While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm for robotic manipulation, fine-tuning them on narrow control data often compromises the profound reasoning capabilities ..."
+    },
+    {
+      "title": "Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis",
+      "url": "http://arxiv.org/abs/2604.14121v1",
+      "summary": "LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical errors, hallucinations, etc.) and *Step-wise Flaws* (overthinking, underthinking), which vary by sample. A natural appr..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Agents Evolve, Legal Lines Blur, and Reasoning Deepens\n\nToday's AI landscape is marked by significant advancements in agentic AI capabilities, alongside crucial legal and ethical considerations emerging from their use. We're seeing both rapid enterprise adoption and foundational research pushing the boundaries of AI reasoning and embodied intelligence.\n\n---\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI updates its Agents SDK to help enterprises build safer, more capable agents](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)**\nOpenAI's enhanced Agents SDK signals a maturing ecosystem for enterprise AI deployment, emphasizing safety and advanced capabilities. This update is critical for businesses looking to leverage autonomous agents for complex tasks, offering a strategic advantage to early adopters who can build robust, secure, and scalable AI solutions. The focus on \"safer, more capable\" agents directly addresses key concerns around reliability and governance in corporate environments.\n\n### **[US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf)**\nThis landmark legal ruling from the Southern District of New York establishes a critical precedent: communications with AI tools may not be protected by attorney-client privilege. For businesses, this necessitates an immediate re-evaluation of data governance policies, legal workflows, and the secure use of AI in sensitive contexts. It underscores the urgent need for clear internal guidelines and robust risk management strategies when integrating AI into legal and confidential operations.\n\n### **[Hightouch reaches $100M ARR fueled by marketing tools powered by AI](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/)**\nHightouch's rapid ascent to $100M ARR, largely driven by its AI agent platform for marketers, demonstrates the immense commercial viability of specialized AI applications. This success story validates the market demand for AI tools that deliver tangible business outcomes, particularly in areas like marketing where efficiency and personalization are paramount. It signals a strong investment trend in vertical-specific AI solutions that can quickly scale and capture significant market share.\n\n### **[AI learning app Gizmo levels up with 13M users and a $22M investment](https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/)**\nGizmo's impressive user growth and substantial Series A funding highlight the burgeoning consumer market for AI-powered educational platforms. This indicates a strong appetite for personalized and adaptive learning experiences, positioning AI as a transformative force in education. Investors are clearly recognizing the potential for AI to democratize access to knowledge and enhance learning outcomes on a massive scale.\n\n### **[LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/)**\nLinkedIn's analysis offers a crucial perspective on the current state of the job market, attributing recent hiring slowdowns to macroeconomic factors rather than AI displacement. While this provides a temporary reprieve from fears of widespread AI-driven job losses, the \"yet\" in the headline serves as a potent reminder for businesses to proactively plan for future workforce transformations. Strategic leaders should continue to invest in upskilling and reskilling initiatives to prepare their teams for an evolving AI-integrated economy.\n\n---\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[The next evolution of the Agents SDK](https://openai.com/index/the-next-evolution-of-the-agents-sdk)**\nOpenAI's latest Agents SDK update is a game-changer for developers, introducing native sandbox execution and a model-native harness. These features are critical for building secure, robust, and long-running AI agents capable of interacting across diverse files and tools. Developers should prioritize exploring these enhancements to create more sophisticated and reliable agentic applications, particularly those requiring complex, multi-step operations and enhanced security protocols.\n\n### **[ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/)**\nThe integration of ChatGPT into Excel represents a significant leap in bringing advanced AI capabilities directly into everyday productivity tools. This allows data professionals and business users to leverage natural language for complex data analysis, formula generation, and automation within spreadsheets. Developers should watch for similar integrations across other enterprise software, as this trend democratizes AI access and streamlines workflows for a broader user base.\n\n### **[AI News | U-M Generative AI](https://genai.umich.edu/news)**\nThe University of Michigan's generative AI news highlights innovative applications, such as a professor building an app to argue with students after ChatGPT provided easy answers. This exemplifies a creative approach to using AI not just for direct answers, but for fostering critical thinking and deeper engagement. Developers can draw inspiration from such projects to design AI tools that challenge users and promote active learning rather than passive consumption.\n\n---\n\n## \ud83d\udd2c Research Frontiers\n\n### **[SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments](http://arxiv.org/abs/2604.14144v1)**\nSpatialEvo introduces a novel approach to developing embodied intelligence by enabling self-evolving spatial reasoning in deterministic geometric environments. This research addresses the significant bottleneck of costly geometric annotation, paving the way for more efficient and scalable training of AI systems that can understand and navigate complex 3D spaces. Its implications are profound for robotics, autonomous vehicles, and virtual reality, where robust spatial intelligence is paramount.\n\n### **[From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space](http://arxiv.org/abs/2604.14142v1)**\nThis paper delves into the fundamental limitations of Reinforcement Learning with Verifiable Rewards (RLVR) in enhancing LLM reasoning, arguing that its potential is bounded by the base model's pre-train space. Researchers are exploring how to move beyond optimizing conditional distributions $P(y|x)$ to directly improving the unconditional distribution $P(y)$, suggesting a deeper, more foundational approach to unlocking advanced reasoning capabilities in LLMs. This work challenges current paradigms and points towards new avenues for pre-training and fine-tuning.\n\n### **[LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning](http://arxiv.org/abs/2604.14140v1)**\nAs LLMs tackle increasingly complex autonomous tasks, their ability to perform accurate, long-horizon Chain-of-Thought (CoT) reasoning becomes critical. LongCoT introduces a new benchmark to rigorously evaluate and improve LLM planning and multi-step reasoning over extended sequences. This research is essential for developing more reliable and capable AI systems that can handle intricate problems requiring sustained logical progression, moving beyond short-term inference to true strategic planning.\n\n### **[HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System](http://arxiv.org/abs/2604.14125v1)**\nHiVLA presents a hierarchical embodied manipulation system that addresses the trade-off between end-to-end Vision-Language-Action (VLA) models and fine-tuning on narrow control data for robotic tasks. By maintaining the profound reasoning capabilities of VLAs while enabling precise control, this research offers a promising paradigm for more versatile and intelligent robotic manipulation. It's a significant step towards robots that can understand high-level commands and execute them with fine-grained dexterity in complex environments.\n\n### **[Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis](http://arxiv.org/abs/2604.14121v1)**\nThis paper tackles the pervasive issue of flawed LLM reasoning traces, categorizing them into \"Step Internal Flaws\" and \"Step-wise Flaws.\" By proposing a Consensus Reasoning Knowledge Graph, researchers aim to synthesize more robust Chain-of-Thought explanations, even when individual steps are erroneous. This work is crucial for improving the trustworthiness and interpretability of LLMs, ensuring that not only the final prediction is correct, but also the underlying reasoning process is sound and verifiable.\n\n---\n\n**Today's Signal:** The AI ecosystem is rapidly maturing, with agentic AI moving from research to enterprise deployment, while legal frameworks and foundational reasoning capabilities are simultaneously being challenged and advanced.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News. April 2, 2026. ChatGPT fed his students easy answers, so he built an ap... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/) | Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Age... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The next evolution of the Agents SDK ](https://openai.com/index/the-next-evolution-of-the-agents-sdk) | OpenAI updates the Agents SDK with native sandbox execution and a model-native h... |\n| [OpenAI updates its Agents SDK to help enterprises build safer, more capable agents ](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/) | OpenAI has expanded the capabilities of its agent-building toolkit, as agentic A... |\n| [Hightouch reaches $100M ARR fueled by marketing tools powered by AI ](https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/) | The startup says it grew its ARR by $70 million in just 20 months after launchin... |\n| [LinkedIn data shows AI isn\u2019t to blame for hiring decline\u2026 yet ](https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/) | LinkedIn says hiring is down 20% since 2022, but blames higher interest rates \u2014 ... |\n| [AI learning app Gizmo levels up with 13M users and a $22M investment ](https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/) | Gizmo, an AI-powered learning platform, has attracted more than 13 million users... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments ](http://arxiv.org/abs/2604.14144v1) | Spatial reasoning over three-dimensional scenes is a core capability for embodie... |\n| [From $P(y|x)$ to $P(y)$: Investigating Reinforcement Learning in Pre-train Space ](http://arxiv.org/abs/2604.14142v1) | While reinforcement learning with verifiable rewards (RLVR) significantly enhanc... |\n| [LongCoT: Benchmarking Long-Horizon Chain-of-Thought Reasoning ](http://arxiv.org/abs/2604.14140v1) | As language models are increasingly deployed for complex autonomous tasks, their... |\n| [From Feelings to Metrics: Understanding and Formalizing How Users Vibe-Test LLMs ](http://arxiv.org/abs/2604.14137v1) | Evaluating LLMs is challenging, as benchmark scores often fail to capture models... |\n| [Exact Structural Abstraction and Tractability Limits ](http://arxiv.org/abs/2604.07349v4) | Any rigorously specified problem determines an admissible-output relation $R$, a... |\n| [Rhetorical Questions in LLM Representations: A Linear Probing Study ](http://arxiv.org/abs/2604.14128v1) | Rhetorical questions are asked not to seek information but to persuade or signal... |\n| [HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System ](http://arxiv.org/abs/2604.14125v1) | While end-to-end Vision-Language-Action (VLA) models offer a promising paradigm ... |\n| [Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe ](http://arxiv.org/abs/2604.13016v2) | On-policy distillation (OPD) has become a core technique in the post-training of... |\n| [Correct Prediction, Wrong Steps? Consensus Reasoning Knowledge Graph for Robust Chain-of-Thought Synthesis ](http://arxiv.org/abs/2604.14121v1) | LLM reasoning traces suffer from complex flaws -- *Step Internal Flaws* (logical... |\n| [Strategic Response of News Publishers to Generative AI ](http://arxiv.org/abs/2512.24968v4) | Generative AI can adversely impact news publishers by lowering consumer demand. ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MiniMaxAI/MiniMax-M2.7 ](https://huggingface.co/MiniMaxAI/MiniMax-M2.7) | Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation,... |\n| [tencent/HY-Embodied-0.5 ](https://huggingface.co/tencent/HY-Embodied-0.5) | Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-t... |\n| [zai-org/GLM-5.1 ](https://huggingface.co/zai-org/GLM-5.1) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] FSF trying to contact Google about spammer sending 10k+ mails from Gmail account](https://daedal.io/@thomzane/116410863009847575) | HN Score: 18. Comments: 1 |\n| [[HackerNews] ChatGPT for Excel](https://chatgpt.com/apps/spreadsheets/) | HN Score: 150. Comments: 110 |\n| [[HackerNews] US v. Heppner (S.D.N.Y. 2026) no attorney-client privilege for AI chats [pdf]](https://fingfx.thomsonreuters.com/gfx/legaldocs/xmvjyjekkpr/Rakoff%20-%20order%20-%20AI.pdf) | HN Score: 113. Comments: 86 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=txx6ec6MLNY) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
