@@ -1,0 +1,491 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News & Updates - Times Of AI",
+      "url": "https://www.timesofai.com/news/ai/",
+      "summary": "Microsoft is pushing generative AI closer to real-world use with the launch of MAI-Image-2-Efficient. For a while, the spotlight has been on making AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018Tokenmaxxing\u2019 is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v1",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+      "url": "http://arxiv.org/abs/2604.15285v1",
+      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+      "url": "http://arxiv.org/abs/2604.15273v1",
+      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 188737",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 21180",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1287",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "HN Score: 928. Comments: 613",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "summary": "HN Score: 137. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "summary": "HN Score: 144. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "HN Score: 567. Comments: 397",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News & Updates - Times Of AI",
+      "url": "https://www.timesofai.com/news/ai/",
+      "summary": "Microsoft is pushing generative AI closer to real-world use with the launch of MAI-Image-2-Efficient. For a while, the spotlight has been on making AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018Tokenmaxxing\u2019 is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v1",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+      "url": "http://arxiv.org/abs/2604.15285v1",
+      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+      "url": "http://arxiv.org/abs/2604.15273v1",
+      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 188737",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 21180",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1287",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "HN Score: 928. Comments: 613",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A simplified model of Fil-C",
+      "url": "https://www.corsix.org/content/simplified-model-of-fil-c",
+      "summary": "HN Score: 137. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Are the costs of AI agents also rising exponentially? (2025)",
+      "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
+      "summary": "HN Score: 144. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "HN Score: 567. Comments: 397",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+        "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+        "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+      },
+      {
+        "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+        "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+        "summary": "Returning backers a16z and Thrive are expected to lead the round."
+      },
+      {
+        "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+        "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+      },
+      {
+        "title": "Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "Codex for (almost) everything",
+        "url": "https://openai.com/index/codex-for-almost-everything",
+        "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Measuring Claude 4.7's tokenizer costs",
+        "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+        "summary": "HN Score: 567. Comments: 397"
+      },
+      {
+        "title": "Claude Design",
+        "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+        "summary": "HN Score: 928. Comments: 613"
+      },
+      {
+        "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
+        "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+        "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting."
+      }
+    ],
+    "research": [
+      {
+        "title": "Prism: Symbolic Superoptimization of Tensor Programs",
+        "url": "http://arxiv.org/abs/2604.15272v1",
+        "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program..."
+      },
+      {
+        "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+        "url": "http://arxiv.org/abs/2604.15309v1",
+        "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..."
+      },
+      {
+        "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+        "url": "http://arxiv.org/abs/2604.15306v1",
+        "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference..."
+      },
+      {
+        "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+        "url": "http://arxiv.org/abs/2604.15302v1",
+        "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva..."
+      },
+      {
+        "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+        "url": "http://arxiv.org/abs/2604.15280v1",
+        "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019",
+      "url": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+      "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+    },
+    {
+      "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+      "url": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+      "summary": "Returning backers a16z and Thrive are expected to lead the round."
+    },
+    {
+      "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+    },
+    {
+      "title": "Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "Codex for (almost) everything",
+      "url": "https://openai.com/index/codex-for-almost-everything",
+      "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
+    },
+    {
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
+      "summary": "HN Score: 567. Comments: 397"
+    },
+    {
+      "title": "Claude Design",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "summary": "HN Score: 928. Comments: 613"
+    },
+    {
+      "title": "\u2018Tokenmaxxing\u2019 is making developers less productive than they think",
+      "url": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+      "summary": "There's a lot more code \u2014 but it's a lot more expensive and requires a lot more rewriting."
+    },
+    {
+      "title": "Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program..."
+    },
+    {
+      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..."
+    },
+    {
+      "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference..."
+    },
+    {
+      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva..."
+    },
+    {
+      "title": "Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v..."
+    }
+  ],
+  "final_report": "# Enterprise AI Takes Center Stage as OpenAI Refocuses and New Giants Emerge\n\nToday's intelligence report highlights a significant strategic realignment within the AI landscape, with major players sharpening their focus on enterprise solutions and developer productivity. This pivot signals a maturing market where practical application and robust tooling are becoming paramount.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)**\nThis move underscores OpenAI's aggressive pivot from consumer-facing \"moonshots\" like Sora towards a laser focus on enterprise AI and core model development. For business leaders, it signals a clearer, more predictable roadmap from OpenAI, emphasizing stability and direct value for corporate applications rather than speculative ventures. This strategic streamlining could enhance OpenAI's competitive edge in the lucrative enterprise market.\n\n### **[Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/)**\nThe astronomical valuation for Cursor, driven by surging enterprise adoption, highlights the immense market demand and investor confidence in AI-powered developer tools. This signals a critical trend for businesses: investing in AI solutions that directly enhance developer productivity is no longer optional but a strategic imperative for competitive advantage and efficiency. The rapid growth of companies like Cursor indicates a significant shift in how software development is approached and funded.\n\n### **[Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)**\nWorld's expansion into partnerships like Tinder demonstrates a strategic move to embed its anonymous human verification technology into widely used platforms. For executives, this highlights the growing importance of robust, privacy-preserving identity solutions in an AI-driven world rife with deepfakes and synthetic content. This could establish a critical infrastructure layer for trust and authenticity across digital services, impacting everything from social media to financial transactions.\n\n### **[Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama](https://www.youtube.com/watch?v=QVJcdfkRpH8)**\nWhile the video lacks a transcript, the title suggests a significant update to Claude Opus, implying both performance enhancements and potential market impact or competitive dynamics. For business leaders, new model releases like this from Anthropic mean continuous evaluation of AI partners and capabilities is essential to ensure they are leveraging the most advanced and cost-effective solutions for their strategic initiatives. The \"drama\" aspect might hint at competitive positioning or internal challenges, which are always worth monitoring in a fast-moving industry.\n\n### **[Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything)**\nOpenAI's updated Codex app, expanding capabilities to include computer use, in-app browsing, image generation, and memory, represents a significant leap in AI-powered developer acceleration. For businesses, this means a potential for dramatically increased developer productivity and reduced time-to-market for software projects. Investing in tools that integrate AI across the entire development workflow, from coding to testing and deployment, is becoming a key strategic differentiator.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you)**\nThis deep dive into Claude 4.7's tokenizer costs is crucial for developers optimizing their AI applications for both performance and budget. Understanding the nuances of tokenization directly impacts API call efficiency and overall operational expenses, making it a key consideration for deploying large-scale LLM solutions. Practitioners should analyze these findings to fine-tune their prompt engineering and data processing strategies.\n\n### **[Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs)**\nAnthropic's \"Claude Design\" initiative likely offers insights into best practices, architectural patterns, or new features for building robust applications with Claude models. Developers should explore this resource to leverage Anthropic's recommended approaches, ensuring their implementations are efficient, scalable, and aligned with the model's intended use cases. This could provide valuable guidance for designing more effective and reliable AI systems.\n\n### **[\u2018Tokenmaxxing\u2019 is making developers less productive than they think](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/)**\nThis article highlights a critical pitfall in current LLM development: the pursuit of maximizing token usage can paradoxically lead to less productive and more expensive code. Developers need to shift their focus from simply generating more code to generating *smarter*, more concise, and maintainable code, understanding that quality often trumps quantity in AI-assisted development. This calls for a re-evaluation of prompt strategies and a greater emphasis on iterative refinement over brute-force generation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Prism: Symbolic Superoptimization of Tensor Programs](http://arxiv.org/abs/2604.15272v1)**\nPrism introduces a novel symbolic superoptimizer for tensor programs, utilizing a hierarchical representation called sGraph. This research is significant for pushing the boundaries of AI hardware and software co-design, promising more efficient and optimized execution of complex neural network operations. Researchers should investigate sGraph's potential to unlock new levels of performance for AI accelerators and deep learning frameworks.\n\n### **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**\nMM-WebAgent presents a hierarchical multimodal web agent capable of generating webpages on demand, leveraging the rapid advancements in AIGC. This work explores the exciting intersection of multimodal AI and automated content creation, offering a flexible approach to design. Academics and researchers should consider the implications for human-computer interaction, creative industries, and the future of web development.\n\n### **[Generalization in LLM Problem Solving: The Case of the Shortest Path](http://arxiv.org/abs/2604.15306v1)**\nThis paper delves into the ongoing debate about LLM generalization, using the shortest path problem as a case study to dissect factors like training data and inference paradigms. Understanding how LLMs generalize is fundamental to building more robust and reliable AI systems. Researchers should examine these findings to inform future model architectures and training methodologies aimed at improving systematic generalization capabilities.\n\n### **[Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)**\nThis research introduces a diagnostic toolkit to assess the reliability of LLM-as-judge frameworks, which are increasingly used for automatic NLG evaluation. By identifying issues like transitivity violations, the paper provides crucial insights into the limitations and potential biases of these evaluation methods. Academics should leverage these tools to develop more trustworthy and transparent AI evaluation metrics, critical for advancing the field responsibly.\n\n### **[Why Do Vision Language Models Struggle To Recognize Human Emotions?](http://arxiv.org/abs/2604.15280v1)**\nThis paper investigates a fundamental challenge for VLMs: their difficulty in accurately recognizing human emotions, despite significant progress in other areas. Understanding these limitations is vital for developing truly intelligent and empathetic AI systems capable of natural human interaction. Researchers should explore the proposed reasons and potential solutions to bridge this gap, enhancing the emotional intelligence of future AI models.\n\nToday's signal points to a clear industry-wide drive towards practical, enterprise-grade AI solutions and developer empowerment, while foundational research continues to tackle core challenges in model generalization, efficiency, and human-like understanding.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 1... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Latest AI News & Updates - Times Of AI ](https://www.timesofai.com/news/ai/) | Microsoft is pushing generative AI closer to real-world use with the launch of M... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Codex for (almost) everything ](https://openai.com/index/codex-for-almost-everything) | The updated Codex app for macOS and Windows adds computer use, in-app browsing, ... |\n| [Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. ](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) | World, which has raised eyebrows (but also a lot of interest) with its Orb-cente... |\n| [Kevin Weil and Bill Peebles exit OpenAI as company continues to shed \u2018side quests\u2019 ](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/) | Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora an... |\n| [[RSS] Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges](https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/) | Returning backers a16z and Thrive are expected to lead the round. |\n| [\u2018Tokenmaxxing\u2019 is making developers less productive than they think ](https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/) | There's a lot more code \u2014 but it's a lot more expensive and requires a lot more ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation ](http://arxiv.org/abs/2604.15309v1) | The rapid progress of Artificial Intelligence Generated Content (AIGC) tools ena... |\n| [Generalization in LLM Problem Solving: The Case of the Shortest Path ](http://arxiv.org/abs/2604.15306v1) | Whether language models can systematically generalize remains actively debated. ... |\n| [Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations ](http://arxiv.org/abs/2604.15302v1) | LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet ... |\n| [Benchmarking Optimizers for MLPs in Tabular Deep Learning ](http://arxiv.org/abs/2604.15297v1) | MLP is a heavily used backbone in modern deep learning (DL) architectures for su... |\n| [How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study ](http://arxiv.org/abs/2604.15294v1) | Over the past year, spatial intelligence has drawn increasing attention. Many pr... |\n| [AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving ](http://arxiv.org/abs/2604.15291v1) | The reliability of a machine vision system for autonomous driving depends heavil... |\n| [Structural interpretability in SVMs with truncated orthogonal polynomial kernels ](http://arxiv.org/abs/2604.15285v1) | We study post-training interpretability for Support Vector Machines (SVMs) built... |\n| [Why Do Vision Language Models Struggle To Recognize Human Emotions? ](http://arxiv.org/abs/2604.15280v1) | Understanding emotions is a fundamental ability for intelligent systems to be ab... |\n| [How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations ](http://arxiv.org/abs/2604.15273v1) | Node embeddings act as the information interface for graph neural networks, yet ... |\n| [Prism: Symbolic Superoptimization of Tensor Programs ](http://arxiv.org/abs/2604.15272v1) | This paper presents Prism, the first symbolic superoptimizer for tensor programs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MiniMaxAI/MiniMax-M2.7 ](https://huggingface.co/MiniMaxAI/MiniMax-M2.7) | Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation,... |\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n| [tencent/HY-Embodied-0.5 ](https://huggingface.co/tencent/HY-Embodied-0.5) | Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Claude Design](https://www.anthropic.com/news/claude-design-anthropic-labs) | HN Score: 928. Comments: 613 |\n| [[HackerNews] A simplified model of Fil-C](https://www.corsix.org/content/simplified-model-of-fil-c) | HN Score: 137. Comments: 68 |\n| [[HackerNews] Are the costs of AI agents also rising exponentially? (2025)](https://www.tobyord.com/writing/hourly-costs-for-ai-agents) | HN Score: 144. Comments: 28 |\n| [[HackerNews] Measuring Claude 4.7's tokenizer costs](https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you) | HN Score: 567. Comments: 397 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
