@@ -1,0 +1,491 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The App Store is booming again, and AI may be why",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v1",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+      "url": "http://arxiv.org/abs/2604.15285v1",
+      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+      "url": "http://arxiv.org/abs/2604.15273v1",
+      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 82000",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 258064",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1454",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "summary": "HN Score: 206. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why Japan has such good railways",
+      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "summary": "HN Score: 349. Comments: 346",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "summary": "HN Score: 266. Comments: 173",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+      "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+      "summary": "HN Score: 8. Comments: 3",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The App Store is booming again, and AI may be why",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v1",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural interpretability in SVMs with truncated orthogonal polynomial kernels",
+      "url": "http://arxiv.org/abs/2604.15285v1",
+      "summary": "We study post-training interpretability for Support Vector Machines (SVMs) built from truncated orthogonal polynomial kernels. Since the associated reproducing kernel Hilbert space is finite-dimension...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Do Vision Language Models Struggle To Recognize Human Emotions?",
+      "url": "http://arxiv.org/abs/2604.15280v1",
+      "summary": "Understanding emotions is a fundamental ability for intelligent systems to be able to interact with humans. Vision-language models (VLMs) have made tremendous progress in the last few years for many v...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations",
+      "url": "http://arxiv.org/abs/2604.15273v1",
+      "summary": "Node embeddings act as the information interface for graph neural networks, yet their empirical impact is often reported under mismatched backbones, splits, and training budgets. This paper provides a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 82000",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M2.7",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation, conversational, custom_code. Downloads: 258064",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1454",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] College instructor turns to typewriters to curb AI-written work",
+      "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+      "summary": "HN Score: 206. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why Japan has such good railways",
+      "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+      "summary": "HN Score: 349. Comments: 346",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "summary": "HN Score: 266. Comments: 173",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+      "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+      "summary": "HN Score: 8. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "AI chip startup Cerebras files for IPO",
+        "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+        "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
+      },
+      {
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026."
+      },
+      {
+        "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+        "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+        "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
+      },
+      {
+        "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+        "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+        "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+      },
+      {
+        "title": "The App Store is booming again, and AI may be why",
+        "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+        "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Prism: Symbolic Superoptimization of Tensor Programs",
+        "url": "http://arxiv.org/abs/2604.15272v1",
+        "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program..."
+      },
+      {
+        "title": "Thoughts and feelings around Claude Design",
+        "url": "https://samhenri.gold/blog/20260418-claude-design/",
+        "summary": "HN Score: 266. Comments: 173"
+      },
+      {
+        "title": "Is Opus 4.7 the Best AI Model You Can Actually Use?",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "research": [
+      {
+        "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+        "url": "http://arxiv.org/abs/2604.15309v1",
+        "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..."
+      },
+      {
+        "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+        "url": "http://arxiv.org/abs/2604.15302v1",
+        "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva..."
+      },
+      {
+        "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+        "url": "http://arxiv.org/abs/2604.15306v1",
+        "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference..."
+      },
+      {
+        "title": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+        "url": "http://arxiv.org/abs/2604.15294v1",
+        "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa..."
+      },
+      {
+        "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+        "url": "http://arxiv.org/abs/2604.15291v1",
+        "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "AI chip startup Cerebras files for IPO",
+      "url": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
+    },
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026."
+    },
+    {
+      "title": "Anthropic\u2019s relationship with the Trump administration seems to be thawing",
+      "url": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+      "summary": "Despite recently being designated a supply-chain risk by the Pentagon, Anthropic is still talking to high-level members of the Trump administration."
+    },
+    {
+      "title": "Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.",
+      "url": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+      "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships."
+    },
+    {
+      "title": "The App Store is booming again, and AI may be why",
+      "url": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "summary": "New data from Appfigures shows a swell of new app launches in 2026, suggesting AI tools could be fueling a mobile software boom."
+    },
+    {
+      "title": "Prism: Symbolic Superoptimization of Tensor Programs",
+      "url": "http://arxiv.org/abs/2604.15272v1",
+      "summary": "This paper presents Prism, the first symbolic superoptimizer for tensor programs. The key idea is sGraph, a symbolic, hierarchical representation that compactly encodes large classes of tensor program..."
+    },
+    {
+      "title": "Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "summary": "HN Score: 266. Comments: 173"
+    },
+    {
+      "title": "Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "url": "http://arxiv.org/abs/2604.15309v1",
+      "summary": "The rapid progress of Artificial Intelligence Generated Content (AIGC) tools enables images, videos, and visualizations to be created on demand for webpage design, offering a flexible and increasingly..."
+    },
+    {
+      "title": "Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations",
+      "url": "http://arxiv.org/abs/2604.15302v1",
+      "summary": "LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet their per-instance reliability remains poorly understood. We present a two-pronged diagnostic toolkit applied to SummEva..."
+    },
+    {
+      "title": "Generalization in LLM Problem Solving: The Case of the Shortest Path",
+      "url": "http://arxiv.org/abs/2604.15306v1",
+      "summary": "Whether language models can systematically generalize remains actively debated. Yet empirical performance is jointly shaped by multiple factors such as training data, training paradigms, and inference..."
+    },
+    {
+      "title": "How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study",
+      "url": "http://arxiv.org/abs/2604.15294v1",
+      "summary": "Over the past year, spatial intelligence has drawn increasing attention. Many prior works study it from the perspective of visual-spatial intelligence, where models have access to visuospatial informa..."
+    },
+    {
+      "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
+      "url": "http://arxiv.org/abs/2604.15291v1",
+      "summary": "The reliability of a machine vision system for autonomous driving depends heavily on its training data distribution. When a vehicle encounters significantly different conditions, such as atypical obst..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: April 18, 2026\n\nToday's intelligence report highlights a dynamic landscape where AI is not just a technological advancement but a strategic imperative, driving market shifts, developer innovation, and pushing the boundaries of fundamental research. From new IPOs and expanded autonomous services to critical discussions on model reliability and novel optimization techniques, the AI ecosystem is buzzing with activity.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[AI chip startup Cerebras files for IPO](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)**\nCerebras's move to go public, bolstered by significant deals with AWS and OpenAI, signals strong market validation for specialized AI hardware. This IPO could ignite further investment in the custom AI chip sector, intensifying competition with traditional chipmakers and offering new avenues for enterprises seeking optimized AI infrastructure. Its success will be a bellwether for the broader AI hardware market.\n\n### **[Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)**\nTesla's expansion of its robotaxi service to two major Texas cities marks a critical step in scaling autonomous mobility. This move demonstrates increasing confidence in their self-driving technology and could significantly disrupt urban transportation and logistics markets. Business leaders should watch this expansion closely for insights into the operational challenges and consumer adoption rates of driverless services.\n\n### **[Anthropic\u2019s relationship with the Trump administration seems to be thawing](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)**\nDespite recent Pentagon concerns, Anthropic's continued engagement with high-level Trump administration officials underscores the strategic importance of leading AI developers in national policy. This dynamic highlights the complex interplay between cutting-edge technology, national security, and regulatory frameworks. Executives should note the evolving political landscape surrounding major AI players.\n\n### **[Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder.](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/)**\nWorld's strategic partnership with Tinder signifies a major push for its Orb-centered human verification technology into mainstream applications. This expansion could establish a new standard for online identity and trust, addressing critical issues like fraud and bot accounts across various digital platforms. Businesses should consider the implications for user authentication and privacy in their own ecosystems.\n\n### **[The App Store is booming again, and AI may be why](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/)**\nNew data suggesting AI tools are fueling a resurgence in app launches points to AI's transformative role as an enabler for software development and innovation. This trend indicates a lower barrier to entry for creators and a potential revitalization of the mobile software economy. Investors and business leaders should explore how AI-powered development tools can accelerate their own product roadmaps and market entry strategies.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Prism: Symbolic Superoptimization of Tensor Programs](http://arxiv.org/abs/2604.15272v1)**\nThis paper introduces Prism, a groundbreaking symbolic superoptimizer for tensor programs, utilizing a novel `sGraph` representation. Developers should watch this space closely, as `Prism` promises significant performance gains and efficiency improvements for AI models by compactly encoding and optimizing complex tensor operations. Integrating such techniques could lead to more performant and resource-efficient ML deployments.\n\n### **[Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/)**\nThe high engagement around discussions on Claude's design indicates a strong community interest in the user experience and architectural choices of leading AI models. Engineers and practitioners can glean valuable insights from these conversations to inform their own design principles for AI applications, focusing on usability, interpretability, and effective interaction patterns. This is a key area for learning best practices in AI product development.\n\n### **[Is Opus 4.7 the Best AI Model You Can Actually Use?](https://www.youtube.com/watch?v=QVJcdfkRpH8)**\nThis video likely offers a practical evaluation of Opus 4.7, a topic of high relevance for developers seeking optimal models for their projects. Practitioners should look for detailed benchmarks and real-world use cases to assess if Opus 4.7 provides superior performance, cost-efficiency, or specific capabilities that align with their development needs. Understanding its strengths and weaknesses can directly influence model selection and project success.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation](http://arxiv.org/abs/2604.15309v1)**\nThis research introduces MM-WebAgent, a novel hierarchical multimodal web agent designed for on-demand webpage generation using AIGC tools. The implications are profound for automated content creation and web design, pushing the boundaries of how AI can flexibly and intelligently generate complex digital assets. Researchers should explore its potential for dynamic, personalized web experiences.\n\n### **[Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations](http://arxiv.org/abs/2604.15302v1)**\nThis paper presents a critical diagnostic toolkit for assessing the reliability of LLM-as-judge frameworks, which are increasingly used for automatic NLG evaluation. By focusing on per-instance reliability and transitivity violations, this work offers crucial insights for improving the trustworthiness and scientific rigor of AI-driven evaluation methods, impacting future research methodologies.\n\n### **[Generalization in LLM Problem Solving: The Case of the Shortest Path](http://arxiv.org/abs/2604.15306v1)**\nThis study delves into the ongoing debate about systematic generalization in language models, using the shortest path problem as a case study. By examining factors like training data and inference paradigms, the research provides valuable insights into how LLMs acquire and apply knowledge, informing future efforts to build more robust and adaptable AI systems capable of true generalization.\n\n### **[How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study](http://arxiv.org/abs/2604.15294v1)**\nThis interpretability study explores how LLMs and VLMs process spatial intelligence, specifically viewpoint rotation, without direct visual input. The findings challenge conventional understanding of spatial reasoning in these models and could reveal novel internal representations, opening new avenues for multimodal AI research and the development of more sophisticated spatial awareness.\n\n### **[AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving](http://arxiv.org/abs/2604.15291v1)**\nAD4AD introduces a crucial benchmark for visual anomaly detection models, specifically tailored for enhancing safety in autonomous driving. This work directly addresses the critical challenge of vehicle reliability in atypical conditions, providing a standardized framework for evaluating and improving the robustness of machine vision systems against unforeseen obstacles and environments.\n\n---\n**Today's Signal:** The AI ecosystem is rapidly maturing, with significant investments in specialized hardware, expanding real-world applications, and a concerted research effort to enhance model reliability and fundamental understanding.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 1... |\n| [Generative AI Digest: A roundup of latest breakthroughs ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Tesla brings its robotaxi service to Dallas and Houston ](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) | The company now offers robotaxi service in three cities, all of them in Texas, a... |\n| [AI chip startup Cerebras files for IPO ](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/) | In recent months, the company announced an agreement with Amazon Web Services to... |\n| [Anthropic\u2019s relationship with the Trump administration seems to be thawing ](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/) | Despite recently being designated a supply-chain risk by the Pentagon, Anthropic... |\n| [The App Store is booming again, and AI may be why ](https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/) | New data from Appfigures shows a swell of new app launches in 2026, suggesting A... |\n| [Sam Altman\u2019s project World looks to scale its human verification empire. First stop: Tinder. ](https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/) | World, which has raised eyebrows (but also a lot of interest) with its Orb-cente... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation ](http://arxiv.org/abs/2604.15309v1) | The rapid progress of Artificial Intelligence Generated Content (AIGC) tools ena... |\n| [Generalization in LLM Problem Solving: The Case of the Shortest Path ](http://arxiv.org/abs/2604.15306v1) | Whether language models can systematically generalize remains actively debated. ... |\n| [Diagnosing LLM Judge Reliability: Conformal Prediction Sets and Transitivity Violations ](http://arxiv.org/abs/2604.15302v1) | LLM-as-judge frameworks are increasingly used for automatic NLG evaluation, yet ... |\n| [Benchmarking Optimizers for MLPs in Tabular Deep Learning ](http://arxiv.org/abs/2604.15297v1) | MLP is a heavily used backbone in modern deep learning (DL) architectures for su... |\n| [How Do LLMs and VLMs Understand Viewpoint Rotation Without Vision? An Interpretability Study ](http://arxiv.org/abs/2604.15294v1) | Over the past year, spatial intelligence has drawn increasing attention. Many pr... |\n| [AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving ](http://arxiv.org/abs/2604.15291v1) | The reliability of a machine vision system for autonomous driving depends heavil... |\n| [Structural interpretability in SVMs with truncated orthogonal polynomial kernels ](http://arxiv.org/abs/2604.15285v1) | We study post-training interpretability for Support Vector Machines (SVMs) built... |\n| [Why Do Vision Language Models Struggle To Recognize Human Emotions? ](http://arxiv.org/abs/2604.15280v1) | Understanding emotions is a fundamental ability for intelligent systems to be ab... |\n| [How Embeddings Shape Graph Neural Networks: Classical vs Quantum-Oriented Node Representations ](http://arxiv.org/abs/2604.15273v1) | Node embeddings act as the information interface for graph neural networks, yet ... |\n| [Prism: Symbolic Superoptimization of Tensor Programs ](http://arxiv.org/abs/2604.15272v1) | This paper presents Prism, the first symbolic superoptimizer for tensor programs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n| [MiniMaxAI/MiniMax-M2.7 ](https://huggingface.co/MiniMaxAI/MiniMax-M2.7) | Trending HF Model. Tags: transformers, safetensors, minimax_m2, text-generation,... |\n| [tencent/HY-Embodied-0.5 ](https://huggingface.co/tencent/HY-Embodied-0.5) | Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] College instructor turns to typewriters to curb AI-written work](https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/) | HN Score: 206. Comments: 193 |\n| [[HackerNews] Why Japan has such good railways](https://worksinprogress.co/issue/why-japan-has-such-good-railways/) | HN Score: 349. Comments: 346 |\n| [[HackerNews] Thoughts and feelings around Claude Design](https://samhenri.gold/blog/20260418-claude-design/) | HN Score: 266. Comments: 173 |\n| [[HackerNews] Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower](https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/) | HN Score: 8. Comments: 3 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
