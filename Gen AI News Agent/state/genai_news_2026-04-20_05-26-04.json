@@ -1,0 +1,491 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI\u2019s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Differential privacy representation geometry for medical image analysis",
+      "url": "http://arxiv.org/abs/2603.01098v2",
+      "summary": "Differential privacy (DP)'s effect in medical imaging is typically evaluated only through end-to-end performance, leaving the mechanism of privacy-induced utility loss unclear. We introduce Differenti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models",
+      "url": "http://arxiv.org/abs/2507.20058v3",
+      "summary": "Predicting Parkinson's Disease (PD) progression is crucial for personalized treatment, and voice biomarkers offer a promising non-invasive method for tracking symptom severity through telemonitoring. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis",
+      "url": "http://arxiv.org/abs/2604.08809v2",
+      "summary": "SVG generation is typically evaluated by comparing rendered outputs to reference images, which captures visual similarity but not the structural properties that make SVG editable, decomposable, and re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Cultures Meet: Multicultural Text-to-Image Generation",
+      "url": "http://arxiv.org/abs/2502.15972v2",
+      "summary": "Text-to-image generation models have achieved strong performance in culturally homogeneous settings, yet their ability to generate multicultural scenes, where people and landmarks originate from diffe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v2",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ASMR-Bench: Auditing for Sabotage in ML Research",
+      "url": "http://arxiv.org/abs/2604.16286v1",
+      "summary": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review",
+      "url": "http://arxiv.org/abs/2602.11173v2",
+      "summary": "Author response (rebuttal) writing is a critical stage of scientific peer review that demands substantial author effort. In practice, authors possess domain expertise, author-only information, and res...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometric regularization of autoencoders via observed stochastic dynamics",
+      "url": "http://arxiv.org/abs/2604.16282v1",
+      "summary": "Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+      "url": "http://arxiv.org/abs/2604.16280v1",
+      "summary": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+      "url": "http://arxiv.org/abs/2604.16279v1",
+      "summary": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical uti...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 209112",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1599",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 662293",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "HN Score: 37. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "HN Score: 260. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Swiss AI Initiative (2023)",
+      "url": "https://www.swiss-ai.org",
+      "summary": "HN Score: 38. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
+      "summary": "HN Score: 105. Comments: 33",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures",
+      "url": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "url": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Differential privacy representation geometry for medical image analysis",
+      "url": "http://arxiv.org/abs/2603.01098v2",
+      "summary": "Differential privacy (DP)'s effect in medical imaging is typically evaluated only through end-to-end performance, leaving the mechanism of privacy-induced utility loss unclear. We introduce Differenti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models",
+      "url": "http://arxiv.org/abs/2507.20058v3",
+      "summary": "Predicting Parkinson's Disease (PD) progression is crucial for personalized treatment, and voice biomarkers offer a promising non-invasive method for tracking symptom severity through telemonitoring. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis",
+      "url": "http://arxiv.org/abs/2604.08809v2",
+      "summary": "SVG generation is typically evaluated by comparing rendered outputs to reference images, which captures visual similarity but not the structural properties that make SVG editable, decomposable, and re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Cultures Meet: Multicultural Text-to-Image Generation",
+      "url": "http://arxiv.org/abs/2502.15972v2",
+      "summary": "Text-to-image generation models have achieved strong performance in culturally homogeneous settings, yet their ability to generate multicultural scenes, where people and landmarks originate from diffe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v2",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ASMR-Bench: Auditing for Sabotage in ML Research",
+      "url": "http://arxiv.org/abs/2604.16286v1",
+      "summary": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review",
+      "url": "http://arxiv.org/abs/2602.11173v2",
+      "summary": "Author response (rebuttal) writing is a critical stage of scientific peer review that demands substantial author effort. In practice, authors possess domain expertise, author-only information, and res...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometric regularization of autoencoders via observed stochastic dynamics",
+      "url": "http://arxiv.org/abs/2604.16282v1",
+      "summary": "Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+      "url": "http://arxiv.org/abs/2604.16280v1",
+      "summary": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+      "url": "http://arxiv.org/abs/2604.16279v1",
+      "summary": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical uti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 209112",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1599",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 662293",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "HN Score: 37. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "HN Score: 260. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Swiss AI Initiative (2023)",
+      "url": "https://www.swiss-ai.org",
+      "summary": "HN Score: 38. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 2,100 Swiss municipalities showing which provider handles their official email",
+      "url": "https://mxmap.ch/",
+      "summary": "HN Score: 105. Comments: 33",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI\u2019s existential questions",
+        "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+        "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+      },
+      {
+        "title": "The 12-month window",
+        "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+        "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. "
+      },
+      {
+        "title": "Tesla brings its robotaxi service to Dallas and Houston",
+        "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+        "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. "
+      }
+    ],
+    "technical": [
+      {
+        "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+        "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 662293"
+      },
+      {
+        "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+        "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+        "summary": "HN Score: 260. Comments: 152"
+      },
+      {
+        "title": "19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "Qwen/Qwen3.6-35B-A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 209112"
+      },
+      {
+        "title": "Claude Token Counter, now with model comparisons",
+        "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+        "summary": "HN Score: 37. Comments: 8"
+      }
+    ],
+    "research": [
+      {
+        "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+        "url": "http://arxiv.org/abs/2604.16286v1",
+        "summary": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...)"
+      },
+      {
+        "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+        "url": "http://arxiv.org/abs/2604.16280v1",
+        "summary": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc..."
+      },
+      {
+        "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+        "url": "http://arxiv.org/abs/2604.16279v1",
+        "summary": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical uti..."
+      },
+      {
+        "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+        "url": "http://arxiv.org/abs/2604.15297v2",
+        "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture..."
+      },
+      {
+        "title": "Geometric regularization of autoencoders via observed stochastic dynamics",
+        "url": "http://arxiv.org/abs/2604.16282v1",
+        "summary": "Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from s..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI\u2019s existential questions",
+      "url": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+      "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+    },
+    {
+      "title": "The 12-month window",
+      "url": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+      "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. "
+    },
+    {
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "url": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "summary": "The company now offers robotaxi service in three cities, all of them in Texas, after launching in Austin last year and starting to offer rides without safety drivers in January 2026. "
+    },
+    {
+      "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 662293"
+    },
+    {
+      "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+      "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+      "summary": "HN Score: 260. Comments: 152"
+    },
+    {
+      "title": "19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 209112"
+    },
+    {
+      "title": "Claude Token Counter, now with model comparisons",
+      "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+      "summary": "HN Score: 37. Comments: 8"
+    },
+    {
+      "title": "ASMR-Bench: Auditing for Sabotage in ML Research",
+      "url": "http://arxiv.org/abs/2604.16286v1",
+      "summary": "As AI systems are increasingly used to conduct research autonomously, misaligned systems could introduce subtle flaws that produce misleading results while evading detection. We introduce ASMR-Bench (...)"
+    },
+    {
+      "title": "Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing",
+      "url": "http://arxiv.org/abs/2604.16280v1",
+      "summary": "Explaining Machine Learning (ML) results in a transparent and user-friendly manner remains a challenging task of Explainable Artificial Intelligence (XAI). In this paper, we present a method to enhanc..."
+    },
+    {
+      "title": "Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design",
+      "url": "http://arxiv.org/abs/2604.16279v1",
+      "summary": "Large Language Models (LLMs) have the potential to accelerate small molecule drug design due to their ability to reason about information from diverse sources and formats. However, their practical uti..."
+    },
+    {
+      "title": "Benchmarking Optimizers for MLPs in Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2604.15297v2",
+      "summary": "MLP is a heavily used backbone in modern deep learning (DL) architectures for supervised learning on tabular data, and AdamW is the go-to optimizer used to train tabular DL models. Unlike architecture..."
+    },
+    {
+      "title": "Geometric regularization of autoencoders via observed stochastic dynamics",
+      "url": "http://arxiv.org/abs/2604.16282v1",
+      "summary": "Stochastic dynamical systems with slow or metastable behavior evolve, on long time scales, on an unknown low-dimensional manifold in high-dimensional ambient space. Building a reduced simulator from s..."
+    }
+  ],
+  "final_report": "# AI's Strategic Crossroads: OpenAI's Existential Questions, Tesla's Robotaxi Expansion, and the Race for Model Optimization\n\nToday's AI landscape reveals a dynamic tension between strategic consolidation and rapid innovation. While industry giants navigate critical growth phases, the developer community is intensely focused on refining and deploying cutting-edge models, pushing the boundaries of practical application and research integrity.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI\u2019s existential questions](https://techcrunch.com/2026/04/19/openais-existential-questions/)**\nThis discussion highlights the strategic pressures on even leading AI companies to diversify and secure their long-term relevance. Acquisitions are not just about growth but about addressing fundamental challenges like market saturation or technological shifts that could undermine their core business.\n\n### **[The 12-month window](https://techcrunch.com/2026/04/19/the-12-month-window/)**\nThis is a critical warning for investors and founders alike. The rapid evolution of foundation models means niche AI startups have a limited window to establish defensible moats before larger players integrate similar capabilities, emphasizing the need for speed and unique value propositions.\n\n### **[Tesla brings its robotaxi service to Dallas and Houston](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/)**\nTesla's aggressive expansion of its robotaxi service signals a significant step towards commercializing autonomous driving at scale. This move could disrupt traditional transportation models and provides a real-world testbed for AI's impact on urban logistics and consumer behavior.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[unsloth/Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)**\nThe popularity of this GGUF quantized Qwen model indicates a strong developer interest in efficient, deployable large language models, especially for local inference. Its high download count suggests it's a go-to for practitioners looking to leverage powerful models on more constrained hardware.\n\n### **[Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/)**\nDeep dives into system prompt changes for models like Claude Opus are invaluable for developers. Understanding these subtle shifts can significantly impact model behavior, performance, and the effectiveness of prompt engineering strategies, making it a critical watch for those building on top of these APIs.\n\n### **[19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines](https://www.youtube.com/watch?v=QVJcdfkRpH8)**\nThis resource likely offers practical, nuanced observations about Claude Opus 4.7's capabilities and quirks, beyond official release notes. Developers should watch for such community-driven insights to optimize their use of the model and anticipate potential challenges or unexpected behaviors.\n\n### **[Qwen/Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**\nThe base Qwen model's high download count, alongside its GGUF variant, underscores its growing adoption within the developer community. Its open-source nature and capabilities in image-text-to-text tasks make it a versatile tool for various multimodal AI applications.\n\n### **[Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/)**\nTools that help developers manage and compare token usage across different models are essential for cost optimization and performance tuning. This new feature for Claude token counting provides practical utility for engineers needing to make informed decisions about model selection and API calls.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ASMR-Bench: Auditing for Sabotage in ML Research](http://arxiv.org/abs/2604.16286v1)**\nThis paper addresses a critical emerging concern: the potential for AI systems to subtly sabotage scientific research. ASMR-Bench offers a vital framework for auditing AI-driven research, highlighting the need for robust safety and alignment mechanisms as AI takes on more autonomous roles in discovery.\n\n### **[Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing](http://arxiv.org/abs/2604.16280v1)**\nThis research tackles the persistent challenge of explainable AI (XAI) by combining LLMs with knowledge graphs, particularly in the manufacturing sector. It offers a promising direction for making complex ML models more transparent and user-friendly, which is crucial for trust and adoption in critical industrial applications.\n\n### **[Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design](http://arxiv.org/abs/2604.16279v1)**\nThis study critically evaluates the real-world applicability of LLMs in accelerating small-molecule drug design. It's important for researchers to understand both the potential and current limitations of LLMs in complex scientific domains, guiding future development towards more effective and reliable AI-driven drug discovery.\n\n### **[Benchmarking Optimizers for MLPs in Tabular Deep Learning](http://arxiv.org/abs/2604.15297v2)**\nWhile AdamW is a common choice, this research systematically benchmarks optimizers for MLPs on tabular data, a ubiquitous task in many industries. Such foundational work helps practitioners make more informed decisions about training strategies, potentially leading to significant performance gains and efficiency improvements.\n\n### **[Geometric regularization of autoencoders via observed stochastic dynamics](http://arxiv.org/abs/2604.16282v1)**\nThis theoretical paper explores advanced techniques for autoencoder regularization, particularly for systems with slow or metastable behavior. It delves into fundamental aspects of learning low-dimensional representations from complex dynamics, which has implications for modeling intricate physical and biological systems.\n\n**Today's Signal:** The AI ecosystem is simultaneously maturing with strategic consolidations and expanding its technical frontiers, demanding both business acumen for market timing and deep technical expertise for model optimization and ethical deployment.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 1... |\n| [Generative AI Digest: A roundup of latest breakthroughs ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI\u2019s existential questions ](https://techcrunch.com/2026/04/19/openais-existential-questions/) | On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whe... |\n| [The 12-month window ](https://techcrunch.com/2026/04/19/the-12-month-window/) | A lot of AI startups exist partly because the foundation models haven't expanded... |\n| [Palantir posts mini-manifesto denouncing inclusivity and \u2018regressive\u2019 cultures ](https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/) | Palantir's ideological bent has come under more scrutiny as it's worked with ICE... |\n| [TechCrunch Mobility: Uber enters its assetmaxxing era ](https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/) | Welcome back to TechCrunch Mobility, your hub for the future of transportation a... |\n| [Tesla brings its robotaxi service to Dallas and Houston ](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) | The company now offers robotaxi service in three cities, all of them in Texas, a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Differential privacy representation geometry for medical image analysis ](http://arxiv.org/abs/2603.01098v2) | Differential privacy (DP)'s effect in medical imaging is typically evaluated onl... |\n| [Modeling Parkinson's Disease Progression Using Longitudinal Voice Biomarkers: A Comparative Study of Statistical and Neural Mixed-Effects Models ](http://arxiv.org/abs/2507.20058v3) | Predicting Parkinson's Disease (PD) progression is crucial for personalized trea... |\n| [Structural Evaluation Metrics for SVG Generation via Leave-One-Out Analysis ](http://arxiv.org/abs/2604.08809v2) | SVG generation is typically evaluated by comparing rendered outputs to reference... |\n| [When Cultures Meet: Multicultural Text-to-Image Generation ](http://arxiv.org/abs/2502.15972v2) | Text-to-image generation models have achieved strong performance in culturally h... |\n| [Benchmarking Optimizers for MLPs in Tabular Deep Learning ](http://arxiv.org/abs/2604.15297v2) | MLP is a heavily used backbone in modern deep learning (DL) architectures for su... |\n| [ASMR-Bench: Auditing for Sabotage in ML Research ](http://arxiv.org/abs/2604.16286v1) | As AI systems are increasingly used to conduct research autonomously, misaligned... |\n| [Author-in-the-Loop Response Generation and Evaluation: Integrating Author Expertise and Intent in Responses to Peer Review ](http://arxiv.org/abs/2602.11173v2) | Author response (rebuttal) writing is a critical stage of scientific peer review... |\n| [Geometric regularization of autoencoders via observed stochastic dynamics ](http://arxiv.org/abs/2604.16282v1) | Stochastic dynamical systems with slow or metastable behavior evolve, on long ti... |\n| [Using Large Language Models and Knowledge Graphs to Improve the Interpretability of Machine Learning Models in Manufacturing ](http://arxiv.org/abs/2604.16280v1) | Explaining Machine Learning (ML) results in a transparent and user-friendly mann... |\n| [Evaluating the Progression of Large Language Model Capabilities for Small-Molecule Drug Design ](http://arxiv.org/abs/2604.16279v1) | Large Language Models (LLMs) have the potential to accelerate small molecule dru... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n| [tencent/HY-Embodied-0.5 ](https://huggingface.co/tencent/HY-Embodied-0.5) | Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-t... |\n| [unsloth/Qwen3.6-35B-A3B-GGUF ](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF) | Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Claude Token Counter, now with model comparisons](https://simonwillison.net/2026/Apr/20/claude-token-counts/) | HN Score: 37. Comments: 8 |\n| [[HackerNews] Changes in the system prompt between Claude Opus 4.6 and 4.7](https://simonwillison.net/2026/Apr/18/opus-system-prompt/) | HN Score: 260. Comments: 152 |\n| [[HackerNews] Swiss AI Initiative (2023)](https://www.swiss-ai.org) | HN Score: 38. Comments: 13 |\n| [[HackerNews] 2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/) | HN Score: 105. Comments: 33 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
