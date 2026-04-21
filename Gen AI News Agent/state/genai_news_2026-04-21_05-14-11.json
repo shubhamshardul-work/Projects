@@ -1,0 +1,248 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI helps Hyatt advance AI among colleagues ",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google rolls out Gemini in Chrome in 7 new countries",
+      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] It\u2019s not just one thing \u2014 it\u2019s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "summary": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guarantee.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] NSA spies are reportedly using Anthropic\u2019s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 334628",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1662",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 816485",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "summary": "HN Score: 36. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+      "url": "https://mediator.ai/",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "summary": "HN Score: 108. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How a subsea cable is repaired",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "summary": "HN Score: 22. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Air Is Full of DNA",
+      "url": "https://www.nature.com/articles/d41586-026-01099-2",
+      "summary": "HN Score: 41. Comments: 8",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI helps Hyatt advance AI among colleagues ",
+      "url": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "summary": "Hyatt deploys ChatGPT Enterprise across its global workforce, using GPT-5.4 and Codex to improve productivity, operations, and guest experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
+      "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+      "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google rolls out Gemini in Chrome in 7 new countries",
+      "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+      "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] It\u2019s not just one thing \u2014 it\u2019s another thing",
+      "url": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+      "summary": "This sentence construction (\"It's not just this \u2014 it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic \u2014 it's almost a guarantee.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] NSA spies are reportedly using Anthropic\u2019s Mythos, despite Pentagon feud",
+      "url": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 334628",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/HY-Embodied-0.5",
+      "url": "https://huggingface.co/tencent/HY-Embodied-0.5",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_vl_mot, image-text-to-text, hunyuan, vision-language. Downloads: 1662",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 816485",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] A Roblox cheat and one AI tool brought down Vercel's platform",
+      "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+      "summary": "HN Score: 36. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Mediator.ai \u2013 Using Nash bargaining and LLMs to systematize fairness",
+      "url": "https://mediator.ai/",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ternary Bonsai: Top Intelligence at 1.58 Bits",
+      "url": "https://prismml.com/news/ternary-bonsai",
+      "summary": "HN Score: 108. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How a subsea cable is repaired",
+      "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+      "summary": "HN Score: 22. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Air Is Full of DNA",
+      "url": "https://www.nature.com/articles/d41586-026-01099-2",
+      "summary": "HN Score: 41. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
