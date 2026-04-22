@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News, Developments, and Breakthroughs | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta will record employees\u2019 keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same companies now competing directly with Cursor for the developer market.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Accurate and scalable exchange-correlation with deep learning",
+      "url": "http://arxiv.org/abs/2506.14665v6",
+      "summary": "Density Functional Theory (DFT) underpins much of modern computational chemistry and materials science. Yet, the reliability of DFT-derived predictions of experimentally measurable properties remains ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization at the Edge of Stability",
+      "url": "http://arxiv.org/abs/2604.19740v1",
+      "summary": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+      "url": "http://arxiv.org/abs/2604.19738v1",
+      "summary": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Safe Continual Reinforcement Learning in Non-stationary Environments",
+      "url": "http://arxiv.org/abs/2604.19737v1",
+      "summary": "Reinforcement learning (RL) offers a compelling data-driven paradigm for synthesizing controllers for complex systems when accurate physical models are unavailable; however, most existing control-orie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tackling multiphysics problems via finite element-guided physics-informed operator learning",
+      "url": "http://arxiv.org/abs/2603.01420v3",
+      "summary": "This work presents a finite element-guided physics-informed operator learning framework for multiphysics problems with coupled partial differential equations (PDEs) on arbitrary domains. The proposed ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "url": "http://arxiv.org/abs/2604.19734v1",
+      "summary": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MapPFN: Learning Causal Perturbation Maps in Context",
+      "url": "http://arxiv.org/abs/2601.21092v2",
+      "summary": "Planning effective interventions in biological systems requires treatment-effect models that adapt to unseen biological contexts by identifying their specific underlying mechanisms. Yet single-cell pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks",
+      "url": "http://arxiv.org/abs/2508.12121v5",
+      "summary": "We show that gating mechanisms in recurrent neural networks (RNNs) induce lag-dependent and direction-dependent effective learning rates, even when training uses a fixed, global step size. This behavi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Local Updates in Distributed Optimization: Provable Acceleration and Topology Effects",
+      "url": "http://arxiv.org/abs/2601.03442v4",
+      "summary": "Inspired by the success of performing multiple local optimization steps between communication rounds in federated learning, incorporating such local updates into distributed optimization has recently ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FASTER: Value-Guided Sampling for Fast RL",
+      "url": "http://arxiv.org/abs/2604.19730v1",
+      "summary": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 458436",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 8241",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 967317",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "summary": "HN Score: 621. Comments: 512",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "summary": "HN Score: 100. Comments: 32",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "summary": "HN Score: 159. Comments: 73",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "summary": "HN Score: 423. Comments: 331",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "summary": "HN Score: 454. Comments: 431",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News, Developments, and Breakthroughs | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Scaling Codex to enterprises worldwide",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "summary": "OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and others to help enterprises deploy and scale Codex across the software development lifecycle, and hits 4M Codex WAU.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta will record employees\u2019 keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same companies now competing directly with Cursor for the developer market.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield",
+      "url": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
+      "summary": "Apple's top job comes with almost unrivaled power and money, but it comes with plenty of baggage, too.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Accurate and scalable exchange-correlation with deep learning",
+      "url": "http://arxiv.org/abs/2506.14665v6",
+      "summary": "Density Functional Theory (DFT) underpins much of modern computational chemistry and materials science. Yet, the reliability of DFT-derived predictions of experimentally measurable properties remains ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generalization at the Edge of Stability",
+      "url": "http://arxiv.org/abs/2604.19740v1",
+      "summary": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+      "url": "http://arxiv.org/abs/2604.19738v1",
+      "summary": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Safe Continual Reinforcement Learning in Non-stationary Environments",
+      "url": "http://arxiv.org/abs/2604.19737v1",
+      "summary": "Reinforcement learning (RL) offers a compelling data-driven paradigm for synthesizing controllers for complex systems when accurate physical models are unavailable; however, most existing control-orie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tackling multiphysics problems via finite element-guided physics-informed operator learning",
+      "url": "http://arxiv.org/abs/2603.01420v3",
+      "summary": "This work presents a finite element-guided physics-informed operator learning framework for multiphysics problems with coupled partial differential equations (PDEs) on arbitrary domains. The proposed ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "url": "http://arxiv.org/abs/2604.19734v1",
+      "summary": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MapPFN: Learning Causal Perturbation Maps in Context",
+      "url": "http://arxiv.org/abs/2601.21092v2",
+      "summary": "Planning effective interventions in biological systems requires treatment-effect models that adapt to unseen biological contexts by identifying their specific underlying mechanisms. Yet single-cell pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks",
+      "url": "http://arxiv.org/abs/2508.12121v5",
+      "summary": "We show that gating mechanisms in recurrent neural networks (RNNs) induce lag-dependent and direction-dependent effective learning rates, even when training uses a fixed, global step size. This behavi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Local Updates in Distributed Optimization: Provable Acceleration and Topology Effects",
+      "url": "http://arxiv.org/abs/2601.03442v4",
+      "summary": "Inspired by the success of performing multiple local optimization steps between communication rounds in federated learning, incorporating such local updates into distributed optimization has recently ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FASTER: Value-Guided Sampling for Fast RL",
+      "url": "http://arxiv.org/abs/2604.19730v1",
+      "summary": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 458436",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 8241",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 967317",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "summary": "HN Score: 621. Comments: 512",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "summary": "HN Score: 100. Comments: 32",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "summary": "HN Score: 159. Comments: 73",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "summary": "HN Score: 423. Comments: 331",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "summary": "HN Score: 454. Comments: 431",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Meta will record employees\u2019 keystrokes and use it to train its AI models",
+        "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+        "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+      },
+      {
+        "title": "[RSS] Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+        "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+        "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+      },
+      {
+        "title": "[RSS] SpaceX is working with Cursor and has an option to buy the startup for $60B",
+        "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+        "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same companies now competing directly with Cursor for the developer market."
+      },
+      {
+        "title": "[HackerNews] Meta to start capturing employee mouse movements, keystrokes for AI training",
+        "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+        "summary": "HN Score: 423. Comments: 331"
+      },
+      {
+        "title": "[HackerNews] Claude Code to be removed from Anthropic's Pro plan?",
+        "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+        "summary": "HN Score: 454. Comments: 431"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+        "url": "https://www.brex.com/crabtrap",
+        "summary": "HN Score: 100. Comments: 32"
+      },
+      {
+        "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Generalization at the Edge of Stability",
+        "url": "http://arxiv.org/abs/2604.19740v1",
+        "summary": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re..."
+      },
+      {
+        "title": "[ArXiv] Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+        "url": "http://arxiv.org/abs/2604.19738v1",
+        "summary": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymp..."
+      },
+      {
+        "title": "[ArXiv] Safe Continual Reinforcement Learning in Non-stationary Environments",
+        "url": "http://arxiv.org/abs/2604.19737v1",
+        "summary": "Reinforcement learning (RL) offers a compelling data-driven paradigm for synthesizing controllers for complex systems when accurate physical models are unavailable; however, most existing control-orie..."
+      },
+      {
+        "title": "[ArXiv] UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+        "url": "http://arxiv.org/abs/2604.19734v1",
+        "summary": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun..."
+      },
+      {
+        "title": "[ArXiv] FASTER: Value-Guided Sampling for Fast RL",
+        "url": "http://arxiv.org/abs/2604.19730v1",
+        "summary": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Meta will record employees\u2019 keystrokes and use it to train its AI models",
+      "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models."
+    },
+    {
+      "title": "[RSS] Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims",
+      "url": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+      "summary": "Anthropic told TechCrunch it is investigating the claims, but maintains that there is no evidence that its systems have been impacted."
+    },
+    {
+      "title": "[RSS] SpaceX is working with Cursor and has an option to buy the startup for $60B",
+      "url": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+      "summary": "The move could shore up weaknesses at each company, but it also reveals them. Neither Cursor nor xAI has proprietary models that can match the leading offerings from Anthropic and OpenAI \u2014 the same companies now competing directly with Cursor for the developer market."
+    },
+    {
+      "title": "[HackerNews] Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "summary": "HN Score: 423. Comments: 331"
+    },
+    {
+      "title": "[HackerNews] Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "summary": "HN Score: 454. Comments: 431"
+    },
+    {
+      "title": "[HackerNews] CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "summary": "HN Score: 100. Comments: 32"
+    },
+    {
+      "title": "[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[ArXiv] Generalization at the Edge of Stability",
+      "url": "http://arxiv.org/abs/2604.19740v1",
+      "summary": "Training modern neural networks often relies on large learning rates, operating at the edge of stability, where the optimization dynamics exhibit oscillatory and chaotic behavior. Empirically, this re..."
+    },
+    {
+      "title": "[ArXiv] Phase Transitions in the Fluctuations of Functionals of Random Neural Networks",
+      "url": "http://arxiv.org/abs/2604.19738v1",
+      "summary": "We establish central and non-central limit theorems for sequences of functionals of the Gaussian output of an infinitely-wide random neural network on the d-dimensional sphere . We show that the asymp..."
+    },
+    {
+      "title": "[ArXiv] Safe Continual Reinforcement Learning in Non-stationary Environments",
+      "url": "http://arxiv.org/abs/2604.19737v1",
+      "summary": "Reinforcement learning (RL) offers a compelling data-driven paradigm for synthesizing controllers for complex systems when accurate physical models are unavailable; however, most existing control-orie..."
+    },
+    {
+      "title": "[ArXiv] UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "url": "http://arxiv.org/abs/2604.19734v1",
+      "summary": "Scaling humanoid foundation models is bottlenecked by the scarcity of robotic data. While massive egocentric human data offers a scalable alternative, bridging the cross-embodiment chasm remains a fun..."
+    },
+    {
+      "title": "[ArXiv] FASTER: Value-Guided Sampling for Fast RL",
+      "url": "http://arxiv.org/abs/2604.19730v1",
+      "summary": "Some of the most performant reinforcement learning algorithms today can be prohibitively expensive as they use test-time scaling methods such as sampling multiple action candidates and selecting the b..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Data Grabs, Security Breaches, and the Race for Foundational AI\n\nToday's AI landscape is marked by aggressive data acquisition strategies, critical security challenges, and a relentless pursuit of both foundational understanding and practical deployment solutions. From corporate data ethics to cutting-edge research, the industry is navigating complex terrain at an accelerating pace.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Meta will record employees\u2019 keystrokes and use it to train its AI models](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/)**\nMeta's move to convert employee mouse movements and keystrokes into AI training data signals an aggressive push for proprietary data, highlighting the intense competition for unique datasets. While potentially offering a competitive edge in model development, this strategy raises significant privacy concerns and could invite scrutiny from employees and regulators alike, impacting corporate reputation and trust.\n\n### **[Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/)**\nReports of an unauthorized group accessing Anthropic's exclusive cyber tool, Mythos, underscore the critical security vulnerabilities inherent in advanced AI systems. For business leaders, this incident highlights the paramount importance of robust cybersecurity measures for AI products, as breaches can severely erode trust, compromise sensitive data, and impact competitive positioning in the rapidly evolving AI market.\n\n### **[SpaceX is working with Cursor and has an option to buy the startup for $60B](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/)**\nSpaceX's potential acquisition of Cursor for a staggering $60 billion, following its collaboration with xAI, reveals a strategic consolidation play to bolster its AI capabilities. This move indicates a recognition that even industry giants need to acquire specialized talent and technology to compete with leading AI model developers like Anthropic and OpenAI, signaling a continued trend of high-value M&A in the AI sector.\n\n### **[Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/)**\nThis corroborating report from Reuters reinforces the strategic significance and potential controversy surrounding Meta's internal data collection practices. Business leaders should note the broad public and media attention this garners, indicating that such aggressive data strategies will face intense scrutiny regarding ethics, privacy, and employee relations.\n\n### **[Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a)**\nThe rumored removal of \"Claude Code\" from Anthropic's Pro plan suggests a potential strategic shift in product offerings or a re-evaluation of core features. Executives and investors should monitor such changes closely, as they can impact developer adoption, competitive positioning, and the overall value proposition of a leading AI platform.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap)**\nCrabTrap introduces a practical and innovative solution for securing LLM-powered agents in production environments by leveraging an LLM itself as a judge. Developers should *watch* this tool closely as it offers a promising approach to mitigate risks and ensure the safe deployment of AI agents, addressing a critical need for robust guardrails in agentic workflows.\n\n### **[19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines](https://www.youtube.com/watch?v=QVJcdfkRpH8)**\nThis YouTube video promises a deep dive into Claude Opus 4.7, offering nuanced insights beyond surface-level news. Engineers and practitioners should *watch* this content to gain a more comprehensive understanding of Claude Opus's capabilities and limitations, enabling them to optimize its use in their projects and unlock its full potential.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Generalization at the Edge of Stability](http://arxiv.org/abs/2604.19740v1)**\nThis paper explores the intriguing phenomenon of neural networks achieving strong generalization when trained with large learning rates, operating at the \"edge of stability.\" Researchers should delve into this work to better understand the complex optimization dynamics that lead to effective model performance, potentially guiding the development of more robust and efficient training methodologies.\n\n### **[Phase Transitions in the Fluctuations of Functionals of Random Neural Networks](http://arxiv.org/abs/2604.19738v1)**\nThis theoretical work establishes central and non-central limit theorems for functionals of infinitely-wide random neural networks, revealing phase transitions in their asymptotic behavior. Academics will find this crucial for advancing the foundational understanding of neural network statistics, which can inform future architectural designs and theoretical guarantees for deep learning models.\n\n### **[Safe Continual Reinforcement Learning in Non-stationary Environments](http://arxiv.org/abs/2604.19737v1)**\nThis research addresses the critical challenge of enabling reinforcement learning agents to adapt safely and continuously in dynamic, non-stationary environments. For deep-tech thinkers, this work is vital for developing truly robust and reliable autonomous systems that can operate effectively and safely in real-world, unpredictable conditions.\n\n### **[UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling](http://arxiv.org/abs/2604.19734v1)**\nUniT proposes a novel approach to bridge the \"cross-embodiment chasm\" by creating a unified physical language to transfer policies from human data to humanoid robots. This is a significant step towards scaling humanoid foundation models by leveraging abundant human egocentric data, offering a promising path for more capable and versatile robotic systems.\n\n### **[FASTER: Value-Guided Sampling for Fast RL](http://arxiv.org/abs/2604.19730v1)**\nFASTER introduces a value-guided sampling method to significantly reduce the computational expense of high-performing reinforcement learning algorithms. Researchers will find this paper impactful for developing more efficient RL techniques, making complex algorithms more practical for real-world applications and accelerating the pace of experimentation.\n\n---\n\n**Today's Signal**: The drive for competitive advantage in AI is intensifying, pushing boundaries in data collection, strategic partnerships, and the fundamental understanding of intelligent systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News, Developments, and Breakthroughs | 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Scaling Codex to enterprises worldwide ](https://openai.com/index/scaling-codex-to-enterprises-worldwide) | OpenAI launches Codex Labs, partners with with Accenture, PwC, Infosys, and othe... |\n| [Meta will record employees\u2019 keystrokes and use it to train its AI models ](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/) | Meta says that it has a new internal tool that is converting mouse movements and... |\n| [Unauthorized group has gained access to Anthropic\u2019s exclusive cyber tool Mythos, report claims ](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/) | Anthropic told TechCrunch it is investigating the claims, but maintains that the... |\n| [SpaceX is working with Cursor and has an option to buy the startup for $60B ](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) | The move could shore up weaknesses at each company, but it also reveals them. Ne... |\n| [Apple\u2019s John Ternus will run one of the world\u2019s most powerful companies; the job is a minefield ](https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/) | Apple's top job comes with almost unrivaled power and money, but it comes with p... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Accurate and scalable exchange-correlation with deep learning ](http://arxiv.org/abs/2506.14665v6) | Density Functional Theory (DFT) underpins much of modern computational chemistry... |\n| [Generalization at the Edge of Stability ](http://arxiv.org/abs/2604.19740v1) | Training modern neural networks often relies on large learning rates, operating ... |\n| [Phase Transitions in the Fluctuations of Functionals of Random Neural Networks ](http://arxiv.org/abs/2604.19738v1) | We establish central and non-central limit theorems for sequences of functionals... |\n| [Safe Continual Reinforcement Learning in Non-stationary Environments ](http://arxiv.org/abs/2604.19737v1) | Reinforcement learning (RL) offers a compelling data-driven paradigm for synthes... |\n| [Tackling multiphysics problems via finite element-guided physics-informed operator learning ](http://arxiv.org/abs/2603.01420v3) | This work presents a finite element-guided physics-informed operator learning fr... |\n| [UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling ](http://arxiv.org/abs/2604.19734v1) | Scaling humanoid foundation models is bottlenecked by the scarcity of robotic da... |\n| [MapPFN: Learning Causal Perturbation Maps in Context ](http://arxiv.org/abs/2601.21092v2) | Planning effective interventions in biological systems requires treatment-effect... |\n| [Time-Scale Coupling Between States and Parameters in Recurrent Neural Networks ](http://arxiv.org/abs/2508.12121v5) | We show that gating mechanisms in recurrent neural networks (RNNs) induce lag-de... |\n| [Local Updates in Distributed Optimization: Provable Acceleration and Topology Effects ](http://arxiv.org/abs/2601.03442v4) | Inspired by the success of performing multiple local optimization steps between ... |\n| [FASTER: Value-Guided Sampling for Fast RL ](http://arxiv.org/abs/2604.19730v1) | Some of the most performant reinforcement learning algorithms today can be prohi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n| [moonshotai/Kimi-K2.6 ](https://huggingface.co/moonshotai/Kimi-K2.6) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction... |\n| [unsloth/Qwen3.6-35B-A3B-GGUF ](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF) | Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] ChatGPT Images 2.0](https://openai.com/index/introducing-chatgpt-images-2-0/) | HN Score: 621. Comments: 512 |\n| [[HackerNews] CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production](https://www.brex.com/crabtrap) | HN Score: 100. Comments: 32 |\n| [[HackerNews] Stephen's Sausage Roll remains one of the most influential puzzle games](https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/) | HN Score: 159. Comments: 73 |\n| [[HackerNews] Meta to start capturing employee mouse movements, keystrokes for AI training](https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/) | HN Score: 423. Comments: 331 |\n| [[HackerNews] Claude Code to be removed from Anthropic's Pro plan?](https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a) | HN Score: 454. Comments: 431 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] 19 Claude Opus 4.7 Insights You Wouldn\u2019t Get From the Headlines](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
