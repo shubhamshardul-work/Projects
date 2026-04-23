@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
+      "url": "http://arxiv.org/abs/2604.20842v1",
+      "summary": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation",
+      "url": "http://arxiv.org/abs/2601.03396v2",
+      "summary": "Procedural content generation has enabled vast virtual worlds through levels, maps, and quests, but large-scale character generation remains underexplored. We identify two alignment-induced biases in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v1",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AVISE: Framework for Evaluating the Security of AI Systems",
+      "url": "http://arxiv.org/abs/2604.20833v1",
+      "summary": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
+      "url": "http://arxiv.org/abs/2604.20825v1",
+      "summary": "Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. I...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
+      "url": "http://arxiv.org/abs/2604.20824v1",
+      "summary": "The central problem in biomedical imaging are batch effects: systematic technical variations unrelated to the biological signal of interest. These batch effects critically undermine experimental repro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
+      "url": "http://arxiv.org/abs/2604.20822v1",
+      "summary": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth O...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
+      "url": "http://arxiv.org/abs/2604.20819v1",
+      "summary": "The scalability of long-context large language models is fundamentally limited by the quadratic memory cost of exact self-attention, which often leads to out-of-memory (OOM) failures on modern hardwar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Convergent Evolution: How Different Language Models Learn Similar Number Representations",
+      "url": "http://arxiv.org/abs/2604.20817v1",
+      "summary": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
+      "url": "http://arxiv.org/abs/2604.20816v1",
+      "summary": "Reinforcement Learning (RL) post-training has become the standard for aligning generative models with human preferences, yet most methods rely on a single scalar reward. When multiple criteria matter,...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 582961",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 54456",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 1112454",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "HN Score: 771. Comments: 367",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+      "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+      "summary": "HN Score: 17. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "HN Score: 330. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "summary": "HN Score: 52. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "summary": "HN Score: 212. Comments: 64",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Making ChatGPT better for clinicians",
+      "url": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+      "summary": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Speeding up agentic workflows with WebSockets in the Responses API",
+      "url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing workspace agents in ChatGPT",
+      "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+      "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Workspace agents",
+      "url": "https://openai.com/academy/workspace-agents",
+      "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
+      "url": "http://arxiv.org/abs/2604.20842v1",
+      "summary": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation",
+      "url": "http://arxiv.org/abs/2601.03396v2",
+      "summary": "Procedural content generation has enabled vast virtual worlds through levels, maps, and quests, but large-scale character generation remains underexplored. We identify two alignment-induced biases in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v1",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AVISE: Framework for Evaluating the Security of AI Systems",
+      "url": "http://arxiv.org/abs/2604.20833v1",
+      "summary": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
+      "url": "http://arxiv.org/abs/2604.20825v1",
+      "summary": "Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. I...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples",
+      "url": "http://arxiv.org/abs/2604.20824v1",
+      "summary": "The central problem in biomedical imaging are batch effects: systematic technical variations unrelated to the biological signal of interest. These batch effects critically undermine experimental repro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
+      "url": "http://arxiv.org/abs/2604.20822v1",
+      "summary": "The offshore wind energy sector is expanding rapidly, increasing the need for independent, high-temporal-resolution monitoring of infrastructure deployment and operation at global scale. While Earth O...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
+      "url": "http://arxiv.org/abs/2604.20819v1",
+      "summary": "The scalability of long-context large language models is fundamentally limited by the quadratic memory cost of exact self-attention, which often leads to out-of-memory (OOM) failures on modern hardwar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Convergent Evolution: How Different Language Models Learn Similar Number Representations",
+      "url": "http://arxiv.org/abs/2604.20817v1",
+      "summary": "Language models trained on natural text learn to represent numbers using periodic features with dominant periods at $T=2, 5, 10$. In this paper, we identify a two-tiered hierarchy of these features: w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
+      "url": "http://arxiv.org/abs/2604.20816v1",
+      "summary": "Reinforcement Learning (RL) post-training has become the standard for aligning generative models with human preferences, yet most methods rely on a single scalar reward. When multiple criteria matter,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 582961",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 54456",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 1112454",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "HN Score: 771. Comments: 367",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+      "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+      "summary": "HN Score: 17. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "HN Score: 330. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's response to the Axios developer tool compromise",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "summary": "HN Score: 52. Comments: 17",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Website streamed live directly from a model",
+      "url": "https://flipbook.page/",
+      "summary": "HN Score: 212. Comments: 64",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+        "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+        "summary": "HN Score: 17. Comments: 4"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Introducing OpenAI Privacy Filter",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter",
+        "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 582961"
+      },
+      {
+        "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+        "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+        "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 1112454"
+      },
+      {
+        "title": "[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+        "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+        "summary": "HN Score: 771. Comments: 367"
+      },
+      {
+        "title": "[HackerNews] Over-editing refers to a model modifying code beyond what is necessary",
+        "url": "https://nrehiew.github.io/blog/minimal_editing/",
+        "summary": "HN Score: 330. Comments: 184"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
+        "url": "http://arxiv.org/abs/2604.20842v1",
+        "summary": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec..."
+      },
+      {
+        "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+        "url": "http://arxiv.org/abs/2604.20835v1",
+        "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin..."
+      },
+      {
+        "title": "[ArXiv] AVISE: Framework for Evaluating the Security of AI Systems",
+        "url": "http://arxiv.org/abs/2604.20833v1",
+        "summary": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures...."
+      },
+      {
+        "title": "[ArXiv] Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
+        "url": "http://arxiv.org/abs/2604.20819v1",
+        "summary": "The scalability of long-context large language models is fundamentally limited by the quadratic memory cost of exact self-attention, which often leads to out-of-memory (OOM) failures on modern hardwar..."
+      },
+      {
+        "title": "[ArXiv] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
+        "url": "http://arxiv.org/abs/2604.20816v1",
+        "summary": "Reinforcement Learning (RL) post-training has become the standard for aligning generative models with human preferences, yet most methods rely on a single scalar reward. When multiple criteria matter,..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic",
+      "url": "https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/",
+      "summary": "HN Score: 17. Comments: 4"
+    },
+    {
+      "title": "[RSS] Introducing OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "summary": "OpenAI Privacy Filter is an open-weight model for detecting and redacting personally identifiable information (PII) in text with state-of-the-art accuracy"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 582961"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF",
+      "url": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+      "summary": "Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-text-to-text. Downloads: 1112454"
+    },
+    {
+      "title": "[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "url": "https://qwen.ai/blog?id=qwen3.6-27b",
+      "summary": "HN Score: 771. Comments: 367"
+    },
+    {
+      "title": "[HackerNews] Over-editing refers to a model modifying code beyond what is necessary",
+      "url": "https://nrehiew.github.io/blog/minimal_editing/",
+      "summary": "HN Score: 330. Comments: 184"
+    },
+    {
+      "title": "[ArXiv] SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation",
+      "url": "http://arxiv.org/abs/2604.20842v1",
+      "summary": "Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjec..."
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v1",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin..."
+    },
+    {
+      "title": "[ArXiv] AVISE: Framework for Evaluating the Security of AI Systems",
+      "url": "http://arxiv.org/abs/2604.20833v1",
+      "summary": "As artificial intelligence (AI) systems are increasingly deployed across critical domains, their security vulnerabilities pose growing risks of high-profile exploits and consequential system failures...."
+    },
+    {
+      "title": "[ArXiv] Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling",
+      "url": "http://arxiv.org/abs/2604.20819v1",
+      "summary": "The scalability of long-context large language models is fundamentally limited by the quadratic memory cost of exact self-attention, which often leads to out-of-memory (OOM) failures on modern hardwar..."
+    },
+    {
+      "title": "[ArXiv] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
+      "url": "http://arxiv.org/abs/2604.20816v1",
+      "summary": "Reinforcement Learning (RL) post-training has become the standard for aligning generative models with human preferences, yet most methods rely on a single scalar reward. When multiple criteria matter,..."
+    }
+  ],
+  "final_report": "# AI's Evolving Landscape: Trust, Tools, and Tomorrow's Tech\n\nToday's AI intelligence report highlights a dynamic interplay between market trust, practical developer tools, and cutting-edge research. We're seeing both the strategic challenges faced by major players and the continuous innovation driving the field forward.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama**\nAnthropic's Claude Opus continues to push performance boundaries, as suggested by this YouTube deep dive into version 4.7. However, the \"drama\" hinted at in the title, combined with other reports, suggests that raw capability isn't the only factor determining market leadership. Strategic positioning and public perception are increasingly critical.\n\n### **[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic**\nThis HackerNews discussion points to a growing concern regarding the verification and reliability of claims made by AI developers, specifically Anthropic. For business leaders and investors, this erosion of trust can have significant strategic implications, impacting adoption rates and long-term market confidence in even the most performant models.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[RSS] Introducing OpenAI Privacy Filter**\nOpenAI has released an open-weight Privacy Filter model designed to detect and redact Personally Identifiable Information (PII) with high accuracy. This is a crucial tool for developers building privacy-conscious AI applications, offering a practical solution to a common data security challenge. It enables safer deployment of LLMs in sensitive environments.\n\n### **[HuggingFace] Qwen/Qwen3.6-35B-A3B**\nThe Qwen team continues to impress with their latest release, Qwen3.6-35B-A3B, trending on HuggingFace for its image-text-to-text and conversational capabilities. This model offers developers a powerful, versatile option for multimodal applications, showcasing the rapid advancements in open-source foundational models. Its high download count indicates strong community interest and adoption.\n\n### **[HuggingFace] unsloth/Qwen3.6-35B-A3B-GGUF**\nFurther solidifying Qwen's impact, Unsloth has released a GGUF version of Qwen3.6-35B-A3B, making it highly efficient for local deployment on consumer hardware. This GGUF variant is a game-changer for developers looking to run powerful models without extensive cloud resources, democratizing access to advanced AI capabilities and fostering broader experimentation.\n\n### **[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model**\nQwen's new 27B dense model, Qwen3.6-27B, is making waves for its \"flagship-level\" coding performance, as highlighted on HackerNews. This release signals a significant leap in code generation capabilities for more compact models, providing developers with a highly efficient and powerful tool for software development tasks. Its strong reception underscores the demand for specialized, high-performing coding assistants.\n\n### **[HackerNews] Over-editing refers to a model modifying code beyond what is necessary**\nA critical discussion on HackerNews addresses the \"over-editing\" problem in AI-assisted code generation, where models make unnecessary modifications. This insight is vital for developers, emphasizing the need for models that understand context and intent to provide truly helpful, minimal edits, thereby improving the efficiency and reliability of AI coding tools.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ArXiv] SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation**\nResearchers are tackling the nuanced challenge of evaluating paralinguistic cues in Large Audio-Language Models (LALMs) with a new benchmark. This work is crucial for developing more natural and emotionally intelligent human-computer interactions, moving beyond basic speech synthesis to capture the full richness of human communication.\n\n### **[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL**\nThis paper explores methods to enhance code generation capabilities for lower-resource programming languages, a significant hurdle for current models. By improving zero-shot cross-language transfer, researchers aim to make AI coding assistants more versatile and applicable across a wider array of development environments, democratizing advanced coding tools.\n\n### **[ArXiv] AVISE: Framework for Evaluating the Security of AI Systems**\nAs AI systems become ubiquitous, their security vulnerabilities pose increasing risks, prompting the development of the AVISE framework. This research provides a structured approach to evaluating AI system security, which is paramount for ensuring reliable and trustworthy deployments in critical domains. It lays the groundwork for more robust AI safety protocols.\n\n### **[ArXiv] Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling**\nThe quadratic memory cost of self-attention remains a fundamental limitation for long-context LLMs, leading to out-of-memory errors. This paper introduces Stream-CQSA, a novel approach to optimize attention computation, promising to unlock significantly longer context windows and enable more complex reasoning in future AI models.\n\n### **[ArXiv] ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control**\nCurrent generative model alignment often relies on single scalar rewards, but this research introduces ParetoSlider to control diffusion models based on multiple, continuous human preferences. This advancement allows for more nuanced and flexible control over generative AI outputs, moving towards models that can better balance conflicting objectives and user desires.\n\n**Today's Signal:** The AI landscape is rapidly maturing, demanding not only groundbreaking performance but also robust trust, practical utility, and foundational research into security and efficiency.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM) | ... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancement... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Making ChatGPT better for clinicians ](https://openai.com/index/making-chatgpt-better-for-clinicians) | OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse pra... |\n| [Speeding up agentic workflows with WebSockets in the Responses API ](https://openai.com/index/speeding-up-agentic-workflows-with-websockets) | A deep dive into the Codex agent loop, showing how WebSockets and connection-sco... |\n| [Introducing workspace agents in ChatGPT ](https://openai.com/index/introducing-workspace-agents-in-chatgpt) | Workspace agents in ChatGPT are Codex-powered agents that automate complex workf... |\n| [Workspace agents ](https://openai.com/academy/workspace-agents) | Learn how to build, use, and scale workspace agents in ChatGPT to automate repea... |\n| [Introducing OpenAI Privacy Filter ](https://openai.com/index/introducing-openai-privacy-filter) | OpenAI Privacy Filter is an open-weight model for detecting and redacting person... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation ](http://arxiv.org/abs/2604.20842v1) | Paralinguistic cues are essential for natural human-computer interaction, yet th... |\n| [Breaking the Assistant Mold: Modeling Behavioral Variation in LLM Based Procedural Character Generation ](http://arxiv.org/abs/2601.03396v2) | Procedural content generation has enabled vast virtual worlds through levels, ma... |\n| [Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL ](http://arxiv.org/abs/2604.20835v1) | Modern language models demonstrate impressive coding capabilities in common prog... |\n| [AVISE: Framework for Evaluating the Security of AI Systems ](http://arxiv.org/abs/2604.20833v1) | As artificial intelligence (AI) systems are increasingly deployed across critica... |\n| [FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels ](http://arxiv.org/abs/2604.20825v1) | Federated learning (FL) enables collaborative model training without sharing raw... |\n| [Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples ](http://arxiv.org/abs/2604.20824v1) | The central problem in biomedical imaging are batch effects: systematic technica... |\n| [Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series ](http://arxiv.org/abs/2604.20822v1) | The offshore wind energy sector is expanding rapidly, increasing the need for in... |\n| [Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling ](http://arxiv.org/abs/2604.20819v1) | The scalability of long-context large language models is fundamentally limited b... |\n| [Convergent Evolution: How Different Language Models Learn Similar Number Representations ](http://arxiv.org/abs/2604.20817v1) | Language models trained on natural text learn to represent numbers using periodi... |\n| [ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control ](http://arxiv.org/abs/2604.20816v1) | Reinforcement Learning (RL) post-training has become the standard for aligning g... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n| [moonshotai/Kimi-K2.6 ](https://huggingface.co/moonshotai/Kimi-K2.6) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction... |\n| [unsloth/Qwen3.6-35B-A3B-GGUF ](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF) | Trending HF Model. Tags: transformers, gguf, unsloth, qwen, qwen3_5_moe, image-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model](https://qwen.ai/blog?id=qwen3.6-27b) | HN Score: 771. Comments: 367 |\n| [[HackerNews] A Boy That Cried Mythos: Verification Is Collapsing Trust in Anthropic](https://www.flyingpenguin.com/the-boy-that-cried-mythos-verification-is-collapsing-trust-in-anthropic/) | HN Score: 17. Comments: 4 |\n| [[HackerNews] Over-editing refers to a model modifying code beyond what is necessary](https://nrehiew.github.io/blog/minimal_editing/) | HN Score: 330. Comments: 184 |\n| [[HackerNews] OpenAI's response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise/) | HN Score: 52. Comments: 17 |\n| [[HackerNews] Website streamed live directly from a model](https://flipbook.page/) | HN Score: 212. Comments: 64 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Claude Opus 4.7 - A New Frontier, in Performance \u2026 and Drama](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
