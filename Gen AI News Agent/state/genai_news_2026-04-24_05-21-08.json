@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "url": "http://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "url": "http://arxiv.org/abs/2604.19533v3",
+      "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Sample Complexity of Multicalibration",
+      "url": "http://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v2",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+      "url": "http://arxiv.org/abs/2510.04371v2",
+      "summary": "AI agents are increasingly deployed in complex, interactive environments, yet their runtime remains a major bottleneck for training, evaluation, and real-world use. Typical agent behavior unfolds sequ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2510.05482v2",
+      "summary": "Molecular dynamics (MD) simulations underpin modern computational drug discovery, materials science, and biochemistry. Recent machine learning models provide high-fidelity MD predictions without the n...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, license:mit, endpoints_compatible. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 125825",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 717811",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "HN Score: 1219. Comments: 832",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "HN Score: 623. Comments: 485",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "summary": "HN Score: 701. Comments: 344",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "summary": "HN Score: 107. Comments: 164",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "summary": "HN Score: 187. Comments: 102",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM",
+      "summary": "... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Automations",
+      "url": "https://openai.com/academy/codex-automations",
+      "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Top 10 uses for Codex at work",
+      "url": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+      "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Plugins and skills",
+      "url": "https://openai.com/academy/codex-plugins-and-skills",
+      "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "url": "http://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "url": "http://arxiv.org/abs/2604.19533v3",
+      "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Sample Complexity of Multicalibration",
+      "url": "http://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v2",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+      "url": "http://arxiv.org/abs/2510.04371v2",
+      "summary": "AI agents are increasingly deployed in complex, interactive environments, yet their runtime remains a major bottleneck for training, evaluation, and real-world use. Typical agent behavior unfolds sequ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2510.05482v2",
+      "summary": "Molecular dynamics (MD) simulations underpin modern computational drug discovery, materials science, and biochemistry. Recent machine learning models provide high-fidelity MD predictions without the n...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, license:mit, endpoints_compatible. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 125825",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 717811",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "HN Score: 1219. Comments: 832",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "HN Score: 623. Comments: 485",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+      "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+      "summary": "HN Score: 701. Comments: 344",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+      "summary": "HN Score: 107. Comments: 164",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "summary": "HN Score: 187. Comments: 102",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Introducing GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5",
+        "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+      },
+      {
+        "title": "[RSS] GPT-5.5 System Card",
+        "url": "https://openai.com/index/gpt-5-5-system-card",
+        "summary": ""
+      },
+      {
+        "title": "[HackerNews] GPT-5.5",
+        "url": "https://openai.com/index/introducing-gpt-5-5/",
+        "summary": "HN Score: 1219. Comments: 832"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 125825"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 717811"
+      },
+      {
+        "title": "[HackerNews] An update on recent Claude Code quality reports",
+        "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+        "summary": "HN Score: 623. Comments: 485"
+      },
+      {
+        "title": "[HackerNews] MeshCore development team splits over trademark dispute and AI-generated code",
+        "url": "https://blog.meshcore.io/2026/04/23/the-split",
+        "summary": "HN Score: 187. Comments: 102"
+      },
+      {
+        "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+        "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+        "url": "http://arxiv.org/abs/2604.21931v1",
+        "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..."
+      },
+      {
+        "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+        "url": "http://arxiv.org/abs/2604.21930v1",
+        "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra..."
+      },
+      {
+        "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+        "url": "http://arxiv.org/abs/2604.21928v1",
+        "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe..."
+      },
+      {
+        "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+        "url": "http://arxiv.org/abs/2604.21927v1",
+        "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ..."
+      },
+      {
+        "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+        "url": "http://arxiv.org/abs/2604.21916v1",
+        "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Introducing GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5",
+      "summary": "Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+    },
+    {
+      "title": "[RSS] GPT-5.5 System Card",
+      "url": "https://openai.com/index/gpt-5-5-system-card",
+      "summary": ""
+    },
+    {
+      "title": "[HackerNews] GPT-5.5",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "summary": "HN Score: 1219. Comments: 832"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 125825"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-35B-A3B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-text, conversational, license:apache-2.0. Downloads: 717811"
+    },
+    {
+      "title": "[HackerNews] An update on recent Claude Code quality reports",
+      "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "summary": "HN Score: 623. Comments: 485"
+    },
+    {
+      "title": "[HackerNews] MeshCore development team splits over trademark dispute and AI-generated code",
+      "url": "https://blog.meshcore.io/2026/04/23/the-split",
+      "summary": "HN Score: 187. Comments: 102"
+    },
+    {
+      "title": "[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?",
+      "url": "https://www.youtube.com/watch?v=QVJcdfkRpH8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..."
+    },
+    {
+      "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "url": "http://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra..."
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe..."
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ..."
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: GPT-5.5 Unveils New Frontier, Developers Grapple with Practicalities\n\nToday marks a significant leap in AI capabilities with OpenAI's introduction of GPT-5.5, setting a new benchmark for intelligent agents. Simultaneously, the developer community navigates the practicalities of model selection and the complexities of AI-assisted development, while researchers push the boundaries of evaluation and understanding.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5)**\nOpenAI has officially launched GPT-5.5, touting it as their most intelligent model to date. This release is a strategic move, positioning the model for complex enterprise applications such as advanced coding, in-depth research, and sophisticated data analysis, promising a significant boost in productivity and problem-solving across various industries. Businesses should evaluate its potential to transform workflows and gain a competitive edge.\n\n### **[GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card)**\nAccompanying the model launch, OpenAI released the GPT-5.5 System Card, detailing its safety measures, limitations, and responsible deployment strategies. For business leaders, understanding this document is crucial for risk management, ensuring ethical AI integration, and building trust as they consider deploying this powerful new model within their organizations.\n\n### **[GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)**\nThe announcement of GPT-5.5 has generated immense buzz across the tech community, evidenced by its high engagement on platforms like HackerNews. This widespread interest underscores the model's perceived impact and the industry's anticipation for its capabilities, signaling to investors and executives the continued rapid evolution and high demand for cutting-edge AI solutions.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[moonshotai/Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**\nThe `moonshotai/Kimi-K2.6` model is trending on HuggingFace, indicating strong developer interest in its capabilities for image-text-to-text tasks and feature extraction. Developers should watch this model for its potential in multimodal applications, especially given its compressed tensors, which could offer efficiency benefits for deployment.\n\n### **[Qwen/Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)**\nAnother significant trending model is `Qwen/Qwen3.6-35B-A3B`, a large-scale conversational model with multimodal capabilities. Its high download count suggests active experimentation by developers looking for robust solutions for conversational AI and image-text understanding, making it a key model to evaluate for ambitious projects.\n\n### **[An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)**\nAnthropic has provided an update regarding recent reports on Claude's code quality, a critical concern for developers relying on AI for programming assistance. This post-mortem is essential reading for engineers, offering transparency and insights into model reliability and the ongoing challenges of ensuring high-quality AI-generated code.\n\n### **[MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split)**\nA notable incident highlights the growing complexities around intellectual property and AI-generated code, as the MeshCore development team has split due to a trademark dispute and issues related to AI-assisted development. This serves as a cautionary tale for developers and open-source projects, emphasizing the need for clear policies and understanding of AI's role in code ownership and contribution.\n\n### **[Is Opus 4.7 the Best AI Model You Can Actually Use?](https://www.youtube.com/watch?v=QVJcdfkRpH8)**\nThis YouTube video title reflects a common developer question: which models are truly practical and performant for real-world applications. Practitioners should watch such content for hands-on evaluations and comparisons, helping them cut through the hype and identify the most effective tools for their specific use cases.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**\nThis ArXiv paper explores how AI can discern and manipulate the temporal flow in videos, addressing the fundamental question of understanding speed and generating content at varying rates. Researchers will find this work crucial for advancing video understanding, generative AI, and potentially creating more dynamic and controllable video synthesis techniques.\n\n### **[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability](http://arxiv.org/abs/2604.21930v1)**\nThe authors argue that the common practice of \"temporal taskification\" in Streaming Continual Learning (CL) introduces instability into evaluations. This research is vital for academics working on CL, as it challenges current benchmarking methodologies and suggests a need for more robust and realistic evaluation frameworks to accurately assess model performance over time.\n\n### **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)**\nThis paper proposes a novel approach to evaluating Automatic Speech Recognition (ASR) systems by leveraging Generative Large Language Models (LLMs), moving beyond the limitations of traditional Word Error Rate (WER). Researchers in speech processing and NLP should consider this method for more semantically sensitive and human-correlated ASR evaluations.\n\n### **[Fine-Tuning Regimes Define Distinct Continual Learning Problems](http://arxiv.org/abs/2604.21927v1)**\nThis research delves into how different fine-tuning regimes in continual learning (CL) can fundamentally alter the problem being addressed. For CL researchers, this work provides a deeper conceptual understanding, helping to categorize and design more effective CL methods by recognizing the distinct challenges posed by various training scenarios.\n\n### **[MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)**\nAs LLMs approach peak performance on static math benchmarks, this paper introduces \"MathDuels\" to evaluate models as both problem posers and solvers, pushing beyond current evaluation ceilings. This innovative approach is critical for researchers aiming to differentiate and truly assess the advanced reasoning and generative capabilities of frontier language models.\n\n**Today's Signal:** The AI landscape is rapidly advancing on multiple fronts, with a new generation of powerful models like GPT-5.5 pushing commercial boundaries while the community simultaneously grapples with practical deployment challenges and foundational research into evaluation and learning paradigms.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM) | ... 2, Google Gemini, Figma AI ... ai, latest ai news, generative ai advancement... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing GPT-5.5 ](https://openai.com/index/introducing-gpt-5-5) | Introducing GPT-5.5, our smartest model yet\u2014faster, more capable, and built for ... |\n| [[RSS] GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) |  |\n| [Automations ](https://openai.com/academy/codex-automations) | Learn how to automate tasks in Codex using schedules and triggers to create repo... |\n| [Top 10 uses for Codex at work ](https://openai.com/academy/top-10-use-cases-codex-for-work) | Explore 10 practical Codex use cases to automate tasks, create deliverables, and... |\n| [Plugins and skills ](https://openai.com/academy/codex-plugins-and-skills) | Learn how to use Codex plugins and skills to connect tools, access data, and fol... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Seeing Fast and Slow: Learning the Flow of Time in Videos ](http://arxiv.org/abs/2604.21931v1) | How can we tell whether a video has been sped up or slowed down? How can we gene... |\n| [Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability ](http://arxiv.org/abs/2604.21930v1) | Streaming Continual Learning (CL) typically converts a continuous stream into a ... |\n| [Evaluation of Automatic Speech Recognition Using Generative Large Language Models ](http://arxiv.org/abs/2604.21928v1) | Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error R... |\n| [Fine-Tuning Regimes Define Distinct Continual Learning Problems ](http://arxiv.org/abs/2604.21927v1) | Continual learning (CL) studies how models acquire tasks sequentially while reta... |\n| [Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps ](http://arxiv.org/abs/2604.19533v3) | We introduce the Cyber Defense Benchmark, a benchmark for measuring how well lar... |\n| [The Sample Complexity of Multicalibration ](http://arxiv.org/abs/2604.21923v1) | We study the minimax sample complexity of multicalibration in the batch setting.... |\n| [Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL ](http://arxiv.org/abs/2604.20835v2) | Modern language models demonstrate impressive coding capabilities in common prog... |\n| [Speculative Actions: A Lossless Framework for Faster Agentic Systems ](http://arxiv.org/abs/2510.04371v2) | AI agents are increasingly deployed in complex, interactive environments, yet th... |\n| [MathDuels: Evaluating LLMs as Problem Posers and Solvers ](http://arxiv.org/abs/2604.21916v1) | As frontier language models attain near-ceiling performance on static mathematic... |\n| [ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics ](http://arxiv.org/abs/2510.05482v2) | Molecular dynamics (MD) simulations underpin modern computational drug discovery... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [moonshotai/Kimi-K2.6 ](https://huggingface.co/moonshotai/Kimi-K2.6) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction... |\n| [Qwen/Qwen3.6-35B-A3B ](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5_moe, image-text-to-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] GPT-5.5](https://openai.com/index/introducing-gpt-5-5/) | HN Score: 1219. Comments: 832 |\n| [[HackerNews] An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem) | HN Score: 623. Comments: 485 |\n| [[HackerNews] Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign](https://socket.dev/blog/bitwarden-cli-compromised) | HN Score: 701. Comments: 344 |\n| [[HackerNews] US special forces soldier arrested after allegedly winning $400k on Maduro raid](https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade) | HN Score: 107. Comments: 164 |\n| [[HackerNews] MeshCore development team splits over trademark dispute and AI-generated code](https://blog.meshcore.io/2026/04/23/the-split) | HN Score: 187. Comments: 102 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Is Opus 4.7 the Best AI Model You Can Actually Use?](https://www.youtube.com/watch?v=QVJcdfkRpH8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
