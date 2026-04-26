@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "url": "http://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "url": "http://arxiv.org/abs/2604.19533v3",
+      "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Sample Complexity of Multicalibration",
+      "url": "http://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v2",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+      "url": "http://arxiv.org/abs/2510.04371v2",
+      "summary": "AI agents are increasingly deployed in complex, interactive environments, yet their runtime remains a major bottleneck for training, evaluation, and real-world use. Typical agent behavior unfolds sequ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2510.05482v2",
+      "summary": "Molecular dynamics (MD) simulations underpin modern computational drug discovery, materials science, and biochemistry. Recent machine learning models provide high-fidelity MD predictions without the n...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 78864",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 291840",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 257685",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "summary": "HN Score: 211. Comments: 135",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "summary": "HN Score: 159. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "summary": "HN Score: 544. Comments: 88",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "summary": "HN Score: 94. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GnuPG \u2013 post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "summary": "HN Score: 6. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Era of Scarcity",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why Tokyo is the most important tech destination of 2026",
+      "url": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+      "summary": "SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed by live demonstrations, dedicated exhibit floors, and sessions featuring the people actually building and funding these technologies globally.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability",
+      "url": "http://arxiv.org/abs/2604.21930v1",
+      "summary": "Streaming Continual Learning (CL) typically converts a continuous stream into a sequence of discrete tasks through temporal partitioning. We argue that this temporal taskification step is not a neutra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning Regimes Define Distinct Continual Learning Problems",
+      "url": "http://arxiv.org/abs/2604.21927v1",
+      "summary": "Continual learning (CL) studies how models acquire tasks sequentially while retaining previously learned knowledge. Despite substantial progress in benchmarking CL methods, comparative evaluations typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "url": "http://arxiv.org/abs/2604.19533v3",
+      "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Sample Complexity of Multicalibration",
+      "url": "http://arxiv.org/abs/2604.21923v1",
+      "summary": "We study the minimax sample complexity of multicalibration in the batch setting. A learner observes $n$ i.i.d. samples from an unknown distribution and must output a (possibly randomized) predictor wh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v2",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+      "url": "http://arxiv.org/abs/2510.04371v2",
+      "summary": "AI agents are increasingly deployed in complex, interactive environments, yet their runtime remains a major bottleneck for training, evaluation, and real-world use. Typical agent behavior unfolds sequ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics",
+      "url": "http://arxiv.org/abs/2510.05482v2",
+      "summary": "Molecular dynamics (MD) simulations underpin modern computational drug discovery, materials science, and biochemistry. Recent machine learning models provide high-fidelity MD predictions without the n...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 78864",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 291840",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 257685",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Amateur armed with ChatGPT solves an Erd\u0151s problem",
+      "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
+      "summary": "HN Score: 211. Comments: 135",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "summary": "HN Score: 159. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1-Bit Hokusai's \"The Great Wave\" (2023)",
+      "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
+      "summary": "HN Score: 544. Comments: 88",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Hokusai and Tesselations",
+      "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
+      "summary": "HN Score: 94. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GnuPG \u2013 post-quantum crypto landing in mainline",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
+      "summary": "HN Score: 6. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Era of Scarcity",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+        "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+      },
+      {
+        "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+        "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+        "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
+      },
+      {
+        "title": "[RSS] Why Cohere is merging with Aleph Alpha",
+        "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+        "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
+      },
+      {
+        "title": "[HackerNews] OpenAI Privacy Filter",
+        "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+        "summary": "HN Score: 159. Comments: 28"
+      },
+      {
+        "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Era of Scarcity",
+        "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 78864"
+      },
+      {
+        "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 291840"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 257685"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+        "url": "http://arxiv.org/abs/2604.19533v3",
+        "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even..."
+      },
+      {
+        "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+        "url": "http://arxiv.org/abs/2604.21928v1",
+        "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe..."
+      },
+      {
+        "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+        "url": "http://arxiv.org/abs/2604.21916v1",
+        "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca..."
+      },
+      {
+        "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+        "url": "http://arxiv.org/abs/2604.21931v1",
+        "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..."
+      },
+      {
+        "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+        "url": "http://arxiv.org/abs/2604.20835v2",
+        "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+    },
+    {
+      "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
+    },
+    {
+      "title": "[RSS] Why Cohere is merging with Aleph Alpha",
+      "url": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl\u2019s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
+    },
+    {
+      "title": "[HackerNews] OpenAI Privacy Filter",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "summary": "HN Score: 159. Comments: 28"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Era of Scarcity",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 78864"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 291840"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 257685"
+    },
+    {
+      "title": "[ArXiv] Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps",
+      "url": "http://arxiv.org/abs/2604.19533v3",
+      "summary": "We introduce the Cyber Defense Benchmark, a benchmark for measuring how well large language model (LLM) agents perform the core SOC analyst task of threat hunting: given a database of raw Windows even..."
+    },
+    {
+      "title": "[ArXiv] Evaluation of Automatic Speech Recognition Using Generative Large Language Models",
+      "url": "http://arxiv.org/abs/2604.21928v1",
+      "summary": "Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error Rate (WER), a metric that is insensitive to meaning. Embedding-based semantic metrics are better correlated with human pe..."
+    },
+    {
+      "title": "[ArXiv] MathDuels: Evaluating LLMs as Problem Posers and Solvers",
+      "url": "http://arxiv.org/abs/2604.21916v1",
+      "summary": "As frontier language models attain near-ceiling performance on static mathematical benchmarks, existing evaluations are increasingly unable to differentiate model capabilities, largely because they ca..."
+    },
+    {
+      "title": "[ArXiv] Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "url": "http://arxiv.org/abs/2604.21931v1",
+      "summary": "How can we tell whether a video has been sped up or slowed down? How can we generate videos at different speeds? Although videos have been central to modern computer vision research, little attention ..."
+    },
+    {
+      "title": "[ArXiv] Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL",
+      "url": "http://arxiv.org/abs/2604.20835v2",
+      "summary": "Modern language models demonstrate impressive coding capabilities in common programming languages (PLs), such as C++ and Python, but their performance in lower-resource PLs is often limited by trainin..."
+    }
+  ],
+  "final_report": "# AI Agents Go Live: Commerce, Sovereignty, and the Race for Frontier Models\n\nToday's AI landscape is marked by groundbreaking experiments in autonomous agent economies and strategic geopolitical maneuvers, while the developer community gains access to increasingly powerful open models. Meanwhile, researchers are pushing the boundaries of AI evaluation and application, from cybersecurity to video understanding.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)**\nAnthropic's experiment in agent-on-agent commerce, where AI agents autonomously negotiated and executed real-world transactions, signals a profound shift in future market dynamics. This development could pave the way for entirely new business models, supply chains, and service delivery mechanisms, demanding strategic foresight from leaders on how to integrate or compete with these emerging autonomous economies. The implications for efficiency, market liquidity, and regulatory oversight are immense.\n\n### **[Maine\u2019s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)**\nGovernor Janet Mills' veto of a statewide data center moratorium in Maine underscores the ongoing tension between rapid AI infrastructure expansion and local environmental or resource concerns. This decision highlights the critical need for policymakers to balance economic growth and technological advancement with sustainable development, setting a precedent for how other states might approach the energy-intensive demands of AI. Businesses planning large-scale AI deployments must increasingly factor in regional regulatory landscapes and public sentiment regarding resource consumption.\n\n### **[Why Cohere is merging with Aleph Alpha](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/)**\nThe merger between Canadian AI startup Cohere and Germany's Aleph Alpha, backed by Schwarz Group, represents a significant move towards establishing a \"sovereign AI\" alternative to US-dominated players. This strategic alliance, supported by their respective governments, aims to offer enterprises a secure and localized AI solution, potentially reshaping the global competitive landscape and fostering regional AI ecosystems. For business leaders, this signals a growing fragmentation in the AI market, where geopolitical considerations and data sovereignty will increasingly influence vendor selection and strategic partnerships.\n\n### **[OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/)**\nWhile details are sparse, the mention of an \"OpenAI Privacy Filter\" points to OpenAI's ongoing efforts to address critical enterprise concerns around data security and confidentiality. For businesses adopting large language models, robust privacy features are paramount for compliance and trust. This development suggests a strategic focus on making AI solutions more palatable for sensitive corporate environments, potentially unlocking broader enterprise adoption.\n\n### **[GPT 5.5, DeepSeek V4, and the Era of Scarcity](https://www.youtube.com/watch?v=jz0rNhfAKo8)**\nThe discussion around \"GPT 5.5, DeepSeek V4, and the Era of Scarcity\" highlights the intense competition and resource demands at the frontier of AI model development. This suggests that access to cutting-edge models and the computational resources to train them will remain a strategic differentiator for companies. Business leaders should anticipate continued high investment in AI research and infrastructure, and consider the implications of resource scarcity on innovation and market access.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**\nDeepSeek-V4-Pro is rapidly gaining traction on HuggingFace, offering developers a powerful new option for text generation and conversational AI. With its MIT license and high download count, this model presents a compelling open-source alternative for building sophisticated AI applications. Engineers should evaluate its performance for tasks requiring advanced language understanding and generation, especially given its flexibility for commercial use.\n\n### **[moonshotai/Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**\nKimi-K2.6 stands out as a trending multimodal model, capable of image-text-to-text processing and feature extraction. Its significant download numbers indicate strong developer interest in models that can bridge different data modalities. Developers looking to build applications requiring complex understanding across text and images, such as advanced content analysis or intelligent search, should explore Kimi-K2.6's capabilities.\n\n### **[Qwen/Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**\nThe Qwen3.6-27B model continues to attract developers with its strong performance in image-text-to-text and conversational tasks, backed by an Apache 2.0 license. This model offers a robust foundation for building versatile AI agents and interactive systems. Its popularity suggests it's a reliable choice for practitioners seeking a powerful, commercially viable model for multimodal and conversational AI projects.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps](http://arxiv.org/abs/2604.19533v3)**\nThis paper introduces the Cyber Defense Benchmark, a crucial tool for evaluating how effectively LLM agents can perform threat hunting within Security Operations Centers (SOCs). By focusing on real-world Windows event data, this research moves beyond theoretical capabilities to assess practical application, offering a standardized way to measure AI's readiness for critical cybersecurity roles. The implications are significant for enhancing automated defense systems and augmenting human analysts.\n\n### **[Evaluation of Automatic Speech Recognition Using Generative Large Language Models](http://arxiv.org/abs/2604.21928v1)**\nResearchers are proposing a novel approach to evaluate Automatic Speech Recognition (ASR) systems by leveraging generative LLMs, moving beyond the traditional, meaning-insensitive Word Error Rate (WER). This work suggests that embedding-based semantic metrics, derived from LLMs, correlate better with human perception, promising more accurate and nuanced assessments of ASR quality. This could lead to the development of ASR systems that are not just accurate in transcription, but also in conveying meaning.\n\n### **[MathDuels: Evaluating LLMs as Problem Posers and Solvers](http://arxiv.org/abs/2604.21916v1)**\nAs LLMs approach ceiling performance on static mathematical benchmarks, MathDuels introduces an innovative evaluation framework where LLMs act as both problem posers and solvers. This dynamic approach aims to differentiate frontier model capabilities more effectively, pushing the boundaries of mathematical reasoning and creativity in AI. This research is vital for understanding and advancing true mathematical intelligence in large language models.\n\n### **[Seeing Fast and Slow: Learning the Flow of Time in Videos](http://arxiv.org/abs/2604.21931v1)**\nThis paper explores how AI can understand and manipulate the temporal flow of videos, addressing the fundamental question of how to detect or generate videos at different speeds. By focusing on the \"flow of time,\" this research opens new avenues for advanced video analysis, editing, and generation, moving beyond static frame-by-frame understanding. The implications are profound for media production, surveillance, and human-computer interaction.\n\n### **[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL](http://arxiv.org/abs/2604.20835v2)**\nParallel-SFT introduces a method to enhance zero-shot cross-programming-language transfer for code reinforcement learning, addressing the limitation of LLMs in lower-resource programming languages. This research is crucial for expanding the utility of code-generating AI to a broader range of languages and specialized domains. It promises to make AI coding assistants more versatile and accessible, reducing the performance gap between common and less common programming languages.\n\n---\n\n**Today's Signal:** The AI landscape is rapidly maturing, characterized by the emergence of autonomous agent economies, a strategic push for sovereign AI alternatives, and continuous innovation in both open-source models and advanced research methodologies.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Anthropic created a test marketplace for agent-on-agent commerce ](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/) | In a recent experiment, Anthropic created a classified marketplace where AI agen... |\n| [Maine\u2019s governor vetoes data center moratorium ](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/) | L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data... |\n| [OpenAI CEO apologizes to Tumbler Ridge community ](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/) | In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman sai... |\n| [Why Cohere is merging with Aleph Alpha ](https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/) | Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support... |\n| [Why Tokyo is the most important tech destination of 2026 ](https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/) | SusHi Tech Tokyo 2026 has four tightly defined technology domains, each backed b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Seeing Fast and Slow: Learning the Flow of Time in Videos ](http://arxiv.org/abs/2604.21931v1) | How can we tell whether a video has been sped up or slowed down? How can we gene... |\n| [Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability ](http://arxiv.org/abs/2604.21930v1) | Streaming Continual Learning (CL) typically converts a continuous stream into a ... |\n| [Evaluation of Automatic Speech Recognition Using Generative Large Language Models ](http://arxiv.org/abs/2604.21928v1) | Automatic Speech Recognition (ASR) is traditionally evaluated using Word Error R... |\n| [Fine-Tuning Regimes Define Distinct Continual Learning Problems ](http://arxiv.org/abs/2604.21927v1) | Continual learning (CL) studies how models acquire tasks sequentially while reta... |\n| [Cyber Defense Benchmark: Agentic Threat Hunting Evaluation for LLMs in SecOps ](http://arxiv.org/abs/2604.19533v3) | We introduce the Cyber Defense Benchmark, a benchmark for measuring how well lar... |\n| [The Sample Complexity of Multicalibration ](http://arxiv.org/abs/2604.21923v1) | We study the minimax sample complexity of multicalibration in the batch setting.... |\n| [Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL ](http://arxiv.org/abs/2604.20835v2) | Modern language models demonstrate impressive coding capabilities in common prog... |\n| [Speculative Actions: A Lossless Framework for Faster Agentic Systems ](http://arxiv.org/abs/2510.04371v2) | AI agents are increasingly deployed in complex, interactive environments, yet th... |\n| [MathDuels: Evaluating LLMs as Problem Posers and Solvers ](http://arxiv.org/abs/2604.21916v1) | As frontier language models attain near-ceiling performance on static mathematic... |\n| [ATOM: A Pretrained Neural Operator for Multitask Molecular Dynamics ](http://arxiv.org/abs/2510.05482v2) | Molecular dynamics (MD) simulations underpin modern computational drug discovery... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [moonshotai/Kimi-K2.6 ](https://huggingface.co/moonshotai/Kimi-K2.6) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction... |\n| [Qwen/Qwen3.6-27B ](https://huggingface.co/Qwen/Qwen3.6-27B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Amateur armed with ChatGPT solves an Erd\u0151s problem](https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/) | HN Score: 211. Comments: 135 |\n| [[HackerNews] OpenAI Privacy Filter](https://openai.com/index/introducing-openai-privacy-filter/) | HN Score: 159. Comments: 28 |\n| [[HackerNews] 1-Bit Hokusai's \"The Great Wave\" (2023)](https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/) | HN Score: 544. Comments: 88 |\n| [[HackerNews] Hokusai and Tesselations](https://dl.ndl.go.jp/pid/1899550/1/11/) | HN Score: 94. Comments: 14 |\n| [[HackerNews] GnuPG \u2013 post-quantum crypto landing in mainline](https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html) | HN Score: 6. Comments: 1 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] GPT 5.5, DeepSeek V4, and the Era of Scarcity](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
