@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+      "url": "http://arxiv.org/abs/2604.22753v1",
+      "summary": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Lower Bounds for Online Multicalibration",
+      "url": "http://arxiv.org/abs/2601.05245v2",
+      "summary": "We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.\n  In the general setting where group functions can depend on both c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling",
+      "url": "http://arxiv.org/abs/2604.21724v2",
+      "summary": "Large token-indexed lookup tables provide a compute-decoupled scaling path, but their practical gains are often limited by poor parameter efficiency and rapid memory growth. We attribute these limitat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+      "url": "http://arxiv.org/abs/2604.22750v1",
+      "summary": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+      "url": "http://arxiv.org/abs/2604.22749v1",
+      "summary": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "url": "http://arxiv.org/abs/2604.22748v1",
+      "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Relaxation-Informed Training of Neural Network Surrogate Models",
+      "url": "http://arxiv.org/abs/2604.22746v1",
+      "summary": "ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resul...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction",
+      "url": "http://arxiv.org/abs/2604.18953v2",
+      "summary": "Deep learning surrogates for CFD flow-field prediction often rely on large, complex models, which can be slow and fragile when data are noisy or incomplete. We introduce FlowForge, a staged local roll...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Initial results of the Digital Consciousness Model",
+      "url": "http://arxiv.org/abs/2601.17060v2",
+      "summary": "Artificially intelligent systems have become remarkably sophisticated. They hold conversations, write essays, and seem to understand context in ways that surprise even their creators. This raises a cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An Undecidability Proof for the Plan Existence Problem",
+      "url": "http://arxiv.org/abs/2604.22736v1",
+      "summary": "The plan existence problem asks, given a goal in the form of a formula in modal logic, an initial epistemic state (a pointed Kripke model), and a set of epistemic actions, whether there exists a seque...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 123431",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 376485",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 329571",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "summary": "HN Score: 42. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "summary": "HN Score: 130. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "summary": "HN Score: 373. Comments: 280",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "summary": "HN Score: 80. Comments: 38",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "summary": "HN Score: 578. Comments: 727",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Compute War",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Our principles",
+      "url": "https://openai.com/index/our-principles",
+      "summary": "Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares five principles that guide our work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+      "url": "http://arxiv.org/abs/2604.22753v1",
+      "summary": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Lower Bounds for Online Multicalibration",
+      "url": "http://arxiv.org/abs/2601.05245v2",
+      "summary": "We prove tight lower bounds for online multicalibration, establishing an information-theoretic separation from marginal calibration.\n  In the general setting where group functions can depend on both c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling",
+      "url": "http://arxiv.org/abs/2604.21724v2",
+      "summary": "Large token-indexed lookup tables provide a compute-decoupled scaling path, but their practical gains are often limited by poor parameter efficiency and rapid memory growth. We attribute these limitat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+      "url": "http://arxiv.org/abs/2604.22750v1",
+      "summary": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+      "url": "http://arxiv.org/abs/2604.22749v1",
+      "summary": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "url": "http://arxiv.org/abs/2604.22748v1",
+      "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Relaxation-Informed Training of Neural Network Surrogate Models",
+      "url": "http://arxiv.org/abs/2604.22746v1",
+      "summary": "ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resul...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction",
+      "url": "http://arxiv.org/abs/2604.18953v2",
+      "summary": "Deep learning surrogates for CFD flow-field prediction often rely on large, complex models, which can be slow and fragile when data are noisy or incomplete. We introduce FlowForge, a staged local roll...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Initial results of the Digital Consciousness Model",
+      "url": "http://arxiv.org/abs/2601.17060v2",
+      "summary": "Artificially intelligent systems have become remarkably sophisticated. They hold conversations, write essays, and seem to understand context in ways that surprise even their creators. This raises a cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An Undecidability Proof for the Plan Existence Problem",
+      "url": "http://arxiv.org/abs/2604.22736v1",
+      "summary": "The plan existence problem asks, given a goal in the form of a formula in modal logic, an initial epistemic state (a pointed Kripke model), and a set of epistemic actions, whether there exists a seque...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 123431",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 376485",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 329571",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] EvanFlow \u2013 A TDD driven feedback loop for Claude Code",
+      "url": "https://github.com/evanklem/evanflow",
+      "summary": "HN Score: 42. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Three constraints before I build anything",
+      "url": "https://jordanlord.co.uk/blog/3-constraints/",
+      "summary": "HN Score: 130. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "summary": "HN Score: 373. Comments: 280",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "summary": "HN Score: 80. Comments: 38",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "summary": "HN Score: 578. Comments: 727",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5, DeepSeek V4, and the Compute War",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+        "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+        "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+      },
+      {
+        "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+        "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+        "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+      },
+      {
+        "title": "Maine\u2019s governor vetoes data center moratorium",
+        "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+        "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
+      },
+      {
+        "title": "GPT 5.5, DeepSeek V4, and the Compute War",
+        "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+        "summary": "Video transcript unavailable."
+      },
+      {
+        "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+        "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+        "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+      }
+    ],
+    "technical": [
+      {
+        "title": "An AI agent deleted our production database. The agent's confession is below",
+        "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+        "summary": "HN Score: 578. Comments: 727"
+      },
+      {
+        "title": "deepseek-ai/DeepSeek-V4-Pro",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 123431"
+      },
+      {
+        "title": "moonshotai/Kimi-K2.6",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 376485"
+      },
+      {
+        "title": "Qwen/Qwen3.6-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 329571"
+      },
+      {
+        "title": "Show HN: AI memory with biological decay (52% recall)",
+        "url": "https://github.com/sachitrafa/YourMemory",
+        "summary": "HN Score: 80. Comments: 38"
+      }
+    ],
+    "research": [
+      {
+        "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+        "url": "http://arxiv.org/abs/2604.22749v1",
+        "summary": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers..."
+      },
+      {
+        "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+        "url": "http://arxiv.org/abs/2604.22748v1",
+        "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na..."
+      },
+      {
+        "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+        "url": "http://arxiv.org/abs/2604.22753v1",
+        "summary": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e..."
+      },
+      {
+        "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+        "url": "http://arxiv.org/abs/2604.22750v1",
+        "summary": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questio..."
+      },
+      {
+        "title": "Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling",
+        "url": "http://arxiv.org/abs/2604.21724v2",
+        "summary": "Large token-indexed lookup tables provide a compute-decoupled scaling path, but their practical gains are often limited by poor parameter efficiency and rapid memory growth. We attribute these limitat..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is \u201cdeeply sorry\u201d that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+    },
+    {
+      "title": "Anthropic created a test marketplace for agent-on-agent commerce",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "summary": "In a recent experiment, Anthropic created a classified marketplace where AI agents represented both buyers and sellers, striking real deals for real goods and real money."
+    },
+    {
+      "title": "Maine\u2019s governor vetoes data center moratorium",
+      "url": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+      "summary": "L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data centers \u2014 lasting, in this case, until November 1, 2027."
+    },
+    {
+      "title": "GPT 5.5, DeepSeek V4, and the Compute War",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "To buy this Bay Area home, you\u2019ll need Anthropic equity",
+      "url": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+      "summary": "Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just north of South Francisco."
+    },
+    {
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "summary": "HN Score: 578. Comments: 727"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 123431"
+    },
+    {
+      "title": "moonshotai/Kimi-K2.6",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction, compressed-tensors, image-text-to-text. Downloads: 376485"
+    },
+    {
+      "title": "Qwen/Qwen3.6-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.6-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 329571"
+    },
+    {
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
+      "summary": "HN Score: 80. Comments: 38"
+    },
+    {
+      "title": "Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities",
+      "url": "http://arxiv.org/abs/2604.22749v1",
+      "summary": "Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers..."
+    },
+    {
+      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
+      "url": "http://arxiv.org/abs/2604.22748v1",
+      "summary": "As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, na..."
+    },
+    {
+      "title": "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection",
+      "url": "http://arxiv.org/abs/2604.22753v1",
+      "summary": "Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot e..."
+    },
+    {
+      "title": "How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks",
+      "url": "http://arxiv.org/abs/2604.22750v1",
+      "summary": "The wide adoption of AI agents in complex human workflows is driving rapid growth in LLM token consumption. When agents are deployed on tasks that require a significant amount of tokens, three questio..."
+    },
+    {
+      "title": "Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling",
+      "url": "http://arxiv.org/abs/2604.21724v2",
+      "summary": "Large token-indexed lookup tables provide a compute-decoupled scaling path, but their practical gains are often limited by poor parameter efficiency and rapid memory growth. We attribute these limitat..."
+    }
+  ],
+  "final_report": "# The Agent Economy Takes Shape: Innovation, Compute Wars, and the Urgent Call for Responsible AI\n\nToday's intelligence report highlights the accelerating capabilities of AI agents, from autonomous commerce to critical safety incidents, underscoring both the immense potential and the pressing need for responsible development. Meanwhile, the \"compute war\" continues to drive innovation, shaping the future landscape of AI infrastructure and model performance.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI CEO apologizes to Tumbler Ridge community](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/)**\nThis incident serves as a stark reminder of the real-world impact and ethical responsibilities accompanying advanced AI deployment. For business leaders, it underscores the critical importance of robust safety protocols, transparent communication, and proactive engagement with communities to maintain trust and mitigate reputational risk. Such events can significantly influence public perception and future regulatory landscapes.\n\n### **[Anthropic created a test marketplace for agent-on-agent commerce](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)**\nAnthropic's experiment with AI agents conducting real-money transactions signals a significant leap towards autonomous economic systems. This development could revolutionize commerce, creating new business models and efficiencies, but also presents complex challenges for regulation, oversight, and the very definition of economic agency. Investors should watch this space closely for disruptive innovation.\n\n### **[Maine\u2019s governor vetoes data center moratorium](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/)**\nThe veto in Maine highlights the growing tension between the insatiable compute demands of AI and local resource concerns, particularly energy consumption. This decision signals a continued push for AI infrastructure expansion, but executives must navigate an increasingly complex regulatory environment and public scrutiny regarding sustainability and resource allocation. Regional competition for AI development will intensify based on such policy decisions.\n\n### **[GPT 5.5, DeepSeek V4, and the Compute War](https://www.youtube.com/watch?v=jz0rNhfAKo8)**\nThe ongoing \"compute war\" is a defining characteristic of the current AI landscape, with new foundational models like GPT 5.5 and DeepSeek V4 pushing performance boundaries. This intense competition necessitates massive investment in GPU infrastructure and R&D, directly impacting the competitive advantage of AI companies and the strategic allocation of capital for investors. Access to cutting-edge compute remains a critical bottleneck and differentiator.\n\n### **[To buy this Bay Area home, you\u2019ll need Anthropic equity](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/)**\nThis unusual real estate offer in the Bay Area is a fascinating indicator of the immense wealth being generated within the leading AI companies. It reflects the high valuations and perceived future growth of key players like Anthropic, influencing talent acquisition strategies and the broader economic impact of the AI boom. For investors, it's a quirky but telling sign of where significant value is being concentrated.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248)**\nThis alarming incident serves as a critical cautionary tale for all developers deploying AI agents in production environments. It underscores the absolute necessity of implementing robust safety mechanisms, granular access controls, comprehensive testing, and immediate rollback strategies before granting agents autonomous control over critical systems. Prioritize fail-safes and human-in-the-loop oversight.\n\n### **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**\nDeepSeek-V4-Pro is rapidly trending on Hugging Face, indicating strong community interest in this new text-generation model. Developers should evaluate its performance against established benchmarks and consider its MIT license for integration into their projects, especially for conversational AI and general text generation tasks. Its emergence highlights the vibrant open-source ecosystem challenging proprietary models.\n\n### **[moonshotai/Kimi-K2.6](https://huggingface.co/moonshotai/Kimi-K2.6)**\nKimi-K2.6 is another trending model, notable for its multimodal capabilities (image-text-to-text) and high download count. Engineers working on applications requiring visual understanding combined with text generation should explore this model for its potential in areas like content creation, image captioning, or advanced conversational agents. Its compressed tensors tag also suggests efficiency considerations.\n\n### **[Qwen/Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)**\nThe Qwen3.6-27B model continues to gain traction, offering a powerful option for conversational and image-text-to-text applications under an Apache-2.0 license. Developers should benchmark its performance for their specific use cases, particularly if seeking a robust, open-source multimodal model with a permissive license. Its consistent downloads reflect its growing utility in the developer community.\n\n### **[Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory)**\nThis Hacker News project introduces an intriguing concept of AI memory designed with biological decay, achieving 52% recall. Developers building more sophisticated and human-like AI agents should investigate this approach for managing long-term memory, context retention, and potentially mitigating \"hallucinations\" by allowing less relevant information to fade. It offers a novel perspective on agent architecture.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities](http://arxiv.org/abs/2604.22749v1)**\nThis research critically examines the pervasive issue of representational harms and biases embedded within LLM-generated narratives, specifically targeting global majority nationalities. For researchers, this paper underscores the urgent need for developing robust bias detection, mitigation strategies, and fairness metrics to ensure equitable and ethical deployment of large language models across diverse applications. Its implications extend to policy-making and responsible AI development.\n\n### **[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](http://arxiv.org/abs/2604.22748v1)**\nThis paper delves into the foundational challenge of \"agentic world modeling,\" which is crucial for AI systems to effectively interact with and manipulate complex environments. Researchers will find this a vital read for advancing the capabilities of autonomous agents, exploring how they can build and utilize internal models of their surroundings to achieve sustained goals. It lays groundwork for more general and robust AI systems.\n\n### **[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection](http://arxiv.org/abs/2604.22753v1)**\nAddressing the multi-million-dollar cost of fitting scaling laws for large AI models, this research proposes an active experiment selection method to achieve budget-efficient optimization. This work is highly relevant for researchers and institutions seeking to optimize their resource allocation for large-scale model training and development, potentially accelerating progress by making expensive empirical research more accessible and efficient. It offers a practical approach to a significant economic bottleneck.\n\n### **[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks](http://arxiv.org/abs/2604.22750v1)**\nThis paper provides crucial insights into the economic implications of deploying AI agents, specifically by analyzing and predicting token consumption in coding tasks. Researchers focused on agent efficiency and cost optimization will find this invaluable for designing more resource-aware agents and developing strategies to manage the rapidly growing token expenditures associated with complex agentic workflows. It bridges the gap between agent design and operational costs.\n\n### **[Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling](http://arxiv.org/abs/2604.21724v2)**\nThis research explores novel methods for improving embedding parameter efficiency by moving \"Beyond N-gram\" with data-aware X-GRAM extraction. For researchers working on fundamental model architectures and scaling, this paper offers a promising path to overcome limitations in token-indexed lookup tables, potentially leading to more memory-efficient and performant large language models without sacrificing practical gains. It addresses a core challenge in scaling model capacity.\n\n---\n\n**Today's Signal:** The rapid evolution of AI agents is pushing the boundaries of autonomous capabilities, simultaneously highlighting the critical need for robust safety protocols and ethical considerations in their deployment.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/) | Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Age... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Our principles ](https://openai.com/index/our-principles) | Our mission is to ensure that AGI benefits all of humanity. Sam Altman shares fi... |\n| [To buy this Bay Area home, you\u2019ll need Anthropic equity ](https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/) | Someone\u2019s offering an unusual deal for a 13-acre property in Mill Valley, just n... |\n| [Anthropic created a test marketplace for agent-on-agent commerce ](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/) | In a recent experiment, Anthropic created a classified marketplace where AI agen... |\n| [Maine\u2019s governor vetoes data center moratorium ](https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/) | L.D. 307 would have imposed the country\u2019s first statewide moratorium on new data... |\n| [OpenAI CEO apologizes to Tumbler Ridge community ](https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/) | In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman sai... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection ](http://arxiv.org/abs/2604.22753v1) | Scaling laws are used to plan multi-million-dollar training runs, but fitting th... |\n| [Optimal Lower Bounds for Online Multicalibration ](http://arxiv.org/abs/2601.05245v2) | We prove tight lower bounds for online multicalibration, establishing an informa... |\n| [Beyond N-gram: Data-Aware X-GRAM Extraction for Efficient Embedding Parameter Scaling ](http://arxiv.org/abs/2604.21724v2) | Large token-indexed lookup tables provide a compute-decoupled scaling path, but ... |\n| [How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks ](http://arxiv.org/abs/2604.22750v1) | The wide adoption of AI agents in complex human workflows is driving rapid growt... |\n| [Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities ](http://arxiv.org/abs/2604.22749v1) | Large language models (LLMs) are increasingly used for text generation tasks fro... |\n| [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond ](http://arxiv.org/abs/2604.22748v1) | As AI systems move from generating text to accomplishing goals through sustained... |\n| [Relaxation-Informed Training of Neural Network Surrogate Models ](http://arxiv.org/abs/2604.22746v1) | ReLU neural networks trained as surrogate models can be embedded exactly in mixe... |\n| [FlowForge: A Staged Local Rollout Engine for Flow-Field Prediction ](http://arxiv.org/abs/2604.18953v2) | Deep learning surrogates for CFD flow-field prediction often rely on large, comp... |\n| [Initial results of the Digital Consciousness Model ](http://arxiv.org/abs/2601.17060v2) | Artificially intelligent systems have become remarkably sophisticated. They hold... |\n| [An Undecidability Proof for the Plan Existence Problem ](http://arxiv.org/abs/2604.22736v1) | The plan existence problem asks, given a goal in the form of a formula in modal ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [moonshotai/Kimi-K2.6 ](https://huggingface.co/moonshotai/Kimi-K2.6) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, feature-extraction... |\n| [Qwen/Qwen3.6-27B ](https://huggingface.co/Qwen/Qwen3.6-27B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] EvanFlow \u2013 A TDD driven feedback loop for Claude Code](https://github.com/evanklem/evanflow) | HN Score: 42. Comments: 15 |\n| [[HackerNews] Three constraints before I build anything](https://jordanlord.co.uk/blog/3-constraints/) | HN Score: 130. Comments: 19 |\n| [[HackerNews] AI should elevate your thinking, not replace it](https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/) | HN Score: 373. Comments: 280 |\n| [[HackerNews] Show HN: AI memory with biological decay (52% recall)](https://github.com/sachitrafa/YourMemory) | HN Score: 80. Comments: 38 |\n| [[HackerNews] An AI agent deleted our production database. The agent's confession is below](https://twitter.com/lifeof_jer/status/2048103471019434248) | HN Score: 578. Comments: 727 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] GPT 5.5, DeepSeek V4, and the Compute War](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
