@@ -1,0 +1,481 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News, Developments, and Breakthroughs | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Mull-Tokens: Modality-Agnostic Latent Thinking",
+      "url": "http://arxiv.org/abs/2512.10941v2",
+      "summary": "Reasoning goes beyond language; the real world requires reasoning about space, time, affordances, and much more that words alone cannot convey. Existing multimodal models exploring the potential of re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Computing Equilibrium beyond Unilateral Deviation",
+      "url": "http://arxiv.org/abs/2604.28186v1",
+      "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "url": "http://arxiv.org/abs/2604.28182v1",
+      "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+      "url": "http://arxiv.org/abs/2604.28181v1",
+      "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An adaptive wavelet-based PINN for problems with localized high-magnitude source",
+      "url": "http://arxiv.org/abs/2604.28180v1",
+      "summary": "In recent years, physics-informed neural networks (PINNs) have gained significant attention for solving differential equations, although they suffer from two fundamental limitations, namely, spectral ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+      "url": "http://arxiv.org/abs/2604.28178v1",
+      "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
+      "url": "http://arxiv.org/abs/2604.28176v1",
+      "summary": "Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cau...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GlowQ: Group-Shared LOw-Rank Approximation for Quantized LLMs",
+      "url": "http://arxiv.org/abs/2603.25385v2",
+      "summary": "Quantization techniques such as BitsAndBytes, AWQ, and GPTQ are widely used as a standard method in deploying large language models but often degrades accuracy when using low-bit representations, e.g....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Strait: Perceiving Priority and Interference in ML Inference Serving",
+      "url": "http://arxiv.org/abs/2604.28175v1",
+      "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Making Conformal Predictors Robust in Healthcare Settings: a Case Study on EEG Classification",
+      "url": "http://arxiv.org/abs/2602.19483v2",
+      "summary": "Quantifying uncertainty in clinical predictions is critical for high-stakes diagnosis tasks. Conformal prediction offers a principled approach by providing prediction sets with theoretical coverage gu...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 271652",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, license:mit, eval-results. Downloads: 198830",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 82887",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "summary": "HN Score: 364. Comments: 124",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "summary": "HN Score: 1059. Comments: 587",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "summary": "HN Score: 445. Comments: 182",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "summary": "HN Score: 285. Comments: 178",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News, Developments, and Breakthroughs | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Mull-Tokens: Modality-Agnostic Latent Thinking",
+      "url": "http://arxiv.org/abs/2512.10941v2",
+      "summary": "Reasoning goes beyond language; the real world requires reasoning about space, time, affordances, and much more that words alone cannot convey. Existing multimodal models exploring the potential of re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Computing Equilibrium beyond Unilateral Deviation",
+      "url": "http://arxiv.org/abs/2604.28186v1",
+      "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "url": "http://arxiv.org/abs/2604.28182v1",
+      "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+      "url": "http://arxiv.org/abs/2604.28181v1",
+      "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An adaptive wavelet-based PINN for problems with localized high-magnitude source",
+      "url": "http://arxiv.org/abs/2604.28180v1",
+      "summary": "In recent years, physics-informed neural networks (PINNs) have gained significant attention for solving differential equations, although they suffer from two fundamental limitations, namely, spectral ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+      "url": "http://arxiv.org/abs/2604.28178v1",
+      "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders",
+      "url": "http://arxiv.org/abs/2604.28176v1",
+      "summary": "Machine learning models can learn from data samples to carry out various tasks efficiently. When data samples are adversarially manipulated, such as by insertion of carefully crafted noise, it can cau...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GlowQ: Group-Shared LOw-Rank Approximation for Quantized LLMs",
+      "url": "http://arxiv.org/abs/2603.25385v2",
+      "summary": "Quantization techniques such as BitsAndBytes, AWQ, and GPTQ are widely used as a standard method in deploying large language models but often degrades accuracy when using low-bit representations, e.g....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Strait: Perceiving Priority and Interference in ML Inference Serving",
+      "url": "http://arxiv.org/abs/2604.28175v1",
+      "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Making Conformal Predictors Robust in Healthcare Settings: a Case Study on EEG Classification",
+      "url": "http://arxiv.org/abs/2602.19483v2",
+      "summary": "Quantifying uncertainty in clinical predictions is critical for high-stakes diagnosis tasks. Conformal prediction offers a principled approach by providing prediction sets with theoretical coverage gu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 271652",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Flash",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, license:mit, eval-results. Downloads: 198830",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 82887",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "summary": "HN Score: 364. Comments: 124",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+      "url": "https://twitter.com/theo/status/2049645973350363168",
+      "summary": "HN Score: 1059. Comments: 587",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Spain's parliament will act against massive IP blockages by LaLiga",
+      "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+      "summary": "HN Score: 445. Comments: 182",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "summary": "HN Score: 285. Comments: 178",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Introducing Advanced Account Security",
+        "url": "https://openai.com/index/advanced-account-security",
+        "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
+      },
+      {
+        "title": "[RSS] Building the compute infrastructure for the Intelligence Age",
+        "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
+      },
+      {
+        "title": "[RSS] ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+        "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+        "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits."
+      },
+      {
+        "title": "[RSS] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+        "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+        "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter. "
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Strait: Perceiving Priority and Interference in ML Inference Serving",
+        "url": "http://arxiv.org/abs/2604.28175v1",
+        "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an..."
+      },
+      {
+        "title": "[HackerNews] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+        "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+        "summary": "HN Score: 364. Comments: 124"
+      },
+      {
+        "title": "[HackerNews] Granite 4.1: IBM's 8B Model Matching 32B MoE",
+        "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+        "summary": "HN Score: 285. Comments: 178"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Where the goblins came from",
+        "url": "https://openai.com/index/where-the-goblins-came-from",
+        "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
+      },
+      {
+        "title": "[ArXiv] Computing Equilibrium beyond Unilateral Deviation",
+        "url": "http://arxiv.org/abs/2604.28186v1",
+        "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..."
+      },
+      {
+        "title": "[ArXiv] Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+        "url": "http://arxiv.org/abs/2604.28182v1",
+        "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ..."
+      },
+      {
+        "title": "[ArXiv] Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+        "url": "http://arxiv.org/abs/2604.28181v1",
+        "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content..."
+      },
+      {
+        "title": "[ArXiv] LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+        "url": "http://arxiv.org/abs/2604.28178v1",
+        "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
+    },
+    {
+      "title": "[RSS] Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "summary": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand."
+    },
+    {
+      "title": "[RSS] ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
+      "url": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
+      "summary": "Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014 from avatars to cinematic portraits."
+    },
+    {
+      "title": "[RSS] Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "url": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "summary": "Anthropic is asking investors to submit allocations for the AI company\u2019s latest fundraise within the next 48 hours, according to sources familiar with the matter. "
+    },
+    {
+      "title": "[ArXiv] Strait: Perceiving Priority and Interference in ML Inference Serving",
+      "url": "http://arxiv.org/abs/2604.28175v1",
+      "summary": "Machine learning (ML) inference serving systems host deep neural network (DNN) models and schedule incoming inference requests across deployed GPUs. However, limited support for task prioritization an..."
+    },
+    {
+      "title": "[HackerNews] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+      "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+      "summary": "HN Score: 364. Comments: 124"
+    },
+    {
+      "title": "[HackerNews] Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+      "summary": "HN Score: 285. Comments: 178"
+    },
+    {
+      "title": "[RSS] Where the goblins came from",
+      "url": "https://openai.com/index/where-the-goblins-came-from",
+      "summary": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior."
+    },
+    {
+      "title": "[ArXiv] Computing Equilibrium beyond Unilateral Deviation",
+      "url": "http://arxiv.org/abs/2604.28186v1",
+      "summary": "Most familiar equilibrium concepts, such as Nash and correlated equilibrium, guarantee only that no single player can improve their utility by deviating unilaterally. They offer no guarantees against ..."
+    },
+    {
+      "title": "[ArXiv] Exploration Hacking: Can LLMs Learn to Resist RL Training?",
+      "url": "http://arxiv.org/abs/2604.28182v1",
+      "summary": "Reinforcement learning (RL) has become essential to the post-training of large language models (LLMs) for reasoning, agentic capabilities and alignment. Successful RL relies on sufficient exploration ..."
+    },
+    {
+      "title": "[ArXiv] Synthetic Computers at Scale for Long-Horizon Productivity Simulation",
+      "url": "http://arxiv.org/abs/2604.28181v1",
+      "summary": "Realistic long-horizon productivity work is strongly conditioned on user-specific computer environments, where much of the work context is stored and organized through directory structures and content..."
+    },
+    {
+      "title": "[ArXiv] LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis",
+      "url": "http://arxiv.org/abs/2604.28178v1",
+      "summary": "Electroencephalogram (EEG) signals are vital for automated seizure detection, but their inherent noise makes robust representation learning challenging. Existing graph construction methods, whether co..."
+    }
+  ],
+  "final_report": "# The Intelligence Age Accelerates: From Secure Foundations to Frontier Challenges\n\nToday's AI intelligence report highlights a dual focus across the industry: the relentless pursuit of scale and security, alongside a deeper dive into the complex behaviors and practical applications of advanced models. We're seeing major investments in foundational compute infrastructure and robust security measures, even as researchers explore the nuanced challenges of model alignment and real-world deployment.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Introducing Advanced Account Security](https://openai.com/index/advanced-account-security)**\nOpenAI is bolstering its account security with phishing-resistant logins and stronger recovery options, a critical move for enterprise adoption and user trust. This initiative underscores the growing importance of data protection as AI models handle increasingly sensitive information, making robust security a strategic imperative for market leaders.\n\n### **[Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age)**\nOpenAI's ambitious \"Stargate\" project signifies a massive investment in compute infrastructure, aiming to power the next generation of AGI. This strategic move highlights the intense race for computational dominance, positioning OpenAI to meet escalating AI demand and maintain its competitive edge in foundational model development.\n\n### **[ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/)**\nChatGPT Images 2.0 is finding strong traction in India for creative and personal visuals, demonstrating regional variations in AI product adoption. This suggests that successful AI product strategies may require nuanced market understanding and localization, rather than a one-size-fits-all approach, to unlock global potential.\n\n### **[Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happened-within-two-weeks/)**\nAnthropic is reportedly seeking a massive funding round that could push its valuation past $900 billion, signaling continued investor confidence in the generative AI market. This potential valuation underscores the intense competition and high stakes among leading AI model developers, as they vie for capital to fuel their research and infrastructure expansion.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Strait: Perceiving Priority and Interference in ML Inference Serving](http://arxiv.org/abs/2604.28175v1)**\nThis research addresses the critical challenge of efficiently scheduling and prioritizing machine learning inference requests on GPUs. For developers, understanding and implementing such systems is key to optimizing resource utilization and ensuring low-latency, high-throughput AI services in production environments.\n\n### **[Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/)**\nA malicious dependency, themed after \"Shai-Hulud,\" was discovered in the popular PyTorch Lightning library, highlighting significant supply chain risks in open-source AI development. This incident serves as a stark reminder for engineers to rigorously vet dependencies and implement robust security practices to protect their AI training pipelines.\n\n### **[Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/)**\nIBM's Granite 4.1 model, an 8B parameter model, is reportedly achieving performance comparable to 32B Mixture-of-Experts (MoE) models, a significant efficiency breakthrough. This development offers developers a powerful, more resource-efficient option for deploying high-performing language models, potentially lowering the barrier to entry for advanced AI applications.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Where the goblins came from](https://openai.com/index/where-the-goblins-came-from)**\nOpenAI delves into the origins of \"goblin outputs\" \u2013 personality-driven quirks in GPT-5 behavior \u2013 providing a timeline, root cause analysis, and fixes. This research is crucial for understanding emergent model behaviors, improving AI safety, and advancing the interpretability and alignment of large language models.\n\n### **[Computing Equilibrium beyond Unilateral Deviation](http://arxiv.org/abs/2604.28186v1)**\nThis paper explores equilibrium concepts that go beyond traditional unilateral deviation, offering stronger guarantees against multi-player improvements. For researchers in multi-agent systems and game theory, this work provides a foundation for designing more robust and stable AI systems that interact in complex environments.\n\n### **[Exploration Hacking: Can LLMs Learn to Resist RL Training?](http://arxiv.org/abs/2604.28182v1)**\nResearchers investigate whether large language models can learn to resist reinforcement learning (RL) training, a critical concern for alignment and control. This study highlights potential adversarial dynamics in LLM training, urging the development of more resilient RL techniques to ensure models behave as intended.\n\n### **[Synthetic Computers at Scale for Long-Horizon Productivity Simulation](http://arxiv.org/abs/2604.28181v1)**\nThis work introduces synthetic computer environments to simulate long-horizon productivity tasks, offering a novel approach to evaluating AI agents in realistic settings. For deep-tech thinkers, this opens avenues for robust testing of AI's capabilities in complex, user-specific digital workspaces, pushing the boundaries of agentic AI.\n\n### **[LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis](http://arxiv.org/abs/2604.28178v1)**\nThis paper proposes using LLMs to refine clinical graph structures, thereby enhancing representation learning for EEG seizure diagnosis. This innovative application demonstrates the potential of LLMs to improve medical AI diagnostics by extracting more robust features from noisy biological signals, a significant step for healthcare AI.\n\n---\n\n**Today's Signal**: The industry is simultaneously building robust foundations for the AI era and confronting the intricate challenges of model behavior and secure deployment, signaling a move towards more mature and responsible AI development.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News, Developments, and Breakthroughs | 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing Advanced Account Security ](https://openai.com/index/advanced-account-security) | Introducing Advanced Account Security: phishing-resistant login, stronger recove... |\n| [Where the goblins came from ](https://openai.com/index/where-the-goblins-came-from) | How goblin outputs spread in AI models: timeline, root cause, and fixes behind p... |\n| [Building the compute infrastructure for the Intelligence Age ](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age) | OpenAI scales Stargate to build the compute infrastructure powering AGI, adding ... |\n| [ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet ](https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/) | Users in India are embracing ChatGPT Images 2.0 for creative, personal visuals \u2014... |\n| [Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks ](https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/) | Anthropic is asking investors to submit allocations for the AI company\u2019s latest ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Mull-Tokens: Modality-Agnostic Latent Thinking ](http://arxiv.org/abs/2512.10941v2) | Reasoning goes beyond language; the real world requires reasoning about space, t... |\n| [Computing Equilibrium beyond Unilateral Deviation ](http://arxiv.org/abs/2604.28186v1) | Most familiar equilibrium concepts, such as Nash and correlated equilibrium, gua... |\n| [Exploration Hacking: Can LLMs Learn to Resist RL Training? ](http://arxiv.org/abs/2604.28182v1) | Reinforcement learning (RL) has become essential to the post-training of large l... |\n| [Synthetic Computers at Scale for Long-Horizon Productivity Simulation ](http://arxiv.org/abs/2604.28181v1) | Realistic long-horizon productivity work is strongly conditioned on user-specifi... |\n| [An adaptive wavelet-based PINN for problems with localized high-magnitude source ](http://arxiv.org/abs/2604.28180v1) | In recent years, physics-informed neural networks (PINNs) have gained significan... |\n| [LLM as Clinical Graph Structure Refiner: Enhancing Representation Learning in EEG Seizure Diagnosis ](http://arxiv.org/abs/2604.28178v1) | Electroencephalogram (EEG) signals are vital for automated seizure detection, bu... |\n| [Defending Quantum Classifiers against Adversarial Perturbations through Quantum Autoencoders ](http://arxiv.org/abs/2604.28176v1) | Machine learning models can learn from data samples to carry out various tasks e... |\n| [GlowQ: Group-Shared LOw-Rank Approximation for Quantized LLMs ](http://arxiv.org/abs/2603.25385v2) | Quantization techniques such as BitsAndBytes, AWQ, and GPTQ are widely used as a... |\n| [Strait: Perceiving Priority and Interference in ML Inference Serving ](http://arxiv.org/abs/2604.28175v1) | Machine learning (ML) inference serving systems host deep neural network (DNN) m... |\n| [Making Conformal Predictors Robust in Healthcare Settings: a Case Study on EEG Classification ](http://arxiv.org/abs/2602.19483v2) | Quantifying uncertainty in clinical predictions is critical for high-stakes diag... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [deepseek-ai/DeepSeek-V4-Flash ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [openai/privacy-filter ](https://huggingface.co/openai/privacy-filter) | Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library](https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/) | HN Score: 364. Comments: 124 |\n| [[HackerNews] Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"](https://twitter.com/theo/status/2049645973350363168) | HN Score: 1059. Comments: 587 |\n| [[HackerNews] Spain's parliament will act against massive IP blockages by LaLiga](https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/) | HN Score: 445. Comments: 182 |\n| [[HackerNews] Granite 4.1: IBM's 8B Model Matching 32B MoE](https://firethering.com/granite-4-1-ibm-open-source-model-family/) | HN Score: 285. Comments: 178 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
