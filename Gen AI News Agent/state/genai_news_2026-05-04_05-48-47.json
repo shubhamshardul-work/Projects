@@ -1,0 +1,457 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Generative AI ; Photo of Scout AI-powered autonomous vehicles \u00b7 Scout AI Raises $100M to Build 'AI Brain' for Autonomous Warfare \u00b7 Scout AI Raises $100M to Build",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] \u2018This is fine\u2019 creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "summary": "Bad news for Tilly Norwood.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Sentra-Guard: A Real-Time Multilingual Defense Against Adversarial LLM Prompts",
+      "url": "http://arxiv.org/abs/2510.22628v2",
+      "summary": "This paper presents a real-time modular defense system named Sentra-Guard. The system detects and mitigates jailbreak and prompt injection attacks targeting large language models (LLMs). The framework...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+      "url": "http://arxiv.org/abs/2605.00820v1",
+      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination",
+      "url": "http://arxiv.org/abs/2510.15949v4",
+      "summary": "Large language models show promise for financial decision-making, yet deploying them as autonomous trading agents raises fundamental challenges: how to adapt instructions when rewards arrive late and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+      "url": "http://arxiv.org/abs/2605.00817v1",
+      "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+      "url": "http://arxiv.org/abs/2605.00814v1",
+      "summary": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Experiments",
+      "url": "http://arxiv.org/abs/2505.09901v3",
+      "summary": "Large language models (LLMs) are increasingly used to simulate or automate human behavior in complex sequential decision-making settings. A natural question is then whether LLMs exhibit similar decisi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Discrete Cosine Transform Based Decorrelated Attention for Vision Transformers",
+      "url": "http://arxiv.org/abs/2405.13901v4",
+      "summary": "Self-attention is central to the success of Transformer architectures; however, learning the query, key, and value projections from random initialization remains challenging and computationally expens...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can Coding Agents Reproduce Findings in Computational Materials Science?",
+      "url": "http://arxiv.org/abs/2605.00803v1",
+      "summary": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Node Feature Selection For Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2510.03096v2",
+      "summary": "We propose an adaptive node feature selection approach for graph neural networks (GNNs) that identifies and removes unnecessary features during training. The ability to measure how features contribute...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] NRGPT: An Energy-based Alternative for GPT",
+      "url": "http://arxiv.org/abs/2512.16762v3",
+      "summary": "Generative Pre-trained Transformer (GPT) architectures are the most popular design for language modeling. Energy-based modeling is a different paradigm that views inference as a dynamical process oper...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 457348",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XiaomiMiMo/MiMo-V2.5-Pro",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+      "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11055",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 104695",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "summary": "HN Score: 307. Comments: 120",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "summary": "HN Score: 345. Comments: 281",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "summary": "HN Score: 281. Comments: 255",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Generative AI ; Photo of Scout AI-powered autonomous vehicles \u00b7 Scout AI Raises $100M to Build 'AI Brain' for Autonomous Warfare \u00b7 Scout AI Raises $100M to Build",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] \u2018This is fine\u2019 creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "summary": "Bad news for Tilly Norwood.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The best AI dictation apps, tested and ranked",
+      "url": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+      "summary": "AI-powered dictation apps are useful for replying to emails, taking notes, and even coding through your voice",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Sentra-Guard: A Real-Time Multilingual Defense Against Adversarial LLM Prompts",
+      "url": "http://arxiv.org/abs/2510.22628v2",
+      "summary": "This paper presents a real-time modular defense system named Sentra-Guard. The system detects and mitigates jailbreak and prompt injection attacks targeting large language models (LLMs). The framework...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+      "url": "http://arxiv.org/abs/2605.00820v1",
+      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination",
+      "url": "http://arxiv.org/abs/2510.15949v4",
+      "summary": "Large language models show promise for financial decision-making, yet deploying them as autonomous trading agents raises fundamental challenges: how to adapt instructions when rewards arrive late and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+      "url": "http://arxiv.org/abs/2605.00817v1",
+      "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+      "url": "http://arxiv.org/abs/2605.00814v1",
+      "summary": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Experiments",
+      "url": "http://arxiv.org/abs/2505.09901v3",
+      "summary": "Large language models (LLMs) are increasingly used to simulate or automate human behavior in complex sequential decision-making settings. A natural question is then whether LLMs exhibit similar decisi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Discrete Cosine Transform Based Decorrelated Attention for Vision Transformers",
+      "url": "http://arxiv.org/abs/2405.13901v4",
+      "summary": "Self-attention is central to the success of Transformer architectures; however, learning the query, key, and value projections from random initialization remains challenging and computationally expens...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can Coding Agents Reproduce Findings in Computational Materials Science?",
+      "url": "http://arxiv.org/abs/2605.00803v1",
+      "summary": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Node Feature Selection For Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2510.03096v2",
+      "summary": "We propose an adaptive node feature selection approach for graph neural networks (GNNs) that identifies and removes unnecessary features during training. The ability to measure how features contribute...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] NRGPT: An Energy-based Alternative for GPT",
+      "url": "http://arxiv.org/abs/2512.16762v3",
+      "summary": "Generative Pre-trained Transformer (GPT) architectures are the most popular design for language modeling. Energy-based modeling is a different paradigm that views inference as a dynamical process oper...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 457348",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XiaomiMiMo/MiMo-V2.5-Pro",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+      "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11055",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 104695",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "summary": "HN Score: 307. Comments: 120",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+      "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+      "summary": "HN Score: 345. Comments: 281",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Let's Buy Spirit Air",
+      "url": "https://letsbuyspiritair.com/",
+      "summary": "HN Score: 281. Comments: 255",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
+        "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+        "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+      },
+      {
+        "title": "AI-generated actors and scripts are now ineligible for Oscars",
+        "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+        "summary": "Bad news for Tilly Norwood."
+      },
+      {
+        "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+        "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "deepseek-ai/DeepSeek-V4-Pro",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 457348"
+      },
+      {
+        "title": "XiaomiMiMo/MiMo-V2.5-Pro",
+        "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+        "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11055"
+      },
+      {
+        "title": "openai/privacy-filter",
+        "url": "https://huggingface.co/openai/privacy-filter",
+        "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 104695"
+      },
+      {
+        "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+        "url": "https://github.com/aattaran/deepclaude",
+        "summary": "HN Score: 307. Comments: 120"
+      }
+    ],
+    "research": [
+      {
+        "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+        "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+        "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors."
+      },
+      {
+        "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+        "url": "http://arxiv.org/abs/2605.00820v1",
+        "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way..."
+      },
+      {
+        "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+        "url": "http://arxiv.org/abs/2605.00817v1",
+        "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt..."
+      },
+      {
+        "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+        "url": "http://arxiv.org/abs/2605.00814v1",
+        "summary": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his..."
+      },
+      {
+        "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+        "url": "http://arxiv.org/abs/2605.00803v1",
+        "summary": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "\u2018This is fine\u2019 creator says AI startup stole his art",
+      "url": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+      "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+    },
+    {
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "url": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "summary": "Bad news for Tilly Norwood."
+    },
+    {
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 457348"
+    },
+    {
+      "title": "XiaomiMiMo/MiMo-V2.5-Pro",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+      "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11055"
+    },
+    {
+      "title": "openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 104695"
+    },
+    {
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "url": "https://github.com/aattaran/deepclaude",
+      "summary": "HN Score: 307. Comments: 120"
+    },
+    {
+      "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+      "url": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+      "summary": "A new study examines how large language models perform in a variety of medical contexts, including real emergency room cases \u2014 where at least one model seemed to be more accurate than human doctors."
+    },
+    {
+      "title": "HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs",
+      "url": "http://arxiv.org/abs/2605.00820v1",
+      "summary": "We introduce HyCOP, a modular framework that learns parametric PDE solution operators by composing simple modules (advection, diffusion, learned closures, boundary handling) in a query-conditioned way..."
+    },
+    {
+      "title": "When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models",
+      "url": "http://arxiv.org/abs/2605.00817v1",
+      "summary": "Large language models (LLMs) often achieve strong performance on reasoning benchmarks, but final-answer accuracy alone does not show whether they faithfully execute the procedure specified in a prompt..."
+    },
+    {
+      "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+      "url": "http://arxiv.org/abs/2605.00814v1",
+      "summary": "While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable proficiency in multimodal tasks, they face a \"Visual Signal Dilution\" phenomenon, where the accumulation of textual his..."
+    },
+    {
+      "title": "Can Coding Agents Reproduce Findings in Computational Materials Science?",
+      "url": "http://arxiv.org/abs/2605.00803v1",
+      "summary": "Large language models are increasingly deployed as autonomous coding agents and have achieved remarkably strong performance on software engineering benchmarks. However, it is unclear whether such succ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Briefing: Navigating the New Frontier of Innovation, Ethics, and Compute\n\nToday's AI landscape is a dynamic battleground, witnessing both unprecedented technological leaps and escalating challenges around ethics, intellectual property, and the very definition of creativity. From cutting-edge model releases to critical debates on AI's role in society, the pace of change demands constant vigilance.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **['This is fine' creator says AI startup stole his art](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/)**\nThe creator of the iconic \"This is fine\" meme is accusing AI startup Artisan of intellectual property theft, highlighting the growing legal and ethical minefield for companies leveraging generative AI. This incident underscores the critical need for robust IP strategies and transparent data sourcing to mitigate significant brand and legal risks in the AI era. Businesses must navigate these waters carefully to avoid costly disputes and reputational damage.\n\n### **[AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/)**\nThe Academy Awards' decision to bar AI-generated actors and scripts from eligibility signals a significant pushback from traditional creative industries against the full integration of AI. This move reflects a broader industry effort to define the boundaries of human creativity versus algorithmic generation, impacting future investment and strategic direction for AI in entertainment. Companies developing creative AI tools must consider how these evolving standards will shape market acceptance and adoption.\n\n### **[GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](https://www.youtube.com/watch?v=jz0rNhfAKo8)**\nThe rapid release of advanced models like GPT 5.5 and DeepSeek V4 underscores the accelerating pace of innovation and the intensifying \"compute war\" among AI leaders. This fierce competition for computational resources and model superiority is a key strategic battleground, dictating who can deliver the most powerful and efficient AI solutions. Businesses must closely monitor these developments to inform their technology adoption roadmaps and investment in AI infrastructure.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**\nDeepSeek-V4-Pro is rapidly gaining traction on Hugging Face, offering a powerful new text-generation and conversational model under an MIT license. Developers should evaluate this model for its potential in applications requiring high-quality, open-source-friendly language capabilities, especially given its significant download numbers indicating strong community interest. Its performance and licensing make it a strong contender for various projects.\n\n### **[XiaomiMiMo/MiMo-V2.5-Pro](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro)**\nXiaomiMiMo's MiMo-V2.5-Pro is another trending model, specifically designed for agentic workflows, long-context understanding, and code generation. For engineers building autonomous agents or systems requiring extensive context processing and robust coding assistance, this model warrants close examination. Its specialized tags suggest strong performance in these niche yet critical areas.\n\n### **[openai/privacy-filter](https://huggingface.co/openai/privacy-filter)**\nOpenAI's privacy-filter model is trending, offering a solution for token classification aimed at enhancing data privacy. Developers focused on compliance, data anonymization, or secure AI applications should investigate this tool for its potential to automatically identify and filter sensitive information. Its ONNX compatibility also suggests flexibility for deployment across various environments.\n\n### **[DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude)**\nThis GitHub project demonstrates a compelling approach to building a Claude-like code agent loop using DeepSeek V4 Pro, claiming a 17x cost reduction. This is a significant development for practitioners looking to build powerful, cost-effective coding agents by strategically combining open-source models with proprietary APIs. It highlights a practical path to achieving high performance without incurring prohibitive expenses.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/)**\nA groundbreaking Harvard study reveals that large language models can outperform human doctors in emergency room diagnoses, signaling a profound shift in medical AI capabilities. This research suggests AI's potential to significantly enhance diagnostic accuracy in critical care, pushing the boundaries of clinical application and raising new questions about human-AI collaboration in healthcare.\n\n### **[HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs](http://arxiv.org/abs/2605.00820v1)**\nResearchers introduce HyCOP, a novel modular framework designed for interpretable learning of parametric PDE solution operators through the composition of simple modules. This work advances scientific AI by offering a more transparent and structured approach to modeling complex physical systems, promising greater insights and reliability in fields like fluid dynamics and materials science.\n\n### **[When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models](http://arxiv.org/abs/2605.00817v1)**\nThis diagnostic study investigates a critical limitation of LLMs: their occasional failure to faithfully execute multi-step procedures specified in prompts, despite achieving high final-answer accuracy. This research is crucial for understanding the robustness and reliability of LLMs in complex reasoning tasks, paving the way for more dependable AI agents that can consistently follow instructions.\n\n### **[Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs](http://arxiv.org/abs/2605.00814v1)**\nThis paper addresses the \"Visual Signal Dilution\" phenomenon in Large Vision-Language Models (LVLMs), where visual information degrades over long textual contexts. The proposed concept of \"Persistent Visual Memory\" aims to sustain perception for deep generation, offering a novel approach to enhance multimodal understanding and improve the long-context reasoning capabilities of LVLMs.\n\n### **[Can Coding Agents Reproduce Findings in Computational Materials Science?](http://arxiv.org/abs/2605.00803v1)**\nResearchers explore the capability of autonomous coding agents to reproduce findings in computational materials science, questioning whether their strong performance on software engineering benchmarks translates to scientific discovery. This study probes the potential for AI to accelerate scientific research by automating complex computational tasks, while also highlighting the need to validate their reliability in rigorous scientific contexts.\n\n---\n**Today's Signal:** The AI landscape is simultaneously accelerating innovation with powerful new models and confronting critical challenges in ethics, intellectual property, and the fundamental reliability of AI systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Generative AI ; Photo of Scout AI-powered autonomous vehicles \u00b7 Scout AI Raises ... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [\u2018This is fine\u2019 creator says AI startup stole his art ](https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/) | The ad comes from Artisan, the AI startup behind billboards urging businesses to... |\n| [In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors ](https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/) | A new study examines how large language models perform in a variety of medical c... |\n| [[RSS] AI-generated actors and scripts are now ineligible for Oscars](https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/) | Bad news for Tilly Norwood. |\n| [The best AI dictation apps, tested and ranked ](https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/) | AI-powered dictation apps are useful for replying to emails, taking notes, and e... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Sentra-Guard: A Real-Time Multilingual Defense Against Adversarial LLM Prompts ](http://arxiv.org/abs/2510.22628v2) | This paper presents a real-time modular defense system named Sentra-Guard. The s... |\n| [HyCOP: Hybrid Composition Operators for Interpretable Learning of PDEs ](http://arxiv.org/abs/2605.00820v1) | We introduce HyCOP, a modular framework that learns parametric PDE solution oper... |\n| [ATLAS: Adaptive Trading with LLM AgentS Through Dynamic Prompt Optimization and Multi-Agent Coordination ](http://arxiv.org/abs/2510.15949v4) | Large language models show promise for financial decision-making, yet deploying ... |\n| [When LLMs Stop Following Steps: A Diagnostic Study of Procedural Execution in Language Models ](http://arxiv.org/abs/2605.00817v1) | Large language models (LLMs) often achieve strong performance on reasoning bench... |\n| [Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs ](http://arxiv.org/abs/2605.00814v1) | While autoregressive Large Vision-Language Models (LVLMs) demonstrate remarkable... |\n| [Comparing Exploration-Exploitation Strategies of LLMs and Humans: Insights from Standard Multi-armed Bandit Experiments ](http://arxiv.org/abs/2505.09901v3) | Large language models (LLMs) are increasingly used to simulate or automate human... |\n| [Discrete Cosine Transform Based Decorrelated Attention for Vision Transformers ](http://arxiv.org/abs/2405.13901v4) | Self-attention is central to the success of Transformer architectures; however, ... |\n| [Can Coding Agents Reproduce Findings in Computational Materials Science? ](http://arxiv.org/abs/2605.00803v1) | Large language models are increasingly deployed as autonomous coding agents and ... |\n| [Adaptive Node Feature Selection For Graph Neural Networks ](http://arxiv.org/abs/2510.03096v2) | We propose an adaptive node feature selection approach for graph neural networks... |\n| [NRGPT: An Energy-based Alternative for GPT ](http://arxiv.org/abs/2512.16762v3) | Generative Pre-trained Transformer (GPT) architectures are the most popular desi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [XiaomiMiMo/MiMo-V2.5-Pro ](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) | Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-cont... |\n| [openai/privacy-filter ](https://huggingface.co/openai/privacy-filter) | Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper](https://github.com/aattaran/deepclaude) | HN Score: 307. Comments: 120 |\n| [[HackerNews] OpenAI's o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors](https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses) | HN Score: 345. Comments: 281 |\n| [[HackerNews] Let's Buy Spirit Air](https://letsbuyspiritair.com/) | HN Score: 281. Comments: 255 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
