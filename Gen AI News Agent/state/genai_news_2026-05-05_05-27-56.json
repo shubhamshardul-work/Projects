@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs",
+      "url": "http://arxiv.org/abs/2506.13727v2",
+      "summary": "Large Language Models (LLMs) are widely deployed in real-world applications, yet their internal mechanisms remain difficult to interpret and control, limiting our ability to diagnose and correct undes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "url": "http://arxiv.org/abs/2605.02888v1",
+      "summary": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
+      "url": "http://arxiv.org/abs/2605.02884v1",
+      "summary": "Ensuring the coherence of regional socio-economic statistics is a central task for national statistical institutes. Traditional validation tools, such as range edits, ratio checks, or univariate outli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs",
+      "url": "http://arxiv.org/abs/2604.18576v3",
+      "summary": "We present the Bayesian Linguistic Forecaster (BLF), an agentic system for binary forecasting that achieves state-of-the-art performance on the ForecastBench benchmark. The system is built on three id...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics",
+      "url": "http://arxiv.org/abs/2505.13150v2",
+      "summary": "Behavioral Foundation Models (BFMs) proved successful in producing policies for arbitrary tasks in a zero-shot manner, requiring no test-time training or task-specific fine-tuning. Among the most prom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Logit-KL Flow Matching: Non-Autoregressive Text Generation via Sampling-Hybrid Inference",
+      "url": "http://arxiv.org/abs/2411.16821v5",
+      "summary": "Non-autoregressive (NAR) language models offer notable efficiency in text generation by circumventing the sequential bottleneck of autoregressive decoding. However, accurately modeling dependencies in...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks",
+      "url": "http://arxiv.org/abs/2605.02871v1",
+      "summary": "Composite materials exhibit strongly hierarchical and anisotropic properties governed by coupled mechanisms spanning constituents, plies, laminates, structures, and manufacturing history. This intrins...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
+      "url": "http://arxiv.org/abs/2605.02867v1",
+      "summary": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Homogenization Problem in LLMs: Towards Meaningful Diversity in AI Safety",
+      "url": "http://arxiv.org/abs/2601.06116v3",
+      "summary": "Generative AI models reproduce the human biases in their training data and further amplify them through mechanisms such as mode collapse. The loss of diversity produces homogenization, which not only ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
+      "url": "http://arxiv.org/abs/2605.02860v1",
+      "summary": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 534942",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 132595",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XiaomiMiMo/MiMo-V2.5-Pro",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+      "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11812",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "summary": "HN Score: 35. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "summary": "HN Score: 47. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "HN Score: 350. Comments: 112",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "summary": "HN Score: 225. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "summary": "HN Score: 101. Comments: 128",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs",
+      "url": "http://arxiv.org/abs/2506.13727v2",
+      "summary": "Large Language Models (LLMs) are widely deployed in real-world applications, yet their internal mechanisms remain difficult to interpret and control, limiting our ability to diagnose and correct undes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "url": "http://arxiv.org/abs/2605.02888v1",
+      "summary": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
+      "url": "http://arxiv.org/abs/2605.02884v1",
+      "summary": "Ensuring the coherence of regional socio-economic statistics is a central task for national statistical institutes. Traditional validation tools, such as range edits, ratio checks, or univariate outli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs",
+      "url": "http://arxiv.org/abs/2604.18576v3",
+      "summary": "We present the Bayesian Linguistic Forecaster (BLF), an agentic system for binary forecasting that achieves state-of-the-art performance on the ForecastBench benchmark. The system is built on three id...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics",
+      "url": "http://arxiv.org/abs/2505.13150v2",
+      "summary": "Behavioral Foundation Models (BFMs) proved successful in producing policies for arbitrary tasks in a zero-shot manner, requiring no test-time training or task-specific fine-tuning. Among the most prom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Logit-KL Flow Matching: Non-Autoregressive Text Generation via Sampling-Hybrid Inference",
+      "url": "http://arxiv.org/abs/2411.16821v5",
+      "summary": "Non-autoregressive (NAR) language models offer notable efficiency in text generation by circumventing the sequential bottleneck of autoregressive decoding. However, accurately modeling dependencies in...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks",
+      "url": "http://arxiv.org/abs/2605.02871v1",
+      "summary": "Composite materials exhibit strongly hierarchical and anisotropic properties governed by coupled mechanisms spanning constituents, plies, laminates, structures, and manufacturing history. This intrins...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
+      "url": "http://arxiv.org/abs/2605.02867v1",
+      "summary": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Homogenization Problem in LLMs: Towards Meaningful Diversity in AI Safety",
+      "url": "http://arxiv.org/abs/2601.06116v3",
+      "summary": "Generative AI models reproduce the human biases in their training data and further amplify them through mechanisms such as mode collapse. The loss of diversity produces homogenization, which not only ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
+      "url": "http://arxiv.org/abs/2605.02860v1",
+      "summary": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 534942",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 132595",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XiaomiMiMo/MiMo-V2.5-Pro",
+      "url": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+      "summary": "Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-context, code. Downloads: 11812",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "summary": "HN Score: 35. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "summary": "HN Score: 47. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "HN Score: 350. Comments: 112",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Y Combinator's Stake in OpenAI (0.6%)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "summary": "HN Score: 225. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "summary": "HN Score: 101. Comments: 128",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+        "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+        "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
+      },
+      {
+        "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+        "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+        "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+      },
+      {
+        "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+        "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+        "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+      },
+      {
+        "title": "Sierra Raises $950M at $15B Valuation",
+        "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+        "summary": "HN Score: 101. Comments: 128"
+      },
+      {
+        "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+        "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+        "summary": "Video transcript unavailable."
+      }
+    ],
+    "technical": [
+      {
+        "title": "How OpenAI delivers low-latency voice AI at scale",
+        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+        "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
+      },
+      {
+        "title": "deepseek-ai/DeepSeek-V4-Pro",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 534942"
+      },
+      {
+        "title": "openai/privacy-filter",
+        "url": "https://huggingface.co/openai/privacy-filter",
+        "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 132595"
+      }
+    ],
+    "research": [
+      {
+        "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+        "url": "http://arxiv.org/abs/2605.02888v1",
+        "summary": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr..."
+      },
+      {
+        "title": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
+        "url": "http://arxiv.org/abs/2605.02867v1",
+        "summary": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co..."
+      },
+      {
+        "title": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
+        "url": "http://arxiv.org/abs/2605.02860v1",
+        "summary": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models..."
+      },
+      {
+        "title": "Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
+        "url": "http://arxiv.org/abs/2605.02884v1",
+        "summary": "Ensuring the coherence of regional socio-economic statistics is a central task for national statistical institutes. Traditional validation tools, such as range edits, ratio checks, or univariate outli..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
+    },
+    {
+      "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated."
+    },
+    {
+      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich."
+    },
+    {
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "summary": "HN Score: 101. Comments: 128"
+    },
+    {
+      "title": "GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable."
+    },
+    {
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "summary": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking."
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 534942"
+    },
+    {
+      "title": "openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 132595"
+    },
+    {
+      "title": "SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection",
+      "url": "http://arxiv.org/abs/2605.02888v1",
+      "summary": "Speculative decoding accelerates large language model (LLM) inference by using a small draft model to propose candidate tokens that a larger target model verifies. A critical hyperparameter in this pr..."
+    },
+    {
+      "title": "Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters",
+      "url": "http://arxiv.org/abs/2605.02867v1",
+      "summary": "Despite significant advances in Reinforcement Learning (RL), model performance remains highly sensitive to algorithm and hyperparameter configurations, while generalization gaps across environments co..."
+    },
+    {
+      "title": "Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection",
+      "url": "http://arxiv.org/abs/2605.02860v1",
+      "summary": "Cross-language code clone detection (X-CCD) is challenging because semantically equivalent programs written in different languages often share little surface similarity. Although large language models..."
+    },
+    {
+      "title": "Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics",
+      "url": "http://arxiv.org/abs/2605.02884v1",
+      "summary": "Ensuring the coherence of regional socio-economic statistics is a central task for national statistical institutes. Traditional validation tools, such as range edits, ratio checks, or univariate outli..."
+    }
+  ],
+  "final_report": "# AI's Enterprise Surge: Finance Reimagined, Compute Wars Intensify, and Innovation Accelerates\n\nToday's intelligence report highlights a significant acceleration in AI's enterprise adoption, particularly within critical financial functions, while the underlying \"compute war\" for advanced models continues to heat up. This dual focus on practical application and foundational innovation underscores a rapidly maturing AI landscape.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI and PwC collaborate to reimagine the office of the CFO](https://openai.com/index/openai-pwc-finance-collaboration)**\nThis strategic partnership signals a major push for AI integration into core enterprise functions like finance, promising automation, enhanced forecasting, and stronger controls. It underscores the strategic imperative for businesses to explore AI agents for operational efficiency and competitive advantage.\n\n### **[As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/)**\nNvidia's CEO offers a compelling counter-narrative to job displacement fears, emphasizing AI's role in creating new roles and driving economic growth. This perspective is crucial for leaders navigating workforce transformation and talent acquisition in the AI era, focusing on opportunity rather than disruption.\n\n### **[OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/)**\nThe impending blockbuster IPO of Cerebras, a key OpenAI partner, highlights the immense value and investor confidence in specialized AI hardware. This underscores the intensifying \"compute war\" and the strategic importance of robust, high-performance infrastructure for AI development and deployment.\n\n### **[Sierra Raises $950M at $15B Valuation](https://sierra.ai/blog/better-customer-experiences-built-on-sierra)**\nSierra's substantial funding round at a high valuation demonstrates continued strong investor confidence in AI solutions, particularly those focused on enhancing customer experiences. This signals a vibrant market for AI applications that deliver tangible business value and drive competitive differentiation.\n\n### **[GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](https://www.youtube.com/watch?v=jz0rNhfAKo8)**\nThe rapid release of new, powerful models like GPT 5.5 and DeepSeek V4, coupled with the \"compute war,\" indicates an accelerating pace of innovation in foundational AI. Businesses must stay abreast of these advancements to leverage cutting-edge capabilities and maintain a competitive edge.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale)**\nOpenAI's detailed account of rebuilding its WebRTC stack for real-time voice AI offers invaluable architectural insights for engineers tackling similar low-latency, high-scale challenges. This deep dive covers critical aspects like global distribution and seamless conversational turn-taking, providing a blueprint for robust voice AI systems.\n\n### **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**\nThe emergence of DeepSeek-V4-Pro as a trending Hugging Face model signals a powerful new contender in the LLM space for text generation and conversational AI. Developers should evaluate its performance and capabilities for integration into their projects, especially given its permissive MIT license.\n\n### **[openai/privacy-filter](https://huggingface.co/openai/privacy-filter)**\nOpenAI's release of a privacy-filter model on Hugging Face provides a practical tool for developers focused on data privacy and compliance. This token-classification model can be crucial for building applications that handle sensitive information responsibly, offering a ready-to-use solution for filtering private data.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection](http://arxiv.org/abs/2605.02888v1)**\nThis paper introduces an innovative approach to accelerate LLM inference through adaptive speculative decoding, optimizing the critical gamma hyperparameter. Researchers focused on improving the efficiency and deployment of large language models will find this work crucial for pushing the boundaries of real-time AI.\n\n### **[Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters](http://arxiv.org/abs/2605.02867v1)**\nAddressing a fundamental challenge in Reinforcement Learning, this research leverages SHAP analysis to enhance the generalizability of RL models in robotics. It offers valuable insights for researchers aiming to develop more robust and adaptable robotic systems by understanding the impact of algorithms and hyperparameters.\n\n### **[Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection](http://arxiv.org/abs/2605.02860v1)**\nThis work explores a novel application of knowledge distillation to improve cross-language code clone detection, a significant challenge in software engineering. Researchers in NLP and software analysis will find this approach compelling for leveraging LLMs to bridge semantic gaps across different programming languages.\n\n### **[Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics](http://arxiv.org/abs/2605.02884v1)**\nThis research demonstrates the power of unsupervised machine learning in detecting structural anomalies within complex statistical datasets, specifically European regional statistics. It offers a practical and scalable method for national statistical institutes and data scientists to ensure data coherence and quality.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, marked by aggressive enterprise adoption, intense competition in foundational models and compute, and continuous innovation in both practical engineering and theoretical research.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Agentic AI News + AI Breakthroughs + AI Developments | 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI and PwC collaborate to reimagine the office of the CFO ](https://openai.com/index/openai-pwc-finance-collaboration) | OpenAI and PwC are partnering to help enterprises use AI agents to automate fina... |\n| [How OpenAI delivers low-latency voice AI at scale ](https://openai.com/index/delivering-low-latency-voice-ai-at-scale) | How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency... |\n| [As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019 ](https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/) | The Nvidia CEO seems to feel that claims of AI's job-killing potential have been... |\n| [OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO ](https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/) | AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $... |\n| [Image AI models now drive app growth, beating chatbot upgrades ](https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/) | Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most d... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Attribution-Guided Pruning for Insight and Control: Circuit Discovery and Targeted Correction in Small-scale LLMs ](http://arxiv.org/abs/2506.13727v2) | Large Language Models (LLMs) are widely deployed in real-world applications, yet... |\n| [SpecKV: Adaptive Speculative Decoding with Compression-Aware Gamma Selection ](http://arxiv.org/abs/2605.02888v1) | Speculative decoding accelerates large language model (LLM) inference by using a... |\n| [Unsupervised Machine Learning for Detecting Structural Anomalies in European Regional Statistics ](http://arxiv.org/abs/2605.02884v1) | Ensuring the coherence of regional socio-economic statistics is a central task f... |\n| [Agentic Forecasting using Sequential Bayesian Updating of Linguistic Beliefs ](http://arxiv.org/abs/2604.18576v3) | We present the Bayesian Linguistic Forecaster (BLF), an agentic system for binar... |\n| [Zero-Shot Adaptation of Behavioral Foundation Models to Unseen Dynamics ](http://arxiv.org/abs/2505.13150v2) | Behavioral Foundation Models (BFMs) proved successful in producing policies for ... |\n| [Logit-KL Flow Matching: Non-Autoregressive Text Generation via Sampling-Hybrid Inference ](http://arxiv.org/abs/2411.16821v5) | Non-autoregressive (NAR) language models offer notable efficiency in text genera... |\n| [Multi-fidelity surrogates for mechanics of composites: from co-kriging to multi-fidelity neural networks ](http://arxiv.org/abs/2605.02871v1) | Composite materials exhibit strongly hierarchical and anisotropic properties gov... |\n| [Enhancing RL Generalizability in Robotics through SHAP Analysis of Algorithms and Hyperparameters ](http://arxiv.org/abs/2605.02867v1) | Despite significant advances in Reinforcement Learning (RL), model performance r... |\n| [The Homogenization Problem in LLMs: Towards Meaningful Diversity in AI Safety ](http://arxiv.org/abs/2601.06116v3) | Generative AI models reproduce the human biases in their training data and furth... |\n| [Standing on the Shoulders of Giants: Stabilized Knowledge Distillation for Cross--Language Code Clone Detection ](http://arxiv.org/abs/2605.02860v1) | Cross-language code clone detection (X-CCD) is challenging because semantically ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [openai/privacy-filter ](https://huggingface.co/openai/privacy-filter) | Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter,... |\n| [XiaomiMiMo/MiMo-V2.5-Pro ](https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro) | Trending HF Model. Tags: safetensors, mimo_v2, text-generation, agent, long-cont... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Train Your Own LLM from Scratch](https://github.com/angelos-p/llm-from-scratch) | HN Score: 35. Comments: 2 |\n| [[HackerNews] CVE-2026-31431: Copy Fail vs. rootless containers](https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/) | HN Score: 47. Comments: 12 |\n| [[HackerNews] How OpenAI delivers low-latency voice AI at scale](https://openai.com/index/delivering-low-latency-voice-ai-at-scale/) | HN Score: 350. Comments: 112 |\n| [[HackerNews] Y Combinator's Stake in OpenAI (0.6%)](https://daringfireball.net/2026/05/y_combinators_stake_in_openai) | HN Score: 225. Comments: 18 |\n| [[HackerNews] Sierra Raises $950M at $15B Valuation](https://sierra.ai/blog/better-customer-experiences-built-on-sierra) | HN Score: 101. Comments: 128 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] I BUILT A FULLY AUTOMATIC MANSPLAINER](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
