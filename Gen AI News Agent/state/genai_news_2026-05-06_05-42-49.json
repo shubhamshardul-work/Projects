@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Boosting Team Modeling through Tempo-Relational Representation Learning",
+      "url": "http://arxiv.org/abs/2507.13305v2",
+      "summary": "Team modeling remains a fundamental challenge at the intersection of Artificial Intelligence and Social Sciences. Although a variety of computational models have been proposed in the last two decades,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+      "url": "http://arxiv.org/abs/2605.04046v1",
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Safety and accuracy follow different scaling laws in clinical large language models",
+      "url": "http://arxiv.org/abs/2605.04039v1",
+      "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "url": "http://arxiv.org/abs/2605.04036v1",
+      "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "http://arxiv.org/abs/2605.04035v1",
+      "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data",
+      "url": "http://arxiv.org/abs/2601.08116v3",
+      "summary": "Tropical cyclones are among the most consequential weather hazards, yet estimates of their risk are limited by the relatively short historical record. To extend these records, researchers often genera...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "url": "http://arxiv.org/abs/2605.04019v1",
+      "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering",
+      "url": "http://arxiv.org/abs/2603.06542v2",
+      "summary": "Conversational generative AI is increasingly explored in healthcare, where models must integrate heterogeneous patient signals and support diverse interaction styles while producing clinically meaning...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "url": "http://arxiv.org/abs/2605.04018v1",
+      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Conditional Diffusion Sampling",
+      "url": "http://arxiv.org/abs/2605.04013v1",
+      "summary": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 631499",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Medium-3.5-128B",
+      "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 15024",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 141317",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "HN Score: 139. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "HN Score: 91. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "summary": "HN Score: 400. Comments: 274",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "summary": "HN Score: 37. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "summary": "HN Score: 140. Comments: 54",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news - AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Boosting Team Modeling through Tempo-Relational Representation Learning",
+      "url": "http://arxiv.org/abs/2507.13305v2",
+      "summary": "Team modeling remains a fundamental challenge at the intersection of Artificial Intelligence and Social Sciences. Although a variety of computational models have been proposed in the last two decades,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+      "url": "http://arxiv.org/abs/2605.04046v1",
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Safety and accuracy follow different scaling laws in clinical large language models",
+      "url": "http://arxiv.org/abs/2605.04039v1",
+      "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "url": "http://arxiv.org/abs/2605.04036v1",
+      "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures",
+      "url": "http://arxiv.org/abs/2605.04035v1",
+      "summary": "We propose HeadsUp, a scalable feed-forward method for reconstructing high-quality 3D Gaussian heads from large-scale multi-camera setups. Our method employs an efficient encoder-decoder architecture ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data",
+      "url": "http://arxiv.org/abs/2601.08116v3",
+      "summary": "Tropical cyclones are among the most consequential weather hazards, yet estimates of their risk are limited by the relatively short historical record. To extend these records, researchers often genera...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "url": "http://arxiv.org/abs/2605.04019v1",
+      "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering",
+      "url": "http://arxiv.org/abs/2603.06542v2",
+      "summary": "Conversational generative AI is increasingly explored in healthcare, where models must integrate heterogeneous patient signals and support diverse interaction styles while producing clinically meaning...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "url": "http://arxiv.org/abs/2605.04018v1",
+      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Conditional Diffusion Sampling",
+      "url": "http://arxiv.org/abs/2605.04013v1",
+      "summary": "Sampling from unnormalized multimodal distributions with limited density evaluations remains a fundamental challenge in machine learning and natural sciences. Successful approaches construct a bridge ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 631499",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] mistralai/Mistral-Medium-3.5-128B",
+      "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 15024",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 141317",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "HN Score: 139. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "HN Score: 91. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Three Inverse Laws of AI",
+      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "summary": "HN Score: 400. Comments: 274",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "summary": "HN Score: 37. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Explore color palettes inspired by 3000 master painter artworks",
+      "url": "https://paletteinspiration.com/",
+      "summary": "HN Score: 140. Comments: 54",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+        "url": "https://openai.com/index/gpt-5-5-instant",
+        "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+      },
+      {
+        "title": "New ways to buy ChatGPT ads",
+        "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+        "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads."
+      },
+      {
+        "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+        "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+        "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
+      },
+      {
+        "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+        "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+        "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+      },
+      {
+        "title": "Telus Uses AI to Alter Call-Agent Accents",
+        "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+        "summary": "HN Score: 91. Comments: 57"
+      }
+    ],
+    "technical": [
+      {
+        "title": "deepseek-ai/DeepSeek-V4-Pro",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 631499"
+      },
+      {
+        "title": "mistralai/Mistral-Medium-3.5-128B",
+        "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+        "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 15024"
+      },
+      {
+        "title": "openai/privacy-filter",
+        "url": "https://huggingface.co/openai/privacy-filter",
+        "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 141317"
+      },
+      {
+        "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+        "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+        "summary": "HN Score: 139. Comments: 61"
+      },
+      {
+        "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+        "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+        "summary": "HN Score: 37. Comments: 2"
+      }
+    ],
+    "research": [
+      {
+        "title": "Safety and accuracy follow different scaling laws in clinical large language models",
+        "url": "http://arxiv.org/abs/2605.04039v1",
+        "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi..."
+      },
+      {
+        "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+        "url": "http://arxiv.org/abs/2605.04036v1",
+        "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci..."
+      },
+      {
+        "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+        "url": "http://arxiv.org/abs/2605.04019v1",
+        "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat..."
+      },
+      {
+        "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+        "url": "http://arxiv.org/abs/2605.04018v1",
+        "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s..."
+      },
+      {
+        "title": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+        "url": "http://arxiv.org/abs/2605.04046v1",
+        "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "summary": "GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answers, reduced hallucinations, and improved personalization controls."
+    },
+    {
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "summary": "OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and enhanced measurement tools\u2014built to protect privacy and keep conversations separate from ads."
+    },
+    {
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
+      "summary": "OpenAI and PwC are partnering to help enterprises use AI agents to automate finance workflows, improve forecasting, strengthen controls, and modernize the CFO function."
+    },
+    {
+      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+      "url": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+      "summary": "SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is also prohibiting customers' agents use to a select few like Nvidia's NemoClaw."
+    },
+    {
+      "title": "Telus Uses AI to Alter Call-Agent Accents",
+      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "summary": "HN Score: 91. Comments: 57"
+    },
+    {
+      "title": "deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 631499"
+    },
+    {
+      "title": "mistralai/Mistral-Medium-3.5-128B",
+      "url": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+      "summary": "Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 15024"
+    },
+    {
+      "title": "openai/privacy-filter",
+      "url": "https://huggingface.co/openai/privacy-filter",
+      "summary": "Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter, token-classification, transformers.js. Downloads: 141317"
+    },
+    {
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "summary": "HN Score: 139. Comments: 61"
+    },
+    {
+      "title": "Wiki Builder: Skill to Build LLM Knowledge Bases",
+      "url": "https://academy.dair.ai/blog/wiki-builder-claude-code-plugin",
+      "summary": "HN Score: 37. Comments: 2"
+    },
+    {
+      "title": "Safety and accuracy follow different scaling laws in clinical large language models",
+      "url": "http://arxiv.org/abs/2605.04039v1",
+      "summary": "Clinical LLMs are often scaled by increasing model size, context length, retrieval complexity, or inference-time compute, with the implicit expectation that higher accuracy implies safer behavior. Thi..."
+    },
+    {
+      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
+      "url": "http://arxiv.org/abs/2605.04036v1",
+      "summary": "Deep search capabilities have become an indispensable competency for frontier Large Language Model (LLM) agents, yet their development remains dominated by industrial giants. The typical industry reci..."
+    },
+    {
+      "title": "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours",
+      "url": "http://arxiv.org/abs/2605.04019v1",
+      "summary": "AI systems are entering critical domains like healthcare, finance, and defense, yet remain vulnerable to adversarial attacks. While AI red teaming is a primary defense, current approaches force operat..."
+    },
+    {
+      "title": "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems",
+      "url": "http://arxiv.org/abs/2605.04018v1",
+      "summary": "Reasoning-intensive retrieval aims to surface evidence that supports downstream reasoning rather than merely matching topical similarity. This capability is increasingly important for agentic search s..."
+    },
+    {
+      "title": "A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification",
+      "url": "http://arxiv.org/abs/2605.04046v1",
+      "summary": "We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engine), the data-adaptive companion to PLACE, paying a small cross-validation tier on three knobs (budget, radii, bandwidth;..."
+    }
+  ],
+  "final_report": "# AI's Enterprise Leap: OpenAI's Strategic Push, SAP's Big Bet, and Agentic Evolution\n\nToday's intelligence report highlights a significant acceleration in enterprise AI adoption, driven by major strategic partnerships and product enhancements. From refined LLMs to advanced AI agents, the focus is squarely on practical, impactful integration across diverse business functions.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[GPT-5.5 Instant: smarter, clearer, and more personalized](https://openai.com/index/gpt-5-5-instant)**\nOpenAI's latest update to ChatGPT's default model, GPT-5.5 Instant, promises smarter, more accurate answers and reduced hallucinations, alongside improved personalization. For business leaders, this means a more reliable and adaptable AI assistant for internal operations, customer service, and content generation, directly impacting efficiency and user satisfaction. The enhanced personalization features also open doors for more tailored enterprise solutions, driving deeper integration into specific workflows.\n\n### **[New ways to buy ChatGPT ads](https://openai.com/index/new-ways-to-buy-chatgpt-ads)**\nOpenAI is expanding its advertising capabilities within ChatGPT, introducing a beta self-serve Ads Manager, CPC bidding, and advanced measurement tools. This move creates a powerful new channel for businesses to reach a vast, engaged audience directly within the ChatGPT interface, offering a unique opportunity for targeted marketing and brand visibility. The emphasis on privacy protection ensures that advertising integration can proceed without compromising user trust or data security.\n\n### **[OpenAI and PwC collaborate to reimagine the office of the CFO](https://openai.com/index/openai-pwc-finance-collaboration)**\nThe strategic partnership between OpenAI and PwC aims to revolutionize the CFO function through AI agents, automating finance workflows, enhancing forecasting, and strengthening controls. This collaboration signals a significant step towards AI-driven digital transformation in critical enterprise functions, promising substantial gains in efficiency, accuracy, and strategic insight for financial leaders. It underscores the growing trend of leveraging advanced AI for high-value, complex business processes.\n\n### **[SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/)**\nSAP's substantial investment in acquiring Prior Labs and its heavy backing of the German AI startup, alongside its endorsement of select AI agents like Nvidia's NemoClaw, highlights a strategic push into advanced AI capabilities. This move demonstrates a clear intent to integrate cutting-edge AI directly into its enterprise software ecosystem, ensuring SAP remains competitive while carefully curating the AI tools available to its customers for security and performance. This signals a future where enterprise software vendors will increasingly control and integrate specific AI agent technologies.\n\n### **[Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63)**\nTelus's deployment of AI to modify call-agent accents represents a novel application of AI in customer service, aiming to enhance customer experience and potentially reduce communication barriers. While innovative, this technology raises strategic considerations around authenticity, customer perception, and the ethical implications of altering human communication. Businesses exploring similar applications must carefully weigh the benefits against potential brand and ethical challenges.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[deepseek-ai/DeepSeek-V4-Pro](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro)**\nDeepSeek-V4-Pro is trending on Hugging Face, offering a powerful new option for text generation and conversational AI with its MIT license. Developers should watch this model for its potential in building sophisticated chatbots, content creation tools, and other language-intensive applications, especially given its high download count indicating strong community interest and adoption. Its open license makes it an attractive choice for both research and commercial projects.\n\n### **[mistralai/Mistral-Medium-3.5-128B](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B)**\nMistral-Medium-3.5-128B continues to gain traction, showcasing Mistral AI's strong presence in the LLM space with its multilingual capabilities (en, fr, de) and vLLM compatibility. For developers, this model offers a robust foundation for building high-performance, multilingual applications, particularly those requiring efficient inference. Its popularity suggests it's a reliable choice for production environments.\n\n### **[openai/privacy-filter](https://huggingface.co/openai/privacy-filter)**\nOpenAI's privacy-filter model is a significant tool for developers focused on building privacy-preserving AI applications, especially for token classification tasks. This model is crucial for handling sensitive data, allowing engineers to implement robust data sanitization and anonymization techniques directly within their LLM pipelines. Its high download count indicates a strong demand for practical privacy solutions in AI development.\n\n### **[Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/)**\nCloudflare's new capabilities allowing AI agents to create accounts, purchase domains, and deploy projects represent a major leap in automated infrastructure management. Developers can now leverage these agentic features to build highly autonomous deployment pipelines and management systems, significantly reducing manual overhead and accelerating development cycles. This trend points towards a future where AI agents handle increasingly complex and critical operational tasks.\n\n### **[Wiki Builder: Skill to Build LLM Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin)**\nThe Wiki Builder skill, designed to construct LLM knowledge bases, offers a valuable tool for developers looking to enhance the factual accuracy and domain-specific knowledge of their language models. This plugin-based approach allows for dynamic and structured information retrieval, making LLMs more reliable and useful for specialized applications. Practitioners should explore this for improving the grounding and reducing hallucinations in their LLM deployments.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Safety and accuracy follow different scaling laws in clinical large language models](http://arxiv.org/abs/2605.04039v1)**\nThis research highlights a critical finding: scaling clinical LLMs for accuracy does not automatically guarantee improved safety, challenging a common implicit assumption. For researchers, this implies a need for distinct and dedicated scaling strategies for safety in high-stakes domains like healthcare, moving beyond simple model size increases. It underscores the complexity of developing trustworthy AI where false positives or negatives can have severe consequences.\n\n### **[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories](http://arxiv.org/abs/2605.04036v1)**\nOpenSeeker-v2 pushes the boundaries of search agents by focusing on informative and high-difficulty trajectories, aiming to democratize advanced search capabilities typically dominated by industrial giants. This work is crucial for researchers developing more sophisticated and autonomous AI agents, providing insights into how to build systems that can navigate complex information landscapes more effectively. It emphasizes the importance of challenging benchmarks for driving agentic AI progress.\n\n### **[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours](http://arxiv.org/abs/2605.04019v1)**\nThis paper proposes a paradigm shift in AI red teaming, dramatically reducing the time required to identify vulnerabilities in AI systems from weeks to hours, especially relevant in the agentic era. Researchers should note this as a vital advancement for ensuring the safety and robustness of AI systems entering critical domains. The ability to rapidly test and secure AI agents will be paramount for their widespread and responsible deployment.\n\n### **[Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems](http://arxiv.org/abs/2605.04018v1)**\nThis research re-evaluates and advances retrieval mechanisms specifically for reasoning-intensive tasks within agentic search systems, moving beyond mere topical similarity. For academics, this work offers a deeper understanding of how to design retrievers that can surface evidence directly supporting complex downstream reasoning processes. It's fundamental for building truly intelligent agents capable of sophisticated problem-solving and decision-making.\n\n### **[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification](http://arxiv.org/abs/2605.04046v1)**\nIntroducing PALACE, this paper presents a data-adaptive kernel for certified point-cloud and graph classification, building on its predecessor, PLACE. Researchers in machine learning and topology should explore this novel approach for its potential in developing more robust and certifiably accurate classification models for complex data structures. The focus on certified classification is particularly relevant for applications requiring high levels of trust and reliability.\n\n---\n\n**Today's Signal:** The AI landscape is rapidly maturing, with a clear trend towards strategic enterprise integration, advanced agentic capabilities, and a growing emphasis on both performance and responsible deployment across all sectors.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI recent news - AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[RSS] GPT-5.5 Instant System Card](https://openai.com/index/gpt-5-5-instant-system-card) |  |\n| [GPT-5.5 Instant: smarter, clearer, and more personalized ](https://openai.com/index/gpt-5-5-instant) | GPT-5.5 Instant updates ChatGPT\u2019s default model with smarter, more accurate answ... |\n| [New ways to buy ChatGPT ads ](https://openai.com/index/new-ways-to-buy-chatgpt-ads) | OpenAI expands ChatGPT ads with a beta self-serve Ads Manager, CPC bidding, and ... |\n| [OpenAI and PwC collaborate to reimagine the office of the CFO ](https://openai.com/index/openai-pwc-finance-collaboration) | OpenAI and PwC are partnering to help enterprises use AI agents to automate fina... |\n| [SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw ](https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/) | SAP plans to buy German AI startup Prior Labs and invest heavily in it. It is al... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Boosting Team Modeling through Tempo-Relational Representation Learning ](http://arxiv.org/abs/2507.13305v2) | Team modeling remains a fundamental challenge at the intersection of Artificial ... |\n| [A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification ](http://arxiv.org/abs/2605.04046v1) | We introduce PALACE (Persistence Adaptive-Landmark Analytic Classification Engin... |\n| [Safety and accuracy follow different scaling laws in clinical large language models ](http://arxiv.org/abs/2605.04039v1) | Clinical LLMs are often scaled by increasing model size, context length, retriev... |\n| [OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories ](http://arxiv.org/abs/2605.04036v1) | Deep search capabilities have become an indispensable competency for frontier La... |\n| [Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures ](http://arxiv.org/abs/2605.04035v1) | We propose HeadsUp, a scalable feed-forward method for reconstructing high-quali... |\n| [Learning a Stochastic Differential Equation Model of Tropical Cyclone Intensification from Reanalysis and Observational Data ](http://arxiv.org/abs/2601.08116v3) | Tropical cyclones are among the most consequential weather hazards, yet estimate... |\n| [Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours ](http://arxiv.org/abs/2605.04019v1) | AI systems are entering critical domains like healthcare, finance, and defense, ... |\n| [RAMoEA-QA: Hierarchical Specialization for Robust Respiratory Audio Question Answering ](http://arxiv.org/abs/2603.06542v2) | Conversational generative AI is increasingly explored in healthcare, where model... |\n| [Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems ](http://arxiv.org/abs/2605.04018v1) | Reasoning-intensive retrieval aims to surface evidence that supports downstream ... |\n| [Conditional Diffusion Sampling ](http://arxiv.org/abs/2605.04013v1) | Sampling from unnormalized multimodal distributions with limited density evaluat... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [mistralai/Mistral-Medium-3.5-128B ](https://huggingface.co/mistralai/Mistral-Medium-3.5-128B) | Trending HF Model. Tags: safetensors, mistral3, vLLM, en, fr, de. Downloads: 150... |\n| [openai/privacy-filter ](https://huggingface.co/openai/privacy-filter) | Trending HF Model. Tags: transformers, onnx, safetensors, openai_privacy_filter,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Agents can now create Cloudflare accounts, buy domains, and deploy](https://blog.cloudflare.com/agents-stripe-projects/) | HN Score: 139. Comments: 61 |\n| [[HackerNews] Telus Uses AI to Alter Call-Agent Accents](https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63) | HN Score: 91. Comments: 57 |\n| [[HackerNews] Three Inverse Laws of AI](https://susam.net/inverse-laws-of-robotics.html) | HN Score: 400. Comments: 274 |\n| [[HackerNews] Wiki Builder: Skill to Build LLM Knowledge Bases](https://academy.dair.ai/blog/wiki-builder-claude-code-plugin) | HN Score: 37. Comments: 2 |\n| [[HackerNews] Show HN: Explore color palettes inspired by 3000 master painter artworks](https://paletteinspiration.com/) | HN Score: 140. Comments: 54 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] GPT 5.5 Arrives, DeepSeek V4 Drops, and the Compute War Intensifies](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
