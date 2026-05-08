@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Latest Gen-AI Updates Shaking the IT World - YouTube",
+      "url": "https://www.youtube.com/watch?v=Rtf-L6_55x4",
+      "summary": "22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, Cowork - Github Copilot - Moltbot - Openclaw - Genesis AGI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 71149",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 946264",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, license:apache-2.0, eval-results, region:us. Downloads: 539",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "HN Score: 234. Comments: 80",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "HN Score: 538. Comments: 485",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Komai: a fine Matrix chat app you can get to love",
+      "url": "https://etke.cc/blog/introducing-komai",
+      "summary": "HN Score: 38. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "summary": "HN Score: 116. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "summary": "HN Score: 67. Comments: 18",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Latest Gen-AI Updates Shaking the IT World - YouTube",
+      "url": "https://www.youtube.com/watch?v=Rtf-L6_55x4",
+      "summary": "22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, Cowork - Github Copilot - Moltbot - Openclaw - Genesis AGI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "summary": "Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies someone you trust if serious self-harm concerns are detected.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 71149",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 946264",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, license:apache-2.0, eval-results, region:us. Downloads: 539",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "HN Score: 234. Comments: 80",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "HN Score: 538. Comments: 485",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Komai: a fine Matrix chat app you can get to love",
+      "url": "https://etke.cc/blog/introducing-komai",
+      "summary": "HN Score: 38. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "summary": "HN Score: 116. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "summary": "HN Score: 67. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+        "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+      },
+      {
+        "title": "[RSS] Testing ads in ChatGPT",
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+      },
+      {
+        "title": "[HackerNews] AI slop is killing online communities",
+        "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+        "summary": "HN Score: 538. Comments: 485"
+      },
+      {
+        "title": "[RSS] Parloa builds service agents customers want to talk to",
+        "url": "https://openai.com/index/parloa",
+        "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
+      },
+      {
+        "title": "[HackerNews] Two Home Affairs officials suspended after AI 'hallucinations' found",
+        "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+        "summary": "HN Score: 67. Comments: 18"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Advancing voice intelligence with new models in the API",
+        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+        "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+      },
+      {
+        "title": "[HackerNews] Hardening Firefox with Claude Mythos Preview",
+        "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+        "summary": "HN Score: 116. Comments: 68"
+      },
+      {
+        "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+        "url": "http://arxiv.org/abs/2605.06654v1",
+        "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti..."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+        "url": "http://arxiv.org/abs/2605.06665v1",
+        "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin..."
+      },
+      {
+        "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+        "url": "http://arxiv.org/abs/2605.06663v1",
+        "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know..."
+      },
+      {
+        "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+        "url": "http://arxiv.org/abs/2605.06656v1",
+        "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr..."
+      },
+      {
+        "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+        "url": "http://arxiv.org/abs/2605.06652v1",
+        "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless..."
+      },
+      {
+        "title": "[HackerNews] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+        "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+        "summary": "HN Score: 234. Comments: 80"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+    },
+    {
+      "title": "[RSS] Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
+      "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control."
+    },
+    {
+      "title": "[HackerNews] AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "summary": "HN Score: 538. Comments: 485"
+    },
+    {
+      "title": "[RSS] Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions."
+    },
+    {
+      "title": "[HackerNews] Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "summary": "HN Score: 67. Comments: 18"
+    },
+    {
+      "title": "[RSS] Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences."
+    },
+    {
+      "title": "[HackerNews] Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "summary": "HN Score: 116. Comments: 68"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti..."
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin..."
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know..."
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr..."
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless..."
+    },
+    {
+      "title": "[HackerNews] Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "summary": "HN Score: 234. Comments: 80"
+    }
+  ],
+  "final_report": "# AI's Dual Frontier: Strategic Expansion Meets Foundational Challenges\n\nToday's AI landscape reveals a dynamic push for strategic expansion and monetization, with major players embedding advanced models into critical sectors and exploring new revenue streams. Simultaneously, the industry grapples with foundational challenges in content quality, model evaluation, and responsible deployment, underscoring the need for robust governance and deeper interpretability.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber)**\nOpenAI is strategically expanding its footprint into high-stakes enterprise security by offering advanced GPT models for cyber defense. This move signals a significant opportunity for businesses to enhance their cyber resilience, leveraging AI for accelerated vulnerability research and critical infrastructure protection, potentially redefining security operations.\n\n### **[Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt)**\nOpenAI's decision to test ads in ChatGPT marks a pivotal step in monetizing its widely adopted consumer AI platform, aiming to sustain free access and fund future innovation. For businesses, this opens new avenues for targeted advertising and brand engagement within conversational AI, while emphasizing the critical balance between revenue generation, user experience, and privacy.\n\n### **[AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/)**\nThe growing concern over \"AI slop\" highlights a significant threat to the authenticity and engagement of online communities and content platforms. Business leaders must strategically address this degradation of content quality to protect brand reputation and user trust, potentially investing in advanced moderation and AI detection tools to maintain genuine human interaction.\n\n### **[Parloa builds service agents customers want to talk to](https://openai.com/index/parloa)**\nParloa's success in deploying voice-driven AI customer service agents powered by OpenAI models demonstrates the tangible ROI of advanced conversational AI. This showcases a clear path for enterprises to achieve greater operational efficiency, reduce costs, and significantly enhance customer satisfaction through scalable, real-time AI interactions.\n\n### **[Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/)**\nThis incident serves as a stark warning for organizations deploying AI, particularly in sensitive public sector applications, about the critical need for robust governance and human oversight. It underscores that unchecked AI deployment can lead to severe operational disruptions, reputational damage, and legal liabilities, emphasizing the importance of validation and accountability.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Advancing voice intelligence with new models in the API](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api)**\nOpenAI's release of new real-time voice models in its API offers developers powerful tools for building more natural and intelligent conversational AI experiences. These models, capable of enhanced reasoning, translation, and transcription, are crucial for creating next-generation voice assistants, accessibility solutions, and interactive applications.\n\n### **[Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/)**\nMozilla's exploration of Claude Mythos Preview for enhancing Firefox's security highlights a burgeoning trend: leveraging advanced AI for code analysis and vulnerability detection. Developers should closely watch how AI-powered security tools can integrate into the development lifecycle, potentially automating and improving the robustness of software.\n\n### **[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less](http://arxiv.org/abs/2605.06654v1)**\nThis research provides a valuable practical insight for ML engineers and developers working with large language models: maintaining optimizer consistency between pretraining and finetuning stages significantly reduces catastrophic forgetting. This finding is key for optimizing finetuning strategies, leading to more stable and performant models that retain valuable knowledge.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[UniPool: A Globally Shared Expert Pool for Mixture-of-Experts](http://arxiv.org/abs/2605.06665v1)**\nUniPool introduces a novel Mixture-of-Experts (MoE) architecture that decouples expert capacity from layer depth by utilizing a globally shared expert pool. This innovative approach challenges conventional MoE design, promising more efficient and scalable models through optimized expert utilization across the entire network.\n\n### **[EMO: Pretraining Mixture of Experts for Emergent Modularity](http://arxiv.org/abs/2605.06663v1)**\nEMO explores pretraining MoE models to achieve emergent modularity, allowing models to activate only relevant \"expert\" components for specific tasks. This research has profound implications for creating more efficient and adaptable LLMs, enabling specialized capabilities without deploying the full monolithic model and revolutionizing resource management.\n\n### **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](http://arxiv.org/abs/2605.06656v1)**\nThis paper critically examines the validity of current LLM leaderboards, arguing that pairwise human feedback can be misleading due to the inherent heterogeneity of tasks and languages. Researchers should consider these findings when interpreting benchmark results and designing evaluation methodologies, pushing for more nuanced and context-aware assessment frameworks.\n\n### **[When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](http://arxiv.org/abs/2605.06652v1)**\nThis research addresses the crucial challenge of evaluating LLM safety in novel domains lacking labeled benchmarks, formalizing \"benchmarkless\" safety scoring. It offers a vital methodology for comparative safety assessment, essential for responsible AI deployment in emerging and specialized applications where traditional ground-truth labels are unavailable.\n\n### **[Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders)**\nAnthropic's work on Natural Language Autoencoders (NLAEs) offers a fascinating glimpse into interpreting the internal representations, or \"thoughts,\" of large language models like Claude. This research significantly advances AI interpretability, providing new tools for understanding how LLMs process information and potentially enabling more controllable and transparent AI systems.\n\nToday's Signal: The rapid commercialization of AI is intensifying, but its sustainable growth hinges on addressing critical issues of quality, safety, and transparent evaluation.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Latest Gen-AI Updates Shaking the IT World - YouTube ](https://www.youtube.com/watch?v=Rtf-L6_55x4) | 22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, ... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber ](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) | OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping ... |\n| [Parloa builds service agents customers want to talk to ](https://openai.com/index/parloa) | Parloa leverages OpenAI models to power scalable, voice-driven AI customer servi... |\n| [Advancing voice intelligence with new models in the API ](https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api) | Explore new realtime voice models in the OpenAI API that can reason, translate, ... |\n| [Introducing Trusted Contact in ChatGPT ](https://openai.com/index/introducing-trusted-contact-in-chatgpt) | Introducing Trusted Contact in ChatGPT, an optional safety feature that notifies... |\n| [Testing ads in ChatGPT ](https://openai.com/index/testing-ads-in-chatgpt) | OpenAI begins testing ads in ChatGPT to support free access, with clear labeling... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation ](http://arxiv.org/abs/2605.06667v1) | For artistic applications, video generation requires fine-grained control over b... |\n| [UniPool: A Globally Shared Expert Pool for Mixture-of-Experts ](http://arxiv.org/abs/2605.06665v1) | Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a... |\n| [BAMI: Training-Free Bias Mitigation in GUI Grounding ](http://arxiv.org/abs/2605.06664v1) | GUI grounding is a critical capability for enabling GUI agents to execute tasks ... |\n| [EMO: Pretraining Mixture of Experts for Emergent Modularity ](http://arxiv.org/abs/2605.06663v1) | Large language models are typically deployed as monolithic systems, requiring th... |\n| [Verifier-Backed Hard Problem Generation for Mathematical Reasoning ](http://arxiv.org/abs/2605.06660v1) | Large Language Models (LLMs) demonstrate strong capabilities for solving scienti... |\n| [Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML ](http://arxiv.org/abs/2605.06656v1) | Ranking LLMs via pairwise human feedback underpins current leaderboards for open... |\n| [REMAP: Regularized Matching and Partial Alignment of Video Embeddings ](http://arxiv.org/abs/2509.24382v2) | Real-world instructional videos are long, noisy, and often contain extended back... |\n| [Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less ](http://arxiv.org/abs/2605.06654v1) | Optimizers play an important role in both pretraining and finetuning stages when... |\n| [When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels ](http://arxiv.org/abs/2605.06652v1) | Many deployments must compare candidate language models for safety before a labe... |\n| [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI ](http://arxiv.org/abs/2605.06651v1) | We introduce the AI co-mathematician, a workbench for mathematicians to interact... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n| [Zyphra/ZAYA1-8B ](https://huggingface.co/Zyphra/ZAYA1-8B) | Trending HF Model. Tags: safetensors, zaya, license:apache-2.0, eval-results, re... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Natural Language Autoencoders: Turning Claude's Thoughts into Text](https://www.anthropic.com/research/natural-language-autoencoders) | HN Score: 234. Comments: 80 |\n| [[HackerNews] AI slop is killing online communities](https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/) | HN Score: 538. Comments: 485 |\n| [[HackerNews] Komai: a fine Matrix chat app you can get to love](https://etke.cc/blog/introducing-komai) | HN Score: 38. Comments: 15 |\n| [[HackerNews] Hardening Firefox with Claude Mythos Preview](https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/) | HN Score: 116. Comments: 68 |\n| [[HackerNews] Two Home Affairs officials suspended after AI 'hallucinations' found](https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/) | HN Score: 67. Comments: 18 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
