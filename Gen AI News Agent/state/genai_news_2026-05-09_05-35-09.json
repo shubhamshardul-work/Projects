@@ -1,0 +1,369 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Artificial Intelligence News - ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "summary": "Jan. 13, 2026 \u2014 A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Trending articles ; Generative AI \u00b7 A New Way of Searching for Jobs with LinkedIn. May 4, 2026 ; Generative AI \u00b7 AMD's Vision for AI PCs in the Age of Agentic AI.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 92968",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 1061344",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, license:apache-2.0, eval-results, region:us. Downloads: 6810",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "HN Score: 84. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "HN Score: 19. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "summary": "HN Score: 220. Comments: 60",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "summary": "HN Score: 300. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Soul of Maintaining a New Machine",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "summary": "HN Score: 26. Comments: 2",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Artificial Intelligence News - ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/",
+      "summary": "Jan. 13, 2026 \u2014 A generative AI system can now analyze blood cells with greater accuracy and confidence than human experts, detecting subtle signs of diseases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Trending articles ; Generative AI \u00b7 A New Way of Searching for Jobs with LinkedIn. May 4, 2026 ; Generative AI \u00b7 AMD's Vision for AI PCs in the Age of Agentic AI.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "summary": "Parloa leverages OpenAI models to power scalable, voice-driven AI customer service agents, enabling enterprises to design, simulate, and deploy reliable, real-time interactions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "summary": "Explore new realtime voice models in the OpenAI API that can reason, translate, and transcribe speech, enabling more natural and intelligent voice experiences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 92968",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 1061344",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, license:apache-2.0, eval-results, region:us. Downloads: 6810",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "HN Score: 84. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "HN Score: 19. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "summary": "HN Score: 220. Comments: 60",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is breaking two vulnerability cultures",
+      "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+      "summary": "HN Score: 300. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Soul of Maintaining a New Machine",
+      "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+      "summary": "HN Score: 26. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
