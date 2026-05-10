@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News \u2014 AI Trends, Updates & Tracker - AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today/generative-ai-news",
+      "summary": "Generative AI AI news and trends: live stories, mention tracker, and newsletter coverage across 480+ issues of AI Weekly.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 115477",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, license:apache-2.0, eval-results, region:us. Downloads: 23620",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 1167697",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "summary": "HN Score: 384. Comments: 148",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "HN Score: 622. Comments: 450",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "HN Score: 438. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "summary": "HN Score: 358. Comments: 368",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI\u2019s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "summary": "HN Score: 481. Comments: 141",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News | U-M Generative AI",
+      "url": "https://genai.umich.edu/news",
+      "summary": "AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 13, 2026. AI to predict how bowel cancer patients will respond to new NHS drug.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News \u2014 AI Trends, Updates & Tracker - AI Weekly",
+      "url": "https://aiweekly.co/ai-news-today/generative-ai-news",
+      "summary": "Generative AI AI news and trends: live stories, mention tracker, and newsletter coverage across 480+ issues of AI Weekly.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that",
+      "url": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0",
+      "url": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
+      "summary": "Some found out they didn't qualify for WARN Act protections like two-months notice because the company had classified them as remote workers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BAMI: Training-Free Bias Mitigation in GUI Grounding",
+      "url": "http://arxiv.org/abs/2605.06664v1",
+      "summary": "GUI grounding is a critical capability for enabling GUI agents to execute tasks such as clicking and dragging. However, in complex scenarios like the ScreenSpot-Pro benchmark, existing models often su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Verifier-Backed Hard Problem Generation for Mathematical Reasoning",
+      "url": "http://arxiv.org/abs/2605.06660v1",
+      "summary": "Large Language Models (LLMs) demonstrate strong capabilities for solving scientific and mathematical problems, yet they struggle to produce valid, challenging, and novel problems - an essential compon...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REMAP: Regularized Matching and Partial Alignment of Video Embeddings",
+      "url": "http://arxiv.org/abs/2509.24382v2",
+      "summary": "Real-world instructional videos are long, noisy, and often contain extended background segments, repeated actions, and execution variability that do not correspond to meaningful procedural steps. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less",
+      "url": "http://arxiv.org/abs/2605.06654v1",
+      "summary": "Optimizers play an important role in both pretraining and finetuning stages when training large language models (LLMs). In this paper, we present an observation that full finetuning with the same opti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+      "url": "http://arxiv.org/abs/2605.06651v1",
+      "summary": "We introduce the AI co-mathematician, a workbench for mathematicians to interactively leverage AI agents to pursue open-ended research. The AI co-mathematician is optimized to provide holistic support...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 115477",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, license:apache-2.0, eval-results, region:us. Downloads: 23620",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 1167697",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] LLMs corrupt your documents when you delegate",
+      "url": "https://arxiv.org/abs/2604.15597",
+      "summary": "HN Score: 384. Comments: 148",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "HN Score: 622. Comments: 450",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using Claude Code: The unreasonable effectiveness of HTML",
+      "url": "https://twitter.com/trq212/status/2052809885763747935",
+      "summary": "HN Score: 438. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "summary": "HN Score: 358. Comments: 368",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI\u2019s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "summary": "HN Score: 481. Comments: 141",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Nvidia has already committed $40B to equity AI deals this year",
+        "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+        "summary": "Nvidia continues to be a big investor in the AI ecosystem."
+      },
+      {
+        "title": "[RSS] Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+        "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+        "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
+      },
+      {
+        "title": "[HackerNews] Meta's embrace of AI is making its employees miserable",
+        "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+        "summary": "HN Score: 358. Comments: 368"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Running Codex safely at OpenAI",
+        "url": "https://openai.com/index/running-codex-safely",
+        "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
+      },
+      {
+        "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+        "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+        "summary": "HN Score: 622. Comments: 450"
+      },
+      {
+        "title": "[HackerNews] OpenAI\u2019s WebRTC problem",
+        "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+        "summary": "HN Score: 481. Comments: 141"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+        "url": "http://arxiv.org/abs/2605.06665v1",
+        "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin..."
+      },
+      {
+        "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+        "url": "http://arxiv.org/abs/2605.06663v1",
+        "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know..."
+      },
+      {
+        "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+        "url": "http://arxiv.org/abs/2605.06652v1",
+        "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless..."
+      },
+      {
+        "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+        "url": "http://arxiv.org/abs/2605.06656v1",
+        "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr..."
+      },
+      {
+        "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+        "url": "http://arxiv.org/abs/2605.06667v1",
+        "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Nvidia has already committed $40B to equity AI deals this year",
+      "url": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+      "summary": "Nvidia continues to be a big investor in the AI ecosystem."
+    },
+    {
+      "title": "[RSS] Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "url": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "summary": "Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges."
+    },
+    {
+      "title": "[HackerNews] Meta's embrace of AI is making its employees miserable",
+      "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+      "summary": "HN Score: 358. Comments: 368"
+    },
+    {
+      "title": "[RSS] Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
+    },
+    {
+      "title": "[HackerNews] A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "summary": "HN Score: 622. Comments: 450"
+    },
+    {
+      "title": "[HackerNews] OpenAI\u2019s WebRTC problem",
+      "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+      "summary": "HN Score: 481. Comments: 141"
+    },
+    {
+      "title": "[ArXiv] UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2605.06665v1",
+      "summary": "Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a rigid per-layer rule: each transformer layer owns a separate expert set. This convention couples depth scaling with lin..."
+    },
+    {
+      "title": "[ArXiv] EMO: Pretraining Mixture of Experts for Emergent Modularity",
+      "url": "http://arxiv.org/abs/2605.06663v1",
+      "summary": "Large language models are typically deployed as monolithic systems, requiring the full model even when applications need only a narrow subset of capabilities, e.g., code, math, or domain-specific know..."
+    },
+    {
+      "title": "[ArXiv] When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels",
+      "url": "http://arxiv.org/abs/2605.06652v1",
+      "summary": "Many deployments must compare candidate language models for safety before a labeled benchmark exists for the relevant language, sector, or regulatory regime. We formalize this setting as benchmarkless..."
+    },
+    {
+      "title": "[ArXiv] Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML",
+      "url": "http://arxiv.org/abs/2605.06656v1",
+      "summary": "Ranking LLMs via pairwise human feedback underpins current leaderboards for open-ended tasks, such as creative writing and problem-solving. We analyze ~89K comparisons in 116 languages from 52 LLMs fr..."
+    },
+    {
+      "title": "[ArXiv] ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation",
+      "url": "http://arxiv.org/abs/2605.06667v1",
+      "summary": "For artistic applications, video generation requires fine-grained control over both performance and cinematography, i.e., the actor's motion and the camera trajectory. We present ActCam, a zero-shot m..."
+    }
+  ],
+  "final_report": "# AI's Dual Edge: Unprecedented Investment Meets Deployment Realities & Internal Friction\n\nToday's intelligence report highlights the relentless pace of AI investment and innovation, particularly from industry giants like Nvidia. However, this rapid expansion is also exposing critical challenges in practical deployment, internal organizational impact, and the fundamental evaluation of advanced models.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/)**\nNvidia isn't just selling chips; it's strategically embedding itself across the entire AI ecosystem through massive equity investments. This aggressive financial play solidifies its market dominance and ensures its hardware remains central to the future of AI innovation, creating a powerful network effect.\n\n### **[Voice AI in India is hard. Wispr Flow is betting on it anyway.](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)**\nThe challenges faced by voice AI in diverse linguistic markets like India underscore the need for hyper-localized solutions. Wispr Flow's success with Hinglish demonstrates that strategic adaptation to cultural and linguistic nuances can unlock significant growth, even in difficult segments, highlighting a key market expansion strategy.\n\n### **[Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html)**\nMeta's aggressive pivot to AI, while strategically sound for its future, is reportedly causing significant internal friction and employee dissatisfaction. This serves as a crucial reminder for business leaders that large-scale technological shifts require careful change management and consideration of human capital, beyond just technical implementation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely)**\nOpenAI's detailed approach to securing Codex through sandboxing, strict approvals, and network policies offers critical best practices for developers deploying powerful AI agents. This emphasizes that robust security and compliance frameworks are paramount when integrating AI into sensitive coding environments.\n\n### **[A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/)**\nUser experiences with advanced models like ChatGPT 5.5 Pro continue to generate significant discussion, highlighting both its capabilities and potential limitations. Developers should closely follow these real-world evaluations to understand the practical performance and evolving user expectations for cutting-edge LLMs.\n\n### **[OpenAI\u2019s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/)**\nThe discussion around OpenAI's WebRTC challenges points to the complex infrastructure and real-time communication hurdles involved in deploying interactive AI applications. This is a crucial area for developers to watch, as efficient and reliable data streaming is fundamental to the next generation of AI-powered user experiences.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[UniPool: A Globally Shared Expert Pool for Mixture-of-Experts](http://arxiv.org/abs/2605.06665v1)**\nUniPool proposes a novel approach to Mixture-of-Experts (MoE) architectures by introducing a globally shared expert pool, decoupling expert capacity from individual transformer layers. This research could lead to more efficient and flexible MoE models, optimizing resource allocation and potentially improving performance by allowing experts to be accessed across the entire network.\n\n### **[EMO: Pretraining Mixture of Experts for Emergent Modularity](http://arxiv.org/abs/2605.06663v1)**\nEMO explores pretraining MoE models to achieve emergent modularity, allowing the model to selectively activate subsets of experts for specific tasks. This work is significant for developing more efficient and specialized LLMs, reducing computational overhead for narrow applications and paving the way for truly adaptive AI systems.\n\n### **[When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels](http://arxiv.org/abs/2605.06652v1)**\nThis paper addresses the critical challenge of evaluating LLM safety in novel contexts where labeled benchmarks are absent. The proposed framework for benchmarkless validation offers a practical methodology for comparing candidate models, which is vital for responsible AI deployment in diverse and emerging regulatory landscapes.\n\n### **[Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML](http://arxiv.org/abs/2605.06656v1)**\nThis research critically examines the reliability of current LLM leaderboards, suggesting that pairwise human feedback can be misleading due to the heterogeneity of tasks and languages. It highlights the need for more nuanced and context-aware evaluation metrics to accurately assess LLM performance across a broad spectrum of real-world applications.\n\n### **[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation](http://arxiv.org/abs/2605.06667v1)**\nActCam introduces a zero-shot method for simultaneously controlling both actor motion and camera trajectory in video generation. This advancement is crucial for artistic and creative applications, offering unprecedented fine-grained control over cinematic elements and pushing the boundaries of generative AI for visual media.\n\n---\n\n**Today's Signal:** The AI landscape is characterized by aggressive strategic investments and profound architectural innovations, yet it simultaneously grapples with significant practical challenges in deployment, internal integration, and robust evaluation.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News | U-M Generative AI ](https://genai.umich.edu/news) | AI News \u00b7 April 14, 2026. Get down to the details with Claude for Word \u00b7 April 1... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI News \u2014 AI Trends, Updates & Tracker - AI Weekly ](https://aiweekly.co/ai-news-today/generative-ai-news) | Generative AI AI news and trends: live stories, mention tracker, and newsletter ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Running Codex safely at OpenAI ](https://openai.com/index/running-codex-safely) | How OpenAI runs Codex securely with sandboxing, approvals, network policies, and... |\n| [Voice AI in India is hard. Wispr Flow is betting on it anyway. ](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/) | Wispr Flow says growth accelerated in India after its Hinglish rollout, even as ... |\n| [So you\u2019ve heard these AI terms and nodded along; let\u2019s fix that ](https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) | The rise of AI has brought an avalanche of new terms and slang. Here is a glossa... |\n| [[RSS] Nvidia has already committed $40B to equity AI deals this year](https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/) | Nvidia continues to be a big investor in the AI ecosystem. |\n| [Laid-off Oracle workers tried to negotiate better severance. Oracle said no.\u00a0 ](https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/) | Some found out they didn't qualify for WARN Act protections like two-months noti... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation ](http://arxiv.org/abs/2605.06667v1) | For artistic applications, video generation requires fine-grained control over b... |\n| [UniPool: A Globally Shared Expert Pool for Mixture-of-Experts ](http://arxiv.org/abs/2605.06665v1) | Modern Mixture-of-Experts (MoE) architectures allocate expert capacity through a... |\n| [BAMI: Training-Free Bias Mitigation in GUI Grounding ](http://arxiv.org/abs/2605.06664v1) | GUI grounding is a critical capability for enabling GUI agents to execute tasks ... |\n| [EMO: Pretraining Mixture of Experts for Emergent Modularity ](http://arxiv.org/abs/2605.06663v1) | Large language models are typically deployed as monolithic systems, requiring th... |\n| [Verifier-Backed Hard Problem Generation for Mathematical Reasoning ](http://arxiv.org/abs/2605.06660v1) | Large Language Models (LLMs) demonstrate strong capabilities for solving scienti... |\n| [Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML ](http://arxiv.org/abs/2605.06656v1) | Ranking LLMs via pairwise human feedback underpins current leaderboards for open... |\n| [REMAP: Regularized Matching and Partial Alignment of Video Embeddings ](http://arxiv.org/abs/2509.24382v2) | Real-world instructional videos are long, noisy, and often contain extended back... |\n| [Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less ](http://arxiv.org/abs/2605.06654v1) | Optimizers play an important role in both pretraining and finetuning stages when... |\n| [When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels ](http://arxiv.org/abs/2605.06652v1) | Many deployments must compare candidate language models for safety before a labe... |\n| [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI ](http://arxiv.org/abs/2605.06651v1) | We introduce the AI co-mathematician, a workbench for mathematicians to interact... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Zyphra/ZAYA1-8B ](https://huggingface.co/Zyphra/ZAYA1-8B) | Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, license:apache-2.0... |\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] LLMs corrupt your documents when you delegate](https://arxiv.org/abs/2604.15597) | HN Score: 384. Comments: 148 |\n| [[HackerNews] A recent experience with ChatGPT 5.5 Pro](https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/) | HN Score: 622. Comments: 450 |\n| [[HackerNews] Using Claude Code: The unreasonable effectiveness of HTML](https://twitter.com/trq212/status/2052809885763747935) | HN Score: 438. Comments: 249 |\n| [[HackerNews] Meta's embrace of AI is making its employees miserable](https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html) | HN Score: 358. Comments: 368 |\n| [[HackerNews] OpenAI\u2019s WebRTC problem](https://moq.dev/blog/webrtc-is-the-problem/) | HN Score: 481. Comments: 141 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
