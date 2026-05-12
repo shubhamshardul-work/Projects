@@ -1,0 +1,342 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 157648",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 2017835",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "summary": "HN Score: 700. Comments: 259",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "summary": "HN Score: 97. Comments: 43",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "summary": "HN Score: 338. Comments: 350",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "summary": "HN Score: 287. Comments: 60",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "summary": "HN Score: 121. Comments: 135",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 157648",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4-Pro",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation, conversational, license:mit. Downloads: 2017835",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Postmortem: TanStack npm supply-chain compromise",
+      "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+      "summary": "HN Score: 700. Comments: 259",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "summary": "HN Score: 97. Comments: 43",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "summary": "HN Score: 338. Comments: 350",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
+      "summary": "HN Score: 287. Comments: 60",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "summary": "HN Score: 121. Comments: 135",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+        "url": "https://openai.com/signals/research/2026q1-update",
+        "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+      },
+      {
+        "title": "[RSS] How enterprises are scaling AI",
+        "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+        "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+      },
+      {
+        "title": "[RSS] OpenAI Campus Network: Student club interest form",
+        "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+        "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+      },
+      {
+        "title": "[RSS] OpenAI launches DeployCo to help businesses build around intelligence",
+        "url": "https://openai.com/index/openai-launches-the-deployment-company",
+        "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
+      },
+      {
+        "title": "[HackerNews] Claude Platform on AWS",
+        "url": "https://claude.com/blog/claude-platform-on-aws",
+        "summary": "HN Score: 97. Comments: 43"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Thinking Machines wants to build an AI that actually listens while it talks",
+        "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+        "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain."
+      },
+      {
+        "title": "[HackerNews] If AI writes your code, why use Python?",
+        "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+        "summary": "HN Score: 338. Comments: 350"
+      },
+      {
+        "title": "[HackerNews] I let AI build a tool to help me figure out what was waking me up at night",
+        "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+        "summary": "HN Score: 121. Comments: 135"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+        "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+    },
+    {
+      "title": "[RSS] How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale."
+    },
+    {
+      "title": "[RSS] OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "summary": "Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community."
+    },
+    {
+      "title": "[RSS] OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
+    },
+    {
+      "title": "[HackerNews] Claude Platform on AWS",
+      "url": "https://claude.com/blog/claude-platform-on-aws",
+      "summary": "HN Score: 97. Comments: 43"
+    },
+    {
+      "title": "[RSS] Thinking Machines wants to build an AI that actually listens while it talks",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain."
+    },
+    {
+      "title": "[HackerNews] If AI writes your code, why use Python?",
+      "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
+      "summary": "HN Score: 338. Comments: 350"
+    },
+    {
+      "title": "[HackerNews] I let AI build a tool to help me figure out what was waking me up at night",
+      "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
+      "summary": "HN Score: 121. Comments: 135"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119"
+    }
+  ],
+  "final_report": "# AI's Mainstream Moment: Enterprises Scale Up, Deployment Becomes Key\n\nToday's intelligence report highlights a significant acceleration in AI's journey from experimental tech to core business infrastructure. We're seeing a concerted effort to democratize AI access and streamline its integration into daily operations and strategic initiatives.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update)**\nThis data point is crucial for understanding market penetration and future growth vectors. The shift towards older demographics and balanced gender usage indicates AI is no longer a niche tech tool but a mainstream utility, opening vast new consumer and professional markets for AI-powered products and services. Businesses should strategize on how to cater to this expanding, diverse user base.\n\n### **[How enterprises are scaling AI](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai)**\nScaling AI effectively is the next frontier for competitive advantage. This guide underscores that successful enterprise AI adoption moves beyond pilot projects, emphasizing the critical role of robust governance, building user trust, and meticulously designing AI into existing workflows to achieve compounding business impact. Executives must prioritize these foundational elements for sustainable AI integration.\n\n### **[OpenAI Campus Network: Student club interest form](https://openai.com/index/openai-campus-network-student-club-interest-form)**\nThis initiative represents a strategic long-term play for talent acquisition and ecosystem development. By fostering AI communities at the university level, OpenAI is cultivating the next generation of AI professionals and potential future partners, ensuring a pipeline of skilled individuals and innovative ideas that will drive the industry forward. It's an investment in future human capital.\n\n### **[OpenAI launches DeployCo to help businesses build around intelligence](https://openai.com/index/openai-launches-the-deployment-company)**\nThe launch of DeployCo addresses a critical bottleneck in enterprise AI adoption: the gap between powerful models and real-world business impact. This move signals OpenAI's commitment to not just building frontier AI, but also ensuring its practical application and measurable ROI for businesses, potentially accelerating the widespread integration of advanced AI solutions across industries.\n\n### **[Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws)**\nAnthropic's Claude platform becoming available on AWS is a significant development for enterprise cloud strategies. This partnership offers businesses leveraging AWS a direct, streamlined path to integrate Claude's advanced conversational AI capabilities, intensifying the competition in the enterprise AI market and providing more choice for organizations seeking robust, scalable AI solutions.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Thinking Machines wants to build an AI that actually listens while it talks](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/)**\nThis represents a fascinating paradigm shift in human-AI interaction, moving from turn-taking to simultaneous processing. For developers, this could unlock more natural, fluid conversational interfaces, demanding new approaches to real-time data handling and response generation. Watch this space for potential breakthroughs in user experience and system design.\n\n### **[If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055)**\nThis provocative question challenges the conventional wisdom of programming language choice in an AI-assisted development era. As AI becomes more proficient at code generation, developers might re-evaluate languages based on factors like performance, safety, or specific domain needs, rather than just ease of writing. This discussion is crucial for understanding the evolving role of programming languages and developer skill sets.\n\n### **[I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/)**\nThis personal project exemplifies the power of AI as a rapid prototyping and problem-solving tool for individual developers. It showcases how AI can quickly translate a vague problem into a functional solution, highlighting its utility for automating mundane tasks and accelerating development cycles. Practitioners should explore AI's potential for personal productivity and bespoke tool creation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Zyphra/ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**\nThe emergence of models like Zyphra/ZAYA1-8B, particularly with a focus on \"reasoning-base\" and its rapid adoption, signals continued progress in developing more capable and efficient smaller language models. Researchers should investigate its architectural innovations and training methodologies, especially how it achieves reasoning capabilities within an 8B parameter budget, to push the boundaries of accessible, high-performance AI.\n\n---\n**Today's Signal:** Today's signal is the clear acceleration of AI's journey from experimental technology to indispensable enterprise infrastructure, driven by strategic deployment efforts and broadening mainstream adoption.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Agentic AI News + AI Breakthroughs + AI Developments | 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How ChatGPT adoption broadened in early 2026 ](https://openai.com/signals/research/2026q1-update) | ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and ... |\n| [How enterprises are scaling AI ](https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai) | How enterprises scale AI: from early experiments to compounding impact through t... |\n| [OpenAI Campus Network: Student club interest form ](https://openai.com/index/openai-campus-network-student-club-interest-form) | Join the OpenAI Campus Network\u2014connect student clubs worldwide, access AI tools,... |\n| [OpenAI launches DeployCo to help businesses build around intelligence ](https://openai.com/index/openai-launches-the-deployment-company) | OpenAI launches DeployCo, a new enterprise deployment company built to help orga... |\n| [Thinking Machines wants to build an AI that actually listens while it talks ](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/) | Right now, every AI model you've ever used works the same way. You talk, it list... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Zyphra/ZAYA1-8B ](https://huggingface.co/Zyphra/ZAYA1-8B) | Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/... |\n| [deepseek-ai/DeepSeek-V4-Pro ](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) | Trending HF Model. Tags: transformers, safetensors, deepseek_v4, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Postmortem: TanStack npm supply-chain compromise](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem) | HN Score: 700. Comments: 259 |\n| [[HackerNews] Claude Platform on AWS](https://claude.com/blog/claude-platform-on-aws) | HN Score: 97. Comments: 43 |\n| [[HackerNews] If AI writes your code, why use Python?](https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055) | HN Score: 338. Comments: 350 |\n| [[HackerNews] UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)](https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage) | HN Score: 287. Comments: 60 |\n| [[HackerNews] I let AI build a tool to help me figure out what was waking me up at night](https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/) | HN Score: 121. Comments: 135 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
