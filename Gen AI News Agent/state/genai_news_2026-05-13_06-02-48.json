@@ -1,0 +1,322 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 157648",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, image-text-to-text, conversational. Downloads: 0",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 376. Comments: 133",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "summary": "HN Score: 485. Comments: 209",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "summary": "HN Score: 176. Comments: 145",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "summary": "HN Score: 67. Comments: 39",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "summary": "HN Score: 49. Comments: 19",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 157648",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, image-text-to-text, conversational. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 376. Comments: 133",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why senior developers fail to communicate their expertise",
+      "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+      "summary": "HN Score: 485. Comments: 209",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "summary": "HN Score: 176. Comments: 145",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "summary": "HN Score: 67. Comments: 39",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "summary": "HN Score: 49. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+        "url": "https://openai.com/signals/research/2026q1-update",
+        "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+      },
+      {
+        "title": "[HackerNews] Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+        "url": "https://voker.ai",
+        "summary": "HN Score: 49. Comments: 19"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+        "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119"
+      },
+      {
+        "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "summary": "HN Score: 376. Comments: 133"
+      },
+      {
+        "title": "[HackerNews] Reimagining the mouse pointer for the AI era",
+        "url": "https://deepmind.google/blog/ai-pointer/",
+        "summary": "HN Score: 176. Comments: 145"
+      },
+      {
+        "title": "[HackerNews] Show HN: Agentic interface for mainframes and COBOL",
+        "url": "https://www.hypercubic.ai/hopper",
+        "summary": "HN Score: 67. Comments: 39"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] What Parameter Golf taught us about AI-assisted research",
+        "url": "https://openai.com/index/what-parameter-golf-taught-us",
+        "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption."
+    },
+    {
+      "title": "[HackerNews] Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents",
+      "url": "https://voker.ai",
+      "summary": "HN Score: 49. Comments: 19"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 66119"
+    },
+    {
+      "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 376. Comments: 133"
+    },
+    {
+      "title": "[HackerNews] Reimagining the mouse pointer for the AI era",
+      "url": "https://deepmind.google/blog/ai-pointer/",
+      "summary": "HN Score: 176. Comments: 145"
+    },
+    {
+      "title": "[HackerNews] Show HN: Agentic interface for mainframes and COBOL",
+      "url": "https://www.hypercubic.ai/hopper",
+      "summary": "HN Score: 67. Comments: 39"
+    },
+    {
+      "title": "[RSS] What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Mainstream Adoption & Agentic Evolution\n\nToday's AI landscape reveals a significant shift towards broader mainstream adoption, underscored by demographic expansion and the rapid development of specialized infrastructure for AI agents. This dual focus on accessibility and advanced tooling signals a maturing ecosystem poised for widespread integration across industries.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[How ChatGPT adoption broadened in early 2026](https://openai.com/signals/research/2026q1-update)**\nOpenAI's latest report indicates a substantial surge in ChatGPT adoption during Q1 2026, notably among users over 35 and with a more balanced gender distribution. This demographic shift is a critical signal for business leaders, confirming AI's transition from early adopters to a truly mainstream technology, necessitating broader product strategies and user experience considerations.\n\n### **[Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents](https://voker.ai)**\nThe launch of Voker, an analytics platform specifically for AI agents, highlights a burgeoning market need for operational intelligence in the agentic AI space. As businesses increasingly deploy complex AI agents, tools like Voker will become indispensable for monitoring performance, ensuring reliability, and optimizing strategic outcomes, marking a new layer of essential AI infrastructure.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Zyphra/ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**\nZyphra's ZAYA1-8B is rapidly trending on HuggingFace, offering developers a new 8-billion parameter model with a focus on reasoning capabilities. This model presents a compelling option for practitioners looking to integrate efficient, powerful language understanding into their applications, particularly for tasks requiring logical inference.\n\n### **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)**\nNeedle showcases an impressive feat of engineering by distilling Gemini's advanced tool-calling capabilities into a remarkably compact 26-million parameter model. This innovation is a game-changer for developers, enabling sophisticated agentic behaviors in resource-constrained environments and opening doors for on-device AI applications.\n\n### **[Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/)**\nDeepMind's exploration into an \"AI pointer\" suggests a fundamental rethinking of human-computer interaction, moving beyond traditional input methods. Engineers should watch this space closely as AI-driven interfaces promise to create more intuitive and context-aware user experiences, potentially redefining how we interact with digital tools.\n\n### **[Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper)**\nThis \"Show HN\" demonstrates a practical application of AI agents to bridge the gap between modern AI and legacy mainframe systems, including COBOL. For developers grappling with enterprise modernization, this agentic interface offers a powerful new paradigm for interacting with and extracting value from critical, long-standing infrastructure.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[What Parameter Golf taught us about AI-assisted research](https://openai.com/index/what-parameter-golf-taught-us)**\nOpenAI's \"Parameter Golf\" initiative, involving thousands of participants, offers profound insights into the future of AI-assisted research, particularly in machine learning. This collaborative, constraint-driven approach highlights the potential for AI to accelerate discovery in areas like model quantization and novel architecture design, pointing towards new paradigms for scientific exploration.\n\n---\n\n**Today's Signal:** The AI ecosystem is rapidly maturing, marked by expanding mainstream adoption, the emergence of specialized agent infrastructure, and innovative AI-assisted research paradigms.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How finance teams use Codex ](https://openai.com/academy/how-finance-teams-use-codex) | See how finance teams can use Codex to build MBRs, reporting packs, variance bri... |\n| [How NVIDIA engineers and researchers build with Codex ](https://openai.com/index/nvidia) | Teams use Codex with GPT-5.5 to ship production systems and turn research ideas ... |\n| [What Parameter Golf taught us about AI-assisted research ](https://openai.com/index/what-parameter-golf-taught-us) | Parameter Golf brought together 1,000+ participants and 2,000+ submissions to ex... |\n| [AutoScout24 scales engineering with AI-powered workflows ](https://openai.com/index/autoscout24) | Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, ... |\n| [How ChatGPT adoption broadened in early 2026 ](https://openai.com/signals/research/2026q1-update) | ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Zyphra/ZAYA1-8B ](https://huggingface.co/Zyphra/ZAYA1-8B) | Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/... |\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, image-... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) | HN Score: 376. Comments: 133 |\n| [[HackerNews] Why senior developers fail to communicate their expertise](https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise) | HN Score: 485. Comments: 209 |\n| [[HackerNews] Reimagining the mouse pointer for the AI era](https://deepmind.google/blog/ai-pointer/) | HN Score: 176. Comments: 145 |\n| [[HackerNews] Show HN: Agentic interface for mainframes and COBOL](https://www.hypercubic.ai/hopper) | HN Score: 67. Comments: 39 |\n| [[HackerNews] Launch HN: Voker (YC S24) \u2013 Analytics for AI Agents](https://voker.ai) | HN Score: 49. Comments: 19 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
