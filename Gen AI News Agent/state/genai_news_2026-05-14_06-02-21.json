@@ -1,0 +1,322 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "summary": "Read the latest on artificial intelligence and machine learning tech, the companies that are building them, and the ethical issues AI raises today.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 535069",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, image-text-to-text. Downloads: 3494",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 110182",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "summary": "HN Score: 109. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "summary": "HN Score: 21. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "summary": "HN Score: 541. Comments: 169",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "summary": "HN Score: 185. Comments: 509",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 661. Comments: 187",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence/",
+      "summary": "Read the latest on artificial intelligence and machine learning tech, the companies that are building them, and the ethical issues AI raises today.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments | 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "summary": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 535069",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, image-text-to-text. Downloads: 3494",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 110182",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "summary": "HN Score: 109. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Arena AI Model ELO History",
+      "url": "https://mayerwin.github.io/AI-Arena-History/",
+      "summary": "HN Score: 21. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Setting up a free *.city.state.us locality domain (2025)",
+      "url": "https://fredchan.org/blog/locality-domains-guide/",
+      "summary": "HN Score: 541. Comments: 169",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "summary": "HN Score: 185. Comments: 509",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 661. Comments: 187",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+        "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+        "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+      },
+      {
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
+      },
+      {
+        "title": "Claude for Small Business",
+        "url": "https://www.anthropic.com/news/claude-for-small-business",
+        "summary": "HN Score: 109. Comments: 57"
+      },
+      {
+        "title": "The US is winning the AI race where it matters most: commercialization",
+        "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+        "summary": "HN Score: 185. Comments: 509"
+      }
+    ],
+    "technical": [
+      {
+        "title": "Our response to the TanStack npm supply chain attack",
+        "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+        "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def"
+      },
+      {
+        "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+        "url": "https://github.com/cactus-compute/needle",
+        "summary": "HN Score: 661. Comments: 187"
+      }
+    ],
+    "research": [
+      {
+        "title": "Zyphra/ZAYA1-8B",
+        "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+        "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 110182"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Clio\u2019s $500M milestone arrives just as Anthropic ups the ante",
+      "url": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+      "summary": "Legal tech startups, including Clio, which just hit $500 million in ARR, are seeing massive customer adoption."
+    },
+    {
+      "title": "Notion just turned its workspace into a hub for AI agents",
+      "url": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+      "summary": "Notion\u2019s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
+    },
+    {
+      "title": "Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "summary": "HN Score: 109. Comments: 57"
+    },
+    {
+      "title": "The US is winning the AI race where it matters most: commercialization",
+      "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+      "summary": "HN Score: 185. Comments: 509"
+    },
+    {
+      "title": "Our response to the TanStack npm supply chain attack",
+      "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+      "summary": "OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update OpenAI apps by June 12, 2026. Learn what happened, what was affected, and how OpenAI is strengthening def"
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "url": "https://github.com/cactus-compute/needle",
+      "summary": "HN Score: 661. Comments: 187"
+    },
+    {
+      "title": "Zyphra/ZAYA1-8B",
+      "url": "https://huggingface.co/Zyphra/ZAYA1-8B",
+      "summary": "Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/ZAYA1-reasoning-base, base_model:finetune:Zyphra/ZAYA1-reasoning-base, license:apache-2.0. Downloads: 110182"
+    }
+  ],
+  "final_report": "# AI's Commercial Surge: From Enterprise Agents to Secure Deployments\n\nToday's intelligence report highlights a significant acceleration in AI's commercialization, with major platforms integrating agentic capabilities and specialized AI solutions achieving remarkable market adoption. This surge is underpinned by continuous innovation in model efficiency and a heightened focus on supply chain security.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Clio\u2019s $500M milestone arrives just as Anthropic ups the ante](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/)**\nThe legal tech sector is demonstrating robust growth and massive customer adoption, exemplified by Clio's impressive $500 million in Annual Recurring Revenue (ARR). This milestone underscores the strong market validation for vertical-specific AI solutions, signaling a broader trend of AI transforming specialized industries. Anthropic's concurrent moves suggest increasing competition and innovation in making advanced AI accessible to diverse business segments.\n\n### **[Notion just turned its workspace into a hub for AI agents](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/)**\nNotion is strategically evolving its platform into a central hub for AI agents, allowing users to integrate external data sources and custom code directly into their workspaces. This move signifies a critical shift towards \"agentic productivity software,\" where AI agents automate complex workflows and enhance collaboration. It positions Notion as a key player in the enterprise AI ecosystem, enabling more dynamic and intelligent work environments.\n\n### **[Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business)**\nAnthropic's introduction of Claude for Small Business marks a significant expansion of advanced AI capabilities to a crucial market segment. This initiative aims to democratize access to powerful large language models, enabling SMBs to leverage AI for enhanced productivity and competitive advantage. It also intensifies the competitive landscape among AI providers vying for broader market penetration beyond enterprise clients.\n\n### **[The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html)**\nA compelling analysis suggests that the United States holds a leading position in the global AI race, particularly in the critical area of commercialization. This indicates a strong ecosystem for translating AI research into practical, revenue-generating applications and widespread adoption. The focus on commercialization highlights the economic impact and strategic advantage derived from successfully deploying AI technologies in the real world.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Our response to the TanStack npm supply chain attack](https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack)**\nOpenAI has detailed its swift response to the \"Mini Shai-Hulud\" supply chain attack targeting TanStack npm packages, emphasizing the critical importance of software supply chain security. This incident underscores the ongoing vulnerabilities in the developer ecosystem and the necessity for robust security protocols, including system hardening and certificate protections. Developers using OpenAI apps on macOS are urged to update by June 12, 2026, highlighting the shared responsibility in maintaining a secure AI development environment.\n\n### **[Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle)**\nNeedle showcases an impressive feat of model distillation, shrinking Gemini's powerful tool-calling capabilities into a remarkably compact 26 million parameter model. This innovation is crucial for enabling advanced AI functionalities on resource-constrained devices and edge deployments. It represents a significant step towards making sophisticated AI more accessible and efficient for a wider range of applications and developers.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Zyphra/ZAYA1-8B](https://huggingface.co/Zyphra/ZAYA1-8B)**\nThe release of Zyphra/ZAYA1-8B, an 8-billion parameter model focused on reasoning, is trending on Hugging Face, indicating strong community interest in efficient and capable open-source models. This model, based on a reasoning-focused base, demonstrates continued progress in developing smaller, yet highly performant, language models. It highlights the ongoing research into optimizing model size for specific cognitive tasks like reasoning, making advanced AI more accessible for diverse research and application scenarios.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with a clear emphasis on commercial viability and practical application, driving both enterprise adoption and the development of more efficient, secure models.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI News & Artificial Intelligence | TechCrunch ](https://techcrunch.com/category/artificial-intelligence/) | Read the latest on artificial intelligence and machine learning tech, the compan... |\n| [Agentic AI News + AI Breakthroughs + AI Developments | 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [AI News | Latest News | Insights Powering AI-Driven Business Growth ](https://www.artificialintelligence-news.com/) | AI News delivers the latest updates in artificial intelligence, machine learning... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Building a safe, effective sandbox to enable Codex on Windows ](https://openai.com/index/building-codex-windows-sandbox) | Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, eff... |\n| [Our response to the TanStack npm supply chain attack ](https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack) | OpenAI details its response to the TanStack \u201cMini Shai-Hulud\u201d supply chain attac... |\n| [How finance teams use Codex ](https://openai.com/academy/how-finance-teams-use-codex) | See how finance teams can use Codex to build MBRs, reporting packs, variance bri... |\n| [Clio\u2019s $500M milestone arrives just as Anthropic ups the ante ](https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/) | Legal tech startups, including Clio, which just hit $500 million in ARR, are see... |\n| [Notion just turned its workspace into a hub for AI agents ](https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/) | Notion\u2019s new developer platform lets teams connect AI agents, external data sour... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Dev... |\n| [Zyphra/ZAYA1-8B ](https://huggingface.co/Zyphra/ZAYA1-8B) | Trending HF Model. Tags: safetensors, zaya, arxiv:2605.05365, base_model:Zyphra/... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) | HN Score: 109. Comments: 57 |\n| [[HackerNews] Arena AI Model ELO History](https://mayerwin.github.io/AI-Arena-History/) | HN Score: 21. Comments: 7 |\n| [[HackerNews] Setting up a free *.city.state.us locality domain (2025)](https://fredchan.org/blog/locality-domains-guide/) | HN Score: 541. Comments: 169 |\n| [[HackerNews] The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html) | HN Score: 185. Comments: 509 |\n| [[HackerNews] Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model](https://github.com/cactus-compute/needle) | HN Score: 661. Comments: 187 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
