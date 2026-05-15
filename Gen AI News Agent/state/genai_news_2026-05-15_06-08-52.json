@@ -1,0 +1,301 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "summary": "Here's what the biggest tech court case of the year is all about. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 627368",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, image-text-to-text. Downloads: 16801",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HiDream-ai/HiDream-O1-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_vl, image-text-to-text, image-text-to-image, license:mit. Downloads: 9858",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "summary": "HN Score: 82. Comments: 47",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "summary": "HN Score: 70. Comments: 35",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "summary": "HN Score: 38. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "summary": "HN Score: 539. Comments: 140",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "summary": "HN Score: 278. Comments: 140",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Sea's View on the Future of Agentic Software Development with Codex",
+      "url": "https://openai.com/index/sea-david-chen",
+      "summary": "Sea Limited's CPO explains why the company is deploying Codex across engineering teams to accelerate AI-native software development in Asia.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Work with Codex from anywhere",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere",
+      "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "summary": "Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, efficient coding agents with controlled file access and network restrictions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "summary": "Here's what the biggest tech court case of the year is all about. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 627368",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, image-text-to-text. Downloads: 16801",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HiDream-ai/HiDream-O1-Image",
+      "url": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_vl, image-text-to-text, image-text-to-image, license:mit. Downloads: 9858",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "summary": "HN Score: 82. Comments: 47",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "summary": "HN Score: 70. Comments: 35",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Details of the Daring Airdrop at Tristan Da Cunha",
+      "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
+      "summary": "HN Score: 38. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] RTX 5090 and M4 MacBook Air: Can It Game?",
+      "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+      "summary": "HN Score: 539. Comments: 140",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Codex is now in the ChatGPT mobile app",
+      "url": "https://openai.com/index/work-with-codex-from-anywhere/",
+      "summary": "HN Score: 278. Comments: 140",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+        "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+        "summary": "Here's what the biggest tech court case of the year is all about. "
+      },
+      {
+        "title": "[HackerNews] Access to frontier AI will soon be limited by economic and security constraints",
+        "url": "https://writing.antonleicht.me/p/cut-off",
+        "summary": "HN Score: 70. Comments: 35"
+      },
+      {
+        "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+        "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+        "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] How Claude Code works in large codebases",
+        "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+        "summary": "HN Score: 82. Comments: 47"
+      },
+      {
+        "title": "[RSS] Helping ChatGPT better recognize context in sensitive conversations",
+        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+        "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+      "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+      "summary": "Here's what the biggest tech court case of the year is all about. "
+    },
+    {
+      "title": "[HackerNews] Access to frontier AI will soon be limited by economic and security constraints",
+      "url": "https://writing.antonleicht.me/p/cut-off",
+      "summary": "HN Score: 70. Comments: 35"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools."
+    },
+    {
+      "title": "[HackerNews] How Claude Code works in large codebases",
+      "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+      "summary": "HN Score: 82. Comments: 47"
+    },
+    {
+      "title": "[RSS] Helping ChatGPT better recognize context in sensitive conversations",
+      "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+      "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
+    }
+  ],
+  "final_report": "# AI's Legal Battlegrounds & Strategic Chokepoints Emerge\n\nToday's intelligence report highlights the intensifying legal and economic pressures shaping the AI industry, even as practical advancements for developers continue to refine how these powerful tools are built and deployed. From high-profile courtroom dramas to the strategic control of frontier models, the landscape is becoming increasingly complex for all stakeholders.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/)**\nThe impending legal showdown between Elon Musk and Sam Altman is poised to be a landmark case, potentially redefining the governance and mission of leading AI organizations. Business leaders and investors should closely watch the proceedings, as the outcome could set precedents for corporate structure, intellectual property, and the very ethos of AI development, impacting future investment and strategic partnerships across the sector.\n\n### **[Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off)**\nThe increasing economic and security barriers to accessing frontier AI models signal a critical shift towards a more controlled and exclusive AI landscape. This trend suggests that advanced AI capabilities will become a strategic asset, potentially concentrating power among a few nations or corporations. Executives must consider how this \"cut-off\" will impact their long-term innovation strategies, supply chain resilience, and competitive positioning in a world where access to cutting-edge AI is a premium.\n\n### **[AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en)**\nThis weekly roundup underscores the relentless pace of innovation and fierce competition among AI giants like Google and Claude. For business leaders, staying abreast of these rapid developments is crucial for identifying emerging market opportunities, understanding competitive threats, and making informed decisions about technology adoption and strategic investments. The \"Google vs. Claude\" narrative, in particular, highlights the ongoing battle for market share and technological supremacy in key generative AI applications.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start)**\nFor developers grappling with the complexities of large codebases, understanding how tools like Claude Code can integrate and assist is paramount. This guide offers practical insights and best practices, helping engineers leverage AI for tasks like code generation, refactoring, and debugging more effectively. It's a valuable resource for optimizing development workflows and enhancing productivity in real-world, enterprise-scale projects.\n\n### **[Helping ChatGPT better recognize context in sensitive conversations](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations)**\nOpenAI's continuous efforts to improve ChatGPT's context recognition in sensitive conversations are vital for developers building robust and ethical AI applications. Enhanced safety updates mean more reliable detection of risky content and more appropriate responses, reducing the potential for misuse or harm. Practitioners should pay close attention to these advancements, as they directly impact the trustworthiness and deployability of AI systems in critical domains.\n\n---\n\n**Today's Signal:** The AI industry is rapidly maturing, characterized by escalating legal and strategic battles for control, alongside a focused drive towards practical, safer, and more context-aware application development.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | ... ai, latest ai news, generative ai advancements, ai studio features, latest a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Sea's View on the Future of Agentic Software Development with Codex ](https://openai.com/index/sea-david-chen) | Sea Limited's CPO explains why the company is deploying Codex across engineering... |\n| [Work with Codex from anywhere ](https://openai.com/index/work-with-codex-from-anywhere) | Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve codi... |\n| [Helping ChatGPT better recognize context in sensitive conversations ](https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations) | Learn how new ChatGPT safety updates improve context awareness in sensitive conv... |\n| [Building a safe, effective sandbox to enable Codex on Windows ](https://openai.com/index/building-codex-windows-sandbox) | Learn how OpenAI built a secure sandbox for Codex on Windows, enabling safe, eff... |\n| [[RSS] What the jury will actually decide in the case of Elon Musk vs. Sam Altman](https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/) | Here's what the biggest tech court case of the year is all about.  |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Dev... |\n| [HiDream-ai/HiDream-O1-Image ](https://huggingface.co/HiDream-ai/HiDream-O1-Image) | Trending HF Model. Tags: transformers, safetensors, qwen3_vl, image-text-to-text... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] How Claude Code works in large codebases](https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start) | HN Score: 82. Comments: 47 |\n| [[HackerNews] Access to frontier AI will soon be limited by economic and security constraints](https://writing.antonleicht.me/p/cut-off) | HN Score: 70. Comments: 35 |\n| [[HackerNews] Details of the Daring Airdrop at Tristan Da Cunha](https://www.tristandc.com/government/news-2026-05-11-airdrop.php) | HN Score: 38. Comments: 4 |\n| [[HackerNews] RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) | HN Score: 539. Comments: 140 |\n| [[HackerNews] Codex is now in the ChatGPT mobile app](https://openai.com/index/work-with-codex-from-anywhere/) | HN Score: 278. Comments: 140 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
