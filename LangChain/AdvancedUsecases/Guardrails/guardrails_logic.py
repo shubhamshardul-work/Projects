@@ -75,7 +75,7 @@ def get_content_as_string(content: Any) -> str:
 
 LOG_DIR = Path(__file__).parent / "guardrails_logs"
 LOG_DIR.mkdir(exist_ok=True)
-
+        
 
 class ConversationLogger:
     """Logs every interaction with full guardrail pipeline details to JSON."""
@@ -110,7 +110,7 @@ class ConversationLogger:
         if after:
             entry["after"] = after[:100]
         self._current_entry["guardrails_pipeline"].append(entry)
-
+ 
     def finish_entry(self, final_response: str = None, error: str = None):
         """Finalize and write the log entry to disk."""
         if self._current_entry is None:
@@ -130,7 +130,7 @@ class ConversationLogger:
                     line = line.strip()
                     if line:
                         logs.append(json.loads(line))
-        return logs
+        return logs  
 
 
 # Global logger instance

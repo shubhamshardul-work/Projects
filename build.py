@@ -19,6 +19,7 @@ REPORTS_DIR   = Path("Gen AI News Agent/reports")
 GENAI_SRC     = Path("site-src")
 PORTFOLIO_SRC = Path("portfolio-src")
 SHOWCASE_SRC  = Path("Fully_Agentic_Org_Employee_GraphRAG/showcase")
+GUARDRAILS_SHOWCASE_SRC = Path("LangChain/AdvancedUsecases/Guardrails/showcase")
 DIST_DIR      = Path("dist")
 
 
@@ -69,7 +70,15 @@ def build():
     else:
         print(f"  ⚠️  Showcase directory not found at {SHOWCASE_SRC}/")
 
-    # 4. Process GenAI Reports
+    # 4. Copy Guardrails Showcase to dist/Guardrails
+    if GUARDRAILS_SHOWCASE_SRC.exists():
+        guardrails_out = DIST_DIR / "Guardrails"
+        shutil.copytree(GUARDRAILS_SHOWCASE_SRC, guardrails_out)
+        print(f"  ✅ Copied {GUARDRAILS_SHOWCASE_SRC}/ → {guardrails_out}/")
+    else:
+        print(f"  ⚠️  Guardrails showcase not found at {GUARDRAILS_SHOWCASE_SRC}/")
+
+    # 5. Process GenAI Reports
     reports_out = genai_out / "reports"
     reports_out.mkdir(exist_ok=True)
 

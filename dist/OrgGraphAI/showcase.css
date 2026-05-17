@@ -406,6 +406,45 @@ body{
 .step-card h4{font-family:var(--font-heading);font-size:1.05rem;margin-bottom:10px;color:var(--text-main)}
 .step-card p{color:var(--text-muted);font-size:.85rem;line-height:1.6}
 
+/* ══════════════════════════════════════════════════════════════
+   CTA SECTION
+   ══════════════════════════════════════════════════════════════ */
+.cta-section{padding:16px 0 72px}
+.cta-card{
+  text-align:center;padding:56px 24px;
+  background:linear-gradient(135deg, rgba(255,255,255,0.02) 0%, rgba(139,92,246,0.06) 100%);
+  border-top:1px solid rgba(139,92,246,0.2);
+}
+.cta-title{
+  font-family:var(--font-heading);font-size:2rem;font-weight:700;
+  color:var(--text-main);margin-bottom:12px;
+}
+.cta-desc{
+  color:var(--text-muted);font-size:1.05rem;max-width:600px;
+  margin:0 auto 32px;line-height:1.7;
+}
+.cta-actions{display:flex;justify-content:center;gap:16px;flex-wrap:wrap}
+.cta-btn{
+  display:inline-flex;align-items:center;gap:8px;
+  padding:12px 24px;border-radius:30px;font-weight:600;font-size:.95rem;
+  text-decoration:none;transition:all .3s ease;
+}
+.cta-btn i{font-size:1.15rem}
+.cta-btn.primary{
+  background:linear-gradient(135deg, var(--accent-1), var(--accent-2));
+  color:#fff;border:none;box-shadow:0 4px 14px rgba(139,92,246,0.3);
+}
+.cta-btn.primary:hover{
+  box-shadow:0 6px 20px rgba(139,92,246,0.45);transform:translateY(-2px);
+}
+.cta-btn.secondary{
+  background:rgba(255,255,255,.05);color:var(--text-main);
+  border:1px solid rgba(255,255,255,.15);
+}
+.cta-btn.secondary:hover{
+  background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.25);transform:translateY(-2px);
+}
+
 /* ── Footer ──────────────────────────────────────────── */
 footer{
   text-align:center;padding:36px 0;color:var(--text-dim);

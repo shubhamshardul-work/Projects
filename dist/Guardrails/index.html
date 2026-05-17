@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Guardrails — McBuddy Showcase</title>
+  <meta name="description" content="Production-grade 4-layer guardrail architecture for AI chatbots using LangChain AgentMiddleware. PII protection, competitor filtering, human-in-the-loop, and sentiment control.">
+  <meta property="og:title" content="AI Guardrails — McBuddy Showcase">
+  <meta property="og:description" content="Interactive demo of a 4-layer AI safety middleware pipeline built with LangChain. See PII redaction, competitor blocking, HITL, and sentiment control in action.">
+  <meta property="og:type" content="website">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+
+  <!-- Libraries -->
+  <script src="https://unpkg.com/@phosphor-icons/web"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+
+  <link rel="stylesheet" href="showcase.css">
+</head>
+<body>
+
+  <!-- Animated Backgrounds -->
+  <div class="bg-grid"></div>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-orb orb-3"></div>
+
+  <div class="container">
+
+    <!-- Back Navigation -->
+    <nav class="back-nav anim-in">
+      <a href="../index.html" class="back-link">
+        <i class="ph ph-arrow-left"></i> Back to Portfolio
+      </a>
+    </nav>
+
+    <!-- ────────── Hero ────────── -->
+    <section class="hero anim-in">
+      <div class="hero-badge">
+        <span class="badge-pulse"></span>
+        <i class="ph-fill ph-shield-check"></i>
+        <span>Featured Project</span>
+      </div>
+      <h1><span class="gradient-text">AI Guardrails</span></h1>
+      <h2 class="subtitle">Production-Grade Safety Middleware for LLM Chatbots</h2>
+      <p class="hero-desc">
+        A <strong>4-layer guardrail architecture</strong> that makes AI chatbots production-ready.
+        Built with LangChain's <code>AgentMiddleware</code>, this system intercepts, validates, and sanitizes
+        every message — before <em>and</em> after the LLM — ensuring data privacy, brand safety, and human oversight.
+      </p>
+      <div class="arch-flow">
+        <div class="arch-pill"><i class="ph ph-user"></i> User Input</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-shield-warning"></i> PII Filter</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-prohibit"></i> Competitor Check</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-brain"></i> LLM</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-smiley"></i> Sentiment Audit</div>
+        <div class="arch-arrow"><i class="ph ph-arrow-right"></i></div>
+        <div class="arch-pill"><i class="ph ph-check-circle"></i> Safe Output</div>
+      </div>
+      <div class="tech-stack">
+        <span class="tech-tag">Python</span>
+        <span class="tech-tag">LangChain</span>
+        <span class="tech-tag">LangGraph</span>
+        <span class="tech-tag">FastAPI</span>
+        <span class="tech-tag">Gemini 2.5 Flash</span>
+        <span class="tech-tag">AgentMiddleware</span>
+      </div>
+    </section>
+
+    <!-- ────────── Stats ────────── -->
+    <section class="stats-row anim-in">
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-shield-checkered"></i></div>
+        <div class="stat-number" data-target="4">0</div>
+        <div class="stat-label">Guardrail Layers</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-stack"></i></div>
+        <div class="stat-number" data-target="6">0</div>
+        <div class="stat-label">Middleware Types</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-lock-key"></i></div>
+        <div class="stat-number" data-target="5">0</div>
+        <div class="stat-label">PII Strategies</div>
+      </div>
+      <div class="stat-card glass-panel">
+        <div class="stat-icon"><i class="ph-duotone ph-wrench"></i></div>
+        <div class="stat-number" data-target="3">0</div>
+        <div class="stat-label">Agent Tools</div>
+      </div>
+    </section>
+
+    <!-- ────────── Interactive Demo ────────── -->
+    <section class="demo-section anim-in" id="demo-section">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-chat-circle-dots"></i> Interactive Demo</h3>
+        <p class="section-subtitle">Click a scenario below to watch the guardrail pipeline in action. Each demo shows exactly what happens at every middleware layer.</p>
+      </div>
+
+      <!-- Scenario Buttons -->
+      <div class="scenario-bar">
+        <button class="scenario-btn" data-scenario="menu"><span class="sc-icon">🍔</span> Menu Browse</button>
+        <button class="scenario-btn" data-scenario="pii"><span class="sc-icon">🔒</span> PII Protection</button>
+        <button class="scenario-btn" data-scenario="competitor"><span class="sc-icon">🚫</span> Competitor Block</button>
+        <button class="scenario-btn" data-scenario="hitl"><span class="sc-icon">👨‍💼</span> Manager Approval</button>
+        <button class="scenario-btn" data-scenario="creditcard"><span class="sc-icon">💳</span> Card Masking</button>
+        <button class="scenario-btn" data-scenario="url"><span class="sc-icon">🔗</span> URL Blocking</button>
+      </div>
+
+      <!-- Simulated Chat -->
+      <div class="chat-container glass-panel" style="padding: 0; position: relative;">
+        <div class="chat-header">
+          <div class="chat-logo">
+            <span class="chat-logo-icon">🍔</span>
+            <h4>McBuddy</h4>
+          </div>
+          <div class="chat-status">
+            <span class="chat-status-dot"></span> Demo Mode
+          </div>
+        </div>
+
+        <div class="chat-body" id="chat-body">
+          <div class="chat-msg bot-msg">
+            <div class="chat-bubble bot-bubble">
+              Welcome to McDonald's! 🍟 I'm McBuddy, your ordering assistant. Click a scenario above to see how guardrails protect every conversation.
+            </div>
+          </div>
+        </div>
+
+        <!-- Typing Indicator -->
+        <div id="typing-ind" class="typing-indicator hidden" style="padding: 8px 24px;">
+          <div class="typing-dots"><span></span><span></span><span></span></div>
+          <span class="typing-text">McBuddy is preparing your answer...</span>
+        </div>
+
+        <!-- HITL Approval Modal -->
+        <div id="approval-overlay" class="approval-overlay hidden">
+          <div class="approval-box">
+            <h4>🍔 Manager Approval Required</h4>
+            <p>The <code>place_order</code> tool requires human approval before execution.</p>
+            <div class="approval-actions">
+              <button class="approval-btn reject" id="reject-btn">Reject</button>
+              <button class="approval-btn approve" id="approve-btn">✅ Approve Order</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="chat-input-bar">
+          <div class="chat-input-fake">
+            <i class="ph ph-chat-circle-dots"></i>
+            <span>Select a scenario above to start...</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── Architecture ────────── -->
+    <section class="arch-section anim-in">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-shield-check"></i> Guardrail Architecture</h3>
+        <p class="section-subtitle">Four composable middleware layers that wrap the LLM agent, each intercepting messages at a different stage of the pipeline.</p>
+      </div>
+
+      <div class="layers-grid">
+        <div class="layer-card glass-panel">
+          <div class="layer-num">01</div>
+          <div class="layer-icon">🔒</div>
+          <h4>PII Detection & Sanitization</h4>
+          <p>Built-in <code>PIIMiddleware</code> automatically detects and handles sensitive data in user inputs, tool results, and model outputs.</p>
+          <div class="layer-badge-row">
+            <span class="layer-badge">Email → Redact</span>
+            <span class="layer-badge">Credit Card → Mask</span>
+            <span class="layer-badge">IP → Hash</span>
+            <span class="layer-badge">MAC → Redact</span>
+            <span class="layer-badge">URL → Block</span>
+          </div>
+        </div>
+
+        <div class="layer-card glass-panel">
+          <div class="layer-num">02</div>
+          <div class="layer-icon">👨‍💼</div>
+          <h4>Human-in-the-Loop</h4>
+          <p>Critical actions (placing orders, cancellations) pause execution and require human manager approval before proceeding.</p>
+          <div class="layer-badge-row">
+            <span class="layer-badge">place_order → Interrupt</span>
+            <span class="layer-badge">cancel_order → Interrupt</span>
+            <span class="layer-badge">get_menu → Auto-approve</span>
+          </div>
+        </div>
+
+        <div class="layer-card glass-panel">
+          <div class="layer-num">03</div>
+          <div class="layer-icon">🚫</div>
+          <h4>Before-Agent Guardrails</h4>
+          <p>Custom middleware that intercepts messages <em>before</em> the LLM is called — blocking competitor mentions and validating sessions without wasting LLM tokens.</p>
+          <div class="layer-badge-row">
+            <span class="layer-badge">Competitor Filter (Class)</span>
+            <span class="layer-badge">Session Validation (Decorator)</span>
+          </div>
+        </div>
+
+        <div class="layer-card glass-panel">
+          <div class="layer-num">04</div>
+          <div class="layer-icon">✨</div>
+          <h4>After-Agent Guardrails</h4>
+          <p>Post-LLM middleware that validates responses — using an LLM-as-a-judge for sentiment and deterministic rules to catch technical jargon leaks.</p>
+          <div class="layer-badge-row">
+            <span class="layer-badge">Sentiment Check (LLM Judge)</span>
+            <span class="layer-badge">Response Validation (Rule-based)</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── Key Code Snippet ────────── -->
+    <section class="code-section anim-in">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-code"></i> How Guardrails Stack</h3>
+        <p class="section-subtitle">The entire safety pipeline is defined in a single, composable middleware list — order matters.</p>
+      </div>
+      <div class="code-card glass-panel">
+        <div class="code-card-header">
+          <i class="ph ph-file-py"></i> guardrails_logic.py — Agent Creation
+        </div>
+        <pre><code>agent = <span class="fn">create_agent</span>(
+    model=agent_model,
+    tools=[get_menu, place_order, cancel_order],
+    system_prompt=SYSTEM_PROMPT,
+    middleware=[
+        <span class="cm"># Layer 3: Before-Agent (blocks before LLM call)</span>
+        session_validation,              <span class="cm"># Decorator syntax</span>
+        <span class="fn">CompetitorFilterMiddleware</span>([     <span class="cm"># Class syntax</span>
+            <span class="st">"burger king"</span>, <span class="st">"wendys"</span>, <span class="st">"kfc"</span>, <span class="st">"taco bell"</span>,
+        ]),
+
+        <span class="cm"># Layer 1: PII Detection (built-in)</span>
+        <span class="fn">PIIMiddleware</span>(<span class="st">"email"</span>, strategy=<span class="st">"redact"</span>),
+        <span class="fn">PIIMiddleware</span>(<span class="st">"credit_card"</span>, strategy=<span class="st">"mask"</span>),
+        <span class="fn">PIIMiddleware</span>(<span class="st">"url"</span>, strategy=<span class="st">"block"</span>),
+
+        <span class="cm"># Layer 2: Human approval for orders</span>
+        hitl_middleware,
+
+        <span class="cm"># Layer 4: After-Agent (validates LLM output)</span>
+        <span class="fn">SentimentGuardrailMiddleware</span>(),  <span class="cm"># LLM-as-judge</span>
+        response_validation,              <span class="cm"># Deterministic rules</span>
+    ],
+    checkpointer=<span class="fn">InMemorySaver</span>(),
+)</code></pre>
+      </div>
+    </section>
+
+    <!-- ────────── How It Works ────────── -->
+    <section class="how-section anim-in">
+      <div class="section-header">
+        <h3 class="section-title"><i class="ph-fill ph-lightning"></i> How It Works</h3>
+      </div>
+      <div class="steps-grid">
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-chat-text"></i></div>
+          <div class="step-num">01</div>
+          <h4>User Sends Message</h4>
+          <p>Customer types a message to McBuddy — it could contain PII, competitor names, or malicious content.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-funnel"></i></div>
+          <div class="step-num">02</div>
+          <h4>Before-Agent Guards</h4>
+          <p>Session validation, competitor filtering, and PII sanitization run — some messages are blocked without ever calling the LLM.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-brain"></i></div>
+          <div class="step-num">03</div>
+          <h4>LLM Processes</h4>
+          <p>The sanitized message reaches Gemini 2.5 Flash. Tool calls may trigger Human-in-the-Loop approval.</p>
+        </div>
+        <div class="step-card glass-panel">
+          <div class="step-icon"><i class="ph-duotone ph-seal-check"></i></div>
+          <div class="step-num">04</div>
+          <h4>After-Agent Guards</h4>
+          <p>LLM output passes through sentiment analysis and technical jargon filters before reaching the customer.</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── CTA ────────── -->
+    <section class="cta-section anim-in">
+      <div class="cta-card glass-panel">
+        <h3>Read the Full Deep-Dive</h3>
+        <p>Explore the complete architecture, code walkthroughs, and production tips in the Medium article.</p>
+        <div class="cta-buttons">
+          <a href="https://medium.com/@shubham.shardul2019/make-your-ai-agents-chatbots-production-ready-with-guardrails-langchains-new-middleware-13bae3e00788" target="_blank" rel="noopener noreferrer" class="cta-btn primary">
+            <i class="ph-fill ph-medium-logo"></i> Read on Medium
+          </a>
+          <a href="https://github.com/shubhamshardul-work/Projects" target="_blank" rel="noopener noreferrer" class="cta-btn secondary">
+            <i class="ph-fill ph-github-logo"></i> View Source Code
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p>&copy; 2026 Shubham Shardul &mdash; AI Guardrails Project Showcase</p>
+    </footer>
+
+  </div>
+
+  <script src="showcase.js"></script>
+</body>
+</html>
