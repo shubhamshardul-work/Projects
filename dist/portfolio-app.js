@@ -29,21 +29,24 @@ function initAboutToggle() {
     }
 }
 
-// Fetch Medium Articles with caching and reliability fixes
+// Fetch Medium Articles using rss2json.com with caching (24h expiry)
 async function fetchMediumArticles() {
-    const mediumRssUrl = 'https://medium.com/feed/@shubham.shardul2019';
-    const allOriginsUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(mediumRssUrl)}`;
+    const rss2jsonUrl = 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fmedium.com%2Ffeed%2F%40shubham.shardul2019';
     const CACHE_KEY = 'medium_articles_cache';
+    const CACHE_TS_KEY = 'medium_articles_cache_ts';
+    const CACHE_TTL = 24 * 60 * 60 * 1000; // 24 hours
     const container = document.getElementById('medium-articles');
 
     if (!container) return;
 
-    // 1. Load from cache immediately for instant UI
+    // 1. Load from cache immediately — but only if it hasn't expired
     const cachedData = localStorage.getItem(CACHE_KEY);
-    if (cachedData) {
+    const cachedTs = parseInt(localStorage.getItem(CACHE_TS_KEY) || '0', 10);
+    const cacheIsValid = cachedData && (Date.now() - cachedTs < CACHE_TTL);
+
+    if (cacheIsValid) {
         try {
-            const articles = JSON.parse(cachedData);
-            renderArticles(articles, true); // Render with "cached" flag
+            renderArticles(JSON.parse(cachedData), true);
         } catch (e) {
             console.error("Cache parse error:", e);
         }
@@ -52,51 +55,50 @@ async function fetchMediumArticles() {
     try {
         // 2. Fetch fresh data with a timeout
         const controller = new AbortController();
-        const timeoutId = setTimeout(() => controller.abort(), 8000); // 8 second timeout
+        const timeoutId = setTimeout(() => controller.abort(), 8000);
 
-        const response = await fetch(allOriginsUrl, { signal: controller.signal });
+        const response = await fetch(rss2jsonUrl, { signal: controller.signal });
         clearTimeout(timeoutId);
 
         const data = await response.json();
-        if (!data || !data.contents) throw new Error("Invalid response from proxy");
+        if (!data || data.status !== 'ok' || !data.items) throw new Error("Invalid rss2json response");
 
-        // 3. Parse XML
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(data.contents, "text/xml");
-        const items = xmlDoc.querySelectorAll("item");
+        // 3. Map items (rss2json returns clean JSON — no XML parsing needed)
+        const articles = data.items.slice(0, 3).map(item => {
+            const title = item.title || "Article";
+            const link = item.link || "#";
 
-        if (items.length > 0) {
-            const articles = Array.from(items).slice(0, 3).map(item => {
-                const title = item.querySelector("title")?.textContent || "Article";
-                const link = item.querySelector("link")?.textContent || "#";
-                const pubDate = item.querySelector("pubDate")?.textContent;
-                const contentEncoded = item.getElementsByTagName("content:encoded")[0]?.textContent ||
-                    item.querySelector("description")?.textContent || "";
+            // Extract brief text from description HTML
+            const tempDiv = document.createElement('div');
+            tempDiv.innerHTML = item.description || item.content || "";
+            let text = (tempDiv.textContent || tempDiv.innerText || "").trim();
+            text = text.substring(0, 120) + '...';
 
-                // Extract brief text 
-                const tempDiv = document.createElement('div');
-                tempDiv.innerHTML = contentEncoded;
-                let text = (tempDiv.textContent || tempDiv.innerText || "").trim();
-                text = text.substring(0, 120) + '...';
+            let dateStr = "";
+            if (item.pubDate) {
+                dateStr = new Date(item.pubDate).toLocaleDateString(undefined, {
+                    year: 'numeric', month: 'short', day: 'numeric'
+                });
+            }
 
-                let dateStr = "";
-                if (pubDate) {
-                    dateStr = new Date(pubDate).toLocaleDateString(undefined, {
-                        year: 'numeric', month: 'short', day: 'numeric'
-                    });
-                }
+            return { title, link, text, dateStr };
+        });
 
-                return { title, link, text, dateStr };
-            });
+        // 4. Update Cache (with timestamp) and Render
+        localStorage.setItem(CACHE_KEY, JSON.stringify(articles));
+        localStorage.setItem(CACHE_TS_KEY, String(Date.now()));
+        renderArticles(articles);
 
-            // 4. Update Cache and Render
-            localStorage.setItem(CACHE_KEY, JSON.stringify(articles));
-            renderArticles(articles);
-        }
     } catch (error) {
         console.error("Medium Fetch Error:", error);
-        // If fetch fails and nothing is in cache, show error
-        if (!localStorage.getItem(CACHE_KEY)) {
+        // If fetch fails and cache exists (even expired), show it as fallback
+        if (cachedData && !cacheIsValid) {
+            try {
+                renderArticles(JSON.parse(cachedData), true);
+            } catch (e) { /* ignore */ }
+        }
+        // If no cache at all, show error message
+        if (!cachedData) {
             container.innerHTML = `<div class="glass-panel" style="text-align: center; color: var(--text-muted); width: 100%;">Unable to load articles right now. Please try again later.</div>`;
         }
     }
