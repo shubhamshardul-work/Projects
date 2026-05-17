@@ -1,0 +1,342 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Latest Gen-AI Updates Shaking the IT World - YouTube",
+      "url": "https://www.youtube.com/watch?v=Rtf-L6_55x4",
+      "summary": "22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, Cowork - Github Copilot - Moltbot - Openclaw - Genesis AGI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 28627",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 875370",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 16496",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "summary": "HN Score: 134. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "HN Score: 322. Comments: 132",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "summary": "HN Score: 482. Comments: 306",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "HN Score: 356. Comments: 355",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] \u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "summary": "HN Score: 203. Comments: 55",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Latest Gen-AI Updates Shaking the IT World - YouTube",
+      "url": "https://www.youtube.com/watch?v=Rtf-L6_55x4",
+      "summary": "22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, Cowork - Github Copilot - Moltbot - Openclaw - Genesis AGI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 28627",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 875370",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 16496",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+      "summary": "HN Score: 134. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "HN Score: 322. Comments: 132",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "summary": "HN Score: 482. Comments: 306",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "HN Score: 356. Comments: 355",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] \u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "summary": "HN Score: 203. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+        "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+      },
+      {
+        "title": "[RSS] OpenAI co-founder Greg Brockman takes charge of product strategy",
+        "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+        "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
+      },
+      {
+        "title": "[RSS] The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+        "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+        "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generati"
+      },
+      {
+        "title": "[RSS] The haves and have nots of the AI gold rush",
+        "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+        "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+        "url": "https://nvlabs.github.io/Sana/WM/",
+        "summary": "HN Score: 322. Comments: 132"
+      },
+      {
+        "title": "[HackerNews] Frontier AI has broken the open CTF format",
+        "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+        "summary": "HN Score: 356. Comments: 355"
+      },
+      {
+        "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+        "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 875370"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HackerNews] \u03b4-mem: Efficient Online Memory for Large Language Models",
+        "url": "https://arxiv.org/abs/2605.12357",
+        "summary": "HN Score: 203. Comments: 55"
+      },
+      {
+        "title": "[RSS] Research repository ArXiv will ban authors for a year if they let AI do all the work",
+        "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+        "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "summary": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
+    },
+    {
+      "title": "[RSS] OpenAI co-founder Greg Brockman takes charge of product strategy",
+      "url": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
+      "summary": "OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT and its programming product Codex."
+    },
+    {
+      "title": "[RSS] The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+      "url": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+      "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question: can we trust the people in charge of AI? All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with a whole generati"
+    },
+    {
+      "title": "[RSS] The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+    },
+    {
+      "title": "[HackerNews] SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "url": "https://nvlabs.github.io/Sana/WM/",
+      "summary": "HN Score: 322. Comments: 132"
+    },
+    {
+      "title": "[HackerNews] Frontier AI has broken the open CTF format",
+      "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+      "summary": "HN Score: 356. Comments: 355"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 875370"
+    },
+    {
+      "title": "[HackerNews] \u03b4-mem: Efficient Online Memory for Large Language Models",
+      "url": "https://arxiv.org/abs/2605.12357",
+      "summary": "HN Score: 203. Comments: 55"
+    },
+    {
+      "title": "[RSS] Research repository ArXiv will ban authors for a year if they let AI do all the work",
+      "url": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+      "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Global Adoption, Strategic Consolidation, and the Integrity Imperative\n\nToday's AI landscape reveals a fascinating duality: rapid expansion into new territories alongside a critical re-evaluation of its foundational principles. From national partnerships to internal product overhauls, the industry is both accelerating and introspecting.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership)**\nThis is a significant move for OpenAI, demonstrating a strategy to embed its technology at a national level. It highlights a growing trend of governments recognizing AI as a fundamental utility and partnering with leading providers to ensure broad citizen access and skill development, potentially setting a precedent for future national AI adoption programs.\n\n### **[OpenAI co-founder Greg Brockman takes charge of product strategy](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/)**\nGreg Brockman's return to a central product strategy role signals OpenAI's intent to streamline and integrate its offerings, particularly the rumored convergence of ChatGPT and Codex. This strategic consolidation could lead to more powerful, unified AI tools, enhancing developer productivity and user experience, and reinforcing OpenAI's competitive edge.\n\n### **[The OpenAI trial wraps up, and the Musk founder machine keeps spinning](https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/)**\nThe conclusion of the Musk v. Altman trial underscores the intense scrutiny and trust issues surrounding AI leadership and its future direction. While the legal drama unfolds, the broader narrative highlights the immense capital and influence concentrated in the hands of a few key figures, with implications for how AI development is perceived and governed.\n\n### **[The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/)**\nThis report points to a growing sentiment of unease within the tech industry regarding the current AI boom, highlighting a widening gap between those benefiting from the \"gold rush\" and those left behind. Business leaders should heed this signal, as it suggests potential market saturation, ethical concerns, or a lack of equitable access to AI's benefits, which could impact long-term adoption and public perception.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/)**\nNVIDIA's SANA-WM represents a significant leap in open-source world models, offering the ability to generate high-resolution, minute-long videos. This tool is a game-changer for developers working on simulation, content creation, and AI agents that require complex environmental understanding and predictive capabilities, pushing the boundaries of what's possible in video generation.\n\n### **[Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead)**\nThis provocative article suggests that the rapid advancement of frontier AI models is fundamentally altering the landscape of Capture The Flag (CTF) competitions, potentially rendering traditional formats obsolete. Developers and security researchers need to watch this trend closely, as it implies a shift in how cybersecurity skills are tested and how AI can be leveraged (or countered) in adversarial scenarios.\n\n### **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**\nSulphur-2-base's rapid ascent on Hugging Face as a trending text-to-video model highlights the intense developer interest in accessible, powerful generative AI tools. Its compatibility with diffusers and GGUF formats makes it highly versatile for local deployment and integration, offering practitioners a robust new option for creative and experimental video generation projects.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[\u03b4-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357)**\nThe \u03b4-mem research introduces a novel approach to providing efficient online memory for Large Language Models, addressing a critical bottleneck in their ability to handle long-context and continuous interactions. This innovation could significantly enhance the practical applicability of LLMs by improving their memory retention and contextual understanding in real-time, paving the way for more sophisticated and adaptive AI agents.\n\n### **[Research repository ArXiv will ban authors for a year if they let AI do all the work](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/)**\nArXiv's new policy to ban authors for excessive AI-generated content underscores a growing concern within the academic community about research integrity and the responsible use of LLMs. This move signals a crucial effort to maintain the quality and trustworthiness of scientific publications, prompting researchers to critically evaluate their reliance on AI tools and ensure genuine human contribution.\n\n**Today's Signal:** The AI industry is simultaneously pushing boundaries in capability and grappling with fundamental questions of trust, access, and responsible development, indicating a maturing but still turbulent ecosystem.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Latest Gen-AI Updates Shaking the IT World - YouTube ](https://www.youtube.com/watch?v=Rtf-L6_55x4) | 22 Feb 2026, Shahansha Shaik. Topics: - Generative AI and Agents - Claude Code, ... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI and Malta partner to bring ChatGPT Plus to all citizens ](https://openai.com/index/malta-chatgpt-plus-partnership) | OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training... |\n| [[RSS] The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) | The vibes around the current AI boom aren't great, even in the tech industry. |\n| [Research repository ArXiv will ban authors for a year if they let AI do all the work ](https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/) | ArXiv is doing more to crack down on the careless use of large language models i... |\n| [OpenAI co-founder Greg Brockman takes charge of product strategy ](https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/) | OpenAI's latest shakeup comes as the company reportedly plans to combine ChatGPT... |\n| [The OpenAI trial wraps up,\u00a0and the Musk founder machine keeps spinning ](https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/) | The Musk v. Altman trial came to a close this week, and the final arguments kept... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Dev... |\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Supertone/supertonic-3 ](https://huggingface.co/Supertone/supertonic-3) | Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership/) | HN Score: 134. Comments: 125 |\n| [[HackerNews] SANA-WM, a 2.6B open-source world model for 1-minute 720p video](https://nvlabs.github.io/Sana/WM/) | HN Score: 322. Comments: 132 |\n| [[HackerNews] Moving away from Tailwind, and learning to structure my CSS](https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/) | HN Score: 482. Comments: 306 |\n| [[HackerNews] Frontier AI has broken the open CTF format](https://kabir.au/blog/the-ctf-scene-is-dead) | HN Score: 356. Comments: 355 |\n| [[HackerNews] \u03b4-mem: Efficient Online Memory for Large Language Models](https://arxiv.org/abs/2605.12357) | HN Score: 203. Comments: 55 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
