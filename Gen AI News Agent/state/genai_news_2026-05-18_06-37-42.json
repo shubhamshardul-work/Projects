@@ -1,0 +1,321 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Apple\u2019s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 56518",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 970124",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 20208",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "summary": "HN Score: 86. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "summary": "HN Score: 170. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Prolog Basics Explained with Pok\u00e9mon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "summary": "HN Score: 239. Comments: 38",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "summary": "HN Score: 550. Comments: 380",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "summary": "HN Score: 90. Comments: 95",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI news and analysis - TechCrunch",
+      "url": "https://techcrunch.com/tag/generative-ai/",
+      "summary": "TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read the latest on startups and founders building artificial intelligence tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Apple\u2019s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI",
+      "url": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+      "summary": "It's tough to get graduating students excited about a future shaped by artificial intelligence.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The haves and have nots of the AI gold rush",
+      "url": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+      "summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 56518",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 970124",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 20208",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "summary": "HN Score: 86. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "summary": "HN Score: 170. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Prolog Basics Explained with Pok\u00e9mon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "summary": "HN Score: 239. Comments: 38",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "summary": "HN Score: 550. Comments: 380",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "summary": "HN Score: 90. Comments: 95",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Apple\u2019s Siri revamp could include auto-deleting chats",
+        "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+        "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
+      },
+      {
+        "title": "[RSS] Why trust is a big question at the Elon Musk-OpenAI trial",
+        "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+        "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
+      },
+      {
+        "title": "[RSS] TechCrunch Mobility: The AI skills arms race is coming for automotive",
+        "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+        "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+      },
+      {
+        "title": "[HackerNews] I don't think AI will make your processes go faster",
+        "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+        "summary": "HN Score: 550. Comments: 380"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+        "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 56518"
+      },
+      {
+        "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+        "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 970124"
+      },
+      {
+        "title": "[HuggingFace] Supertone/supertonic-3",
+        "url": "https://huggingface.co/Supertone/supertonic-3",
+        "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 20208"
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Apple\u2019s Siri revamp could include auto-deleting chats",
+      "url": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+      "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
+    },
+    {
+      "title": "[RSS] Why trust is a big question at the Elon Musk-OpenAI trial",
+      "url": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "summary": "A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trustworthy."
+    },
+    {
+      "title": "[RSS] TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "url": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "summary": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+    },
+    {
+      "title": "[HackerNews] I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "summary": "HN Score: 550. Comments: 380"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Device Model, lightweight. Downloads: 56518"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 970124"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 20208"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Trust, Talent, and Practical Models Drive Today's AI Landscape\n\nToday's AI landscape is defined by a critical focus on trust and privacy, alongside an intensifying global race for AI talent. Meanwhile, developers are gaining access to increasingly powerful and specialized models for practical applications.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Apple\u2019s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/)**\nApple's rumored Siri privacy features, like auto-deleting chats, signal a strategic move to differentiate its AI offerings through enhanced user trust and data security. For businesses, this highlights the growing imperative to embed robust privacy-by-design principles into AI products to meet evolving consumer expectations and regulatory pressures. Companies failing to prioritize privacy risk significant reputational damage and competitive disadvantage in the AI-driven market.\n\n### **[Why trust is a big question at the Elon Musk-OpenAI trial](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/)**\nThe ongoing legal battle between Elon Musk and OpenAI underscores the foundational importance of trust, transparency, and ethical governance in the AI industry. For executives and investors, this trial serves as a stark reminder that the perceived integrity of leadership and adherence to founding principles can profoundly impact a company's valuation, partnerships, and long-term viability. Maintaining public and stakeholder trust will be paramount for any AI enterprise seeking sustainable growth and influence.\n\n### **[TechCrunch Mobility: The AI skills arms race is coming for automotive](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/)**\nThe automotive sector is rapidly becoming a new battleground in the global AI talent war, as companies vie for expertise to develop advanced autonomous systems and in-car AI experiences. Business leaders must recognize this escalating \"AI skills arms race\" and proactively invest in talent acquisition, upskilling programs, and strategic partnerships to secure their competitive edge. Failure to cultivate a strong AI workforce will severely impede innovation and market leadership in future mobility solutions.\n\n### **[I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/)**\nThis contrarian perspective challenges the widespread assumption that AI automatically equates to faster processes, urging a more nuanced view on AI integration. Business strategists should heed this by focusing on strategic process *re-engineering* rather than merely overlaying AI onto existing inefficiencies. True value from AI comes from thoughtful application that redefines workflows, not just accelerates flawed ones, demanding a critical assessment of where AI genuinely adds efficiency.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[openbmb/MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**\nThe MiniCPM-V-4.6 model is a significant development for developers working on resource-constrained devices, offering multimodal capabilities in a lightweight, on-device package. Its high download count indicates strong interest in efficient, portable AI, making it a key model to watch for edge computing and mobile AI applications where performance and footprint are critical.\n\n### **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**\nSulphur-2-base, a trending text-to-video model, represents a powerful tool for developers looking to integrate advanced generative video capabilities into their applications. Its popularity and `gguf` tag suggest a focus on accessibility and deployment, making it a valuable asset for creating dynamic content and exploring new frontiers in visual AI.\n\n### **[Supertone/supertonic-3](https://huggingface.co/Supertone/supertonic-3)**\nSupertone-3 stands out as a highly downloaded text-to-speech model, offering multilingual support and ONNX compatibility for optimized deployment. Developers should consider this model for high-quality, efficient speech synthesis in global applications, particularly where low latency and broad language coverage are essential.\n\n---\n**Today's Signal:** The AI industry is maturing, shifting focus from pure capability to critical factors like trust, privacy, and the strategic acquisition of specialized talent, while practical, deployable models continue to empower developers.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Generative AI ](https://generativeai.pub/) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Generative AI news and analysis - TechCrunch ](https://techcrunch.com/tag/generative-ai/) | TechCrunch covers the latest news and analysis in Generative AI (GenAI). Read th... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[RSS] Apple\u2019s Siri revamp could include auto-deleting chats](https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/) | Privacy will be a major theme when Apple unveils a new version of Siri. |\n| [Why trust is a big question at the Elon Musk-OpenAI trial ](https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/) | A big theme in the trial\u2019s final days was whether OpenAI CEO Sam Altman is trust... |\n| [If you\u2019re giving a commencement speech in 2026, maybe don\u2019t mention AI ](https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/) | It's tough to get graduating students excited about a future shaped by artificia... |\n| [TechCrunch Mobility: The AI skills arms race is coming for automotive ](https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/) | Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on ... |\n| [[RSS] The haves and have nots of the AI gold rush](https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/) | The vibes around the current AI boom aren't great, even in the tech industry. |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: safetensors, minicpmv4_6, minicpm-v, multimodal, On-Dev... |\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Supertone/supertonic-3 ](https://huggingface.co/Supertone/supertonic-3) | Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] WriteUp: 16 Bytes of x86 that turn Matrix rain into sound](https://hellmood.111mb.de//wake_up_16b_writeup.html) | HN Score: 86. Comments: 10 |\n| [[HackerNews] Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely](https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base) | HN Score: 170. Comments: 152 |\n| [[HackerNews] Prolog Basics Explained with Pok\u00e9mon](https://unplannedobsolescence.com/blog/prolog-basics-pokemon/) | HN Score: 239. Comments: 38 |\n| [[HackerNews] I don't think AI will make your processes go faster](https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/) | HN Score: 550. Comments: 380 |\n| [[HackerNews] Trials on veterans suggest ibogaine could provide a new treatment for PTSD](https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd) | HN Score: 90. Comments: 95 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
