@@ -1,0 +1,341 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Google's New \u201cGemini Omni\u201d Video Model Got Leaked \u00b7 Nano Banana 2: Beats the Pro Model at Half the Cost \u00b7 Nano Banana 2 is Finally Here \u00b7 Amazon Refutes Financial",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Latest AI news and major announcements. Best sources for AI news. Latest breakthroughs in AI technology. Latest AI tools for SEO optimization.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries developers use to interact with APIs.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "summary": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 80586",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1049229",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 24031",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "summary": "HN Score: 233. Comments: 119",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "HN Score: 416. Comments: 287",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "HN Score: 454. Comments: 209",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "summary": "HN Score: 224. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "HN Score: 196. Comments: 109",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Google's New \u201cGemini Omni\u201d Video Model Got Leaked \u00b7 Nano Banana 2: Beats the Pro Model at Half the Cost \u00b7 Nano Banana 2 is Finally Here \u00b7 Amazon Refutes Financial",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/",
+      "summary": "Latest AI news and major announcements. Best sources for AI news. Latest breakthroughs in AI technology. Latest AI tools for SEO optimization.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required",
+      "url": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
+      "summary": "Other venture-backed companies like Chai Discovery and Isomorphic Labs have raced to build better models. SandboxAQ is betting that access is the bigger obstacle and that Claude solves it. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+      "url": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+      "summary": "Stainless, a New York-based startup, founded in 2022, rose to prominence in the emerging AI industry for automating the creation and maintenance of software development kits, or SDKs \u2014 the libraries developers use to interact with APIs.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon\u2019s new Alexa+ powered feature can generate podcast episodes",
+      "url": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
+      "summary": "Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company expands its assistant into a personalized AI content platform.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 80586",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1049229",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 24031",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "summary": "HN Score: 233. Comments: 119",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "HN Score: 416. Comments: 287",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "HN Score: 454. Comments: 209",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We let AIs run radio stations",
+      "url": "https://andonlabs.com/blog/andon-fm",
+      "summary": "HN Score: 224. Comments: 193",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "HN Score: 196. Comments: 109",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[HackerNews] Anthropic acquires Stainless",
+        "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+        "summary": "HN Score: 416. Comments: 287"
+      },
+      {
+        "title": "[RSS] Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+        "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+        "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+      },
+      {
+        "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+      },
+      {
+        "title": "[Tavily] Generative AI",
+        "url": "https://generativeai.pub/",
+        "summary": "Google's New \u201cGemini Omni\u201d Video Model Got Leaked \u00b7 Nano Banana 2: Beats the Pro Model at Half the Cost \u00b7 Nano Banana 2 is Finally Here \u00b7 Amazon Refutes Financial"
+      },
+      {
+        "title": "[HackerNews] AI eats the world (Spring 26) [pdf]",
+        "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+        "summary": "HN Score: 196. Comments: 109"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] The last six months in LLMs in five minutes",
+        "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+        "summary": "HN Score: 233. Comments: 119"
+      },
+      {
+        "title": "[HackerNews] We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+        "url": "https://archestra.ai/blog/only-responsible-ai",
+        "summary": "HN Score: 454. Comments: 209"
+      },
+      {
+        "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+        "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1049229"
+      },
+      {
+        "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 80586"
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[HackerNews] Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "summary": "HN Score: 416. Comments: 287"
+    },
+    {
+      "title": "[RSS] Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "url": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
+      "summary": "Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after nine California jurors decided in a unanimous verdict that his lawsuits had been filed too late."
+    },
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub/",
+      "summary": "Google's New \u201cGemini Omni\u201d Video Model Got Leaked \u00b7 Nano Banana 2: Beats the Pro Model at Half the Cost \u00b7 Nano Banana 2 is Finally Here \u00b7 Amazon Refutes Financial"
+    },
+    {
+      "title": "[HackerNews] AI eats the world (Spring 26) [pdf]",
+      "url": "https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf",
+      "summary": "HN Score: 196. Comments: 109"
+    },
+    {
+      "title": "[HackerNews] The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+      "summary": "HN Score: 233. Comments: 119"
+    },
+    {
+      "title": "[HackerNews] We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "url": "https://archestra.ai/blog/only-responsible-ai",
+      "summary": "HN Score: 454. Comments: 209"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1049229"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 80586"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: May 20, 2026\n\nToday's AI landscape is marked by significant strategic maneuvers, legal clarity, and rapid technological advancements, underscoring a period of intense competition and enterprise integration. From major acquisitions to crucial partnerships and ongoing model innovation, the industry is solidifying its foundations while pushing new frontiers.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless)**\nAnthropic's acquisition of Stainless signals a strategic move to bolster its capabilities and talent pool in the highly competitive AI ecosystem. This M&A activity highlights the ongoing consolidation within the industry as major players seek to gain an edge through targeted expansion and expertise integration.\n\n### **[Elon Musk has lost his lawsuit against Sam Altman and OpenAI](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/)**\nThe unanimous verdict against Elon Musk's lawsuit provides significant legal clarity and stability for OpenAI, removing a major distraction and potential threat to its operational model. This outcome allows OpenAI to continue its aggressive development and commercialization efforts without the shadow of internal disputes.\n\n### **[OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership)**\nThis strategic partnership between OpenAI and Dell is a critical step towards broader enterprise adoption of advanced AI, addressing key concerns around data security and compliance. By enabling hybrid and on-premise deployments of Codex, they are unlocking AI coding agents for businesses with stringent data governance requirements.\n\n### **[Generative AI](https://generativeai.pub/)**\nThe continuous stream of news, including leaks of Google's \"Gemini Omni\" and the release of \"Nano Banana 2,\" underscores the relentless pace of innovation and fierce competition in the generative AI space. This rapid evolution demands constant vigilance from business leaders to identify disruptive technologies and adapt their strategies accordingly.\n\n### **[AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf)**\nThis report serves as a stark reminder of AI's pervasive and transformative impact across all sectors, reinforcing the imperative for businesses to strategically integrate AI into their core operations. It highlights the long-term, systemic shift AI is driving, urging executives to plan for a future where AI is fundamental to competitive advantage.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/)**\nFor developers, this concise overview is an invaluable resource for quickly catching up on the rapid advancements and key trends in the LLM landscape over the past half-year. It provides essential context for understanding the latest tools, techniques, and architectural shifts without deep dives into every single development.\n\n### **[We stopped AI bot spam in our GitHub repo using Git's \u2013author flag](https://archestra.ai/blog/only-responsible-ai)**\nThis practical solution demonstrates a clever and immediate way for developers to combat emerging challenges like AI bot spam in collaborative coding environments. It highlights the importance of leveraging existing tools and creative problem-solving to maintain code integrity and workflow efficiency.\n\n### **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**\nThe trending Sulphur-2-base model, particularly for text-to-video generation, signals exciting new capabilities for developers looking to integrate advanced multimedia AI into their applications. Its popularity indicates a growing demand for sophisticated creative AI tools and a fertile ground for experimentation.\n\n### **[openbmb/MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**\nMiniCPM-V-4.6's strong performance as a multimodal model underscores the increasing utility of models that can seamlessly process both text and images. Developers should watch this space closely, as such models are crucial for building more intelligent and context-aware AI applications that interact with the world in richer ways.\n\n---\n**Today's Signal:** The AI industry is rapidly maturing, characterized by strategic consolidation, enterprise-focused partnerships, and a relentless pace of innovation across both foundational models and practical developer tools.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub/) | Google's New \u201cGemini Omni\u201d Video Model Got Leaked \u00b7 Nano Banana 2: Beats the Pro... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence/) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right/) | Latest AI news and major announcements. Best sources for AI news. Latest breakth... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments ](https://openai.com/index/dell-codex-enterprise-partnership) | OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, he... |\n| [SandboxAQ brings its drug discovery models to Claude \u2014 no PhD in computing required ](https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/) | Other venture-backed companies like Chai Discovery and Isomorphic Labs have race... |\n| [Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare ](https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/) | Stainless, a New York-based startup, founded in 2022, rose to prominence in the ... |\n| [Elon Musk has lost his lawsuit against Sam Altman and OpenAI ](https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/) | Elon Musk's claim that he was mistreated by his OpenAI co-founders failed after ... |\n| [Amazon\u2019s new Alexa+ powered feature can generate podcast episodes ](https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/) | Amazon\u2019s Alexa+ can now generate custom AI podcasts on demand, as the company ex... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-t... |\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [Supertone/supertonic-3 ](https://huggingface.co/Supertone/supertonic-3) | Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The last six months in LLMs in five minutes](https://simonwillison.net/2026/May/19/5-minute-llms/) | HN Score: 233. Comments: 119 |\n| [[HackerNews] Anthropic acquires Stainless](https://www.anthropic.com/news/anthropic-acquires-stainless) | HN Score: 416. Comments: 287 |\n| [[HackerNews] We stopped AI bot spam in our GitHub repo using Git's \u2013author flag](https://archestra.ai/blog/only-responsible-ai) | HN Score: 454. Comments: 209 |\n| [[HackerNews] We let AIs run radio stations](https://andonlabs.com/blog/andon-fm) | HN Score: 224. Comments: 193 |\n| [[HackerNews] AI eats the world (Spring 26) [pdf]](https://static1.squarespace.com/static/50363cf324ac8e905e7df861/t/6a0af5d0484fbf5fe9a7743e/1779103184855/2026-Spring-AI.pdf) | HN Score: 196. Comments: 109 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
