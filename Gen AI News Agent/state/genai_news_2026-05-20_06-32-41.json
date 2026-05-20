@@ -1,0 +1,341 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google just declared itself a contender in AI design at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1114657",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 144826",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 171",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "summary": "HN Score: 408. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "summary": "HN Score: 229. Comments: 121",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "HN Score: 402. Comments: 154",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "summary": "HN Score: 258. Comments: 130",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "summary": "HN Score: 228. Comments: 60",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Agentic AI News + AI Breakthroughs + AI Developments",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Wondering what's happening in the AI world? Here are the latest AI breakthroughs and news that are shaping the world around us!",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "summary": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google just declared itself a contender in AI design at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1114657",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 144826",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 171",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "summary": "HN Score: 408. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "summary": "HN Score: 229. Comments: 121",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "HN Score: 402. Comments: 154",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "summary": "HN Score: 258. Comments: 130",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "summary": "HN Score: 228. Comments: 60",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=jz0rNhfAKo8",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Google just declared itself a contender in AI design at IO 2026",
+        "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+        "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. "
+      },
+      {
+        "title": "[RSS] You can now talk to your Gmail inbox, as seen at Google IO 2026",
+        "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+        "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details."
+      },
+      {
+        "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+        "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+        "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+      },
+      {
+        "title": "[RSS] Introducing OpenAI for Singapore",
+        "url": "https://openai.com/index/introducing-openai-for-singapore",
+        "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+      },
+      {
+        "title": "[HackerNews] Mistral AI acquires Emmi AI",
+        "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+        "summary": "HN Score: 228. Comments: 60"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+        "url": "https://github.com/antoinezambelli/forge",
+        "summary": "HN Score: 402. Comments: 154"
+      },
+      {
+        "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+        "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+        "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1114657"
+      },
+      {
+        "title": "[HackerNews] Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+        "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+        "summary": "HN Score: 229. Comments: 121"
+      },
+      {
+        "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 144826"
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Google just declared itself a contender in AI design at IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+      "summary": "Google says it's designed the app to be accessible to everyone, from teachers to small business owners. "
+    },
+    {
+      "title": "[RSS] You can now talk to your Gmail inbox, as seen at Google IO 2026",
+      "url": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+      "summary": "Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ask Gemini to find buried email details."
+    },
+    {
+      "title": "[RSS] OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "summary": "OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, helping enterprises deploy AI coding agents securely across data and workflows."
+    },
+    {
+      "title": "[RSS] Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
+      "summary": "OpenAI for Singapore launches a multi-year AI partnership to expand deployment, build local talent, and support businesses and public services with AI."
+    },
+    {
+      "title": "[HackerNews] Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "summary": "HN Score: 228. Comments: 60"
+    },
+    {
+      "title": "[HackerNews] Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "summary": "HN Score: 402. Comments: 154"
+    },
+    {
+      "title": "[HuggingFace] SulphurAI/Sulphur-2-base",
+      "url": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "summary": "Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, region:us, conversational. Downloads: 1114657"
+    },
+    {
+      "title": "[HackerNews] Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "summary": "HN Score: 229. Comments: 121"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 144826"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Strategic Expansion Meets Practical Innovation\n\nToday's AI intelligence report highlights a dual thrust in the industry: major players like Google and OpenAI are strategically expanding their reach into new markets and enterprise solutions, while the developer community is actively building and sharing practical tools to enhance AI model performance and address emerging challenges. This dynamic interplay underscores a maturing ecosystem focused on both widespread adoption and technical refinement.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Google just declared itself a contender in AI design at IO 2026](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/)**\nGoogle's aggressive push into AI design tools, making them accessible to a broad audience from teachers to small business owners, signals a strategic move to democratize AI creation. This initiative aims to embed Google's AI deeper into everyday workflows, potentially disrupting traditional design software markets and creating new revenue streams through widespread adoption. For business leaders, this represents a significant opportunity to leverage accessible AI for internal innovation and external product development.\n\n### **[You can now talk to your Gmail inbox, as seen at Google IO 2026](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/)**\nIntegrating conversational AI into Gmail via Gemini dramatically enhances productivity and user experience within Google's core productivity suite. This move makes Google's ecosystem stickier by offering immediate, practical value for both individual and enterprise users, allowing them to efficiently manage information and tasks through natural language. Executives should note the increasing importance of intuitive, AI-powered interfaces in driving user engagement and operational efficiency across their digital tools.\n\n### **[OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership)**\nOpenAI's partnership with Dell to deploy Codex in hybrid and on-premise environments is a critical strategic play to address enterprise concerns around data security and sovereignty. This collaboration opens up a massive market segment for secure AI coding agents, allowing businesses to leverage advanced AI capabilities without compromising sensitive internal data. For investors, this signals OpenAI's commitment to enterprise-grade solutions and a diversified deployment strategy beyond pure cloud offerings.\n\n### **[Introducing OpenAI for Singapore](https://openai.com/index/introducing-openai-for-singapore)**\nOpenAI's multi-year partnership in Singapore highlights a focused global expansion strategy, aiming to build local AI talent, support businesses, and expand deployment in key international hubs. This regional approach allows OpenAI to tailor its offerings to local needs and regulatory environments, fostering deeper market penetration and long-term influence. Business leaders should observe how such localized partnerships can accelerate AI adoption and innovation in specific geographic markets.\n\n### **[Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai)**\nMistral AI's acquisition of Emmi AI indicates a strategic consolidation within the competitive AI startup landscape. This move likely aims to bolster Mistral's capabilities in specific areas, enhancing its product offerings and strengthening its competitive position against larger tech giants. For investors, this signals a dynamic M&A environment where targeted acquisitions are key to accelerating growth and securing specialized expertise in the rapidly evolving AI sector.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge)**\nThis Hacker News highlight showcases Forge, a practical framework demonstrating how guardrails can dramatically improve the reliability and performance of smaller 8B models on agentic tasks. Developers should *watch* this project closely for best practices in building robust and dependable AI agents, and consider *using* similar guardrail concepts to enhance the accuracy and safety of their own LLM-powered applications.\n\n### **[SulphurAI/Sulphur-2-base](https://huggingface.co/SulphurAI/Sulphur-2-base)**\nSulphurAI/Sulphur-2-base is trending on Hugging Face as a text-to-video model, indicating significant community interest and active development in multimodal AI generation. Engineers and practitioners should *watch* this space for advancements in video synthesis capabilities and consider *using* this model for experimentation in creative content generation or prototyping video-based AI applications.\n\n### **[Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks)**\nThis tool, highlighted on Hacker News, provides a CLI and library for removing AI watermarks from images, addressing a growing concern around the provenance and manipulation of AI-generated content. Developers working with AI imagery might find this useful for specific applications, but it also underscores the ongoing technical challenge of distinguishing between human and machine-generated content and the need for robust authenticity measures.\n\n### **[openbmb/MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**\nMiniCPM-V-4.6 is another trending multimodal model on Hugging Face, specializing in image-text-to-text tasks. Its popularity suggests a demand for efficient and versatile vision-language models. Developers should *watch* this model for its compact yet powerful capabilities and consider *using* it in applications requiring multimodal understanding, such as image captioning, visual question answering, or multimodal chat interfaces.\n\n---\n**Today's Signal:** The AI industry is rapidly maturing, characterized by strategic enterprise partnerships and global expansion from leading players, alongside a vibrant developer community focused on practical tools for enhancing model reliability and tackling emerging challenges in AI-generated content.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [Agentic AI News + AI Breakthroughs + AI Developments ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Wondering what's happening in the AI world? Here are the latest AI breakthroughs... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | We have AI image editors that could potentially replace Photoshop. Tons of updat... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing OpenAI for Singapore ](https://openai.com/index/introducing-openai-for-singapore) | OpenAI for Singapore launches a multi-year AI partnership to expand deployment, ... |\n| [Advancing content provenance for a safer, more transparent AI ecosystem ](https://openai.com/index/advancing-content-provenance) | OpenAI advances AI content provenance with Content Credentials, SynthID, and a v... |\n| [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments ](https://openai.com/index/dell-codex-enterprise-partnership) | OpenAI and Dell partner to bring Codex to hybrid and on-premise environments, he... |\n| [Google just declared itself a contender in AI design at IO 2026 ](https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/) | Google says it's designed the app to be accessible to everyone, from teachers to... |\n| [You can now talk to your Gmail inbox, as seen at Google IO 2026 ](https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/) | Google expands Gmail\u2019s AI Inbox with conversational voice search, letting users ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [SulphurAI/Sulphur-2-base ](https://huggingface.co/SulphurAI/Sulphur-2-base) | Trending HF Model. Tags: diffusers, gguf, text-to-video, endpoints_compatible, r... |\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-t... |\n| [bytedance-research/Lance ](https://huggingface.co/bytedance-research/Lance) | Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Railway Blocked by Google Cloud](https://status.railway.com/?date=20260519) | HN Score: 408. Comments: 190 |\n| [[HackerNews] Remove\u2013AI\u2013Watermarks \u2013 CLI and library for removing AI watermarks from images](https://github.com/wiltodelta/remove-ai-watermarks) | HN Score: 229. Comments: 121 |\n| [[HackerNews] Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks](https://github.com/antoinezambelli/forge) | HN Score: 402. Comments: 154 |\n| [[HackerNews] OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool](https://openai.com/index/advancing-content-provenance/) | HN Score: 258. Comments: 130 |\n| [[HackerNews] Mistral AI acquires Emmi AI](https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai) | HN Score: 228. Comments: 60 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=jz0rNhfAKo8) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
