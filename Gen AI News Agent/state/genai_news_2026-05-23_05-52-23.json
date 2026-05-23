@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Latest AI news includes new AI tools, company announcements, research breakthroughs, and startup funding. ... What AI capability from the last",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrable Elasticity via Neural Demand Potentials",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+      "url": "http://arxiv.org/abs/2605.22814v1",
+      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks",
+      "url": "http://arxiv.org/abs/2602.05873v2",
+      "summary": "Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla point-estimate deep learning in various aspects including uncertainty quantification, robustness to noise, resistance t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces",
+      "url": "http://arxiv.org/abs/2605.16545v2",
+      "summary": "After decades of use in dictation and, more recently, ambient documentation, speech is emerging as a primary modality for interacting with technology and AI in healthcare. Yet medical speech recogniti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1001",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 37545",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 221612",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "summary": "HN Score: 175. Comments: 42",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "summary": "HN Score: 38. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "HN Score: 174. Comments: 46",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "summary": "HN Score: 372. Comments: 147",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "summary": "HN Score: 109. Comments: 28",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Latest AI news includes new AI tools, company announcements, research breakthroughs, and startup funding. ... What AI capability from the last",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrable Elasticity via Neural Demand Potentials",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+      "url": "http://arxiv.org/abs/2605.22814v1",
+      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks",
+      "url": "http://arxiv.org/abs/2602.05873v2",
+      "summary": "Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla point-estimate deep learning in various aspects including uncertainty quantification, robustness to noise, resistance t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces",
+      "url": "http://arxiv.org/abs/2605.16545v2",
+      "summary": "After decades of use in dictation and, more recently, ambient documentation, speech is emerging as a primary modality for interacting with technology and AI in healthcare. Yet medical speech recogniti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1001",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 37545",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 221612",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "summary": "HN Score: 175. Comments: 42",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Neutron scattering explains why gluten-free pasta falls apart (2025)",
+      "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
+      "summary": "HN Score: 38. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] CISA tries to contain data leak",
+      "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "HN Score: 174. Comments: 46",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "summary": "HN Score: 372. Comments: 147",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1940 Air Terminal Museum Begins Liquidation",
+      "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
+      "summary": "HN Score: 109. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+        "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+      },
+      {
+        "title": "Microsoft reports AI is more expensive than paying human employees",
+        "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+        "summary": "HN Score: 175. Comments: 42"
+      },
+      {
+        "title": "AI is being used to resurrect the voices of dead pilots",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+      },
+      {
+        "title": "How Virgin Atlantic ships faster with Codex",
+        "url": "https://openai.com/index/virgin-atlantic",
+        "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+      },
+      {
+        "title": "AdventHealth advances whole-person care with OpenAI",
+        "url": "https://openai.com/index/adventhealth",
+        "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+      }
+    ],
+    "technical": [
+      {
+        "title": "openbmb/MiniCPM-V-4.6",
+        "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 221612"
+      },
+      {
+        "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+        "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+        "summary": "HN Score: 372. Comments: 147"
+      },
+      {
+        "title": "bytedance-research/Lance",
+        "url": "https://huggingface.co/bytedance-research/Lance",
+        "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1001"
+      },
+      {
+        "title": "Supertone/supertonic-3",
+        "url": "https://huggingface.co/Supertone/supertonic-3",
+        "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 37545"
+      }
+    ],
+    "research": [
+      {
+        "title": "Tokenisation via Convex Relaxations",
+        "url": "http://arxiv.org/abs/2605.22821v1",
+        "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..."
+      },
+      {
+        "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+        "url": "http://arxiv.org/abs/2605.22817v1",
+        "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ..."
+      },
+      {
+        "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+        "url": "http://arxiv.org/abs/2605.22800v1",
+        "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a..."
+      },
+      {
+        "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+        "url": "http://arxiv.org/abs/2605.22794v1",
+        "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a..."
+      },
+      {
+        "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+        "url": "http://arxiv.org/abs/2605.22791v1",
+        "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "summary": "OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Coding Agents, with Codex recognized for innovation and enterprise-scale deployment."
+    },
+    {
+      "title": "Microsoft reports AI is more expensive than paying human employees",
+      "url": "https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/",
+      "summary": "HN Score: 175. Comments: 42"
+    },
+    {
+      "title": "AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system."
+    },
+    {
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "summary": "How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holiday travel deadline, reaching near-total unit test coverage and zero P1 defects."
+    },
+    {
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "summary": "AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce administrative burden, and return more time to patient care."
+    },
+    {
+      "title": "openbmb/MiniCPM-V-4.6",
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-text, minicpm-v, multimodal. Downloads: 221612"
+    },
+    {
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+      "summary": "HN Score: 372. Comments: 147"
+    },
+    {
+      "title": "bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1001"
+    },
+    {
+      "title": "Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 37545"
+    },
+    {
+      "title": "Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..."
+    },
+    {
+      "title": "Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ..."
+    },
+    {
+      "title": "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a..."
+    },
+    {
+      "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a..."
+    },
+    {
+      "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just..."
+    }
+  ],
+  "final_report": "# AI's Dual Edge: Enterprise Adoption Surges Amidst Cost & Ethical Scrutiny\n\nToday's AI intelligence report reveals a dynamic landscape where enterprise adoption of AI is accelerating, driven by tangible business outcomes. However, this rapid integration also brings to light critical discussions around operational costs, ethical boundaries, and the foundational research pushing the next wave of innovation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI named a Leader in enterprise coding agents by Gartner](https://openai.com/index/gartner-2026-agentic-coding-leader)**\nOpenAI's recognition as a leader in Gartner's Magic Quadrant for Enterprise AI Coding Agents, with Codex specifically highlighted, solidifies its position as a critical player in the enterprise software development landscape. This validation signals to business leaders and investors that OpenAI's agentic solutions are maturing and ready for widespread adoption, promising significant productivity gains and innovation acceleration within large organizations.\n\n### **[Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/)**\nMicrosoft's candid admission regarding the high operational costs of AI, sometimes exceeding human labor, presents a crucial strategic challenge for executives. This insight underscores the need for careful cost-benefit analysis, optimization of token usage, and strategic deployment of AI solutions to ensure that investments translate into genuine ROI rather than unforeseen expenditure. It highlights that while AI offers immense potential, its economic realities demand sophisticated management.\n\n### **[AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)**\nThe controversial use of AI to reconstruct the voices of deceased pilots from cockpit recordings, leading to a temporary NTSB data block, raises profound ethical and regulatory questions for businesses leveraging generative AI. This incident serves as a stark reminder for leaders to consider the societal impact, privacy implications, and potential for misuse of powerful AI technologies, necessitating robust ethical guidelines and legal frameworks.\n\n### **[How Virgin Atlantic ships faster with Codex](https://openai.com/index/virgin-atlantic)**\nVirgin Atlantic's successful deployment of Codex to accelerate its mobile app development, achieving near-total unit test coverage and zero P1 defects under tight deadlines, provides a compelling case study for enterprise AI adoption. This demonstrates the tangible benefits of AI coding agents in improving software quality, reducing time-to-market, and meeting critical business objectives, offering a clear blueprint for other organizations seeking similar operational efficiencies.\n\n### **[AdventHealth advances whole-person care with OpenAI](https://openai.com/index/AdventHealth)**\nAdventHealth's integration of ChatGPT for Healthcare to streamline workflows and reduce administrative burdens showcases AI's transformative potential within the healthcare sector. By freeing up clinicians' time from administrative tasks, this application directly contributes to improved patient care and operational efficiency, illustrating how AI can enhance human-centric services and address critical industry challenges.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[openbmb/MiniCPM-V-4.6](https://huggingface.co/openbmb/MiniCPM-V-4.6)**\nThe MiniCPM-V-4.6 model is rapidly trending on Hugging Face, indicating strong developer interest in its multimodal capabilities for image-text-to-text tasks. Engineers should explore this model for applications requiring compact yet powerful visual and linguistic understanding, as its high download count suggests it's becoming a go-to for integrating sophisticated multimodal AI into projects.\n\n### **[Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/)**\nAntigravity 2.0's leading performance on the OpenSCAD Architectural 3D LLM Benchmark signals a significant advancement in AI's ability to understand and generate complex 3D architectural designs. Developers working in CAD, engineering, or generative design should watch this space closely, as these specialized LLMs could revolutionize automated design processes and accelerate prototyping workflows.\n\n### **[bytedance-research/Lance](https://huggingface.co/bytedance-research/Lance)**\nByteDance Research's Lance model is gaining traction for its multimodal capabilities, particularly in image and video generation and editing. For developers focused on creative AI applications, content generation, or advanced media manipulation, Lance offers a powerful new tool to experiment with, pushing the boundaries of what's possible in visual AI.\n\n### **[Supertone/supertonic-3](https://huggingface.co/Supertone/supertonic-3)**\nSupertone's Supertonic-3 model, with its ONNX compatibility and multilingual text-to-speech capabilities, is a valuable asset for developers building voice-enabled applications. Its strong download numbers suggest it's a robust and accessible solution for high-quality speech synthesis, making it an excellent choice for integrating natural-sounding, diverse voice outputs into various platforms.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**\nThis paper explores a novel approach to tokenization using convex relaxations, moving beyond the greedy algorithms prevalent in current NLP pipelines like BPE and Unigram. Researchers should delve into this work for its potential to fundamentally improve the efficiency and optimality of tokenization, which could lead to more robust and performant language models by addressing a core component of the NLP stack.\n\n### **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)**\nVector Policy Optimization introduces a method to train language models for diversity, enhancing their generalization capabilities in novel environments and within inference-scaling search procedures. This research offers a significant step towards more adaptable and robust AI agents, providing a new paradigm for researchers focused on reinforcement learning and agent design to improve performance in complex, dynamic tasks.\n\n### **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](http://arxiv.org/abs/2605.22800v1)**\n\"The Matching Principle\" proposes a unified geometric theory for loss functions, aiming to address various robustness challenges like domain adaptation and compositional generalization. This theoretical framework is crucial for researchers seeking to develop more robust and generalizable AI models, offering a fresh perspective on how to design loss functions that inherently account for nuisance factors and improve model resilience.\n\n### **[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](http://arxiv.org/abs/2605.22794v1)**\nMOSS presents a groundbreaking concept of self-evolving autonomous agent systems that learn from user interactions and self-correct through source-level rewriting. This research is pivotal for those envisioning truly autonomous and adaptive AI, as it tackles the critical limitation of static agent deployments, paving the way for systems that can continuously improve and repair themselves without constant human intervention.\n\n### **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](http://arxiv.org/abs/2605.22791v1)**\nGated DeltaNet-2 introduces an innovative approach to linear attention by decoupling erase and write operations, addressing the challenge of maintaining a fixed-size recurrent state while reducing sequence mixing to linear time. Researchers in sequence modeling and efficient AI architectures should examine this work for its potential to create more memory-efficient and scalable models, offering a significant improvement over traditional softmax attention.\n\n---\n\n**Today's Signal:** AI's enterprise integration is accelerating, driving tangible business value, yet the industry grapples with escalating operational costs and complex ethical dilemmas, pushing fundamental research towards more robust, adaptive, and self-evolving systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May 2026: major model launches... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | We have AI image editors that could potentially replace Photoshop. Tons of updat... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Latest AI news includes new AI tools, company announcements, research breakthrou... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI named a Leader in enterprise coding agents by Gartner ](https://openai.com/index/gartner-2026-agentic-coding-leader) | OpenAI is named a leader in the 2026 Gartner Magic Quadrant for Enterprise AI Co... |\n| [How Virgin Atlantic ships faster with Codex ](https://openai.com/index/virgin-atlantic) | How Virgin Atlantic used Codex to ship its revamped mobile app on a fixed holida... |\n| [AdventHealth advances whole-person care with OpenAI ](https://openai.com/index/adventhealth) | AdventHealth is using ChatGPT for Healthcare to streamline workflows, reduce adm... |\n| [AI is being used to resurrect the voices of dead pilots ](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) | People used AI on a spectrogram image of cockpit recordings to reconstruct them,... |\n| [[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) | You can now disco ball-ify your entire Pixel home screen, says Google. |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Tokenisation via Convex Relaxations ](http://arxiv.org/abs/2605.22821v1) | Tokenisation is an integral part of the current NLP pipeline. Current tokenisati... |\n| [Integrable Elasticity via Neural Demand Potentials ](http://arxiv.org/abs/2605.22820v1) | We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-firs... |\n| [Vector Policy Optimization: Training for Diversity Improves Test-Time Search ](http://arxiv.org/abs/2605.22817v1) | Language models must now generalize out of the box to novel environments and wor... |\n| [Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration ](http://arxiv.org/abs/2605.22814v1) | Exploration is a prerequisite for learning useful behaviors in sparse-reward, lo... |\n| [Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks ](http://arxiv.org/abs/2602.05873v2) | Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla... |\n| [The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning ](http://arxiv.org/abs/2605.22800v1) | Robustness, domain adaptation, photometric and occlusion invariance, composition... |\n| [Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces ](http://arxiv.org/abs/2605.16545v2) | After decades of use in dictation and, more recently, ambient documentation, spe... |\n| [Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models ](http://arxiv.org/abs/2605.22795v1) | We propose and analyze a conservative drifting method for one-step generative mo... |\n| [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems ](http://arxiv.org/abs/2605.22794v1) | Autonomous agentic systems are largely static after deployment: they do not lear... |\n| [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention ](http://arxiv.org/abs/2605.22791v1) | Linear attention replaces the unbounded cache of softmax attention with a fixed-... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [bytedance-research/Lance ](https://huggingface.co/bytedance-research/Lance) | Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video... |\n| [Supertone/supertonic-3 ](https://huggingface.co/Supertone/supertonic-3) | Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts... |\n| [openbmb/MiniCPM-V-4.6 ](https://huggingface.co/openbmb/MiniCPM-V-4.6) | Trending HF Model. Tags: transformers, safetensors, minicpmv4_6, image-text-to-t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/) | HN Score: 175. Comments: 42 |\n| [[HackerNews] Neutron scattering explains why gluten-free pasta falls apart (2025)](https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html) | HN Score: 38. Comments: 9 |\n| [[HackerNews] CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) | HN Score: 174. Comments: 46 |\n| [[HackerNews] Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/) | HN Score: 372. Comments: 147 |\n| [[HackerNews] 1940 Air Terminal Museum Begins Liquidation](https://www.1940airterminal.org/news/liquidation-of-simulators) | HN Score: 109. Comments: 28 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=o_av1b9rs2g) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
