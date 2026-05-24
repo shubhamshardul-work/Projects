@@ -1,0 +1,415 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Ferrari is using IBM\u2019s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrable Elasticity via Neural Demand Potentials",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+      "url": "http://arxiv.org/abs/2605.22814v1",
+      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks",
+      "url": "http://arxiv.org/abs/2602.05873v2",
+      "summary": "Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla point-estimate deep learning in various aspects including uncertainty quantification, robustness to noise, resistance t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces",
+      "url": "http://arxiv.org/abs/2605.16545v2",
+      "summary": "After decades of use in dictation and, more recently, ambient documentation, speech is emerging as a primary modality for interacting with technology and AI in healthcare. Yet medical speech recogniti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1227",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-1.8B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-generation, translation, zh. Downloads: 2564",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 40368",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "summary": "HN Score: 56. Comments: 31",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments | Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Ferrari is using IBM\u2019s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019",
+      "url": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+      "summary": "You can now disco ball-ify your entire Pixel home screen, says Google.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Integrable Elasticity via Neural Demand Potentials",
+      "url": "http://arxiv.org/abs/2605.22820v1",
+      "summary": "We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-first neural model for multiproduct retail demand. The model learns log-demand as a smooth, context-conditioned function of ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration",
+      "url": "http://arxiv.org/abs/2605.22814v1",
+      "summary": "Exploration is a prerequisite for learning useful behaviors in sparse-reward, long-horizon tasks, particularly within 3D environments. Curiosity-driven reinforcement learning addresses this via intrin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks",
+      "url": "http://arxiv.org/abs/2602.05873v2",
+      "summary": "Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla point-estimate deep learning in various aspects including uncertainty quantification, robustness to noise, resistance t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces",
+      "url": "http://arxiv.org/abs/2605.16545v2",
+      "summary": "After decades of use in dictation and, more recently, ambient documentation, speech is emerging as a primary modality for interacting with technology and AI in healthcare. Yet medical speech recogniti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models",
+      "url": "http://arxiv.org/abs/2605.22795v1",
+      "summary": "We propose and analyze a conservative drifting method for one-step generative modeling. The method replaces the original displacement-based drifting velocity by a kernel density estimator (KDE)-gradie...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1227",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-1.8B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-generation, translation, zh. Downloads: 2564",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Supertone/supertonic-3",
+      "url": "https://huggingface.co/Supertone/supertonic-3",
+      "summary": "Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts, multilingual. Downloads: 40368",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+      "summary": "HN Score: 56. Comments: 31",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Ferrari is using IBM\u2019s AI to create F1 superfans",
+        "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+        "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. "
+      },
+      {
+        "title": "[RSS] Elon Musk has given up on solar power (on Earth)",
+        "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+        "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+      },
+      {
+        "title": "[RSS] How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
+        "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+        "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+        "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+        "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. "
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Tokenisation via Convex Relaxations",
+        "url": "http://arxiv.org/abs/2605.22821v1",
+        "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..."
+      },
+      {
+        "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+        "url": "http://arxiv.org/abs/2605.22817v1",
+        "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ..."
+      },
+      {
+        "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+        "url": "http://arxiv.org/abs/2605.22800v1",
+        "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a..."
+      },
+      {
+        "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+        "url": "http://arxiv.org/abs/2605.22794v1",
+        "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a..."
+      },
+      {
+        "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+        "url": "http://arxiv.org/abs/2605.22791v1",
+        "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Ferrari is using IBM\u2019s AI to create F1 superfans",
+      "url": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "summary": "IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the fan experience. "
+    },
+    {
+      "title": "[RSS] Elon Musk has given up on solar power (on Earth)",
+      "url": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+      "summary": "Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with orbital data centers. What happened to the \"solar-electric economy\" he promised?"
+    },
+    {
+      "title": "[RSS] How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0",
+      "url": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+      "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+    },
+    {
+      "title": "[RSS] AI is being used to resurrect the voices of dead pilots",
+      "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+      "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system. "
+    },
+    {
+      "title": "[ArXiv] Tokenisation via Convex Relaxations",
+      "url": "http://arxiv.org/abs/2605.22821v1",
+      "summary": "Tokenisation is an integral part of the current NLP pipeline. Current tokenisation algorithms such as BPE and Unigram are greedy algorithms -- they make locally optimal decisions without considering t..."
+    },
+    {
+      "title": "[ArXiv] Vector Policy Optimization: Training for Diversity Improves Test-Time Search",
+      "url": "http://arxiv.org/abs/2605.22817v1",
+      "summary": "Language models must now generalize out of the box to novel environments and work inside inference-scaling search procedures, such as AlphaEvolve, that select rollouts with a variety of task-specific ..."
+    },
+    {
+      "title": "[ArXiv] The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning",
+      "url": "http://arxiv.org/abs/2605.22800v1",
+      "summary": "Robustness, domain adaptation, photometric and occlusion invariance, compositional generalisation, temporal robustness, alignment safety, and classical anisotropic regularisation are usually treated a..."
+    },
+    {
+      "title": "[ArXiv] MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+      "url": "http://arxiv.org/abs/2605.22794v1",
+      "summary": "Autonomous agentic systems are largely static after deployment: they do not learn from user interactions, and recurring failures persist until the next human-driven update ships a fix. Self-evolving a..."
+    },
+    {
+      "title": "[ArXiv] Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
+      "url": "http://arxiv.org/abs/2605.22791v1",
+      "summary": "Linear attention replaces the unbounded cache of softmax attention with a fixed-size recurrent state, reducing sequence mixing to linear time and decoding to constant memory. The hard part is not just..."
+    }
+  ],
+  "final_report": "# AI's Expanding Horizon: From Fan Engagement to Frontier Research, With a Dose of Reality Checks\n\nToday's intelligence report highlights AI's pervasive influence, spanning innovative fan experiences and critical safety applications, while simultaneously scrutinizing business practices and pushing the boundaries of foundational research. We're seeing both the strategic deployment of AI and a deeper dive into its underlying mechanisms and ethical implications.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Ferrari is using IBM\u2019s AI to create F1 superfans](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/)**\nThis partnership showcases how AI can transform customer engagement and brand loyalty in traditional industries. For executives, it highlights the strategic imperative of leveraging AI to personalize experiences, deepen fan connections, and unlock new revenue streams through data-driven insights, moving beyond simple marketing to true community building.\n\n### **[Elon Musk has given up on solar power (on Earth)](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/)**\nElon Musk's pivot from terrestrial solar to natural gas for xAI and orbital data centers for SpaceX signals a significant strategic re-evaluation of energy infrastructure for AI. This move could indicate a belief in the immediate scalability and reliability of gas for compute-intensive AI, while also pointing to a long-term vision where space-based solutions become critical for future data and energy needs, challenging conventional sustainability narratives.\n\n### **[How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/)**\nThis report exposes a critical issue for investors and business leaders: the potential for misleading financial metrics in the high-growth AI startup landscape. It underscores the necessity for rigorous due diligence and a deep understanding of how AI-specific revenue models are constructed, warning against the risks of overvaluation based on non-standard or inflated annual recurring revenue (ARR) figures.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[AI is being used to resurrect the voices of dead pilots](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/)**\nThis development highlights the powerful, yet ethically complex, capabilities of AI in voice synthesis and reconstruction from limited data. For developers, it demonstrates advanced signal processing and generative AI techniques, but also serves as a stark reminder of the profound ethical considerations and potential for misuse, necessitating robust guidelines and responsible deployment strategies.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Tokenisation via Convex Relaxations](http://arxiv.org/abs/2605.22821v1)**\nThis paper proposes a novel approach to tokenization, a fundamental component of NLP, by framing it as a convex optimization problem. This shift from greedy heuristics to a more globally optimal mathematical framework could lead to more efficient and robust tokenization schemes, potentially improving the performance and interpretability of large language models.\n\n### **[Vector Policy Optimization: Training for Diversity Improves Test-Time Search](http://arxiv.org/abs/2605.22817v1)**\nThis research explores how training language models for diverse outputs can significantly enhance their performance in complex inference-scaling search procedures. It suggests a paradigm shift in reinforcement learning for LLMs, where optimizing for a spectrum of valid responses, rather than a single \"best\" one, leads to more robust and adaptable agents capable of navigating novel environments.\n\n### **[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning](http://arxiv.org/abs/2605.22800v1)**\nThis paper introduces a unified geometric theory for designing loss functions that promote robustness against various \"nuisance\" factors like domain shifts or occlusions. By providing a foundational framework, it could simplify the development of more generalizable and resilient AI models across diverse applications, moving beyond ad-hoc solutions for specific robustness challenges.\n\n### **[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems](http://arxiv.org/abs/2605.22794v1)**\nMOSS presents a significant step towards truly autonomous agent systems that can learn and adapt post-deployment by rewriting their own source code. This self-evolution capability could dramatically reduce the need for human intervention in maintaining and improving AI agents, paving the way for more resilient and continuously improving intelligent systems.\n\n### **[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention](http://arxiv.org/abs/2605.22791v1)**\nThis work refines linear attention mechanisms by decoupling the \"erase\" and \"write\" operations within their recurrent state, addressing a key challenge in maintaining fixed-size memory while processing long sequences. This advancement could lead to more efficient and performant linear attention models, making them more competitive with traditional softmax attention for long-context tasks.\n\n---\n\n**Today's Signal:** AI's strategic deployment is accelerating across industries, yet demands increased scrutiny of financial claims and a deeper engagement with its ethical implications, all while foundational research continues to push the boundaries of what's possible in autonomy and efficiency.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May 2026: major model launches... |\n| [AI News | Latest Headlines and Developments | Reuters ](https://www.reuters.com/technology/artificial-intelligence) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Ferrari is using IBM\u2019s AI to create F1 superfans ](https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/) | IBM and Scuderia Ferrari HP take TechCrunch inside how they are redefining the f... |\n| [Elon Musk has given up on solar power (on Earth) ](https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/) | Elon Muks's xAI has gone all in on natural gas, while SpaceX is obsessed with or... |\n| [AI is being used to resurrect the voices of dead pilots ](https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/) | People used AI on a spectrogram image of cockpit recordings to reconstruct them,... |\n| [[RSS] Google goes for the glitter with disco-ball icons: \u2018Are y\u2019all sure you still want this?\u2019](https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/) | You can now disco ball-ify your entire Pixel home screen, says Google. |\n| [How VCs and founders use inflated \u2018ARR\u2019 to crown AI startups\u00a0 ](https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/) | Some AI startups are stretching traditional revenue metrics when talking about p... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Tokenisation via Convex Relaxations ](http://arxiv.org/abs/2605.22821v1) | Tokenisation is an integral part of the current NLP pipeline. Current tokenisati... |\n| [Integrable Elasticity via Neural Demand Potentials ](http://arxiv.org/abs/2605.22820v1) | We propose the Integrable Context-Dependent Demand Network (ICDN), a demand-firs... |\n| [Vector Policy Optimization: Training for Diversity Improves Test-Time Search ](http://arxiv.org/abs/2605.22817v1) | Language models must now generalize out of the box to novel environments and wor... |\n| [Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration ](http://arxiv.org/abs/2605.22814v1) | Exploration is a prerequisite for learning useful behaviors in sparse-reward, lo... |\n| [Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks ](http://arxiv.org/abs/2602.05873v2) | Bayesian (deep) neural networks (BNN) are often more attractive than the vanilla... |\n| [The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning ](http://arxiv.org/abs/2605.22800v1) | Robustness, domain adaptation, photometric and occlusion invariance, composition... |\n| [Symphony for Speech-to-Text: Supporting Real-Time Medical Voice Interfaces ](http://arxiv.org/abs/2605.16545v2) | After decades of use in dictation and, more recently, ambient documentation, spe... |\n| [Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models ](http://arxiv.org/abs/2605.22795v1) | We propose and analyze a conservative drifting method for one-step generative mo... |\n| [MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems ](http://arxiv.org/abs/2605.22794v1) | Autonomous agentic systems are largely static after deployment: they do not lear... |\n| [Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention ](http://arxiv.org/abs/2605.22791v1) | Linear attention replaces the unbounded cache of softmax attention with a fixed-... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [bytedance-research/Lance ](https://huggingface.co/bytedance-research/Lance) | Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video... |\n| [tencent/Hy-MT2-1.8B ](https://huggingface.co/tencent/Hy-MT2-1.8B) | Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-gener... |\n| [Supertone/supertonic-3 ](https://huggingface.co/Supertone/supertonic-3) | Trending HF Model. Tags: supertonic, onnx, text-to-speech, speech-synthesis, tts... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (1 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Air France and Airbus found guilty of manslaughter over 2009 plane crash](https://www.bbc.com/news/articles/czd2qmdvmq6o) | HN Score: 56. Comments: 31 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=o_av1b9rs2g) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
