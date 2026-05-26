@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What ClickUp\u2019s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The pope\u2019s AI encyclical isn\u2019t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "http://arxiv.org/abs/2605.26114v1",
+      "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "url": "http://arxiv.org/abs/2605.26112v1",
+      "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+      "url": "http://arxiv.org/abs/2605.26111v1",
+      "summary": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+      "url": "http://arxiv.org/abs/2605.26110v1",
+      "summary": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Looped Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2605.26106v1",
+      "summary": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "url": "http://arxiv.org/abs/2605.23904v2",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers",
+      "url": "http://arxiv.org/abs/2509.10452v2",
+      "summary": "Pretrained automatic speech recognition (ASR) models such as Whisper perform well but still need domain adaptation to handle unseen parlance. In many real-world settings, collecting speech data is imp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+      "url": "http://arxiv.org/abs/2605.26100v1",
+      "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language Models Need Sleep",
+      "url": "http://arxiv.org/abs/2605.26099v1",
+      "summary": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language-Switching Triggers Take a Latent Detour Through Language Models",
+      "url": "http://arxiv.org/abs/2605.18646v2",
+      "summary": "Backdoor attacks on language models pose a growing security concern, yet the internal mechanisms by which a trigger sequence hijacks model computations remain poorly understood. We identify a circuit ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-1.8B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-generation, translation, zh. Downloads: 5552",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1679",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, translation, zh. Downloads: 1494",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "summary": "HN Score: 451. Comments: 170",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "url": "https://news.ycombinator.com/item?id=48275508",
+      "summary": "HN Score: 26. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "summary": "HN Score: 231. Comments: 129",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "summary": "HN Score: 119. Comments: 99",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "summary": "HN Score: 17. Comments: 6",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What ClickUp\u2019s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The pope\u2019s AI encyclical isn\u2019t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Startup Battlefield 200 applications close in days: Apply before May 27",
+      "url": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+      "summary": "The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is your shot at VC access, global visibility, TechCrunch coverage, and $100,000. Apply now.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] 5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "url": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "summary": "Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11:59 p.m. PT. Register now to save up to $410 before prices increase.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "http://arxiv.org/abs/2605.26114v1",
+      "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "url": "http://arxiv.org/abs/2605.26112v1",
+      "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation",
+      "url": "http://arxiv.org/abs/2605.26111v1",
+      "summary": "Subject-driven image generation aims to synthesize new images that preserve the identity of the given subject while following textual instructions. Existing approaches often encode text and reference ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning",
+      "url": "http://arxiv.org/abs/2605.26110v1",
+      "summary": "Multimodal Large Language Models (MLLMs) achieve versatility by reformulating diverse tasks into a unified instruction-following framework via instruction tuning. However, real-world deployment requir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Looped Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2605.26106v1",
+      "summary": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "url": "http://arxiv.org/abs/2605.23904v2",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers",
+      "url": "http://arxiv.org/abs/2509.10452v2",
+      "summary": "Pretrained automatic speech recognition (ASR) models such as Whisper perform well but still need domain adaptation to handle unseen parlance. In many real-world settings, collecting speech data is imp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+      "url": "http://arxiv.org/abs/2605.26100v1",
+      "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language Models Need Sleep",
+      "url": "http://arxiv.org/abs/2605.26099v1",
+      "summary": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language-Switching Triggers Take a Latent Detour Through Language Models",
+      "url": "http://arxiv.org/abs/2605.18646v2",
+      "summary": "Backdoor attacks on language models pose a growing security concern, yet the internal mechanisms by which a trigger sequence hijacks model computations remain poorly understood. We identify a circuit ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-1.8B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-1.8B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-generation, translation, zh. Downloads: 5552",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1679",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy-MT2-30B-A3B",
+      "url": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, translation, zh. Downloads: 1494",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "summary": "HN Score: 451. Comments: 170",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?",
+      "url": "https://news.ycombinator.com/item?id=48275508",
+      "summary": "HN Score: 26. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "summary": "HN Score: 231. Comments: 129",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft",
+      "url": "https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/",
+      "summary": "HN Score: 119. Comments: 99",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Designing for and against the manufactured normalcy field (2012)",
+      "url": "https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html",
+      "summary": "HN Score: 17. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+        "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+      },
+      {
+        "title": "[RSS] What ClickUp\u2019s mass layoff tells us about the future of work",
+        "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+        "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+      },
+      {
+        "title": "[RSS] The pope\u2019s AI encyclical isn\u2019t really about AI",
+        "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+        "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+        "url": "http://arxiv.org/abs/2605.26100v1",
+        "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma..."
+      },
+      {
+        "title": "[HackerNews] Using AI to write better code more slowly",
+        "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+        "summary": "HN Score: 451. Comments: 170"
+      },
+      {
+        "title": "[HackerNews] Norway's 2 petabytes of Huawei flash storage and LLM training",
+        "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+        "summary": "HN Score: 231. Comments: 129"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+        "url": "http://arxiv.org/abs/2605.26112v1",
+        "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model..."
+      },
+      {
+        "title": "[ArXiv] Language Models Need Sleep",
+        "url": "http://arxiv.org/abs/2605.26099v1",
+        "summary": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol..."
+      },
+      {
+        "title": "[ArXiv] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+        "url": "http://arxiv.org/abs/2605.26114v1",
+        "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap..."
+      },
+      {
+        "title": "[ArXiv] Looped Diffusion Language Models",
+        "url": "http://arxiv.org/abs/2605.26106v1",
+        "summary": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo..."
+      },
+      {
+        "title": "[ArXiv] SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+        "url": "http://arxiv.org/abs/2605.23904v2",
+        "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+    },
+    {
+      "title": "[RSS] What ClickUp\u2019s mass layoff tells us about the future of work",
+      "url": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "summary": "The nine-year-old startup is replacing hundreds of employees with thousands of AI agents."
+    },
+    {
+      "title": "[RSS] The pope\u2019s AI encyclical isn\u2019t really about AI",
+      "url": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "summary": "Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: concentrated power, eroding democracy, and a tech elite that shapes the world to its own advantage."
+    },
+    {
+      "title": "[ArXiv] Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models",
+      "url": "http://arxiv.org/abs/2605.26100v1",
+      "summary": "Code review is a critical practice in software engineering, yet the growing scale and frequency of code patches in modern projects, together with the widespread adoption of AI code assistants, make ma..."
+    },
+    {
+      "title": "[HackerNews] Using AI to write better code more slowly",
+      "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+      "summary": "HN Score: 451. Comments: 170"
+    },
+    {
+      "title": "[HackerNews] Norway's 2 petabytes of Huawei flash storage and LLM training",
+      "url": "https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910",
+      "summary": "HN Score: 231. Comments: 129"
+    },
+    {
+      "title": "[ArXiv] From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+      "url": "http://arxiv.org/abs/2605.26112v1",
+      "summary": "This paper studies the next major bottleneck in agentic AI as system scaling, not only model scaling: the design of auditable, persistent, modular, and verifiable architectures around foundation model..."
+    },
+    {
+      "title": "[ArXiv] Language Models Need Sleep",
+      "url": "http://arxiv.org/abs/2605.26099v1",
+      "summary": "Transformer-based large language models are increasingly used for long-horizon tasks; however, their attention mechanism scales poorly with context length. To handle this, we study a sleep-like consol..."
+    },
+    {
+      "title": "[ArXiv] MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
+      "url": "http://arxiv.org/abs/2605.26114v1",
+      "summary": "We present MobileGym, a browser-hosted, lightweight, fully controllable environment for everyday mobile use, targeting interaction fidelity without replicating proprietary backends. It enables two cap..."
+    },
+    {
+      "title": "[ArXiv] Looped Diffusion Language Models",
+      "url": "http://arxiv.org/abs/2605.26106v1",
+      "summary": "Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models for language modeling, yet the effective design of transformer architectures for MDMs remains underexplo..."
+    },
+    {
+      "title": "[ArXiv] SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+      "url": "http://arxiv.org/abs/2605.23904v2",
+      "summary": "Agent skills today are hand-crafted, generated one-shot, or evolved through loosely controlled self-revision, none of which behaves like a deep-learning optimizer for the skill, and none of which reli..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: From Global Partnerships to Agentic Evolution\n\nToday's AI landscape reveals a dual narrative: the strategic expansion of AI's reach into new markets and industries, alongside a critical examination of its societal impact and the rapid evolution of its underlying architecture. We're witnessing both the promise of AI-driven efficiency and the complex challenges it introduces to workforces and ethical frameworks.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership](https://openai.com/index/grupo-folha-grupo-uol-partnership)**\nOpenAI is strategically expanding its global footprint by partnering with major Brazilian media groups, Grupo Folha and Grupo UOL. This move not only provides ChatGPT with access to trusted, high-quality journalism for training and real-time information but also sets a precedent for how AI companies can navigate content licensing and attribution in diverse markets. For business leaders, this highlights the growing importance of securing diverse, high-quality data sources and establishing transparent content relationships to build trust and expand market reach.\n\n### **[What ClickUp\u2019s mass layoff tells us about the future of work](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/)**\nThe news of ClickUp replacing hundreds of employees with \"thousands of AI agents\" is a stark indicator of AI's transformative impact on the workforce. This aggressive shift towards AI-driven automation signals a future where operational efficiency and cost reduction through AI could lead to significant restructuring across industries. Executives must strategically evaluate how AI can augment or replace human roles, preparing for both the productivity gains and the ethical and societal implications of such large-scale workforce changes.\n\n### **[The pope\u2019s AI encyclical isn\u2019t really about AI](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/)**\nPope Leo XIV's encyclical, while framed around AI, serves as a powerful commentary on deeper societal issues like concentrated power, eroding democracy, and the influence of a tech elite. This perspective underscores the growing scrutiny AI faces beyond its technical capabilities, pushing for a broader ethical and governance framework. Business leaders and investors should recognize that public perception and regulatory pressure around AI's societal impact will increasingly influence market dynamics and demand responsible, transparent AI development.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models](http://arxiv.org/abs/2605.26100v1)**\nThis research explores using Large Language Models (LLMs) to go beyond simple summaries in code review, focusing on structure-aware labeling of code changes. For developers, this signals a move towards more intelligent and context-rich AI assistance in code quality assurance, potentially streamlining the review process and improving code maintainability. Keep an eye on tools integrating such capabilities, as they could significantly enhance development workflows.\n\n### **[Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/)**\nThis Hacker News discussion highlights a critical tension in AI-assisted coding: while AI can generate \"better\" (e.g., more idiomatic, robust) code, the process of prompting, refining, and verifying it can paradoxically slow down development. Practitioners should watch for evolving best practices in AI-human collaboration, focusing on how to leverage AI for quality without sacrificing agility. This also underscores the continued importance of human expertise in guiding and validating AI outputs.\n\n### **[Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910)**\nThe sheer scale of Norway's investment in Huawei flash storage for LLM training underscores the massive infrastructure requirements for advanced AI development. For architects and developers, this illustrates the critical role of high-performance storage and compute in pushing the boundaries of LLM capabilities. It also highlights the geopolitical considerations and supply chain dependencies involved in building out large-scale AI training environments.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[From Model Scaling to System Scaling: Scaling the Harness in Agentic AI](http://arxiv.org/abs/2605.26112v1)**\nThis paper shifts the focus from merely scaling model size to scaling the entire system architecture for agentic AI, emphasizing auditable, persistent, modular, and verifiable designs. Researchers should note this as a crucial direction for building robust and reliable AI agents, moving beyond raw model power to focus on the engineering of intelligent systems. This work suggests a future where agentic AI is not just powerful, but also trustworthy and manageable.\n\n### **[Language Models Need Sleep](http://arxiv.org/abs/2605.26099v1)**\nDrawing inspiration from biological sleep, this research proposes a \"sleep-like consolidation\" mechanism to manage context length in transformer-based LLMs, which currently struggle with long-horizon tasks. This novel approach offers a potential breakthrough for improving the efficiency and capability of LLMs in extended interactions. Deep-tech thinkers should explore bio-inspired computing as a fertile ground for overcoming current AI limitations.\n\n### **[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research](http://arxiv.org/abs/2605.26114v1)**\nMobileGym introduces a new browser-hosted, lightweight, and fully controllable simulation environment for mobile GUI agent research, emphasizing interaction fidelity without proprietary backends. This platform offers researchers a powerful tool for developing and testing mobile AI agents in a verifiable and highly parallel manner. It promises to accelerate innovation in mobile AI by providing a standardized, accessible, and efficient research environment.\n\n### **[Looped Diffusion Language Models](http://arxiv.org/abs/2605.26106v1)**\nThis paper explores Looped Diffusion Language Models as a promising alternative to autoregressive models for language generation, focusing on effective transformer architectures for Masked Diffusion Models (MDMs). Researchers should delve into this as a novel paradigm for language modeling, potentially offering different trade-offs in terms of generation quality, diversity, and computational efficiency compared to current state-of-the-art methods. This could open new avenues for text generation and understanding.\n\n### **[SkillOpt: Executive Strategy for Self-Evolving Agent Skills](http://arxiv.org/abs/2605.23904v2)**\nSkillOpt presents a new executive strategy for self-evolving agent skills, treating skill acquisition as a deep-learning optimization problem rather than relying on hand-crafting or loose self-revision. This research offers a significant step towards more autonomous and capable AI agents that can continuously learn and refine their abilities. Academics should consider the implications for creating truly adaptive and general-purpose AI systems.\n\n---\n\n**Today's Signal:** The rapid integration of AI into business operations is accelerating workforce transformation, while research increasingly focuses on building more robust, verifiable, and biologically inspired AI systems to tackle complex challenges.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Age... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership ](https://openai.com/index/grupo-folha-grupo-uol-partnership) | OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journa... |\n| [What ClickUp\u2019s mass layoff tells us about the future of work ](https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/) | The nine-year-old startup is replacing hundreds of employees with thousands of A... |\n| [The pope\u2019s AI encyclical isn\u2019t really about AI ](https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/) | Pope Leo XIV's first encyclical uses AI as a lens to diagnose older problems: co... |\n| [Startup Battlefield 200 applications close in days: Apply before May 27 ](https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/) | The deadline to apply or nominate for Startup Battlefield 200 is May 27. This is... |\n| [5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase ](https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/) | Early Bird savings for TechCrunch Disrupt 2026 in San Francisco end May 29 at 11... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research ](http://arxiv.org/abs/2605.26114v1) | We present MobileGym, a browser-hosted, lightweight, fully controllable environm... |\n| [From Model Scaling to System Scaling: Scaling the Harness in Agentic AI ](http://arxiv.org/abs/2605.26112v1) | This paper studies the next major bottleneck in agentic AI as system scaling, no... |\n| [Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation ](http://arxiv.org/abs/2605.26111v1) | Subject-driven image generation aims to synthesize new images that preserve the ... |\n| [Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning ](http://arxiv.org/abs/2605.26110v1) | Multimodal Large Language Models (MLLMs) achieve versatility by reformulating di... |\n| [Looped Diffusion Language Models ](http://arxiv.org/abs/2605.26106v1) | Masked diffusion models (MDMs) have emerged as a promising alternative to autore... |\n| [SkillOpt: Executive Strategy for Self-Evolving Agent Skills ](http://arxiv.org/abs/2605.23904v2) | Agent skills today are hand-crafted, generated one-shot, or evolved through loos... |\n| [WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained Speech Recognition Transformers ](http://arxiv.org/abs/2509.10452v2) | Pretrained automatic speech recognition (ASR) models such as Whisper perform wel... |\n| [Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models ](http://arxiv.org/abs/2605.26100v1) | Code review is a critical practice in software engineering, yet the growing scal... |\n| [Language Models Need Sleep ](http://arxiv.org/abs/2605.26099v1) | Transformer-based large language models are increasingly used for long-horizon t... |\n| [Language-Switching Triggers Take a Latent Detour Through Language Models ](http://arxiv.org/abs/2605.18646v2) | Backdoor attacks on language models pose a growing security concern, yet the int... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [tencent/Hy-MT2-1.8B ](https://huggingface.co/tencent/Hy-MT2-1.8B) | Trending HF Model. Tags: transformers, safetensors, hunyuan_v1_dense, text-gener... |\n| [bytedance-research/Lance ](https://huggingface.co/bytedance-research/Lance) | Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video... |\n| [tencent/Hy-MT2-30B-A3B ](https://huggingface.co/tencent/Hy-MT2-30B-A3B) | Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, tran... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Using AI to write better code more slowly](https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/) | HN Score: 451. Comments: 170 |\n| [[HackerNews] Ask HN: Is anyone working at least 4 hours daily on an Apple Vision Pro?](https://news.ycombinator.com/item?id=48275508) | HN Score: 26. Comments: 3 |\n| [[HackerNews] Norway's 2 petabytes of Huawei flash storage and LLM training](https://www.blocksandfiles.com/flash/2026/05/22/norways-2-petabytes-of-huawei-flash-storage-and-llm-training/5244910) | HN Score: 231. Comments: 129 |\n| [[HackerNews] A successful Japanese trial of a ramjet engine designed for Mach\u20115 aircraft](https://www.bgr.com/2178211/japan-hypersonic-engine-ramjet-2-hour-flights-to-us/) | HN Score: 119. Comments: 99 |\n| [[HackerNews] Designing for and against the manufactured normalcy field (2012)](https://www.urbanhonking.com/ideasfordozens/2012/06/24/designing-for-and-against-the-manufactured-normalcy-field/index.html) | HN Score: 17. Comments: 6 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=o_av1b9rs2g) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
