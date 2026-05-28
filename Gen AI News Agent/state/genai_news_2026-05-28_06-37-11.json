@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "summary": "Google is embarrassing itself, again.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+      "url": "http://arxiv.org/abs/2605.28819v1",
+      "summary": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
+      "url": "http://arxiv.org/abs/2605.28818v1",
+      "summary": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "url": "http://arxiv.org/abs/2605.28814v1",
+      "summary": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
+      "url": "http://arxiv.org/abs/2605.28812v1",
+      "summary": "A primary bottleneck in contact-rich manipulation is the difficulty of collecting real-world data. Sim-to-real reinforcement learning offers a scalable alternative, but the simulation-reality gap prev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization",
+      "url": "http://arxiv.org/abs/2605.28810v1",
+      "summary": "Functional music applications, from consumer focus and sleep aids to clinical interventions, share a distinctive recommendation problem: success is defined by the listener's affective state, but onlin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+      "url": "http://arxiv.org/abs/2605.28809v1",
+      "summary": "Class-Incremental Learning (CIL) is important in building real-world learning systems. In CLIP-based CIL, the model performs classification by comparing similarity between visual and textual embedding...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Calibrating Conservatism for Scalable Oversight",
+      "url": "http://arxiv.org/abs/2605.28807v1",
+      "summary": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers",
+      "url": "http://arxiv.org/abs/2602.06054v3",
+      "summary": "Assessing originality in AI research is arguably the most consequential yet least reliable step in peer review. Reviewer judgments of originality remain opaque, inconsistent, and dependent on comparis...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Personal Visual Memory from Explicit and Implicit Evidence",
+      "url": "http://arxiv.org/abs/2605.28806v1",
+      "summary": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information nee...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+      "url": "http://arxiv.org/abs/2605.28805v1",
+      "summary": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1908",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 2409",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] meituan-longcat/LongCat-Video-Avatar-1.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+      "summary": "Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audio-image-text-to-video, audio-driven-video-continuation. Downloads: 0",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "HN Score: 748. Comments: 434",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "HN Score: 788. Comments: 936",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "summary": "HN Score: 137. Comments: 16",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "HN Score: 783. Comments: 374",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Explore the latest news and expert commentary on Generative AI, brought to you by the editors of AI Business.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "summary": "Google is embarrassing itself, again.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+      "url": "http://arxiv.org/abs/2605.28819v1",
+      "summary": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
+      "url": "http://arxiv.org/abs/2605.28818v1",
+      "summary": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "url": "http://arxiv.org/abs/2605.28814v1",
+      "summary": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation",
+      "url": "http://arxiv.org/abs/2605.28812v1",
+      "summary": "A primary bottleneck in contact-rich manipulation is the difficulty of collecting real-world data. Sim-to-real reinforcement learning offers a scalable alternative, but the simulation-reality gap prev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization",
+      "url": "http://arxiv.org/abs/2605.28810v1",
+      "summary": "Functional music applications, from consumer focus and sleep aids to clinical interventions, share a distinctive recommendation problem: success is defined by the listener's affective state, but onlin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning",
+      "url": "http://arxiv.org/abs/2605.28809v1",
+      "summary": "Class-Incremental Learning (CIL) is important in building real-world learning systems. In CLIP-based CIL, the model performs classification by comparing similarity between visual and textual embedding...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Calibrating Conservatism for Scalable Oversight",
+      "url": "http://arxiv.org/abs/2605.28807v1",
+      "summary": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers",
+      "url": "http://arxiv.org/abs/2602.06054v3",
+      "summary": "Assessing originality in AI research is arguably the most consequential yet least reliable step in peer review. Reviewer judgments of originality remain opaque, inconsistent, and dependent on comparis...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Personal Visual Memory from Explicit and Implicit Evidence",
+      "url": "http://arxiv.org/abs/2605.28806v1",
+      "summary": "Long-term memory is increasingly important for personalized AI agents, yet existing benchmarks and methods remain largely text-centric. Even when images are included, the user-specific information nee...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+      "url": "http://arxiv.org/abs/2605.28805v1",
+      "summary": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] bytedance-research/Lance",
+      "url": "https://huggingface.co/bytedance-research/Lance",
+      "summary": "Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video-generation, image-editing. Downloads: 1908",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 2409",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] meituan-longcat/LongCat-Video-Avatar-1.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+      "summary": "Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audio-image-text-to-video, audio-driven-video-continuation. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "HN Score: 748. Comments: 434",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "HN Score: 788. Comments: 936",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rust (and Slint) on a Jailbroken Kindle",
+      "url": "https://sverre.me/blog/rust-on-kindle/",
+      "summary": "HN Score: 137. Comments: 16",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] RamAIn (YC W26) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+      "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+      "summary": "HN Score: 783. Comments: 374",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=o_av1b9rs2g",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "url": "https://openai.com/index/cisco",
+        "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
+      },
+      {
+        "title": "Election information and safeguards in 2026",
+        "url": "https://openai.com/index/election-safeguards-2026",
+        "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency"
+      },
+      {
+        "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+        "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+        "summary": "Google is embarrassing itself, again."
+      },
+      {
+        "title": "YouTube to automatically label AI-generated videos",
+        "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+        "summary": "HN Score: 748. Comments: 434"
+      },
+      {
+        "title": "I think Anthropic and OpenAI have found product-market fit",
+        "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+        "summary": "HN Score: 788. Comments: 936"
+      }
+    ],
+    "technical": [
+      {
+        "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+        "url": "https://openai.com/index/warp",
+        "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
+      }
+    ],
+    "research": [
+      {
+        "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+        "url": "http://arxiv.org/abs/2605.28819v1",
+        "summary": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret..."
+      },
+      {
+        "title": "VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
+        "url": "http://arxiv.org/abs/2605.28818v1",
+        "summary": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more ..."
+      },
+      {
+        "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+        "url": "http://arxiv.org/abs/2605.28814v1",
+        "summary": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as..."
+      },
+      {
+        "title": "Calibrating Conservatism for Scalable Oversight",
+        "url": "http://arxiv.org/abs/2605.28807v1",
+        "summary": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed the..."
+      },
+      {
+        "title": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+        "url": "http://arxiv.org/abs/2605.28805v1",
+        "summary": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
+    },
+    {
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
+      "summary": "Ahead of global elections, we\u2019re helping people access information, supporting cyber defenders, and increasing AI transparency"
+    },
+    {
+      "title": "Why Google\u2019s AI can\u2019t spell Google (or anything else)",
+      "url": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+      "summary": "Google is embarrassing itself, again."
+    },
+    {
+      "title": "YouTube to automatically label AI-generated videos",
+      "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+      "summary": "HN Score: 748. Comments: 434"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+      "summary": "HN Score: 788. Comments: 936"
+    },
+    {
+      "title": "Warp\u2019s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
+    },
+    {
+      "title": "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective",
+      "url": "http://arxiv.org/abs/2605.28819v1",
+      "summary": "Parameter-efficient finetuning (PEFT) has become the standard approach for adapting large language models, yet evaluations largely emphasize downstream accuracy while overlooking the retention of pret..."
+    },
+    {
+      "title": "VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading",
+      "url": "http://arxiv.org/abs/2605.28818v1",
+      "summary": "Large language models (LLMs) have become increasingly useful computational models of human language processing, but it remains unclear whether vision-language learning makes text representations more ..."
+    },
+    {
+      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
+      "url": "http://arxiv.org/abs/2605.28814v1",
+      "summary": "Search has been proposed as an effective method for self-improving language models and agentic systems, both for post-training sample generation and for inference. However, widely used methods such as..."
+    },
+    {
+      "title": "Calibrating Conservatism for Scalable Oversight",
+      "url": "http://arxiv.org/abs/2605.28807v1",
+      "summary": "Agentic AI systems capable of autonomous planning and extended environmental interaction pose a fundamental control problem: how can humans maintain meaningful oversight of systems that may exceed the..."
+    },
+    {
+      "title": "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration",
+      "url": "http://arxiv.org/abs/2605.28805v1",
+      "summary": "Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investi..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Enterprise AI Takes Center Stage Amidst Evolving Trust & Development Paradigms\n\nToday's AI landscape is marked by a dual focus: the strategic integration of advanced AI into enterprise operations and a growing emphasis on trust, transparency, and robust development practices. From major tech partnerships to critical discussions on AI reliability and oversight, the industry is navigating both rapid innovation and its profound societal implications.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco)**\nCisco's partnership with OpenAI to leverage Codex for AI-native development, defense, and defect remediation signals a significant strategic shift for large enterprises. This collaboration demonstrates how established tech giants are integrating cutting-edge AI to enhance operational efficiency and cybersecurity, setting a precedent for industry-wide adoption of AI-powered engineering workflows.\n\n### **[Election information and safeguards in 2026](https://openai.com/index/election-safeguards-2026)**\nOpenAI's proactive measures to safeguard election information and support cyber defenders highlight the increasing responsibility of AI developers in mitigating societal risks. For business leaders, this underscores the critical importance of integrating ethical AI development and transparency into core strategy, as public trust and regulatory compliance become paramount.\n\n### **[Why Google\u2019s AI can\u2019t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/)**\nGoogle's public struggles with basic AI functionality represent a significant reputational challenge in a highly competitive market. Such missteps can erode market confidence and provide an opening for competitors, emphasizing that even leading AI companies must prioritize reliability and quality assurance to maintain their strategic advantage.\n\n### **[YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/)**\nYouTube's initiative to automatically label AI-generated content is a pivotal move in content moderation and transparency. This policy will shape user trust, influence creator workflows, and likely become a standard for other platforms, impacting how businesses approach AI-driven content creation and disclosure across digital ecosystems.\n\n### **[I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/)**\nThe observation that Anthropic and OpenAI have achieved product-market fit suggests a maturation of the generative AI sector. For investors and executives, this indicates these companies are transitioning from experimental phases to sustainable growth, signaling strong demand and potential for further market expansion and consolidation in the AI industry.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Warp\u2019s big bet on building open source with GPT-5.5](https://openai.com/index/warp)**\nWarp's innovative approach, utilizing GPT-5.5 and other OpenAI models to coordinate coding agents across diverse development workflows, marks a significant leap for developer productivity. This strategy points to a future where AI-powered tools are central to orchestrating complex, distributed software projects, making development more efficient and collaborative for engineering teams.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective](http://arxiv.org/abs/2605.28819v1)**\nThis research delves into the fundamental trade-offs of Parameter-Efficient Finetuning (PEFT), crucial for optimizing large language models. Understanding the balance between retaining pre-trained knowledge and adapting to new tasks will directly inform how researchers and practitioners efficiently fine-tune models, impacting resource allocation and performance in real-world AI applications.\n\n### **[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading](http://arxiv.org/abs/2605.28818v1)**\nThis paper challenges the assumption that Vision-Language Models (VLMs) inherently improve human alignment in language processing. It suggests that simply adding visual data doesn't automatically make text representations more human-like, prompting researchers to re-evaluate multimodal integration strategies for truly effective human-AI interaction.\n\n### **[Self-Improving Language Models with Bidirectional Evolutionary Search](http://arxiv.org/abs/2605.28814v1)**\nThis work explores novel search methods, specifically bidirectional evolutionary search, for creating self-improving language models. Moving beyond traditional approaches, this concept could lead to more robust and autonomously evolving AI systems, pushing the boundaries of what agentic AI can achieve in terms of learning and adaptation.\n\n### **[Calibrating Conservatism for Scalable Oversight](http://arxiv.com/abs/2605.28807v1)**\nThis research addresses the critical control problem of agentic AI systems, focusing on how humans can maintain meaningful oversight over increasingly autonomous AI. Developing methods to calibrate conservatism is paramount for safety and ethical deployment, offering vital insights for designing future AI governance frameworks and ensuring human-in-the-loop control.\n\n### **[OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration](http://arxiv.org/abs/2605.28805v1)**\nAs multimodal large language models become central to AI, reliable and fine-grained verification of their visual outcomes is essential. OmniVerifier-M1 proposes a new approach to this challenge, which is vital for scaling generalist foundation models reliably and ensuring their outputs are accurate and trustworthy across different modalities.\n\n---\n**Today's Signal:** The AI industry is simultaneously scaling enterprise adoption and grappling with the complex challenges of trust, reliability, and human oversight.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Explore the latest news and expert commentary on Generative AI, brought to you b... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | ... ai, latest ai news, generative ai advancements, ai studio features, latest a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Cisco and OpenAI redefine enterprise engineering with Codex ](https://openai.com/index/cisco) | Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco... |\n| [Building self-improving tax agents with Codex ](https://openai.com/index/building-self-improving-tax-agents-with-codex) | See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, a... |\n| [Election information and safeguards in 2026 ](https://openai.com/index/election-safeguards-2026) | Ahead of global elections, we\u2019re helping people access information, supporting c... |\n| [Warp\u2019s big bet on building open source with GPT-5.5 ](https://openai.com/index/warp) | Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cl... |\n| [[RSS] Why Google\u2019s AI can\u2019t spell Google (or anything else)](https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/) | Google is embarrassing itself, again. |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective ](http://arxiv.org/abs/2605.28819v1) | Parameter-efficient finetuning (PEFT) has become the standard approach for adapt... |\n| [VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading ](http://arxiv.org/abs/2605.28818v1) | Large language models (LLMs) have become increasingly useful computational model... |\n| [Self-Improving Language Models with Bidirectional Evolutionary Search ](http://arxiv.org/abs/2605.28814v1) | Search has been proposed as an effective method for self-improving language mode... |\n| [Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation ](http://arxiv.org/abs/2605.28812v1) | A primary bottleneck in contact-rich manipulation is the difficulty of collectin... |\n| [Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization ](http://arxiv.org/abs/2605.28810v1) | Functional music applications, from consumer focus and sleep aids to clinical in... |\n| [AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning ](http://arxiv.org/abs/2605.28809v1) | Class-Incremental Learning (CIL) is important in building real-world learning sy... |\n| [Calibrating Conservatism for Scalable Oversight ](http://arxiv.org/abs/2605.28807v1) | Agentic AI systems capable of autonomous planning and extended environmental int... |\n| [Are We Truly Innovating? A Qualitative and Quantitative Study of Originality in AI Research Papers ](http://arxiv.org/abs/2602.06054v3) | Assessing originality in AI research is arguably the most consequential yet leas... |\n| [Personal Visual Memory from Explicit and Implicit Evidence ](http://arxiv.org/abs/2605.28806v1) | Long-term memory is increasingly important for personalized AI agents, yet exist... |\n| [OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration ](http://arxiv.org/abs/2605.28805v1) | Visual outcomes are increasingly central to multimodal large language models, ma... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [bytedance-research/Lance ](https://huggingface.co/bytedance-research/Lance) | Trending HF Model. Tags: Lance, safetensors, multimodal, image-generation, video... |\n| [openbmb/MiniCPM5-1B ](https://huggingface.co/openbmb/MiniCPM5-1B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, mini... |\n| [meituan-longcat/LongCat-Video-Avatar-1.5 ](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5) | Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] YouTube to automatically label AI-generated videos](https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/) | HN Score: 748. Comments: 434 |\n| [[HackerNews] I think Anthropic and OpenAI have found product-market fit](https://simonwillison.net/2026/May/27/product-market-fit/) | HN Score: 788. Comments: 936 |\n| [[HackerNews] Rust (and Slint) on a Jailbroken Kindle](https://sverre.me/blog/rust-on-kindle/) | HN Score: 137. Comments: 16 |\n| [[HackerNews] RamAIn (YC W26) Is Hiring](https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer) | HN Score: 1. Comments: 0 |\n| [[HackerNews] DuckDuckGo search saw 28% more visits after Google said people love AI mode](https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/) | HN Score: 783. Comments: 374 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=o_av1b9rs2g) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
