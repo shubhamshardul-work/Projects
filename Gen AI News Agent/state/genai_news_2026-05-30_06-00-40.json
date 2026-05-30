@@ -1,0 +1,332 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Breakthroughs and Latest AI News: Jan-Feb 2026",
+      "url": "https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026",
+      "summary": "Explore the biggest AI developments of January and February 2026, from new regulations and model launches to major corporate partnerships.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "AI tools launched in the last 24 hours. Top AI news from the last day. New AI models released recently. AI developer tools announcements.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 23629",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 7861",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] meituan-longcat/LongCat-Video-Avatar-1.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+      "summary": "Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audio-image-text-to-video, audio-driven-video-continuation. Downloads: 0",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "HN Score: 331. Comments: 122",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "summary": "HN Score: 108. Comments: 165",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "summary": "HN Score: 122. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "summary": "HN Score: 171. Comments: 63",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "summary": "HN Score: 314. Comments: 272",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Breakthroughs and Latest AI News: Jan-Feb 2026",
+      "url": "https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026",
+      "summary": "Explore the biggest AI developments of January and February 2026, from new regulations and model launches to major corporate partnerships.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "AI tools launched in the last 24 hours. Top AI news from the last day. New AI models released recently. AI developer tools announcements.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 23629",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 7861",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] meituan-longcat/LongCat-Video-Avatar-1.5",
+      "url": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+      "summary": "Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audio-image-text-to-video, audio-driven-video-continuation. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "HN Score: 331. Comments: 122",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Shift will clean homes for free to train future robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
+      "summary": "HN Score: 108. Comments: 165",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "summary": "HN Score: 122. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "summary": "HN Score: 171. Comments: 63",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Is AI causing a repeat of frontend\u2019s lost decade?",
+      "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
+      "summary": "HN Score: 314. Comments: 272",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+        "url": "https://openai.com/index/boston-childrens-hospital",
+        "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+      },
+      {
+        "title": "[RSS] Strengthening societal resilience with Rosalind Biodefense",
+        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+        "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
+      },
+      {
+        "title": "[RSS] How Endava builds an agentic organization with Codex",
+        "url": "https://openai.com/index/endava",
+        "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
+      },
+      {
+        "title": "[HackerNews] Notes from the Mistral AI Now Summit",
+        "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+        "summary": "HN Score: 331. Comments: 122"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+        "url": "https://openai.com/index/braintrust",
+        "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+      },
+      {
+        "title": "[HackerNews] Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+        "url": "https://github.com/jmaczan/tiny-vllm",
+        "summary": "HN Score: 122. Comments: 10"
+      },
+      {
+        "title": "[HackerNews] Liquid AI reveals 8B-A1B MoE trained on 38T",
+        "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+        "summary": "HN Score: 171. Comments: 63"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] A shared playbook for trustworthy third party evaluations",
+        "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+        "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+    },
+    {
+      "title": "[RSS] Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
+    },
+    {
+      "title": "[RSS] How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
+      "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
+    },
+    {
+      "title": "[HackerNews] Notes from the Mistral AI Now Summit",
+      "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
+      "summary": "HN Score: 331. Comments: 122"
+    },
+    {
+      "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+    },
+    {
+      "title": "[HackerNews] Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA",
+      "url": "https://github.com/jmaczan/tiny-vllm",
+      "summary": "HN Score: 122. Comments: 10"
+    },
+    {
+      "title": "[HackerNews] Liquid AI reveals 8B-A1B MoE trained on 38T",
+      "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+      "summary": "HN Score: 171. Comments: 63"
+    },
+    {
+      "title": "[RSS] A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+    }
+  ],
+  "final_report": "# AI's Expanding Footprint: From Healthcare Breakthroughs to Enterprise Agility\n\nToday's intelligence report highlights AI's accelerating integration into critical sectors, demonstrating its power to solve complex problems and drive significant operational efficiencies. We're seeing a clear trend of advanced models moving from research labs into real-world applications, reshaping industries and development practices.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Boston Children\u2019s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital)**\nThis showcases AI's transformative potential in healthcare, moving beyond administrative tasks to direct patient impact. For executives, it signals a critical opportunity for competitive differentiation and improved outcomes through AI-driven diagnostic tools, potentially reducing costs and saving lives in rare disease identification.\n\n### **[Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense)**\nOpenAI's launch of Rosalind Biodefense highlights the strategic importance of AI in national security and public health. This initiative demonstrates how frontier AI can be leveraged for critical infrastructure protection and pandemic preparedness, opening new avenues for government partnerships and high-impact, mission-driven AI investments.\n\n### **[How Endava builds an agentic organization with Codex](https://openai.com/index/endava)**\nEndava's adoption of Codex to create an \"agentic organization\" is a powerful case study for enterprise leaders seeking to dramatically accelerate software delivery and reduce development bottlenecks. This move towards AI-powered automation in core business processes offers a blueprint for achieving significant operational efficiencies and gaining a competitive edge in digital transformation.\n\n### **[Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit)**\nThe buzz around Mistral AI's summit underscores the intensifying competition and rapid innovation within the AI foundational model space. Business leaders should monitor these emerging players closely, as their advancements could offer alternative, potentially more cost-effective or specialized, AI solutions compared to established giants, influencing future strategic partnerships and technology adoption.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[How Braintrust turns customer requests into code with Codex](https://openai.com/index/braintrust)**\nBraintrust's use of Codex with GPT-5.5 for rapid prototyping and code generation offers a practical blueprint for engineering teams. This demonstrates how integrating advanced AI assistants can significantly accelerate the development lifecycle, allowing developers to run more experiments and translate requirements into functional code at an unprecedented pace.\n\n### **[Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm)**\nTiny-vLLM presents a compelling new option for developers focused on optimizing LLM inference performance, particularly in resource-constrained or latency-sensitive environments. Its C++ and CUDA implementation suggests a strong focus on efficiency, making it a tool to watch for those building high-performance AI applications and seeking alternatives to existing inference solutions.\n\n### **[Liquid AI reveals 8B-A1B MoE trained on 38T](https://www.liquid.ai/blog/lfm2-5-8b-a1b)**\nLiquid AI's announcement of an 8B-A1B Mixture-of-Experts (MoE) model trained on a massive 38 trillion tokens is a significant development for practitioners. This indicates a continued push towards more efficient and powerful model architectures, offering developers potential new avenues for achieving high performance with smaller, more specialized models, which could impact deployment strategies and resource allocation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[A shared playbook for trustworthy third party evaluations](https://openai.com/index/trustworthy-third-party-evaluations-foundations)**\nOpenAI's release of guidance on third-party AI evaluations is a crucial step towards establishing industry-wide standards for assessing frontier AI systems. This initiative provides a foundational framework for researchers to rigorously evaluate model capabilities, safety, and validity, fostering greater transparency and trust in the development and deployment of advanced AI.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with a clear emphasis on translating advanced research into practical, high-impact applications across diverse sectors, while simultaneously refining the tools and methodologies for both development and responsible deployment.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May 2026: major model launches... |\n| [AI Breakthroughs and Latest AI News: Jan-Feb 2026 ](https://www.crescendo.ai/news/ai-breakthroughs-and-latest-ai-news-2026) | Explore the biggest AI developments of January and February 2026, from new regul... |\n| [AI News Update: 6 AI Tools That Dropped In The Last 24 Hours ](https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the) | AI tools launched in the last 24 hours. Top AI news from the last day. New AI mo... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Boston Children\u2019s uses AI to unlock new diagnoses ](https://openai.com/index/boston-childrens-hospital) | Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduc... |\n| [How Braintrust turns customer requests into code with Codex ](https://openai.com/index/braintrust) | How Braintrust engineers use Codex with GPT-5.5 to run experiments and code fast... |\n| [Strengthening societal resilience with Rosalind Biodefense ](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense) | OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind fo... |\n| [A shared playbook for trustworthy third party evaluations ](https://openai.com/index/trustworthy-third-party-evaluations-foundations) | OpenAI shares guidance on third-party AI evaluations, covering how to assess mod... |\n| [How Endava builds an agentic organization with Codex ](https://openai.com/index/endava) | Learn how Endava uses Codex to build an agentic organization, accelerating softw... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [openbmb/MiniCPM5-1B ](https://huggingface.co/openbmb/MiniCPM5-1B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, mini... |\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extr... |\n| [meituan-longcat/LongCat-Video-Avatar-1.5 ](https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5) | Trending HF Model. Tags: diffusers, onnx, safetensors, audio-text-to-video, audi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Notes from the Mistral AI Now Summit](https://koenvangilst.nl/lab/mistral-ai-now-summit) | HN Score: 331. Comments: 122 |\n| [[HackerNews] Shift will clean homes for free to train future robots](https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning) | HN Score: 108. Comments: 165 |\n| [[HackerNews] Show HN: Tiny-vLLM \u2013 high performance LLM inference engine in C++ and CUDA](https://github.com/jmaczan/tiny-vllm) | HN Score: 122. Comments: 10 |\n| [[HackerNews] Liquid AI reveals 8B-A1B MoE trained on 38T](https://www.liquid.ai/blog/lfm2-5-8b-a1b) | HN Score: 171. Comments: 63 |\n| [[HackerNews] Is AI causing a repeat of frontend\u2019s lost decade?](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/) | HN Score: 314. Comments: 272 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=aJvP3nXWkwM) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
