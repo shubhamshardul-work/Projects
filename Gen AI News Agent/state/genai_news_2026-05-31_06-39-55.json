@@ -1,0 +1,459 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+      "url": "http://arxiv.org/abs/2605.30353v1",
+      "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+      "url": "http://arxiv.org/abs/2605.30351v1",
+      "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+      "url": "http://arxiv.org/abs/2605.30350v1",
+      "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "url": "http://arxiv.org/abs/2605.30348v1",
+      "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "url": "http://arxiv.org/abs/2605.30345v1",
+      "summary": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+      "url": "http://arxiv.org/abs/2605.30344v1",
+      "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "url": "http://arxiv.org/abs/2605.30343v1",
+      "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "url": "http://arxiv.org/abs/2605.30341v1",
+      "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+      "url": "http://arxiv.org/abs/2605.30337v1",
+      "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "url": "http://arxiv.org/abs/2605.30336v1",
+      "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 28793",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 18327",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.6, moe, vision, multimodal. Downloads: 2227885",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "summary": "HN Score: 459. Comments: 281",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "summary": "HN Score: 88. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "summary": "HN Score: 401. Comments: 195",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Boston Children\u2019s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
+      "summary": "Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+      "url": "http://arxiv.org/abs/2605.30353v1",
+      "summary": "Are AI agents tools, co-authors, or researchers? We present a quantified case study ($N=1$): a physicist supervising an AI coding agent (Claude Code, Sonnet and Opus models) over 12 work days and 57 s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion",
+      "url": "http://arxiv.org/abs/2605.30351v1",
+      "summary": "Long-rollout causal video diffusion has converged on a fixed-size sliding-window KV cache, with recent progress innovating within this layout by changing which tokens occupy the window or how their po...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+      "url": "http://arxiv.org/abs/2605.30350v1",
+      "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "url": "http://arxiv.org/abs/2605.30348v1",
+      "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations",
+      "url": "http://arxiv.org/abs/2605.30345v1",
+      "summary": "Printed circuit board (PCB) schematic design defines nearly all electronic hardware, but it remains manual and expertise-intensive. While generative AI has advanced digital and analog IC design, PCB s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection",
+      "url": "http://arxiv.org/abs/2605.30344v1",
+      "summary": "Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "url": "http://arxiv.org/abs/2605.30343v1",
+      "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "url": "http://arxiv.org/abs/2605.30341v1",
+      "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+      "url": "http://arxiv.org/abs/2605.30337v1",
+      "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "url": "http://arxiv.org/abs/2605.30336v1",
+      "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 28793",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 18327",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "url": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+      "summary": "Trending HF Model. Tags: gguf, uncensored, qwen3.6, moe, vision, multimodal. Downloads: 2227885",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Domain expertise has always been the real moat",
+      "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+      "summary": "HN Score: 459. Comments: 281",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Racket v9.2 is now available",
+      "url": "https://blog.racket-lang.org/2026/05/racket-v9-2.html",
+      "summary": "HN Score: 88. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenRouter raises $113M Series B",
+      "url": "https://openrouter.ai/announcements/series-b",
+      "summary": "HN Score: 401. Comments: 195",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,"
+      },
+      {
+        "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+        "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+        "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor"
+      },
+      {
+        "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+      },
+      {
+        "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+      },
+      {
+        "title": "[RSS] Meta is reportedly developing an AI pendant",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "summary": "Meta seems to be making big bets on AI-powered hardware."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+        "url": "http://arxiv.org/abs/2605.30337v1",
+        "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe..."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+        "url": "http://arxiv.org/abs/2605.30348v1",
+        "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making..."
+      },
+      {
+        "title": "[ArXiv] Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+        "url": "http://arxiv.org/abs/2605.30343v1",
+        "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto..."
+      },
+      {
+        "title": "[ArXiv] GPIC: A Giant Permissive Image Corpus for Visual Generation",
+        "url": "http://arxiv.org/abs/2605.30341v1",
+        "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c..."
+      },
+      {
+        "title": "[ArXiv] DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+        "url": "http://arxiv.org/abs/2605.30350v1",
+        "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog..."
+      },
+      {
+        "title": "[ArXiv] Fairness-Aware Federated Learning with Trajectory Shapley Value",
+        "url": "http://arxiv.org/abs/2605.30336v1",
+        "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI ... - Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Deep Think \u00b7 Amazon Kindle integrated an in-app AI feature \u00b7 Cursor"
+    },
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "title": "[ArXiv] Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching",
+      "url": "http://arxiv.org/abs/2605.30337v1",
+      "summary": "Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a language model to each prompt by retrieving related sequences, updating the model on them, and then evaluating the prompt. Howe..."
+    },
+    {
+      "title": "[ArXiv] LLMSurgeon: Diagnosing Data Mixture of Large Language Models",
+      "url": "http://arxiv.org/abs/2605.30348v1",
+      "summary": "The pretraining data mixture of Large Language Models (LLMs) constitutes their \"digital DNA\", shaping model behaviors, capabilities, and failure modes. Yet this composition is rarely disclosed, making..."
+    },
+    {
+      "title": "[ArXiv] Unlocking the Working Memory of Large Language Models for Latent Reasoning",
+      "url": "http://arxiv.org/abs/2605.30343v1",
+      "summary": "To improve the reasoning capabilities of large language models, test-time compute is typically scaled by generating intermediate tokens before the final answer. However, this couples reasoning to auto..."
+    },
+    {
+      "title": "[ArXiv] GPIC: A Giant Permissive Image Corpus for Visual Generation",
+      "url": "http://arxiv.org/abs/2605.30341v1",
+      "summary": "Studying scalable methods for visual generative modeling requires large, accessible, and stable datasets. We introduce GPIC, a Giant Permissive Image Corpus of approximately 28 trillion pixels. GPIC c..."
+    },
+    {
+      "title": "[ArXiv] DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation",
+      "url": "http://arxiv.org/abs/2605.30350v1",
+      "summary": "Robot manipulation critically depends on perception that preserves the action-relevant aspects of a scene. Yet most robot learning pipelines are built upon visual encoders pre-trained for static recog..."
+    },
+    {
+      "title": "[ArXiv] Fairness-Aware Federated Learning with Trajectory Shapley Value",
+      "url": "http://arxiv.org/abs/2605.30336v1",
+      "summary": "Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. It enables multiple clients to train a model collaboratively by agg..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Infrastructure Bets, Model Wars, and the Quest for Deeper Intelligence\n\nToday's AI landscape is marked by colossal infrastructure investments fueling the next generation of models, while tech giants unveil their latest advancements in a fierce race for market dominance. Simultaneously, the research community pushes the boundaries of AI's fundamental understanding and capabilities, from data diagnostics to novel reasoning architectures.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nThis general overview highlights the rapid pace of innovation, with new model launches and significant funding rounds continually reshaping the competitive landscape. Business leaders must stay vigilant to these shifts, as they signal emerging opportunities and potential disruptions across industries.\n\n### **[Here is a comprehensive summary of the most recent AI ... - Medium](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8)**\nThe simultaneous unveiling of OpenAI's GPT-5.2, Runway's Gen 4.5, and Google's Gemini 3 Deep Think underscores an accelerating \"model war\" among leading AI developers. These rapid iterations, alongside Amazon Kindle's new AI features, indicate a fierce battle for platform dominance and user integration, demanding strategic agility from competitors.\n\n### **[SoftBank says it will invest up to \u20ac75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)**\nSoftBank's colossal \u20ac75 billion investment in French data centers signals a critical strategic move to secure foundational compute infrastructure for the AI era. This massive commitment to developing 5 gigawatts of capacity highlights the escalating global race for AI supremacy, where access to robust data center resources will be a key differentiator for national and corporate competitiveness.\n\n### **[\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)**\nGitHub Copilot's shift to token-based billing is generating significant backlash from its developer community, potentially signaling a critical inflection point for AI-powered developer tools. This move could prompt users to explore alternative solutions or force Microsoft to re-evaluate its pricing strategy, impacting the broader market for AI-assisted coding.\n\n### **[Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)**\nMeta's rumored development of an AI pendant indicates a strategic pivot towards ambient, wearable AI hardware, moving beyond traditional screens. This initiative suggests a long-term vision for integrating AI seamlessly into daily life, potentially opening new avenues for user interaction and data collection in the evolving metaverse ecosystem.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching](http://arxiv.org/abs/2605.30337v1)**\nThis research introduces a promising new paradigm for adapting Large Language Models (LLMs) to individual prompts more efficiently at test time. Developers should watch this space for potential frameworks that could enable more personalized and context-aware LLM applications without extensive retraining, offering significant performance gains for real-time inference.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[LLMSurgeon: Diagnosing Data Mixture of Large Language Models](http://arxiv.org/abs/2605.30348v1)**\nUnderstanding the \"digital DNA\" of LLMs by diagnosing their pretraining data mixture is crucial for researchers aiming to control model behaviors, mitigate biases, and predict failure modes. This work offers a vital tool for transparency and responsible AI development, allowing deeper insights into how LLMs acquire their capabilities.\n\n### **[Unlocking the Working Memory of Large Language Models for Latent Reasoning](http://arxiv.org/abs/2605.30343v1)**\nThis paper proposes a novel method to enhance LLM reasoning by decoupling it from auto-regressive token generation, effectively \"unlocking\" a working memory for latent thought processes. Researchers should explore this approach for developing more robust and efficient reasoning agents, potentially leading to breakthroughs in complex problem-solving.\n\n### **[GPIC: A Giant Permissive Image Corpus for Visual Generation](http://arxiv.org/abs/2605.30341v1)**\nThe introduction of GPIC, a massive 28 trillion-pixel image corpus, provides a critical new resource for advancing visual generative modeling. This accessible dataset will empower researchers to train larger, more capable generative AI models, pushing the boundaries of image synthesis and manipulation.\n\n### **[DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation](http://arxiv.org/abs/2605.30350v1)**\nThis research challenges conventional robotics perception by focusing on action-relevant scene aspects through tri-modal dynamics. Academics in robotics should consider this paradigm shift for developing more effective and robust robot manipulation systems, moving beyond static visual recognition towards dynamic, task-oriented understanding.\n\n### **[Fairness-Aware Federated Learning with Trajectory Shapley Value](http://arxiv.org/abs/2605.30336v1)**\nAddressing fairness in federated learning is paramount for equitable AI, and this paper introduces a novel approach using Trajectory Shapley Value. Researchers in distributed AI and ethics should investigate this method for building more just and unbiased collaborative models, especially in privacy-sensitive applications.\n\nToday's signal points to a dual focus on scaling AI infrastructure and refining model intelligence, while the industry grapples with the practical implications of rapid deployment and ethical considerations.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May 2026: major model launches... |\n| [Here is a comprehensive summary of the most recent AI ... - Medium ](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8) | OpenAI launched GPT-5.2 \u00b7 Runway released Gen 4.5 \u00b7 Google unveiled Gemini 3 Dee... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Boston Children\u2019s uses AI to unlock new diagnoses ](https://openai.com/index/boston-childrens-hospital) | Boston Children\u2019s Hospital uses OpenAI technology to improve patient care, reduc... |\n| [How Braintrust turns customer requests into code with Codex ](https://openai.com/index/braintrust) | How Braintrust engineers use Codex with GPT-5.5 to run experiments and code fast... |\n| [SoftBank says it will invest up to \u20ac75 billion to build French data centers ](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) | The goal, the firm said, is to develop and operate up to 5 gigawatts of addition... |\n| [[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) | The golden age of Microsoft's Github Copilot appears to be at an end. |\n| [[RSS] Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) | Meta seems to be making big bets on AI-powered hardware. |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software ](http://arxiv.org/abs/2605.30353v1) | Are AI agents tools, co-authors, or researchers? We present a quantified case st... |\n| [VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion ](http://arxiv.org/abs/2605.30351v1) | Long-rollout causal video diffusion has converged on a fixed-size sliding-window... |\n| [DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation ](http://arxiv.org/abs/2605.30350v1) | Robot manipulation critically depends on perception that preserves the action-re... |\n| [LLMSurgeon: Diagnosing Data Mixture of Large Language Models ](http://arxiv.org/abs/2605.30348v1) | The pretraining data mixture of Large Language Models (LLMs) constitutes their \"... |\n| [SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations ](http://arxiv.org/abs/2605.30345v1) | Printed circuit board (PCB) schematic design defines nearly all electronic hardw... |\n| [Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection ](http://arxiv.org/abs/2605.30344v1) | Recent advances in Vision-Language Models (VLMs) have achieved impressive perfor... |\n| [Unlocking the Working Memory of Large Language Models for Latent Reasoning ](http://arxiv.org/abs/2605.30343v1) | To improve the reasoning capabilities of large language models, test-time comput... |\n| [GPIC: A Giant Permissive Image Corpus for Visual Generation ](http://arxiv.org/abs/2605.30341v1) | Studying scalable methods for visual generative modeling requires large, accessi... |\n| [Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching ](http://arxiv.org/abs/2605.30337v1) | Test-time finetuning (TTFT) is a rapidly evolving paradigm that adapts a languag... |\n| [Fairness-Aware Federated Learning with Trajectory Shapley Value ](http://arxiv.org/abs/2605.30336v1) | Federated learning is an emerging distributed paradigm that addresses the challe... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [openbmb/MiniCPM5-1B ](https://huggingface.co/openbmb/MiniCPM5-1B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, mini... |\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extr... |\n| [HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive ](https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive) | Trending HF Model. Tags: gguf, uncensored, qwen3.6, moe, vision, multimodal. Dow... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Domain expertise has always been the real moat](https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/) | HN Score: 459. Comments: 281 |\n| [[HackerNews] Racket v9.2 is now available](https://blog.racket-lang.org/2026/05/racket-v9-2.html) | HN Score: 88. Comments: 12 |\n| [[HackerNews] OpenRouter raises $113M Series B](https://openrouter.ai/announcements/series-b) | HN Score: 401. Comments: 195 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=aJvP3nXWkwM) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
