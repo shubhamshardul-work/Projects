@@ -1,0 +1,332 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 24586",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 36730",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM2.5-8B-A1B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm2_moe, text-generation, liquid, lfm2.5. Downloads: 27677",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "summary": "HN Score: 18. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "summary": "HN Score: 190. Comments: 53",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "summary": "HN Score: 368. Comments: 133",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "summary": "HN Score: 334. Comments: 613",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "summary": "HN Score: 154. Comments: 77",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Google grabbed many of the generative AI headlines over the past few weeks, with a rebranding and product updates. Chat tool Bard is now known as Gemini,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May 2026: major model launches, record funding rounds, and breakthroughs shaping business,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "We have AI image editors that could potentially replace Photoshop. Tons of updates out of Google and their made by Google event.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "summary": "Environmental activist Erin Brockovich has a new mission.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 24586",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] openbmb/MiniCPM5-1B",
+      "url": "https://huggingface.co/openbmb/MiniCPM5-1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, minicpm, minicpm5. Downloads: 36730",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM2.5-8B-A1B",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm2_moe, text-generation, liquid, lfm2.5. Downloads: 27677",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+      "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+      "summary": "HN Score: 18. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "summary": "HN Score: 190. Comments: 53",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "summary": "HN Score: 368. Comments: 133",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+      "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+      "summary": "HN Score: 334. Comments: 613",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "summary": "HN Score: 154. Comments: 77",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+        "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+        "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+      },
+      {
+        "title": "[RSS] Meta is reportedly developing an AI pendant",
+        "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+        "summary": "Meta seems to be making big bets on AI-powered hardware."
+      },
+      {
+        "title": "[RSS] Erin Brockovich takes aim at data center secrecy",
+        "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+        "summary": "Environmental activist Erin Brockovich has a new mission."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+        "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+        "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+      },
+      {
+        "title": "[HackerNews] ChatGPT for Google Sheets exfiltrates workbooks",
+        "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+        "summary": "HN Score: 190. Comments: 53"
+      },
+      {
+        "title": "[HackerNews] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+        "url": "https://prismml.com/news/bonsai-image-4b",
+        "summary": "HN Score: 368. Comments: 133"
+      },
+      {
+        "title": "[HackerNews] The Speed of Prototyping in the Age of AI",
+        "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+        "summary": "HN Score: 154. Comments: 77"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Making sense of the debate over AI psychosis",
+        "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+        "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] SoftBank says it will invest up to \u20ac75 billion to build French data centers",
+      "url": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+      "summary": "The goal, the firm said, is to develop and operate up to 5 gigawatts of additional data center capacity."
+    },
+    {
+      "title": "[RSS] Meta is reportedly developing an AI pendant",
+      "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "summary": "Meta seems to be making big bets on AI-powered hardware."
+    },
+    {
+      "title": "[RSS] Erin Brockovich takes aim at data center secrecy",
+      "url": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+      "summary": "Environmental activist Erin Brockovich has a new mission."
+    },
+    {
+      "title": "[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs",
+      "url": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+    },
+    {
+      "title": "[HackerNews] ChatGPT for Google Sheets exfiltrates workbooks",
+      "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+      "summary": "HN Score: 190. Comments: 53"
+    },
+    {
+      "title": "[HackerNews] 1-Bit Bonsai Image 4B Image Generation for Local Devices",
+      "url": "https://prismml.com/news/bonsai-image-4b",
+      "summary": "HN Score: 368. Comments: 133"
+    },
+    {
+      "title": "[HackerNews] The Speed of Prototyping in the Age of AI",
+      "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+      "summary": "HN Score: 154. Comments: 77"
+    },
+    {
+      "title": "[RSS] Making sense of the debate over AI psychosis",
+      "url": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+      "summary": "On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone to AI psychosis.\""
+    }
+  ],
+  "final_report": "# AI Pulse: Infrastructure Bets, Developer Friction, and the Human-AI Frontier\n\nToday's AI intelligence report reveals a landscape of ambitious infrastructure investments and innovative hardware, juxtaposed with growing pains for developers and critical discussions around AI's societal impact. From multi-billion-euro data center commitments to debates on \"AI psychosis,\" the industry is navigating both rapid expansion and complex challenges.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[SoftBank says it will invest up to \u20ac75 billion to build French data centers](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/)**\nSoftBank's staggering \u20ac75 billion commitment to develop 5 gigawatts of data center capacity in France is a monumental bet on the future of AI infrastructure. This move underscores the escalating global demand for compute power and positions France as a strategic hub in the AI race, signaling a long-term vision for powering the next generation of AI innovation. Business leaders should note the intensifying competition for compute resources and the strategic importance of securing robust data center capabilities.\n\n### **[Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/)**\nMeta's rumored development of an AI pendant signifies a strategic pivot towards embedding AI directly into daily life through wearable technology, moving beyond its current focus on VR/AR. This initiative suggests a play for ubiquitous AI interaction and a new frontier for data collection and platform dominance. Executives should watch how this hardware push could redefine user interfaces and create new ecosystems for AI-powered services.\n\n### **[Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/)**\nEnvironmental activist Erin Brockovich's new mission targeting data center secrecy highlights a growing strategic risk for companies investing heavily in AI infrastructure. As data centers proliferate, concerns around energy consumption, water usage, and environmental impact are escalating. Business leaders must prioritize transparency, sustainability, and community engagement to mitigate regulatory challenges and reputational damage in this critical sector.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[\u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/)**\nGitHub Copilot's shift to token-based billing is causing significant friction among developers, impacting cost predictability and potentially altering usage patterns for this popular AI coding assistant. Engineers need to re-evaluate their Copilot ROI, optimize their usage, and potentially explore alternative AI-powered development tools or strategies to manage costs effectively. This change signals a maturing market where AI tool providers are seeking more sustainable revenue models.\n\n### **[ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration)**\nA critical security vulnerability has been identified where a \"ChatGPT for Google Sheets\" add-on can exfiltrate entire workbooks, posing a significant data security risk. Developers and practitioners must exercise extreme caution when integrating third-party AI tools, especially those requiring broad data access permissions. Prioritizing robust security audits, validating tool permissions, and educating users on potential vulnerabilities are paramount to prevent sensitive data breaches.\n\n### **[1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b)**\nThe introduction of 1-Bit Bonsai Image 4B offers a promising solution for efficient, local image generation on personal devices. This development is crucial for enabling privacy-preserving and low-latency AI applications without reliance on cloud infrastructure. Developers should watch this space for opportunities to integrate such lightweight, on-device models into edge computing, mobile applications, and other scenarios where data privacy and immediate processing are critical.\n\n### **[The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai)**\nThis article highlights how AI is dramatically accelerating the prototyping phase of software development, allowing for rapid iteration and concept validation. Developers can leverage AI tools to quickly generate code, test ideas, and explore design possibilities, significantly reducing time-to-market. While embracing this speed, practitioners should also be mindful of maintaining code quality and avoiding \"AI-driven technical debt\" through careful review and architectural planning.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Making sense of the debate over AI psychosis](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/)**\nThe ongoing debate over \"AI psychosis\" delves into the profound psychological and cognitive implications of deep human-AI interaction, particularly among tech leaders. Researchers are exploring whether intense engagement with AI can lead to cognitive biases, altered perceptions, or even delusional thinking. This frontier demands interdisciplinary research into the long-term effects of AI on human cognition, decision-making, and mental well-being, moving beyond technical capabilities to understand the human element.\n\n---\n**Today's Signal:** The AI ecosystem is rapidly expanding its physical footprint and hardware reach, yet faces increasing scrutiny over developer costs, data security, and the complex psychological impacts of its pervasive integration.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Google grabbed many of the generative AI headlines over the past few weeks, with... |\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May 2026: major model launches... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | We have AI image editors that could potentially replace Photoshop. Tons of updat... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[RSS] Erin Brockovich takes aim at data center secrecy](https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/) | Environmental activist Erin Brockovich has a new mission. |\n| [Making sense of the debate over AI psychosis ](https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/) | On the latest episode of Equity, we debate whether tech CEOs are \"uniquely prone... |\n| [SoftBank says it will invest up to \u20ac75 billion to build French data centers ](https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/) | The goal, the firm said, is to develop and operate up to 5 gigawatts of addition... |\n| [[RSS] \u2018What a joke\u2019: Github Copilot\u2019s new token-based billing spurs consternation among devs](https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/) | The golden age of Microsoft's Github Copilot appears to be at an end. |\n| [[RSS] Meta is reportedly developing an AI pendant](https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/) | Meta seems to be making big bets on AI-powered hardware. |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extr... |\n| [openbmb/MiniCPM5-1B ](https://huggingface.co/openbmb/MiniCPM5-1B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, mini... |\n| [LiquidAI/LFM2.5-8B-A1B ](https://huggingface.co/LiquidAI/LFM2.5-8B-A1B) | Trending HF Model. Tags: transformers, safetensors, lfm2_moe, text-generation, l... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas](https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/) | HN Score: 18. Comments: 3 |\n| [[HackerNews] ChatGPT for Google Sheets exfiltrates workbooks](https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration) | HN Score: 190. Comments: 53 |\n| [[HackerNews] 1-Bit Bonsai Image 4B Image Generation for Local Devices](https://prismml.com/news/bonsai-image-4b) | HN Score: 368. Comments: 133 |\n| [[HackerNews] United Airlines 767 returns to Newark after Bluetooth name sparks alert](https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/) | HN Score: 334. Comments: 613 |\n| [[HackerNews] The Speed of Prototyping in the Age of AI](https://darylcecile.net/notes/speed-of-prototyping-age-of-ai) | HN Score: 154. Comments: 77 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=aJvP3nXWkwM) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
