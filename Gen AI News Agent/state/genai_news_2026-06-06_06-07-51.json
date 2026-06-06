@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. Launches ChatGPT for Clinicians and HealthBench \u30fb from just 8.8% in 2025. Gemma 4, Its Most",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Startup Battlefield 200 applications officially close in 3 days",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+      "url": "http://arxiv.org/abs/2606.06494v1",
+      "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions",
+      "url": "http://arxiv.org/abs/2602.05843v2",
+      "summary": "The rapid advancement of Large Language Models (LLMs) has catalyzed the development of autonomous agents capable of navigating complex environments. However, existing evaluations primarily adopt a ded...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+      "url": "http://arxiv.org/abs/2606.06493v1",
+      "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "http://arxiv.org/abs/2606.06492v1",
+      "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "url": "http://arxiv.org/abs/2606.06491v1",
+      "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Regret Minimization with Adaptive Opponents in Repeated Games",
+      "url": "http://arxiv.org/abs/2606.06486v1",
+      "summary": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows",
+      "url": "http://arxiv.org/abs/2605.12376v2",
+      "summary": "Table processing-including cleaning, transformation, augmentation, and matching-is a foundational yet error-prone stage in real-world data pipelines. While recent LLM-based approaches show promise for...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+      "url": "http://arxiv.org/abs/2606.06481v1",
+      "summary": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "url": "http://arxiv.org/abs/2606.06480v1",
+      "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pretraining Recurrent Networks without Recurrence",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 101823",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 142851",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 296410",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "summary": "HN Score: 56. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "summary": "HN Score: 134. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "summary": "HN Score: 128. Comments: 40",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "HN Score: 91. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "summary": "HN Score: 376. Comments: 243",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. Launches ChatGPT for Clinicians and HealthBench \u30fb from just 8.8% in 2025. Gemma 4, Its Most",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Startup Battlefield 200 applications officially close in 3 days",
+      "url": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The most interesting startups right now want to get you off your phone",
+      "url": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "summary": "While the AI fundraising machine&#160;keeps breaking its own records, some founders are building in the other direction.&#160; Mirror founder Brynn Putnam just raised money for&#160;Board, a startup focused on bringing people together through in-person games and social experiences.&#160;Cyberdeck cr",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+      "url": "http://arxiv.org/abs/2606.06494v1",
+      "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions",
+      "url": "http://arxiv.org/abs/2602.05843v2",
+      "summary": "The rapid advancement of Large Language Models (LLMs) has catalyzed the development of autonomous agents capable of navigating complex environments. However, existing evaluations primarily adopt a ded...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+      "url": "http://arxiv.org/abs/2606.06493v1",
+      "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "http://arxiv.org/abs/2606.06492v1",
+      "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "url": "http://arxiv.org/abs/2606.06491v1",
+      "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Regret Minimization with Adaptive Opponents in Repeated Games",
+      "url": "http://arxiv.org/abs/2606.06486v1",
+      "summary": "In this paper, we study regret minimization in repeated games with \\emph{adaptive} opponents who can respond based on histories of play. The standard metric of \\emph{external regret} in online learnin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows",
+      "url": "http://arxiv.org/abs/2605.12376v2",
+      "summary": "Table processing-including cleaning, transformation, augmentation, and matching-is a foundational yet error-prone stage in real-world data pipelines. While recent LLM-based approaches show promise for...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection",
+      "url": "http://arxiv.org/abs/2606.06481v1",
+      "summary": "As AI writing assistants become increasingly integrated into real-world drafting and revision workflows, many documents are no longer purely human-written or AI-generated, but instead result from prog...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DNQ: Deep Nash Q-Network for Partially Observable n-Player Games",
+      "url": "http://arxiv.org/abs/2606.06480v1",
+      "summary": "Many real-world competitive systems require multiple decision-makers to act simultaneously under shared constraints, limited information, and repeated interaction, as in auctions, resource allocation,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pretraining Recurrent Networks without Recurrence",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extraction, nvidia, eagle. Downloads: 101823",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 142851",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 296410",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The back cover of C++: The Language raises questions not answered by front cover",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+      "summary": "HN Score: 56. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "summary": "HN Score: 134. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+      "summary": "HN Score: 128. Comments: 40",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "HN Score: 91. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "summary": "HN Score: 376. Comments: 243",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Google will pay SpaceX $920M per month for compute",
+        "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+        "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products. "
+      },
+      {
+        "title": "[HackerNews] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+        "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+        "summary": "HN Score: 91. Comments: 14"
+      },
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "Here are the latest AI breakthroughs and news. Launches ChatGPT for Clinicians and HealthBench \u30fb from just 8.8% in 2025. Gemma 4, Its Most"
+      },
+      {
+        "title": "[RSS] How Endava is redesigning software delivery around AI agents",
+        "url": "https://openai.com/index/endava-frontiers",
+        "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
+      },
+      {
+        "title": "[RSS] Dreaming: Better memory for a more helpful ChatGPT",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming",
+        "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] google/gemma-4-12B-it",
+        "url": "https://huggingface.co/google/gemma-4-12B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 142851"
+      },
+      {
+        "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+        "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 296410"
+      },
+      {
+        "title": "[HackerNews] How LLMs work",
+        "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+        "summary": "HN Score: 134. Comments: 27"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+        "url": "http://arxiv.org/abs/2606.06493v1",
+        "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica..."
+      },
+      {
+        "title": "[ArXiv] TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+        "url": "http://arxiv.org/abs/2606.06491v1",
+        "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL..."
+      },
+      {
+        "title": "[ArXiv] Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+        "url": "http://arxiv.org/abs/2606.06492v1",
+        "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi..."
+      },
+      {
+        "title": "[ArXiv] TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+        "url": "http://arxiv.org/abs/2606.06494v1",
+        "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..."
+      },
+      {
+        "title": "[ArXiv] Pretraining Recurrent Networks without Recurrence",
+        "url": "http://arxiv.org/abs/2606.06479v1",
+        "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Google will pay SpaceX $920M per month for compute",
+      "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "summary": "In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products. "
+    },
+    {
+      "title": "[HackerNews] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+      "summary": "HN Score: 91. Comments: 14"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. Launches ChatGPT for Clinicians and HealthBench \u30fb from just 8.8% in 2025. Gemma 4, Its Most"
+    },
+    {
+      "title": "[RSS] How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
+    },
+    {
+      "title": "[RSS] Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 142851"
+    },
+    {
+      "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 296410"
+    },
+    {
+      "title": "[HackerNews] How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "summary": "HN Score: 134. Comments: 27"
+    },
+    {
+      "title": "[ArXiv] HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
+      "url": "http://arxiv.org/abs/2606.06493v1",
+      "summary": "For a humanoid robot to be deployed in the real world, the choice of command space (i.e., the interface between task planning and whole-body control) is crucial. Existing whole-body controllers typica..."
+    },
+    {
+      "title": "[ArXiv] TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies",
+      "url": "http://arxiv.org/abs/2606.06491v1",
+      "summary": "Robot manipulation alternates between low-risk transit phases that call for fast execution and high-risk contact stages that demand slow, precise motion. Yet existing Vision-Language-Action models (VL..."
+    },
+    {
+      "title": "[ArXiv] Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "url": "http://arxiv.org/abs/2606.06492v1",
+      "summary": "Code language models need repository-level context to resolve imports, APIs, and project conventions. Existing methods inject this knowledge as long inputs (retrieved through RAG or dependency analysi..."
+    },
+    {
+      "title": "[ArXiv] TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning",
+      "url": "http://arxiv.org/abs/2606.06494v1",
+      "summary": "Parameter-efficient finetuning methods based on spectral decomposition have enabled progress in Continual Learning. In this paper we introduce TailLoR, which utilizes the singular bases U and V of the..."
+    },
+    {
+      "title": "[ArXiv] Pretraining Recurrent Networks without Recurrence",
+      "url": "http://arxiv.org/abs/2606.06479v1",
+      "summary": "Training recurrent neural networks (RNNs) requires assigning credit across long sequences of computations. Standard backpropagation through time (BPTT) addresses this problem poorly: it is sequential ..."
+    }
+  ],
+  "final_report": "# AI's Compute Hunger Fuels Mega-Deals, While Innovation Pushes Robotics and Model Efficiency\n\nToday's intelligence report highlights the escalating demand for AI compute, exemplified by a landmark Google-SpaceX deal, even as traditional markets remain cautious about high-growth AI ventures. Meanwhile, developers gain access to advanced, efficient models, and researchers push the frontiers of robotics and fundamental AI training.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Google will pay SpaceX $920M per month for compute](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/)**\nThis colossal deal underscores the insatiable demand for computational power driven by the rapid expansion of AI products. For business leaders, it signals a critical strategic imperative: securing robust, scalable compute infrastructure is paramount for competitive advantage in the AI era, potentially reshaping the cloud and satellite internet landscapes.\n\n### **[S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)**\nThe S&P 500's decision highlights a fascinating tension between the explosive growth and market excitement surrounding AI innovators and the traditional financial metrics of profitability. This move suggests that while AI companies are driving immense technological shifts, investors should be mindful of the long-term financial viability and maturity required by established indices.\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nThe launch of \"ChatGPT for Clinicians\" and \"HealthBench\" signifies AI's continued deep penetration into specialized, high-stakes sectors like healthcare. This trend indicates a strategic shift towards vertical-specific AI applications, offering tailored solutions that promise significant efficiency gains and improved outcomes in critical industries.\n\n### **[How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers)**\nEndava's proactive adoption of AI agents and ChatGPT Enterprise for software delivery illustrates a forward-thinking approach to enterprise transformation. This strategic move towards an \"AI-native culture\" demonstrates how companies are leveraging AI to automate workflows, accelerate development cycles, and gain a significant operational edge.\n\n### **[Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming)**\nThe introduction of a new memory system for ChatGPT is a significant enhancement for user experience and personalization. Strategically, improved memory makes AI assistants more contextually aware and sticky, increasing their utility across diverse business applications and fostering deeper user engagement.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[google/gemma-4-12B-it](https://huggingface.co/google/gemma-4-12B-it)**\nGoogle's release of Gemma 4-12B-it as a trending model on HuggingFace provides developers with a powerful, instruction-tuned LLM for various applications. This model is a key resource for practitioners looking to integrate state-of-the-art language capabilities into their projects, offering a balance of performance and accessibility.\n\n### **[unsloth/gemma-4-12b-it-GGUF](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF)**\nThe rapid availability of a GGUF-quantized version of Gemma 4-12B-it by Unsloth is excellent news for developers focused on efficiency and local deployment. This optimized model allows for running powerful LLMs on consumer-grade hardware, making advanced AI more accessible for edge computing and resource-constrained environments.\n\n### **[How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)**\nFor engineers and developers, a deep understanding of the underlying mechanisms of LLMs is crucial for effective implementation and troubleshooting. This resource offers valuable insights into the core principles of LLMs, empowering practitioners to build more robust, efficient, and innovative AI-powered solutions.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers](http://arxiv.org/abs/2606.06493v1)**\nThis research explores advanced whole-body control for humanoid robots, a critical step towards deploying them in complex real-world environments. The concept of \"distilled complementary teachers\" offers a novel approach to managing the intricate interface between task planning and physical execution, pushing the boundaries of robotic autonomy.\n\n### **[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies](http://arxiv.org/abs/2606.06491v1)**\nTempoVLA addresses a fundamental challenge in robot manipulation: dynamically adjusting execution speed based on task risk. By enabling Vision-Language-Action models to learn speed-controllable policies, this work promises safer and more efficient robot interactions, particularly in scenarios requiring both rapid transit and precise contact.\n\n### **[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution](http://arxiv.org/abs/2606.06492v1)**\nCode2LoRA presents an innovative solution for adapting code language models to evolving software projects by generating repository-level context through hypernetworks. This research is vital for improving the practical utility of LLMs in software development, allowing them to maintain relevance and accuracy as codebases change.\n\n### **[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning](http://arxiv.org/abs/2606.06494v1)**\nTailLoR introduces a new method for parameter-efficient continual learning, focusing on preserving critical information (principal components) during model updates. This work is significant for developing AI systems that can learn continuously from new data without suffering from catastrophic forgetting, enhancing their long-term adaptability and performance.\n\n### **[Pretraining Recurrent Networks without Recurrence](http://arxiv.org/abs/2606.06479v1)**\nThis paper challenges conventional wisdom by proposing a method to pretrain recurrent neural networks without relying on traditional recurrence. Such a breakthrough could revolutionize the training of sequential models, potentially leading to more stable, efficient, and scalable RNN architectures by circumventing the limitations of backpropagation through time.\n\n---\n**Today's Signal:** The AI landscape is characterized by escalating compute demands driving unprecedented infrastructure investments, rapid model iteration for practical applications, and foundational research pushing the boundaries of robotics and neural network efficiency.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Here are the latest AI breakthroughs and news. Launches ChatGPT for Clinicians a... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | ... ai, latest ai news, generative ai advancements, ai studio features, latest a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How Endava is redesigning software delivery around AI agents ](https://openai.com/index/endava-frontiers) | Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate... |\n| [Dreaming: Better memory for a more helpful ChatGPT ](https://openai.com/index/chatgpt-memory-dreaming) | ChatGPT introduces a new memory system to better remember preferences, keeping c... |\n| [Startup Battlefield 200 applications officially close in 3 days ](https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/) | Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. ... |\n| [Google will pay SpaceX $920M per month for compute ](https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/) | In a statement, a Google representative described the deal as a result of unexpe... |\n| [The most interesting startups right now want to get you off your phone ](https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/) | While the AI fundraising machine&#160;keeps breaking its own records, some found... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning ](http://arxiv.org/abs/2606.06494v1) | Parameter-efficient finetuning methods based on spectral decomposition have enab... |\n| [OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions ](http://arxiv.org/abs/2602.05843v2) | The rapid advancement of Large Language Models (LLMs) has catalyzed the developm... |\n| [HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers ](http://arxiv.org/abs/2606.06493v1) | For a humanoid robot to be deployed in the real world, the choice of command spa... |\n| [Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution ](http://arxiv.org/abs/2606.06492v1) | Code language models need repository-level context to resolve imports, APIs, and... |\n| [TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies ](http://arxiv.org/abs/2606.06491v1) | Robot manipulation alternates between low-risk transit phases that call for fast... |\n| [Regret Minimization with Adaptive Opponents in Repeated Games ](http://arxiv.org/abs/2606.06486v1) | In this paper, we study regret minimization in repeated games with \\emph{adaptiv... |\n| [ProfiliTable: Profiling-Driven Tabular Data Processing via Agentic Workflows ](http://arxiv.org/abs/2605.12376v2) | Table processing-including cleaning, transformation, augmentation, and matching-... |\n| [Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection ](http://arxiv.org/abs/2606.06481v1) | As AI writing assistants become increasingly integrated into real-world drafting... |\n| [DNQ: Deep Nash Q-Network for Partially Observable n-Player Games ](http://arxiv.org/abs/2606.06480v1) | Many real-world competitive systems require multiple decision-makers to act simu... |\n| [Pretraining Recurrent Networks without Recurrence ](http://arxiv.org/abs/2606.06479v1) | Training recurrent neural networks (RNNs) requires assigning credit across long ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, feature-extr... |\n| [google/gemma-4-12B-it ](https://huggingface.co/google/gemma-4-12B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-t... |\n| [unsloth/gemma-4-12b-it-GGUF ](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) | Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. D... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The back cover of C++: The Language raises questions not answered by front cover](https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391) | HN Score: 56. Comments: 8 |\n| [[HackerNews] How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/) | HN Score: 134. Comments: 27 |\n| [[HackerNews] The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html) | HN Score: 128. Comments: 40 |\n| [[HackerNews] S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) | HN Score: 91. Comments: 14 |\n| [[HackerNews] Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt) | HN Score: 376. Comments: 243 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=aJvP3nXWkwM) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
