@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+      "url": "http://arxiv.org/abs/2606.11190v1",
+      "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+      "url": "http://arxiv.org/abs/2606.11189v1",
+      "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "url": "http://arxiv.org/abs/2606.09809v2",
+      "summary": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "url": "http://arxiv.org/abs/2606.11182v1",
+      "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "url": "http://arxiv.org/abs/2606.11176v1",
+      "summary": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Role of Feedback Alignment in Self-Distillation",
+      "url": "http://arxiv.org/abs/2606.11173v1",
+      "summary": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+      "url": "http://arxiv.org/abs/2606.11172v1",
+      "summary": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Algorithmic and Minimax Complexities in Kernel Bandits",
+      "url": "http://arxiv.org/abs/2606.11171v1",
+      "summary": "Gaussian-process upper confidence bound (GP-UCB) and decision-estimation-coefficient (DEC) methods may appear, at first sight, to belong to different theories. This paper places the two viewpoints in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions",
+      "url": "http://arxiv.org/abs/2512.11995v2",
+      "summary": "While many vision-language models (VLMs) are developed to answer well-defined, straightforward questions with highly specified targets, as in most benchmarks, they often struggle in practice with comp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Piper: A Programmable Distributed Training System",
+      "url": "http://arxiv.org/abs/2606.11169v1",
+      "summary": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 581354",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 123922",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 660140",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "summary": "HN Score: 567. Comments: 208",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "HN Score: 2061. Comments: 1585",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "summary": "HN Score: 81. Comments: 44",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "summary": "HN Score: 336. Comments: 207",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "summary": "HN Score: 207. Comments: 29",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+      "url": "http://arxiv.org/abs/2606.11190v1",
+      "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+      "url": "http://arxiv.org/abs/2606.11189v1",
+      "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "url": "http://arxiv.org/abs/2606.09809v2",
+      "summary": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "url": "http://arxiv.org/abs/2606.11182v1",
+      "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "url": "http://arxiv.org/abs/2606.11176v1",
+      "summary": "Data tells stories that shape society; the data journalist's job is to turn raw information into stories non-experts can trust. A high-quality news feature takes a newsroom team weeks: hunting for con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Role of Feedback Alignment in Self-Distillation",
+      "url": "http://arxiv.org/abs/2606.11173v1",
+      "summary": "Conditioning a language model on additional context, such as feedback on a previous attempt, typically improves its response. Self-distillation trains the model to retain this improvement when the con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+      "url": "http://arxiv.org/abs/2606.11172v1",
+      "summary": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Algorithmic and Minimax Complexities in Kernel Bandits",
+      "url": "http://arxiv.org/abs/2606.11171v1",
+      "summary": "Gaussian-process upper confidence bound (GP-UCB) and decision-estimation-coefficient (DEC) methods may appear, at first sight, to belong to different theories. This paper places the two viewpoints in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions",
+      "url": "http://arxiv.org/abs/2512.11995v2",
+      "summary": "While many vision-language models (VLMs) are developed to answer well-defined, straightforward questions with highly specified targets, as in most benchmarks, they often struggle in practice with comp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Piper: A Programmable Distributed Training System",
+      "url": "http://arxiv.org/abs/2606.11169v1",
+      "summary": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/gemma-4-12B-it",
+      "url": "https://huggingface.co/google/gemma-4-12B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-to-text, any-to-any, base_model:google/gemma-4-12B. Downloads: 581354",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 123922",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/gemma-4-12b-it-GGUF",
+      "url": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. Downloads: 660140",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "summary": "HN Score: 567. Comments: 208",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "HN Score: 2061. Comments: 1585",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rich Sutton on AI creativity and discovery",
+      "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+      "summary": "HN Score: 81. Comments: 44",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "summary": "HN Score: 336. Comments: 207",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "summary": "HN Score: 207. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=aJvP3nXWkwM",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Confidential submission of draft S-1 to the SEC",
+        "url": "https://openai.com/index/openai-submits-confidential-s-1",
+        "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
+      },
+      {
+        "title": "[HackerNews] Claude Fable 5",
+        "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+        "summary": "HN Score: 2061. Comments: 1585"
+      },
+      {
+        "title": "[RSS] Google just fired a warning shot in the AI subscription price wars",
+        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+        "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. "
+      },
+      {
+        "title": "[HackerNews] German ruling declares Google liable for false answers in AI Overviews",
+        "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+        "summary": "HN Score: 336. Comments: 207"
+      },
+      {
+        "title": "[RSS] Industrial policy for the Intelligence Age",
+        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+        "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Piper: A Programmable Distributed Training System",
+        "url": "http://arxiv.org/abs/2606.11169v1",
+        "summary": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy..."
+      },
+      {
+        "title": "[HackerNews] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+        "url": "https://aarushgupta.io/posts/kan-fpga/",
+        "summary": "HN Score: 207. Comments: 29"
+      },
+      {
+        "title": "[RSS] How engineers at Nextdoor use Codex to build without limits",
+        "url": "https://openai.com/index/nextdoor",
+        "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+      },
+      {
+        "title": "[RSS] What Codex unlocks for Notion",
+        "url": "https://openai.com/index/notion",
+        "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+        "url": "http://arxiv.org/abs/2606.11190v1",
+        "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ..."
+      },
+      {
+        "title": "[ArXiv] A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+        "url": "http://arxiv.org/abs/2606.11189v1",
+        "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St..."
+      },
+      {
+        "title": "[ArXiv] Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+        "url": "http://arxiv.org/abs/2606.09809v2",
+        "summary": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare..."
+      },
+      {
+        "title": "[ArXiv] EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+        "url": "http://arxiv.org/abs/2606.11182v1",
+        "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg..."
+      },
+      {
+        "title": "[ArXiv] Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+        "url": "http://arxiv.org/abs/2606.11172v1",
+        "summary": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
+    },
+    {
+      "title": "[HackerNews] Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "summary": "HN Score: 2061. Comments: 1585"
+    },
+    {
+      "title": "[RSS] Google just fired a warning shot in the AI subscription price wars",
+      "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+      "summary": "Google just made it significantly cheaper to enjoy its budget AI subscription tier. "
+    },
+    {
+      "title": "[HackerNews] German ruling declares Google liable for false answers in AI Overviews",
+      "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+      "summary": "HN Score: 336. Comments: 207"
+    },
+    {
+      "title": "[RSS] Industrial policy for the Intelligence Age",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+      "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
+    },
+    {
+      "title": "[ArXiv] Piper: A Programmable Distributed Training System",
+      "url": "http://arxiv.org/abs/2606.11169v1",
+      "summary": "Large-scale model training increasingly relies on composing multiple parallelism strategies, such as data, pipeline, and expert parallelism, together with memory-saving optimizations like ZeRO. Deploy..."
+    },
+    {
+      "title": "[HackerNews] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+      "url": "https://aarushgupta.io/posts/kan-fpga/",
+      "summary": "HN Score: 207. Comments: 29"
+    },
+    {
+      "title": "[RSS] How engineers at Nextdoor use Codex to build without limits",
+      "url": "https://openai.com/index/nextdoor",
+      "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+    },
+    {
+      "title": "[RSS] What Codex unlocks for Notion",
+      "url": "https://openai.com/index/notion",
+      "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+    },
+    {
+      "title": "[ArXiv] When to Align, When to Predict: A Phase Diagram for Multimodal Learning",
+      "url": "http://arxiv.org/abs/2606.11190v1",
+      "summary": "Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant paradigms for multimodal representation learning, yet there is no systematic understanding of when each succeeds, when each ..."
+    },
+    {
+      "title": "[ArXiv] A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design",
+      "url": "http://arxiv.org/abs/2606.11189v1",
+      "summary": "Supervised fine-tuning (SFT) typically maximizes the likelihood of every token in a demonstrated trajectory. However, an observed token can be non-unique, noisy, or misaligned with the model prior. St..."
+    },
+    {
+      "title": "[ArXiv] Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting",
+      "url": "http://arxiv.org/abs/2606.09809v2",
+      "summary": "AI evaluation results are produced at scale but reported inconsistently across leaderboards, model cards, benchmark papers, and company blogs. The cost is interpretive: readers cannot reliably compare..."
+    },
+    {
+      "title": "[ArXiv] EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents",
+      "url": "http://arxiv.org/abs/2606.11182v1",
+      "summary": "In this paper, we propose EEVEE, the first multi-dataset test-time prompt learning framework for LLM agents, enabling test-time prompt learning under real-world task streams. Existing methods are larg..."
+    },
+    {
+      "title": "[ArXiv] Predicting Future Behaviors in Reasoning Models Enables Better Steering",
+      "url": "http://arxiv.org/abs/2606.11172v1",
+      "summary": "Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time steering controls LRM outputs by intervening on their hidden representations, but it can degrade output quality. We argue th..."
+    }
+  ],
+  "final_report": "# AI's Commercial Ascent: IPO Buzz, Price Wars, and the Race for Next-Gen Models\n\nToday's intelligence report highlights the accelerating commercialization of AI, with major players making strategic moves from potential IPOs to aggressive pricing adjustments. Simultaneously, the technical frontier continues to expand, pushing the boundaries of model training, deployment, and responsible AI development.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1)**\nOpenAI's confidential S-1 submission signals a significant milestone, potentially paving the way for one of the most anticipated tech IPOs in recent memory. This move underscores the company's rapid growth and the broader market's readiness to invest in leading AI innovators, setting a new benchmark for valuation in the sector.\n\n### **[Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)**\nAnthropic's release of Claude Fable 5 intensifies the competitive landscape among foundational model providers, directly challenging offerings from OpenAI and Google. This continuous innovation drives the \"AI arms race,\" forcing businesses to constantly evaluate the best-in-class models for their strategic applications and potentially accelerating the pace of AI adoption across industries.\n\n### **[Google just fired a warning shot in the AI subscription price wars](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/)**\nGoogle's move to significantly cut prices on its budget AI subscription tier marks a critical escalation in the AI price wars, signaling a strategic play for market share and broader accessibility. This aggressive pricing pressure could force competitors to re-evaluate their own models, potentially leading to a commoditization of basic AI services and shifting focus towards differentiated, value-added offerings.\n\n### **[German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/)**\nA landmark German ruling holding Google liable for false answers in its AI Overviews sets a crucial legal precedent for AI providers globally. This decision underscores the growing regulatory scrutiny on AI accuracy and accountability, compelling businesses to prioritize robust fact-checking and transparency in their AI deployments to mitigate significant legal and reputational risks.\n\n### **[Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age)**\nOpenAI's proposed \"industrial policy for the Intelligence Age\" outlines a proactive vision for shaping the societal and economic impact of advanced AI, focusing on opportunity, prosperity, and resilient institutions. This initiative highlights the increasing recognition among AI leaders that technological advancement must be coupled with thoughtful policy frameworks to ensure equitable growth and manage the profound societal shifts AI will bring.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Piper: A Programmable Distributed Training System](http://arxiv.org/abs/2606.11169v1)**\nPiper introduces a programmable distributed training system designed to simplify the complex orchestration of multiple parallelism strategies (data, pipeline, expert) and memory optimizations for large-scale model training. Developers should watch Piper for its potential to streamline the development and deployment of increasingly massive AI models, offering a more efficient path to leveraging advanced architectures.\n\n### **[Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)**\nThis research explores ultrafast machine learning on FPGAs using Kolmogorov-Arnold Networks (KANs), presenting a promising avenue for high-performance, energy-efficient AI inference and training at the edge. Engineers should pay attention to KANs and FPGA acceleration as a potential game-changer for applications requiring low-latency, specialized hardware, moving beyond traditional GPU-centric approaches.\n\n### **[How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor)**\nNextdoor is showcasing practical applications of OpenAI's Codex (likely referring to advanced code generation models like GPT-5.5 for code), demonstrating significant productivity gains for engineers. This case study highlights how AI can accelerate debugging and cross-platform development, empowering small teams to achieve outsized product outcomes.\n\n### **[What Codex unlocks for Notion](https://openai.com/index/notion)**\nNotion's use of Codex further illustrates the power of AI-powered coding assistants, enabling one-shot specification generation and the rapid development of features like AI Voice Input for the web. Developers should explore how similar tools can be integrated into their workflows to multiply engineering power and focus on core product innovation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[When to Align, When to Predict: A Phase Diagram for Multimodal Learning](http://arxiv.org/abs/2606.11190v1)**\nThis paper delves into the fundamental question of when cross-modal alignment (CA) versus cross-modal prediction (CP) is more effective for multimodal representation learning. Researchers will find this systematic understanding crucial for designing more robust and efficient multimodal AI systems, offering a \"phase diagram\" to guide architectural choices based on specific data and task characteristics.\n\n### **[A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design](http://arxiv.org/abs/2606.11189v1)**\nThis research proposes a unifying lens on Supervised Fine-Tuning (SFT) by focusing on target distribution design, addressing issues like noisy or non-unique tokens in training data. Academics and practitioners alike will find this work valuable for developing more effective SFT strategies, potentially leading to models that are better aligned with desired behaviors and less susceptible to training data imperfections.\n\n### **[Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting](http://arxiv.org/abs/2606.09809v2)**\n\"Evaluation Cards\" propose a standardized, interpretive layer for reporting AI evaluation results, aiming to bring consistency to the currently fragmented landscape of benchmarks and model cards. This initiative is critical for researchers seeking to reliably compare and understand AI model performance, fostering greater transparency and reproducibility across the field.\n\n### **[EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents](http://arxiv.org/abs/2606.11182v1)**\nEEVEE introduces a novel multi-dataset test-time prompt learning framework for LLM agents, enabling self-improvement in real-world, dynamic task streams. This work pushes the frontier of adaptive AI, offering a significant step towards agents that can continuously learn and refine their behavior in deployment, a key challenge for robust, long-lived AI systems.\n\n### **[Predicting Future Behaviors in Reasoning Models Enables Better Steering](http://arxiv.org/abs/2606.11172v1)**\nThis paper explores predicting future behaviors in large reasoning models to enable better steering, addressing the challenge of unexpected model outputs while preserving quality. Researchers focused on AI safety and interpretability will find this approach valuable for developing more controllable and predictable advanced AI systems, moving towards more reliable human-AI collaboration.\n\n---\n\n**Today's Signal:** The AI ecosystem is rapidly maturing, marked by intense commercial competition and strategic policy discussions, while fundamental research continues to push the boundaries of model capabilities and responsible deployment.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | ... ai, latest ai news, generative ai advancements, ai studio features, latest a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How engineers at Nextdoor use Codex to build without limits ](https://openai.com/index/nextdoor) | How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduc... |\n| [What Codex unlocks for Notion ](https://openai.com/index/notion) | How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and m... |\n| [Industrial policy for the Intelligence Age ](https://openai.com/index/industrial-policy-for-the-intelligence-age) | Explore our ambitious, people-first industrial policy ideas for the AI era\u2014focus... |\n| [Confidential submission of draft S-1 to the SEC ](https://openai.com/index/openai-submits-confidential-s-1) | OpenAI confirms a confidential S-1 submission to the SEC and has not yet determi... |\n| [Google just fired a warning shot in the AI subscription price wars ](https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/) | Google just made it significantly cheaper to enjoy its budget AI subscription ti... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [When to Align, When to Predict: A Phase Diagram for Multimodal Learning ](http://arxiv.org/abs/2606.11190v1) | Cross-modal alignment (CA) and cross-modal prediction (CP) are the dominant para... |\n| [A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design ](http://arxiv.org/abs/2606.11189v1) | Supervised fine-tuning (SFT) typically maximizes the likelihood of every token i... |\n| [Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting ](http://arxiv.org/abs/2606.09809v2) | AI evaluation results are produced at scale but reported inconsistently across l... |\n| [EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents ](http://arxiv.org/abs/2606.11182v1) | In this paper, we propose EEVEE, the first multi-dataset test-time prompt learni... |\n| [Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories ](http://arxiv.org/abs/2606.11176v1) | Data tells stories that shape society; the data journalist's job is to turn raw ... |\n| [The Role of Feedback Alignment in Self-Distillation ](http://arxiv.org/abs/2606.11173v1) | Conditioning a language model on additional context, such as feedback on a previ... |\n| [Predicting Future Behaviors in Reasoning Models Enables Better Steering ](http://arxiv.org/abs/2606.11172v1) | Deployed large reasoning models (LRMs) often behave unexpectedly. Test-time stee... |\n| [Algorithmic and Minimax Complexities in Kernel Bandits ](http://arxiv.org/abs/2606.11171v1) | Gaussian-process upper confidence bound (GP-UCB) and decision-estimation-coeffic... |\n| [V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions ](http://arxiv.org/abs/2512.11995v2) | While many vision-language models (VLMs) are developed to answer well-defined, s... |\n| [Piper: A Programmable Distributed Training System ](http://arxiv.org/abs/2606.11169v1) | Large-scale model training increasingly relies on composing multiple parallelism... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/gemma-4-12B-it ](https://huggingface.co/google/gemma-4-12B-it) | Trending HF Model. Tags: transformers, safetensors, gemma4_unified, image-text-t... |\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, image-featur... |\n| [unsloth/gemma-4-12b-it-GGUF ](https://huggingface.co/unsloth/gemma-4-12b-it-GGUF) | Trending HF Model. Tags: gguf, gemma4, unsloth, gemma, google, gemma4_unified. D... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md) | HN Score: 567. Comments: 208 |\n| [[HackerNews] Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) | HN Score: 2061. Comments: 1585 |\n| [[HackerNews] Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656) | HN Score: 81. Comments: 44 |\n| [[HackerNews] German ruling declares Google liable for false answers in AI Overviews](https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/) | HN Score: 336. Comments: 207 |\n| [[HackerNews] Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/) | HN Score: 207. Comments: 29 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=aJvP3nXWkwM) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
