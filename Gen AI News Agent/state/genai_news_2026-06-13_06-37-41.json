@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most | June 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels xAI released Grok 4.20,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Google also contributed major developments to this AI News Update through the launch of Gemini Embedding 2. Embedding models convert information",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "url": "http://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "http://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 20669",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 149206",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 0",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "summary": "HN Score: 12. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "HN Score: 675. Comments: 213",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "summary": "HN Score: 139. Comments: 67",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "summary": "HN Score: 37. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "summary": "HN Score: 184. Comments: 116",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most | June 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels xAI released Grok 4.20,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Google also contributed major developments to this AI News Update through the launch of Gemini Embedding 2. Embedding models convert information",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+      "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wireless \u2014 and thinks the next startup gold rush is giving that money back.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX IPO: Live updates on everything you need to know",
+      "url": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "url": "http://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "http://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 20669",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 149206",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Shepherd's Dog: A Game by the Most Dangerous AI Model",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "summary": "HN Score: 12. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "HN Score: 675. Comments: 213",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Putt.day a daily mini golf game",
+      "url": "https://putt.day/",
+      "summary": "HN Score: 139. Comments: 67",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine",
+      "url": "https://tectonic-typesetting.github.io/en-US/",
+      "summary": "HN Score: 37. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "summary": "HN Score: 184. Comments: 116",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+      },
+      {
+        "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most | June 2026",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels xAI released Grok 4.20,"
+      },
+      {
+        "title": "[HackerNews] Open source AI must win",
+        "url": "https://opensourceaimustwin.com/?share=v2",
+        "summary": "HN Score: 675. Comments: 213"
+      },
+      {
+        "title": "[RSS] New OpenAI Academy courses for the next era of work",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+      },
+      {
+        "title": "[RSS] How Preply combines AI and human tutors to personalize learning",
+        "url": "https://openai.com/index/preply",
+        "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+        "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 20669"
+      },
+      {
+        "title": "[HuggingFace] nvidia/LocateAnything-3B",
+        "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 149206"
+      },
+      {
+        "title": "[HackerNews] Slightly reducing the sloppiness of AI generated front end",
+        "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+        "summary": "HN Score: 184. Comments: 116"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+        "url": "http://arxiv.org/abs/2606.13662v1",
+        "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti..."
+      },
+      {
+        "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+        "url": "http://arxiv.org/abs/2606.13681v1",
+        "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna..."
+      },
+      {
+        "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+        "url": "http://arxiv.org/abs/2606.13680v1",
+        "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..."
+      },
+      {
+        "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+        "url": "http://arxiv.org/abs/2606.13677v1",
+        "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu..."
+      },
+      {
+        "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+        "url": "http://arxiv.org/abs/2606.13673v1",
+        "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic isn't hiding its frustration. \"We disagree that the finding of a narrow potential jailbreak should be cause for recalling a commercial model deployed to hundreds of millions of people,\" the company wrote in a blog post."
+    },
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most | June 2026",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels xAI released Grok 4.20,"
+    },
+    {
+      "title": "[HackerNews] Open source AI must win",
+      "url": "https://opensourceaimustwin.com/?share=v2",
+      "summary": "HN Score: 675. Comments: 213"
+    },
+    {
+      "title": "[RSS] New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    },
+    {
+      "title": "[RSS] How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 20669"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 149206"
+    },
+    {
+      "title": "[HackerNews] Slightly reducing the sloppiness of AI generated front end",
+      "url": "https://envs.net/~volpe/blog/posts/reduce-slop.html",
+      "summary": "HN Score: 184. Comments: 116"
+    },
+    {
+      "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti..."
+    },
+    {
+      "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna..."
+    },
+    {
+      "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..."
+    },
+    {
+      "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu..."
+    },
+    {
+      "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp..."
+    }
+  ],
+  "final_report": "# AI's Double-Edged Sword: Commercial Power Meets Regulatory Scrutiny & Open-Source Push\n\nToday's AI landscape reveals a fascinating dichotomy: while businesses are seeing unprecedented gains from AI adoption, the industry grapples with regulatory pushback and a strong undercurrent for open-source development. Meanwhile, the tools and research continue to advance at a breakneck pace, promising even more sophisticated capabilities.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/)**\nThis development is a significant strategic blow for Anthropic, highlighting the growing tension between AI safety rhetoric and real-world commercial deployment. It sets a potentially precedent-setting example of regulatory intervention, which could impact market access and development strategies for other frontier AI companies. Business leaders must closely watch how this unfolds, as it could signal a new era of government oversight in AI.\n\n### **[Latest AI News and Breakthroughs That Matter Most | June 2026](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nA staggering 393% surge in AI traffic to retail sites, converting 42% better than other channels, provides undeniable evidence of AI's immediate, tangible impact on e-commerce and customer acquisition. This data from Crescendo.ai underscores that businesses not leveraging AI for customer engagement are rapidly falling behind. Concurrently, xAI's release of Grok 4.20 signals continued rapid innovation in the competitive large language model (LLM) space, demanding constant strategic evaluation of AI partners and tools.\n\n### **[Open source AI must win](https://opensourceaimustwin.com/?share=v2)**\nThe strong sentiment surrounding open-source AI, evidenced by its high engagement on platforms like HackerNews, reflects a growing movement advocating for democratized access and development. This trend could fundamentally challenge the dominance of proprietary models, fostering innovation but also raising critical questions about governance, security, and commercialization strategies for open-source solutions in the enterprise.\n\n### **[New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)**\nOpenAI's strategic expansion into practical AI education through new Academy courses signals a clear intent to accelerate enterprise adoption and upskill the global workforce. This initiative aims to embed AI more deeply into daily business operations, creating a broader ecosystem for OpenAI's tools and services and ensuring a pipeline of AI-literate professionals.\n\n### **[How Preply combines AI and human tutors to personalize learning](https://openai.com/index/preply)**\nPreply's successful integration of OpenAI to generate lesson summaries and personalize feedback demonstrates a powerful hybrid model where AI augments human expertise rather than replacing it. This approach offers a compelling blueprint for other service industries looking to enhance efficiency, customize offerings, and improve customer outcomes without sacrificing the human touch.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**\nDiffusionGemma-26B-A4B-it is a trending model on Hugging Face, offering powerful image-text-to-text generation with conversational capabilities. Developers should explore this model for multimodal applications requiring nuanced image understanding and text-based interaction, especially given its permissive Apache 2.0 license.\n\n### **[nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**\nNVIDIA's LocateAnything-3B is a highly popular image-feature-extraction model, crucial for tasks demanding precise object localization and understanding within visual data. Its significant download count underscores strong developer interest, making it a key tool to watch and integrate for vision-based AI projects in areas like robotics, augmented reality, and advanced analytics.\n\n### **[Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html)**\nThis HackerNews discussion highlights a common challenge for developers: the quality gap in AI-generated code, particularly for front-end interfaces. Engineers should pay close attention to community-driven strategies and tools for refining AI outputs, focusing on techniques that improve consistency and reduce manual rework in AI-assisted development workflows.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1)**\nEurekAgent proposes a paradigm shift, suggesting that engineering the environment is paramount for LLM-based agents to achieve autonomous scientific discovery. This research moves beyond mere model improvements, focusing on creating optimal interactive spaces for agents to propose, validate, and iterate scientific solutions, opening new avenues for AI in research.\n\n### **[EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1)**\nEvoArena addresses the critical challenge of deploying LLM agents in dynamic, real-world environments by focusing on memory evolution. This work is vital for developing agents that can adapt and maintain performance over time, pushing beyond static benchmark evaluations towards more robust and practical real-world AI deployments.\n\n### **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**\nThis paper introduces a novel approach to significantly improve LLM reasoning by analogy through retrieval-augmented reinforcement fine-tuning. It suggests that conventional RAG is insufficient for complex reasoning tasks, opening new avenues for grounding models in external knowledge in a more sophisticated, context-aware manner.\n\n### **[Mana: Dexterous Manipulation of Articulated Tools](http://arxiv.org/abs/2606.13677v1)**\nMana tackles the formidable challenge of dexterous manipulation of articulated tools in robotics, a complex area due to the need for coordinating internal degrees of freedom and managing contact-rich interactions. This research pushes the boundaries of robotic control, with profound implications for advanced manufacturing, surgical robotics, and human-robot collaboration.\n\n### **[SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](http://arxiv.org/abs/2606.13673v1)**\nSpatialClaw rethinks the action interface for agentic spatial reasoning, a fundamental challenge for Vision-Language Models (VLMs) in understanding 3D environments. This work is crucial for developing agents that can accurately perceive and interact with physical spaces, paving the way for more capable embodied AI and advanced robotics.\n\nToday's Signal: The AI ecosystem is rapidly maturing, marked by both unprecedented commercial adoption and increasing scrutiny over deployment, while foundational research continues to unlock new frontiers in agentic intelligence and complex reasoning.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Latest AI News and Breakthroughs That Matter Most | June 2026 ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges... |\n| [AI News Update: 6 AI Tools That Dropped In The Last 24 Hours ](https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the) | Google also contributed major developments to this AI News Update through the la... |\n| [Notable and Interesting Recent AI News, Articles, and Papers for ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [New OpenAI Academy courses for the next era of work ](https://openai.com/index/academy-courses-applying-ai-at-work) | OpenAI introduces three Academy courses that help people build practical AI skil... |\n| [How Preply combines AI and human tutors to personalize learning ](https://openai.com/index/preply) | Preply uses OpenAI to launch AI-generated lesson summaries, providing personalis... |\n| [Andrew Yang thinks the next big startup opportunity is lowering the cost of living ](https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/) | Andrew Yang made a list of everything Americans overpay for \u2014 housing, food, wir... |\n| [Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI ](https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/) | Anthropic isn't hiding its frustration. \"We disagree that the finding of a narro... |\n| [SpaceX IPO: Live updates on everything you need to know ](https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/) | TechCrunch has followed SpaceX's start, struggles, and successes from the early ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments ](http://arxiv.org/abs/2606.13681v1) | Large language model (LLM) agents have achieved strong performance on a wide ran... |\n| [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning ](http://arxiv.org/abs/2606.13680v1) | Retrieval-augmented generation (RAG) has become a standard mechanism for groundi... |\n| [Mana: Dexterous Manipulation of Articulated Tools ](http://arxiv.org/abs/2606.13677v1) | Articulated tool manipulation remains a major challenge in dexterous robotics du... |\n| [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning ](http://arxiv.org/abs/2606.13673v1) | Spatial reasoning, the ability to determine where objects are, how they relate, ... |\n| [Understanding Truncated Positional Encodings for Graph Neural Networks ](http://arxiv.org/abs/2606.13671v1) | Positional encodings (PEs) enhance the power of graph neural networks (GNNs), bo... |\n| [Automated reproducibility assessments in the social and behavioral sciences using large language models ](http://arxiv.org/abs/2606.13670v1) | Reproducibility in the social and behavioral sciences is typically evaluated by ... |\n| [Agents-K1: Towards Agent-native Knowledge Orchestration ](http://arxiv.org/abs/2606.13669v1) | Current LLM-based research agents have advanced through agent orchestration, yet... |\n| [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution ](http://arxiv.org/abs/2606.13668v1) | With the growth of LLMs' (Large Language Models) capabilities, there has been an... |\n| [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents ](http://arxiv.org/abs/2606.13663v1) | Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where ea... |\n| [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery ](http://arxiv.org/abs/2606.13662v1) | LLM-based agents have shown increasing potential in automating scientific discov... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/diffusiongemma-26B-A4B-it ](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-... |\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, image-featur... |\n| [moonshotai/Kimi-K2.7-Code ](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extr... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Shepherd's Dog: A Game by the Most Dangerous AI Model](https://koenvangilst.nl/lab/claude-fable-shepherds-dog) | HN Score: 12. Comments: 4 |\n| [[HackerNews] Open source AI must win](https://opensourceaimustwin.com/?share=v2) | HN Score: 675. Comments: 213 |\n| [[HackerNews] Show HN: Putt.day a daily mini golf game](https://putt.day/) | HN Score: 139. Comments: 67 |\n| [[HackerNews] Tectonic: A modernized, complete, self-contained TeX/LaTeX engine](https://tectonic-typesetting.github.io/en-US/) | HN Score: 37. Comments: 7 |\n| [[HackerNews] Slightly reducing the sloppiness of AI generated front end](https://envs.net/~volpe/blog/posts/reduce-slop.html) | HN Score: 184. Comments: 116 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=haK1KoQWm18) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
