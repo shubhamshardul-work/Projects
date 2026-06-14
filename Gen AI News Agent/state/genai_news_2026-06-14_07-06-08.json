@@ -1,0 +1,457 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Artificial Intelligence (Generative) Resources: Latest News on AI \u00b7 Publications covering AI \u00b7 AI News from the New York Times, WSJ, and Washington Post (ProQuest).",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May, June 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "url": "http://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "http://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 92080",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 1689",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 69443",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "summary": "HN Score: 24. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "summary": "HN Score: 641. Comments: 472",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Artificial Intelligence (Generative) Resources: Latest News on AI \u00b7 Publications covering AI \u00b7 AI News from the New York Times, WSJ, and Washington Post (ProQuest).",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news in Mar, April, May, June 2026: major model launches, record funding rounds, and breakthroughs shaping business, work,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mana: Dexterous Manipulation of Articulated Tools",
+      "url": "http://arxiv.org/abs/2606.13677v1",
+      "summary": "Articulated tool manipulation remains a major challenge in dexterous robotics due to the need to coordinate internal degrees of freedom and contact-rich interactions. While prior work has largely focu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "url": "http://arxiv.org/abs/2606.13671v1",
+      "summary": "Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated reproducibility assessments in the social and behavioral sciences using large language models",
+      "url": "http://arxiv.org/abs/2606.13670v1",
+      "summary": "Reproducibility in the social and behavioral sciences is typically evaluated by independent researchers who reanalyze the original data to assess whether the published findings can be recovered. Howev...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agents-K1: Towards Agent-native Knowledge Orchestration",
+      "url": "http://arxiv.org/abs/2606.13669v1",
+      "summary": "Current LLM-based research agents have advanced through agent orchestration, yet largely overlook scientific knowledge orchestration. Existing works often reduce papers to abstracts, surface mentions,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents",
+      "url": "http://arxiv.org/abs/2606.13663v1",
+      "summary": "Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where each invocation, observation, and value transfer is exposed in the main reasoning trace. This creates an \\emph{execution-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 92080",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 1689",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 69443",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Making Claude a Chemist",
+      "url": "https://www.anthropic.com/research/making-claude-a-chemist",
+      "summary": "HN Score: 24. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "summary": "HN Score: 641. Comments: 472",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=haK1KoQWm18",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "url": "https://techcrunch.com/2026/06/13/amazon-ceos-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+      },
+      {
+        "title": "As Anthropic suspends access to new models, India debates its AI future",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
+      },
+      {
+        "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+        "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+      },
+      {
+        "title": "New OpenAI Academy courses for the next era of work",
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+        "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+      },
+      {
+        "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+        "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+        "summary": "Once again, AI proves to be an unreliable source of information about AI."
+      }
+    ],
+    "technical": [
+      {
+        "title": "google/diffusiongemma-26B-A4B-it",
+        "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 92080"
+      },
+      {
+        "title": "nvidia/LocateAnything-3B",
+        "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 69443"
+      }
+    ],
+    "research": [
+      {
+        "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+        "url": "http://arxiv.org/abs/2606.13662v1",
+        "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti..."
+      },
+      {
+        "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+        "url": "http://arxiv.org/abs/2606.13681v1",
+        "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna..."
+      },
+      {
+        "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+        "url": "http://arxiv.org/abs/2606.13680v1",
+        "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..."
+      },
+      {
+        "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+        "url": "http://arxiv.org/abs/2606.13673v1",
+        "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp..."
+      },
+      {
+        "title": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+        "url": "http://arxiv.org/abs/2606.13668v1",
+        "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+      "url": "https://techcrunch.com/2026/06/13/amazon-ceos-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+      "summary": "Amazon CEO Andy Jassy may have been the source of security concerns that led Anthropic to cut off worldwide access to two models on Friday."
+    },
+    {
+      "title": "As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
+    },
+    {
+      "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed."
+    },
+    {
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+    },
+    {
+      "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+      "url": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+      "summary": "Once again, AI proves to be an unreliable source of information about AI."
+    },
+    {
+      "title": "google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 92080"
+    },
+    {
+      "title": "nvidia/LocateAnything-3B",
+      "url": "https://huggingface.co/nvidia/LocateAnything-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, locateanything, image-feature-extraction, nvidia, eagle. Downloads: 69443"
+    },
+    {
+      "title": "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery",
+      "url": "http://arxiv.org/abs/2606.13662v1",
+      "summary": "LLM-based agents have shown increasing potential in automating scientific discovery. Given an optimizable metric and an execution environment, they can propose, validate, and iterate scientific soluti..."
+    },
+    {
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "url": "http://arxiv.org/abs/2606.13681v1",
+      "summary": "Large language model (LLM) agents have achieved strong performance on a wide range of benchmarks, yet most evaluations assume static environments. In contrast, real-world deployment is inherently dyna..."
+    },
+    {
+      "title": "Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning",
+      "url": "http://arxiv.org/abs/2606.13680v1",
+      "summary": "Retrieval-augmented generation (RAG) has become a standard mechanism for grounding language models in external knowledge, yet conventional retrieval based on lexical or semantic similarity is poorly s..."
+    },
+    {
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "url": "http://arxiv.org/abs/2606.13673v1",
+      "summary": "Spatial reasoning, the ability to determine where objects are, how they relate, and how they move in 3D, remains a fundamental challenge for vision-language models (VLMs). Tool-augmented agents attemp..."
+    },
+    {
+      "title": "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution",
+      "url": "http://arxiv.org/abs/2606.13668v1",
+      "summary": "With the growth of LLMs' (Large Language Models) capabilities, there has been an increasing push to curate high quality datasets by filtering samples in the training data. In general, Data Attribution..."
+    }
+  ],
+  "final_report": "# AI's Regulatory Crossroads: Security Scrutiny, Geopolitical Pressures, and the March of Agentic AI\n\nToday's AI landscape is marked by heightened regulatory and security concerns, as major players face government intervention and reliability challenges. Simultaneously, the research frontier continues its relentless push towards more autonomous and intelligent AI agents.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Amazon CEO reportedly raised Anthropic model concerns before government crackdown](https://techcrunch.com/2026/06/13/amazon-ceos-reportedly-raised-anthropic-model-concerns-before-government-crackdown/)**\nThis highlights the critical importance of internal security protocols and responsible AI deployment, even for leading models. For businesses, it underscores the potential for significant operational disruption and reputational damage if AI systems are not rigorously vetted for security vulnerabilities, especially when integrated into critical infrastructure or sensitive applications.\n\n### **[As Anthropic suspends access to new models, India debates its AI future](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)**\nThe Anthropic incident serves as a stark reminder of the global implications of AI governance and model reliability. For nations like India, it prompts a crucial strategic debate on balancing rapid AI adoption with robust regulatory frameworks to ensure national security and data integrity, influencing future investment and policy decisions.\n\n### **[Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/)**\nThis demonstrates the escalating geopolitical risks and regulatory hurdles in cross-border tech M&A, particularly concerning AI and data-intensive ventures. Executives must factor in complex international regulatory landscapes and potential government intervention when pursuing strategic acquisitions, as deals can be unwound even after significant investment, impacting market expansion and competitive positioning.\n\n### **[New OpenAI Academy courses for the next era of work](https://openai.com/index/academy-courses-applying-ai-at-work)**\nOpenAI's new courses signal a strategic move to democratize AI skills and accelerate enterprise adoption, recognizing that human capital development is key to unlocking AI's full potential. For businesses, investing in these practical AI skills for their workforce is no longer optional but a critical component of future-proofing operations and fostering innovation.\n\n### **[KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/)**\nThis incident from a major consulting firm underscores the persistent challenge of AI reliability and the critical need for robust validation processes, even for seemingly straightforward applications like report generation. For business leaders, it's a cautionary tale emphasizing that while AI offers immense potential, its outputs must be treated with skepticism and verified, especially when used for strategic insights or public communication.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[google/diffusiongemma-26B-A4B-it](https://huggingface.co/google/diffusiongemma-26B-A4B-it)**\nThis trending model from Google, `diffusiongemma-26B-A4B-it`, is a powerful image-text-to-text conversational model, indicating a strong interest in multimodal AI for interactive applications. Developers should explore its capabilities for generating rich, contextually aware responses from diverse inputs, making it a valuable tool for advanced conversational agents and creative content generation.\n\n### **[nvidia/LocateAnything-3B](https://huggingface.co/nvidia/LocateAnything-3B)**\nNVIDIA's `LocateAnything-3B` is a highly downloaded image-feature-extraction model, highlighting the ongoing demand for robust object localization and understanding in visual AI. Engineers should watch this for applications requiring precise spatial reasoning and object detection, potentially integrating it into computer vision pipelines for robotics, augmented reality, or advanced analytics.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery](http://arxiv.org/abs/2606.13662v1)**\nThis paper proposes that engineering the environment is key to enabling LLM-based agents for autonomous scientific discovery, moving beyond just model improvements. Researchers should consider the implications of designing dynamic, feedback-rich environments to unlock more sophisticated and iterative problem-solving capabilities in AI agents across various scientific domains.\n\n### **[EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments](http://arxiv.org/abs/2606.13681v1)**\nAddressing a critical gap, this research focuses on making LLM agents robust in dynamic, real-world environments by tracking memory evolution. This work is crucial for developing agents that can adapt and maintain performance over time, offering a path towards more reliable and long-lived AI systems in complex, changing scenarios.\n\n### **[Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning](http://arxiv.org/abs/2606.13680v1)**\nThis paper introduces a novel approach to enhance analogical reasoning in LLMs by combining retrieval-augmented generation with reinforcement fine-tuning. It suggests a powerful method for grounding models in external knowledge beyond lexical similarity, opening new avenues for more sophisticated and human-like reasoning capabilities in AI.\n\n### **[SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning](http://arxiv.org/abs/2606.13673v1)**\nSpatialClaw tackles the fundamental challenge of spatial reasoning in VLMs by rethinking the action interface for tool-augmented agents. This research has significant implications for improving how AI agents interact with and understand 3D environments, paving the way for more capable robots and immersive AI applications.\n\n### **[Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution](http://arxiv.org/abs/2606.13668v1)**\nInflucoder presents an innovative method for data attribution in LLMs by distilling gradient influence into an encoder, addressing the growing need for transparency and dataset quality. This research is vital for understanding model behavior, curating high-quality training data, and ensuring responsible AI development by identifying influential data points.\n\n---\n**Today's Signal:** The AI ecosystem is navigating a complex interplay of rapid technological advancement, increasing regulatory scrutiny, and the critical need for both security and reliability.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Notable and Interesting Recent AI News, Articles, and ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n| [Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Artificial Intelligence (Generative) Resources: Latest News on AI \u00b7 Publications... |\n| [Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news in Mar, April, May, June 2026: major model la... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [New OpenAI Academy courses for the next era of work ](https://openai.com/index/academy-courses-applying-ai-at-work) | OpenAI introduces three Academy courses that help people build practical AI skil... |\n| [As Anthropic suspends access to new models, India debates its AI future ](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) | Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s ... |\n| [Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand ](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) | Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered t... |\n| [[RSS] KPMG pulls report on AI usage due to apparent hallucinations](https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/) | Once again, AI proves to be an unreliable source of information about AI. |\n| [Amazon CEO reportedly raised Anthropic model concerns before government crackdown ](https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/) | Amazon CEO Andy Jassy may have been the source of security concerns that led Ant... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments ](http://arxiv.org/abs/2606.13681v1) | Large language model (LLM) agents have achieved strong performance on a wide ran... |\n| [Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning ](http://arxiv.org/abs/2606.13680v1) | Retrieval-augmented generation (RAG) has become a standard mechanism for groundi... |\n| [Mana: Dexterous Manipulation of Articulated Tools ](http://arxiv.org/abs/2606.13677v1) | Articulated tool manipulation remains a major challenge in dexterous robotics du... |\n| [SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning ](http://arxiv.org/abs/2606.13673v1) | Spatial reasoning, the ability to determine where objects are, how they relate, ... |\n| [Understanding Truncated Positional Encodings for Graph Neural Networks ](http://arxiv.org/abs/2606.13671v1) | Positional encodings (PEs) enhance the power of graph neural networks (GNNs), bo... |\n| [Automated reproducibility assessments in the social and behavioral sciences using large language models ](http://arxiv.org/abs/2606.13670v1) | Reproducibility in the social and behavioral sciences is typically evaluated by ... |\n| [Agents-K1: Towards Agent-native Knowledge Orchestration ](http://arxiv.org/abs/2606.13669v1) | Current LLM-based research agents have advanced through agent orchestration, yet... |\n| [Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution ](http://arxiv.org/abs/2606.13668v1) | With the growth of LLMs' (Large Language Models) capabilities, there has been an... |\n| [HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents ](http://arxiv.org/abs/2606.13663v1) | Tool-augmented LLM agents commonly rely on step-wise atomic tool calls, where ea... |\n| [EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery ](http://arxiv.org/abs/2606.13662v1) | LLM-based agents have shown increasing potential in automating scientific discov... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/diffusiongemma-26B-A4B-it ](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-... |\n| [moonshotai/Kimi-K2.7-Code ](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extr... |\n| [nvidia/LocateAnything-3B ](https://huggingface.co/nvidia/LocateAnything-3B) | Trending HF Model. Tags: transformers, safetensors, locateanything, image-featur... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Making Claude a Chemist](https://www.anthropic.com/research/making-claude-a-chemist) | HN Score: 24. Comments: 15 |\n| [[HackerNews] Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models](https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink) | HN Score: 641. Comments: 472 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=haK1KoQWm18) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
