@@ -1,0 +1,511 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week:",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels. Grok 4.20 scored highest",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "AI News: Claude Takes Over Office, ByteDance Goes After Google \u00b7 90K views ; Something is jamming GPS over Europe. Here's what we found \u00b7 6.6M",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Gaze Heads: How VLMs Look at What They Describe",
+      "url": "http://arxiv.org/abs/2606.14703v1",
+      "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "url": "http://arxiv.org/abs/2606.14697v1",
+      "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "url": "http://arxiv.org/abs/2606.14695v1",
+      "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "url": "http://arxiv.org/abs/2606.14694v1",
+      "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2606.14693v1",
+      "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+      "url": "http://arxiv.org/abs/2606.14691v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+      "url": "http://arxiv.org/abs/2606.14690v1",
+      "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the wo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+      "url": "http://arxiv.org/abs/2606.14688v1",
+      "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+      "url": "http://arxiv.org/abs/2606.14686v1",
+      "summary": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic st...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+      "url": "http://arxiv.org/abs/2606.14684v1",
+      "summary": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 198912",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 15145",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 6643",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "HN Score: 85. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "summary": "HN Score: 340. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "summary": "HN Score: 37. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "summary": "HN Score: 366. Comments: 91",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week:",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels. Grok 4.20 scored highest",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "AI News: Claude Takes Over Office, ByteDance Goes After Google \u00b7 90K views ; Something is jamming GPS over Europe. Here's what we found \u00b7 6.6M",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand",
+      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+      "summary": "Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered the deal reversed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Gaze Heads: How VLMs Look at What They Describe",
+      "url": "http://arxiv.org/abs/2606.14703v1",
+      "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "url": "http://arxiv.org/abs/2606.14697v1",
+      "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "url": "http://arxiv.org/abs/2606.14695v1",
+      "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "url": "http://arxiv.org/abs/2606.14694v1",
+      "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2606.14693v1",
+      "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+      "url": "http://arxiv.org/abs/2606.14691v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Complexity Measure for Active Learning in Multi-group Mean Estimation",
+      "url": "http://arxiv.org/abs/2606.14690v1",
+      "summary": "We study a \\emph{max-risk} objective for active learning in a multi-group mean estimation $d$-armed bandits: a learner adaptively allocates a budget of $T$ samples across $d$ groups to minimize the wo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit",
+      "url": "http://arxiv.org/abs/2606.14688v1",
+      "summary": "AI systems coupled to proof assistants now generate formal mathematics at scale, and the gap between what a checker can verify and what a mathematician would value has become the binding constraint. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification",
+      "url": "http://arxiv.org/abs/2606.14686v1",
+      "summary": "Globally, cotton is a highly economically beneficial crop, as the textile industry heavily depends on it. So, the precise identification and detection of cotton leaf disease is crucial for economic st...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification",
+      "url": "http://arxiv.org/abs/2606.14684v1",
+      "summary": "Real-time fire classification systems require models that are simultaneously accurate, computationally efficient, and deployable on resource-constrained hardware. This work proposes \\textbf{HumP-KD}, ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 198912",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 15145",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 6643",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Apple Foundation Models",
+      "url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+      "summary": "HN Score: 85. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "summary": "HN Score: 340. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A short history of Cerro Torre, the most controversial mountain (2012)",
+      "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+      "summary": "HN Score: 37. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+      "url": "https://news.ycombinator.com/item?id=48528029",
+      "summary": "HN Score: 366. Comments: 91",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels. Grok 4.20 scored highest"
+      },
+      {
+        "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+        "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+        "summary": "AI News: Claude Takes Over Office, ByteDance Goes After Google \u00b7 90K views ; Something is jamming GPS over Europe. Here's what we found \u00b7 6.6M"
+      },
+      {
+        "title": "[RSS] The AI layoff wave is becoming a powder keg",
+        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
+      },
+      {
+        "title": "[RSS] As AI companies race to go public, who else is along for the ride?",
+        "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+        "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+      },
+      {
+        "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+        "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+        "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 198912"
+      },
+      {
+        "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+        "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 15145"
+      },
+      {
+        "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 6643"
+      },
+      {
+        "title": "[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "summary": "HN Score: 340. Comments: 184"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Gaze Heads: How VLMs Look at What They Describe",
+        "url": "http://arxiv.org/abs/2606.14703v1",
+        "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ..."
+      },
+      {
+        "title": "[ArXiv] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+        "url": "http://arxiv.org/abs/2606.14697v1",
+        "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but..."
+      },
+      {
+        "title": "[ArXiv] Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+        "url": "http://arxiv.org/abs/2606.14695v1",
+        "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin..."
+      },
+      {
+        "title": "[ArXiv] AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+        "url": "http://arxiv.org/abs/2606.14694v1",
+        "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere..."
+      },
+      {
+        "title": "[ArXiv] Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2606.14693v1",
+        "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across..."
+      },
+      {
+        "title": "[ArXiv] CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+        "url": "http://arxiv.org/abs/2606.14691v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels. Grok 4.20 scored highest"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "AI News: Claude Takes Over Office, ByteDance Goes After Google \u00b7 90K views ; Something is jamming GPS over Europe. Here's what we found \u00b7 6.6M"
+    },
+    {
+      "title": "[RSS] The AI layoff wave is becoming a powder keg",
+      "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+      "summary": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's hard to comprehend."
+    },
+    {
+      "title": "[RSS] As AI companies race to go public, who else is along for the ride?",
+      "url": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+    },
+    {
+      "title": "[RSS] As Anthropic suspends access to new models, India debates its AI future",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s AI ambitions."
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 198912"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K2.7-Code",
+      "url": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extraction, compressed-tensors, image-text-to-text. Downloads: 15145"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 6643"
+    },
+    {
+      "title": "[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "summary": "HN Score: 340. Comments: 184"
+    },
+    {
+      "title": "[ArXiv] Gaze Heads: How VLMs Look at What They Describe",
+      "url": "http://arxiv.org/abs/2606.14703v1",
+      "summary": "How a vision-language model internally solves the task of describing an image is far from obvious. We find that the model develops a specific mechanism for this: a small set of attention heads in its ..."
+    },
+    {
+      "title": "[ArXiv] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning",
+      "url": "http://arxiv.org/abs/2606.14697v1",
+      "summary": "Building trustworthy medical multimodal large language models (MLLMs) is critical for reliable clinical decision support. Existing medical hallucination benchmarks mainly focus on data collection, but..."
+    },
+    {
+      "title": "[ArXiv] Persona-Pruner: Sculpting Lightweight Models for Role-Playing",
+      "url": "http://arxiv.org/abs/2606.14695v1",
+      "summary": "Language Models (LMs) have shown remarkable potential as role-playing chatbots, delivering consistent, stylized interactions when given a specification of a character or user persona. However, applyin..."
+    },
+    {
+      "title": "[ArXiv] AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization",
+      "url": "http://arxiv.org/abs/2606.14694v1",
+      "summary": "Large reasoning models typically follow a read-then-think paradigm: they observe the complete input, reason over a static context, and then produce the answer. Yet many real-world scenarios are inhere..."
+    },
+    {
+      "title": "[ArXiv] Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2606.14693v1",
+      "summary": "Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models team decision making under multiple, potentially conflicting objectives. In this setting, conflicts arise not only across..."
+    },
+    {
+      "title": "[ArXiv] CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment",
+      "url": "http://arxiv.org/abs/2606.14691v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has successfully elicited the reasoning capabilities of large language models, motivating its extension to multimodal scenarios. Existing methods ..."
+    }
+  ],
+  "final_report": "# AI's Dual Reality: Market Boom Meets Internal Tensions & Technical Scrutiny\n\nToday's AI landscape presents a fascinating dichotomy: unprecedented market growth and strategic maneuvers are juxtaposed with internal industry friction and a relentless push for technical transparency and advanced reasoning. From surging retail traffic to critical debates over model access and ethical development, the sector is navigating both immense opportunity and complex challenges.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Tavily] AI Traffic to Retail Sites Surges 393%, Converting 42% Better Than Other Channels** (https://www.crescendo.ai/news/latest-ai-news-and-updates)\nThis report highlights the immediate and significant commercial impact of AI, demonstrating its power to drive consumer engagement and superior conversion rates in retail. Business leaders should note the direct ROI and strategic advantage offered by integrating AI into customer-facing operations.\n\n### **[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week** (https://www.youtube.com/watch?v=vpUk5OetUNk)\nThe sheer volume of weekly AI releases underscores the hyper-competitive and rapidly evolving market, with major players like Claude and ByteDance making aggressive moves against established giants. This signals a critical need for executives to stay agile and continuously monitor the competitive landscape for disruptive innovations.\n\n### **[RSS] The AI layoff wave is becoming a powder keg** (https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/)\nThis report exposes a growing social and economic tension within the AI industry, where widespread layoffs coincide with immense wealth accumulation by a select few. This dynamic poses significant reputational and ethical challenges for AI companies, potentially impacting talent acquisition and public perception.\n\n### **[RSS] As AI companies race to go public, who else is along for the ride?** (https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/)\nThe accelerating trend of AI startups eyeing IPOs indicates a maturing market eager for public investment, drawing parallels to past tech booms. Investors should watch for the broader ecosystem of supporting companies and technologies that stand to benefit from this \"SpaceX IPO wave.\"\n\n### **[RSS] As Anthropic suspends access to new models, India debates its AI future** (https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/)\nAnthropic's decision to restrict model access highlights the strategic importance of AI sovereignty and the potential for geopolitical implications in technology distribution. This incident serves as a wake-up call for nations like India to accelerate their domestic AI capabilities and policy frameworks to ensure future access and innovation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[HuggingFace] google/diffusiongemma-26B-A4B-it** (https://huggingface.co/google/diffusiongemma-26B-A4B-it)\nGoogle's new Diffusion Gemma model is rapidly gaining traction, showcasing strong interest in advanced image-text-to-text and conversational AI capabilities. Developers should explore this model for applications requiring sophisticated multimodal understanding and generation.\n\n### **[HuggingFace] moonshotai/Kimi-K2.7-Code** (https://huggingface.co/moonshotai/Kimi-K2.7-Code)\nThe Kimi-K2.7-Code model from Moonshot AI is trending, indicating a high demand for specialized AI tools that enhance coding efficiency and understanding. This model is a key resource for developers looking to integrate powerful code-centric AI into their workflows.\n\n### **[HuggingFace] MiniMaxAI/MiniMax-M3** (https://huggingface.co/MiniMaxAI/MiniMax-M3)\nMiniMaxAI's MiniMax-M3, a multimodal MoE model, demonstrates the continued innovation in architectural design for complex AI tasks. Its multimodal and Mixture-of-Experts (MoE) approach offers insights into scaling and optimizing performance for diverse applications.\n\n### **[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model** (https://github.com/nex-agi/Nex-N2/issues/4)\nThis news highlights the ongoing challenges and ethical considerations surrounding model originality and transparency in the open-source AI community. Developers should be mindful of proper attribution and the implications of \"rebranding\" existing models, fostering a culture of genuine innovation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ArXiv] Gaze Heads: How VLMs Look at What They Describe** (http://arxiv.org/abs/2606.14703v1)\nThis research delves into the interpretability of Vision-Language Models, revealing specific attention mechanisms that allow them to \"see\" what they describe. Understanding these internal workings is crucial for building more transparent and reliable multimodal AI systems.\n\n### **[ArXiv] ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning** (http://arxiv.org/abs/2606.14697v1)\nAddressing a critical challenge, this new benchmark aims to improve the trustworthiness of medical multimodal LLMs by systematically diagnosing hallucinations. This is a vital step towards deploying AI safely and effectively in clinical decision support.\n\n### **[ArXiv] Persona-Pruner: Sculpting Lightweight Models for Role-Playing** (http://arxiv.org/abs/2606.14695v1)\nResearchers are exploring methods to create more efficient, specialized language models for specific applications like role-playing chatbots. This work is significant for developing highly performant and resource-optimized AI agents capable of consistent, stylized interactions.\n\n### **[ArXiv] AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization** (http://arxiv.org/abs/2606.14694v1)\nMoving beyond static reasoning, this paper introduces a paradigm for adaptive streaming reasoning, allowing models to process and react to dynamic, real-world inputs. This approach is essential for AI systems operating in continuously evolving environments.\n\n### **[ArXiv] Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning** (http://arxiv.org/abs/2606.14693v1)\nThis research tackles the complex problem of cooperative decision-making in multi-agent systems with conflicting objectives. It offers new insights into how AI teams can learn to coordinate preferences, crucial for advanced collaborative AI applications.\n\n### **[ArXiv] CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment** (http://arxiv.org/abs/2606.14691v1)\nThis work focuses on enhancing the reasoning capabilities of multimodal reinforcement learning with verifiable rewards by aligning internal thought processes with final answers. Improving consistency is key to developing more robust and trustworthy multimodal AI.\n\n---\n\n**Today's Signal:** The AI industry is simultaneously experiencing explosive commercial adoption and deep internal scrutiny, driving both rapid innovation and a critical re-evaluation of its ethical and technical foundations.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week: ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Here are the latest AI breakthroughs and news. AI Traffic to Retail Sites Surges... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | AI News: Claude Takes Over Office, ByteDance Goes After Google \u00b7 90K views ; Som... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing the OpenAI Partner Network ](https://openai.com/index/introducing-openai-partner-network) | OpenAI launches the Partner Network, investing $150M to help global partners acc... |\n| [The AI layoff wave is becoming a powder keg ](https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/) | What makes this combustible: at the very moment that tens of thousands of worker... |\n| [[RSS] As AI companies race to go public, who else is along for the ride?](https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/) | Startups are trying to \"ride that SpaceX IPO wave.\" |\n| [As Anthropic suspends access to new models, India debates its AI future ](https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/) | Tech leaders debate whether the Anthropic episode is a wake-up call for India\u2019s ... |\n| [Meta reportedly moves to unwind $2B Manus deal after Beijing\u2019s demand ](https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/) | Meta starts dismantling its $2 billion Manus acquisition after Beijing ordered t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Gaze Heads: How VLMs Look at What They Describe ](http://arxiv.org/abs/2606.14703v1) | How a vision-language model internally solves the task of describing an image is... |\n| [ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning ](http://arxiv.org/abs/2606.14697v1) | Building trustworthy medical multimodal large language models (MLLMs) is critica... |\n| [Persona-Pruner: Sculpting Lightweight Models for Role-Playing ](http://arxiv.org/abs/2606.14695v1) | Language Models (LMs) have shown remarkable potential as role-playing chatbots, ... |\n| [AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization ](http://arxiv.org/abs/2606.14694v1) | Large reasoning models typically follow a read-then-think paradigm: they observe... |\n| [Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning ](http://arxiv.org/abs/2606.14693v1) | Cooperative multi-objective multi-agent reinforcement learning (MOMARL) models t... |\n| [CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment ](http://arxiv.org/abs/2606.14691v1) | Reinforcement learning with verifiable rewards (RLVR) has successfully elicited ... |\n| [A Complexity Measure for Active Learning in Multi-group Mean Estimation ](http://arxiv.org/abs/2606.14690v1) | We study a \\emph{max-risk} objective for active learning in a multi-group mean e... |\n| [Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit ](http://arxiv.org/abs/2606.14688v1) | AI systems coupled to proof assistants now generate formal mathematics at scale,... |\n| [CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification ](http://arxiv.org/abs/2606.14686v1) | Globally, cotton is a highly economically beneficial crop, as the textile indust... |\n| [HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification ](http://arxiv.org/abs/2606.14684v1) | Real-time fire classification systems require models that are simultaneously acc... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/diffusiongemma-26B-A4B-it ](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-... |\n| [moonshotai/Kimi-K2.7-Code ](https://huggingface.co/moonshotai/Kimi-K2.7-Code) | Trending HF Model. Tags: transformers, safetensors, kimi_k25, image-feature-extr... |\n| [MiniMaxAI/MiniMax-M3 ](https://huggingface.co/MiniMaxAI/MiniMax-M3) | Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models) | HN Score: 85. Comments: 19 |\n| [[HackerNews] Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4) | HN Score: 340. Comments: 184 |\n| [[HackerNews] A short history of Cerro Torre, the most controversial mountain (2012)](https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/) | HN Score: 37. Comments: 15 |\n| [[HackerNews] I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models](https://news.ycombinator.com/item?id=48528029) | HN Score: 366. Comments: 91 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
