@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Google also contributed major developments to this AI News Update through the launch of Gemini Embedding 2. Embedding models convert information",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] The Value Axis: Language Models Encode Whether They're on the Right Track",
+      "url": "http://arxiv.org/abs/2606.17056v1",
+      "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scale-Invariant Neural Network Optimization: Norm Geometry and Heavy-Tailed Noise",
+      "url": "http://arxiv.org/abs/2605.18528v3",
+      "summary": "A growing lesson from neural network optimization is that optimizer design should respect how the model is parametrized. The layerwise input-output structure of neural networks motivates scale-invaria...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Context-Aware RL for Agentic and Multimodal LLMs",
+      "url": "http://arxiv.org/abs/2606.17053v1",
+      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "url": "http://arxiv.org/abs/2606.17048v1",
+      "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometric Action Model for Robot Policy Learning",
+      "url": "http://arxiv.org/abs/2606.17046v1",
+      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Canonical Variates in Wasserstein Metric Space",
+      "url": "http://arxiv.org/abs/2405.15768v2",
+      "summary": "In this paper, we address the classification of instances represented by distributions on a vector space rather than single points. We consider classification algorithms based on pairwise distances, s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+      "url": "http://arxiv.org/abs/2606.17043v1",
+      "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+      "url": "http://arxiv.org/abs/2606.17041v1",
+      "summary": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] deFOREST: Fusing Optical and Radar satellite data for Enhanced Sensing of Tree-loss",
+      "url": "http://arxiv.org/abs/2510.14092v2",
+      "summary": "In this paper we develop a deforestation detection pipeline that incorporates optical and Synthetic Aperture Radar (SAR) data. A crucial component of the pipeline is the construction of anomaly maps o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+      "url": "http://arxiv.org/abs/2606.17037v1",
+      "summary": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 311788",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 14312",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 20207",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "summary": "HN Score: 934. Comments: 423",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "summary": "HN Score: 799. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "summary": "HN Score: 143. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "summary": "HN Score: 82. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "summary": "HN Score: 302. Comments: 52",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Google also contributed major developments to this AI News Update through the launch of Gemini Embedding 2. Embedding models convert information",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] The Value Axis: Language Models Encode Whether They're on the Right Track",
+      "url": "http://arxiv.org/abs/2606.17056v1",
+      "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scale-Invariant Neural Network Optimization: Norm Geometry and Heavy-Tailed Noise",
+      "url": "http://arxiv.org/abs/2605.18528v3",
+      "summary": "A growing lesson from neural network optimization is that optimizer design should respect how the model is parametrized. The layerwise input-output structure of neural networks motivates scale-invaria...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Context-Aware RL for Agentic and Multimodal LLMs",
+      "url": "http://arxiv.org/abs/2606.17053v1",
+      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "url": "http://arxiv.org/abs/2606.17048v1",
+      "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Geometric Action Model for Robot Policy Learning",
+      "url": "http://arxiv.org/abs/2606.17046v1",
+      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Canonical Variates in Wasserstein Metric Space",
+      "url": "http://arxiv.org/abs/2405.15768v2",
+      "summary": "In this paper, we address the classification of instances represented by distributions on a vector space rather than single points. We consider classification algorithms based on pairwise distances, s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+      "url": "http://arxiv.org/abs/2606.17043v1",
+      "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio",
+      "url": "http://arxiv.org/abs/2606.17041v1",
+      "summary": "Meta-analysis is a demanding form of evidence synthesis that combines literature retrieval, PI/ECO-guided study selection, and statistical aggregation. Its structured, verifiable workflow makes it an ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] deFOREST: Fusing Optical and Radar satellite data for Enhanced Sensing of Tree-loss",
+      "url": "http://arxiv.org/abs/2510.14092v2",
+      "summary": "In this paper we develop a deforestation detection pipeline that incorporates optical and Synthetic Aperture Radar (SAR) data. A crucial component of the pipeline is the construction of anomaly maps o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers",
+      "url": "http://arxiv.org/abs/2606.17037v1",
+      "summary": "Oppenheim and Lim (1981) showed that natural images stay recognizable when reconstructed from their Fourier phase alone, while the magnitude carries little of their identity. We ask whether trained im...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 311788",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 14312",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 20207",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "summary": "HN Score: 934. Comments: 423",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+      "url": "https://tinywind.io",
+      "summary": "HN Score: 799. Comments: 152",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why I email complete strangers",
+      "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+      "summary": "HN Score: 143. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "summary": "HN Score: 82. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "summary": "HN Score: 302. Comments: 52",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+        "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+        "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+      },
+      {
+        "title": "[RSS] Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+        "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+        "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  "
+      },
+      {
+        "title": "[RSS] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+        "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+        "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts. "
+      },
+      {
+        "title": "[RSS] The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+        "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+        "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
+      },
+      {
+        "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+        "url": "https://news.ycombinator.com/item?id=48542100",
+        "summary": "HN Score: 934. Comments: 423"
+      },
+      {
+        "title": "Cohere's First Model for Developers",
+        "url": "https://cohere.com/blog/north-mini-code",
+        "summary": "HN Score: 82. Comments: 19"
+      },
+      {
+        "title": "My Homelab AI Dev Platform",
+        "url": "https://rsgm.dev/post/ai-dev-platform/",
+        "summary": "HN Score: 302. Comments: 52"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] The Value Axis: Language Models Encode Whether They're on the Right Track",
+        "url": "http://arxiv.org/abs/2606.17056v1",
+        "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte..."
+      },
+      {
+        "title": "[ArXiv] Context-Aware RL for Agentic and Multimodal LLMs",
+        "url": "http://arxiv.org/abs/2606.17053v1",
+        "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d..."
+      },
+      {
+        "title": "[ArXiv] Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+        "url": "http://arxiv.org/abs/2606.17048v1",
+        "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post..."
+      },
+      {
+        "title": "[ArXiv] Geometric Action Model for Robot Policy Learning",
+        "url": "http://arxiv.org/abs/2606.17046v1",
+        "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and..."
+      },
+      {
+        "title": "[ArXiv] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+        "url": "http://arxiv.org/abs/2606.17043v1",
+        "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+    },
+    {
+      "title": "[RSS] Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+      "url": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+      "summary": "Respond.io, one of Malaysia startups to watch, uses AI agents to handle high volumes of customer inquiries and charges per convo, not per seat.  "
+    },
+    {
+      "title": "[RSS] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties",
+      "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "AI is once again at the heart of a college graduation protest \u2014 this time for the technology's use in Google's defense contracts. "
+    },
+    {
+      "title": "[RSS] The US government\u2019s Anthropic models ban was never about an AI jailbreak",
+      "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference."
+    },
+    {
+      "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+      "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+      "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform."
+    },
+    {
+      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+      "url": "https://news.ycombinator.com/item?id=48542100",
+      "summary": "HN Score: 934. Comments: 423"
+    },
+    {
+      "title": "Cohere's First Model for Developers",
+      "url": "https://cohere.com/blog/north-mini-code",
+      "summary": "HN Score: 82. Comments: 19"
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "url": "https://rsgm.dev/post/ai-dev-platform/",
+      "summary": "HN Score: 302. Comments: 52"
+    },
+    {
+      "title": "[ArXiv] The Value Axis: Language Models Encode Whether They're on the Right Track",
+      "url": "http://arxiv.org/abs/2606.17056v1",
+      "summary": "We investigate whether language models internally track the value of their current trajectory, defined as the likelihood that their ongoing strategy will achieve their goals. Using synthetic, in-conte..."
+    },
+    {
+      "title": "[ArXiv] Context-Aware RL for Agentic and Multimodal LLMs",
+      "url": "http://arxiv.org/abs/2606.17053v1",
+      "summary": "Large language models (LLMs) often fail when answering requires identifying a small but decisive piece of evidence within a long or complex context, such as a single line in a tool trace or a subtle d..."
+    },
+    {
+      "title": "[ArXiv] Exact Posterior Score Estimation for Solving Linear Inverse Problems",
+      "url": "http://arxiv.org/abs/2606.17048v1",
+      "summary": "Diffusion and flow-based models learn powerful data priors by training a denoiser to reverse Gaussian corruption. To use this prior to solve a linear inverse problem, one needs to sample from the post..."
+    },
+    {
+      "title": "[ArXiv] Geometric Action Model for Robot Policy Learning",
+      "url": "http://arxiv.org/abs/2606.17046v1",
+      "summary": "Generalist robot policies must follow user instructions while reasoning about how objects, cameras, and robot actions interact in the 3D physical world. Recent vision-language-action models (VLAs) and..."
+    },
+    {
+      "title": "[ArXiv] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes",
+      "url": "http://arxiv.org/abs/2606.17043v1",
+      "summary": "When pretrained VLA policies are fine-tuned through online RL, each rollout episode produces only a single binary outcome (success or failure), yet the actor update requires per-transition supervision..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Innovation, Regulation, and the Rise of Agentic Systems\n\nThis report highlights a week of intense activity across the AI landscape, from rapid model advancements and strategic business plays to growing regulatory scrutiny and foundational research pushing the boundaries of intelligent agents and robotics.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn**\nThe past week saw a flurry of major announcements, including OpenAI's release of GPT-5.1 and testing of ChatGPT group chats, alongside significant unveilings from Microsoft. This rapid pace of innovation underscores the intense competitive pressure among tech giants to dominate the AI frontier, demanding that business leaders stay agile and prepared for continuous technological shifts.\n\n### **[RSS] Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions**\nRespond.io's substantial $62.5 million funding round highlights the growing investor confidence in AI-powered customer service solutions, particularly those leveraging intelligent agents. Their \"per convo, not per seat\" pricing model signals a strategic shift towards value-based billing, potentially disrupting traditional SaaS models and offering a blueprint for scalable, AI-driven customer engagement. The company's intent for acquisitions in North America and Europe signals aggressive market expansion and consolidation in the AI agent space.\n\n### **[RSS] Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties**\nThe public backlash against Google CEO Sundar Pichai at Stanford's graduation ceremony underscores the escalating ethical and reputational risks associated with AI companies' involvement in controversial defense and government contracts. Business leaders must increasingly navigate the complex interplay between technological advancement, corporate ethics, and public perception, as these issues can significantly impact brand value and talent acquisition.\n\n### **[RSS] The US government\u2019s Anthropic models ban was never about an AI jailbreak**\nThe U.S. government's intervention forcing Anthropic to withdraw its cybersecurity models sends a clear message: the AI industry is not immune to regulatory oversight and political influence. This incident highlights the critical need for AI companies to proactively engage with policymakers and understand the evolving landscape of national security and economic policy, as government actions can swiftly impact product development and market access.\n\n### **Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms**\nMeta's rollout of new AI features on Facebook, including an \"AI Mode\" that leverages public information across its vast platform ecosystem, signifies a strategic push to enhance user engagement and solidify its position in the AI race. This move demonstrates how established tech companies are integrating AI to deepen user interaction and personalize experiences, while also raising important considerations around data privacy and the responsible use of public information.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?**\nThe high engagement on this Hacker News discussion (934 points, 423 comments) reveals a significant and growing interest among developers in migrating from cloud-based LLMs like Claude and GPT to local models for coding assistance. This trend is driven by desires for greater privacy, cost control, customization, and reduced latency, signaling a potential shift towards more self-hosted and on-device AI development workflows. Developers should watch for advancements in local model performance and tooling that simplify this transition.\n\n### **Cohere's First Model for Developers**\nCohere's introduction of its first model specifically for developers marks a strategic expansion into the broader AI ecosystem, aiming to empower practitioners with new tools for building AI-powered applications. This move intensifies competition in the developer-focused LLM space, offering engineers more choices and potentially driving innovation in model capabilities and integration options. Developers should evaluate its performance and ease of use for their specific projects.\n\n### **My Homelab AI Dev Platform**\nThis post detailing a personal homelab AI development platform highlights a burgeoning trend among engineers to build robust, custom environments for AI experimentation and deployment. Such setups offer unparalleled control over hardware, software, and data, enabling deeper learning and more efficient iteration on AI projects without relying solely on cloud infrastructure. For architects and developers, this showcases a practical approach to achieving greater autonomy and cost-effectiveness in AI development.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ArXiv] The Value Axis: Language Models Encode Whether They're on the Right Track**\nThis research delves into the fascinating concept of language models internally tracking their \"value axis,\" essentially an internal gauge of whether their current strategy is likely to achieve their goals. Understanding and leveraging this intrinsic self-assessment mechanism could be a breakthrough for developing more reliable, self-correcting, and truly agentic AI systems, moving beyond mere pattern matching to genuine strategic reasoning.\n\n### **[ArXiv] Context-Aware RL for Agentic and Multimodal LLMs**\nAddressing a critical limitation where LLMs struggle to pinpoint decisive evidence in long or complex contexts, this paper proposes Context-Aware Reinforcement Learning. This approach is vital for enhancing the robustness and accuracy of agentic and multimodal LLMs, enabling them to perform more effectively in tasks requiring deep contextual understanding and precise information extraction, such as analyzing tool traces or subtle data points.\n\n### **[ArXiv] Exact Posterior Score Estimation for Solving Linear Inverse Problems**\nThis paper presents a significant technical advancement in leveraging diffusion and flow-based models for solving linear inverse problems by accurately estimating the posterior score. This research has profound implications for fields like medical imaging, signal processing, and scientific computing, where recovering original data from noisy or incomplete observations is crucial, promising more precise and efficient solutions.\n\n### **[ArXiv] Geometric Action Model for Robot Policy Learning**\nIntroducing a Geometric Action Model, this research aims to equip generalist robot policies with enhanced reasoning capabilities about 3D physical interactions between objects, cameras, and robot actions. This is a crucial step towards developing more intelligent and adaptable robots that can better understand and navigate complex real-world environments, moving beyond simple task execution to truly intelligent physical interaction.\n\n### **[ArXiv] Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes**\nThis work tackles the challenge of sparse rewards in online Reinforcement Learning for Vision-Language-Action (VLA) models, where robot fine-tuning often yields only binary success/failure outcomes. By proposing Hierarchical Advantage Weighting, the research offers a method to derive more granular per-transition supervision, significantly improving the efficiency and effectiveness of fine-tuning robot policies in real-world, low-data environments.\n\n---\n\n**Today's Signal:** The AI landscape is rapidly maturing, marked by aggressive commercialization and strategic plays, while simultaneously grappling with increasing ethical and regulatory scrutiny, pushing researchers to build more robust, self-aware, and physically intelligent agentic systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [AI News Update: 6 AI Tools That Dropped In The Last 24 Hours ](https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the) | Google also contributed major developments to this AI News Update through the la... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing the OpenAI Partner Network ](https://openai.com/index/introducing-openai-partner-network) | OpenAI launches the Partner Network, investing $150M to help global partners acc... |\n| [Malaysia\u2019s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions ](https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/) | Respond.io, one of Malaysia startups to watch, uses AI agents to handle high vol... |\n| [Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google\u2019s Israel, ICE ties ](https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/) | AI is once again at the heart of a college graduation protest \u2014 this time for th... |\n| [The US government\u2019s Anthropic models ban was never about an AI jailbreak ](https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/) | The Trump administration's decision that forced Anthropic to pull its latest cyb... |\n| [Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms ](https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/) | Meta announced Monday that it's rolling out a wave of new AI features on Faceboo... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Value Axis: Language Models Encode Whether They're on the Right Track ](http://arxiv.org/abs/2606.17056v1) | We investigate whether language models internally track the value of their curre... |\n| [Scale-Invariant Neural Network Optimization: Norm Geometry and Heavy-Tailed Noise ](http://arxiv.org/abs/2605.18528v3) | A growing lesson from neural network optimization is that optimizer design shoul... |\n| [Context-Aware RL for Agentic and Multimodal LLMs ](http://arxiv.org/abs/2606.17053v1) | Large language models (LLMs) often fail when answering requires identifying a sm... |\n| [Exact Posterior Score Estimation for Solving Linear Inverse Problems ](http://arxiv.org/abs/2606.17048v1) | Diffusion and flow-based models learn powerful data priors by training a denoise... |\n| [Geometric Action Model for Robot Policy Learning ](http://arxiv.org/abs/2606.17046v1) | Generalist robot policies must follow user instructions while reasoning about ho... |\n| [Canonical Variates in Wasserstein Metric Space ](http://arxiv.org/abs/2405.15768v2) | In this paper, we address the classification of instances represented by distrib... |\n| [Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes ](http://arxiv.org/abs/2606.17043v1) | When pretrained VLA policies are fine-tuned through online RL, each rollout epis... |\n| [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio ](http://arxiv.org/abs/2606.17041v1) | Meta-analysis is a demanding form of evidence synthesis that combines literature... |\n| [deFOREST: Fusing Optical and Radar satellite data for Enhanced Sensing of Tree-loss ](http://arxiv.org/abs/2510.14092v2) | In this paper we develop a deforestation detection pipeline that incorporates op... |\n| [The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers ](http://arxiv.org/abs/2606.17037v1) | Oppenheim and Lim (1981) showed that natural images stay recognizable when recon... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/diffusiongemma-26B-A4B-it ](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-... |\n| [MiniMaxAI/MiniMax-M3 ](https://huggingface.co/MiniMaxAI/MiniMax-M3) | Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to... |\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?](https://news.ycombinator.com/item?id=48542100) | HN Score: 934. Comments: 423 |\n| [[HackerNews] TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io) | HN Score: 799. Comments: 152 |\n| [[HackerNews] Why I email complete strangers](https://www.goodinternetmagazine.com/why-i-email-complete-strangers/) | HN Score: 143. Comments: 61 |\n| [[HackerNews] Cohere's First Model for Developers](https://cohere.com/blog/north-mini-code) | HN Score: 82. Comments: 19 |\n| [[HackerNews] My Homelab AI Dev Platform](https://rsgm.dev/post/ai-dev-platform/) | HN Score: 302. Comments: 52 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 12,
+    "sheet_status": "ok_11_subscribers_from_11_rows",
+    "email_status": "sent_to_12"
+  }
+}
