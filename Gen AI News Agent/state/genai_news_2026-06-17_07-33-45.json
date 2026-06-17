@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Unveils New Physical AI Research and Agent Workflows most up-to-date AI news and insights delivered. Generative AI Rebellions Aims to Take on Nvidia in AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+      "url": "http://arxiv.org/abs/2606.18247v1",
+      "summary": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Variable-Width Transformers",
+      "url": "http://arxiv.org/abs/2606.18246v1",
+      "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "url": "http://arxiv.org/abs/2606.18237v1",
+      "summary": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sign-Rank, Index, and List Replicability: Connections and Separations",
+      "url": "http://arxiv.org/abs/2606.18236v1",
+      "summary": "In learning theory, the sign rank of a binary concept class captures the smallest dimension in which it can be represented by points and halfspaces. Despite tremendous interest, lower bounds on sign r...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+      "url": "http://arxiv.org/abs/2606.18235v1",
+      "summary": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+      "url": "http://arxiv.org/abs/2606.18231v1",
+      "summary": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($\u03bd$) and density ($\u03c1$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+      "url": "http://arxiv.org/abs/2606.18223v1",
+      "summary": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses",
+      "url": "http://arxiv.org/abs/2606.18222v1",
+      "summary": "We introduce Darshana Graph, a corpus of over 125,000 text records spanning classical Hindu, Buddhist, and Jain philosophical traditions, drawn from public-domain and openly licensed translations of s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v1",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, time-varying, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "url": "http://arxiv.org/abs/2606.18216v1",
+      "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 60921",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 375974",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 25064",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "HN Score: 1241. Comments: 491",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "summary": "HN Score: 8. Comments: 5",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "HN Score: 213. Comments: 50",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "HN Score: 150. Comments: 66",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT\u2011NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "HN Score: 196. Comments: 177",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Unveils New Physical AI Research and Agent Workflows most up-to-date AI news and insights delivered. Generative AI Rebellions Aims to Take on Nvidia in AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Digest: A roundup of latest breakthroughs and ...",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool is now able to generate images. A Gemini app has been released for mobile devices",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+      "url": "http://arxiv.org/abs/2606.18247v1",
+      "summary": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Variable-Width Transformers",
+      "url": "http://arxiv.org/abs/2606.18246v1",
+      "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues",
+      "url": "http://arxiv.org/abs/2606.18237v1",
+      "summary": "Reproducing research results from papers and released code is central to scientific progress. Existing works have introduced benchmarks to evaluate whether LLM agents can assist with reproducibility, ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sign-Rank, Index, and List Replicability: Connections and Separations",
+      "url": "http://arxiv.org/abs/2606.18236v1",
+      "summary": "In learning theory, the sign rank of a binary concept class captures the smallest dimension in which it can be represented by points and halfspaces. Despite tremendous interest, lower bounds on sign r...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+      "url": "http://arxiv.org/abs/2606.18235v1",
+      "summary": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Volumetric Mechanical Property Fields Invariant to Resolution",
+      "url": "http://arxiv.org/abs/2606.18231v1",
+      "summary": "Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's ratio ($\u03bd$) and density ($\u03c1$) are essential for reliable physics simulation of digital worlds, but most 3D assets lack th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents",
+      "url": "http://arxiv.org/abs/2606.18223v1",
+      "summary": "With sophisticated cyber-attacks becoming increasingly prevalent, modern networks require intelligent autonomous cyber-defense agents trained via Reinforcement Learning (RL). These agents employ neuro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses",
+      "url": "http://arxiv.org/abs/2606.18222v1",
+      "summary": "We introduce Darshana Graph, a corpus of over 125,000 text records spanning classical Hindu, Buddhist, and Jain philosophical traditions, drawn from public-domain and openly licensed translations of s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v1",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, time-varying, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "url": "http://arxiv.org/abs/2606.18216v1",
+      "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 60921",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/diffusiongemma-26B-A4B-it",
+      "url": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-to-text, conversational, license:apache-2.0. Downloads: 375974",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 25064",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "HN Score: 1241. Comments: 491",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The founder's playbook: Building an AI-native startup",
+      "url": "https://claude.com/blog/the-founders-playbook",
+      "summary": "HN Score: 8. Comments: 5",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Humiliating IIS servers for fun and jail time",
+      "url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
+      "summary": "HN Score: 213. Comments: 50",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "HN Score: 150. Comments: 66",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT\u2011NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "HN Score: 196. Comments: 177",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+      },
+      {
+        "title": "[RSS] Android 17 launches with new multitasking tools as Google expands Gemini features",
+        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+        "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices."
+      },
+      {
+        "title": "[RSS] Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+        "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+        "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
+      },
+      {
+        "title": "[HackerNews] GPT\u2011NL: a sovereign language model for the Netherlands",
+        "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+        "summary": "HN Score: 196. Comments: 177"
+      },
+      {
+        "title": "[Tavily] Generative AI recent news | AI Business",
+        "url": "https://aibusiness.com/generative-ai",
+        "summary": "Unveils New Physical AI Research and Agent Workflows most up-to-date AI news and insights delivered. Generative AI Rebellions Aims to Take on Nvidia in AI"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Running local models is good now",
+        "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+        "summary": "HN Score: 1241. Comments: 491"
+      },
+      {
+        "title": "[HackerNews] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+        "summary": "HN Score: 150. Comments: 66"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Predicting model behavior before release by simulating deployment",
+        "url": "https://openai.com/index/deployment-simulation",
+        "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+      },
+      {
+        "title": "[ArXiv] Variable-Width Transformers",
+        "url": "http://arxiv.org/abs/2606.18246v1",
+        "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat..."
+      },
+      {
+        "title": "[ArXiv] Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+        "url": "http://arxiv.org/abs/2606.18247v1",
+        "summary": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen..."
+      },
+      {
+        "title": "[ArXiv] EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+        "url": "http://arxiv.org/abs/2606.18235v1",
+        "summary": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ..."
+      },
+      {
+        "title": "[ArXiv] Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+        "url": "http://arxiv.org/abs/2606.18216v1",
+        "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+      "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+      "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+    },
+    {
+      "title": "[RSS] Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "summary": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The launch is also accompanied by a Pixel Drop that brings Google\u2019s latest AI models to its devices."
+    },
+    {
+      "title": "[RSS] Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+      "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+      "summary": "WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referral channel."
+    },
+    {
+      "title": "[HackerNews] GPT\u2011NL: a sovereign language model for the Netherlands",
+      "url": "https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/",
+      "summary": "HN Score: 196. Comments: 177"
+    },
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "Unveils New Physical AI Research and Agent Workflows most up-to-date AI news and insights delivered. Generative AI Rebellions Aims to Take on Nvidia in AI"
+    },
+    {
+      "title": "[HackerNews] Running local models is good now",
+      "url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+      "summary": "HN Score: 1241. Comments: 491"
+    },
+    {
+      "title": "[HackerNews] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
+      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/",
+      "summary": "HN Score: 150. Comments: 66"
+    },
+    {
+      "title": "[RSS] Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+    },
+    {
+      "title": "[ArXiv] Variable-Width Transformers",
+      "url": "http://arxiv.org/abs/2606.18246v1",
+      "summary": "Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocat..."
+    },
+    {
+      "title": "[ArXiv] Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement",
+      "url": "http://arxiv.org/abs/2606.18247v1",
+      "summary": "Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a gen..."
+    },
+    {
+      "title": "[ArXiv] EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation",
+      "url": "http://arxiv.org/abs/2606.18235v1",
+      "summary": "Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore and locate target objects without any prior training. To this end, recent methods leverage foundation models. But they typ..."
+    },
+    {
+      "title": "[ArXiv] Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients",
+      "url": "http://arxiv.org/abs/2606.18216v1",
+      "summary": "Knowledge distillation transfers a teacher's competence to a small student but is brittle in the small-student regime: forcing the student to imitate logits from a much larger teacher concentrates it ..."
+    }
+  ],
+  "final_report": "# AI Daily Intelligence Report: Navigating Consumer Skepticism and Sovereign AI Ambitions\n\nToday's AI landscape reveals a fascinating dichotomy: while nations and tech giants push for deeper AI integration, a significant portion of consumers remains wary. This report delves into strategic business implications, emerging developer tools, and cutting-edge research shaping the future of artificial intelligence.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/)**\nThis highlights the complex interplay between regulatory scrutiny and market perception in the AI space. For business leaders, it suggests that strong product adoption can sometimes override political headwinds, potentially even turning controversy into a brand differentiator among certain user segments.\n\n### **[Android 17 launches with new multitasking tools as Google expands Gemini features](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/)**\nGoogle continues to embed its Gemini AI across its vast ecosystem, from mobile to wearables. This strategic move aims to deepen user engagement within its platform, offering a compelling integrated experience that could drive hardware sales and reinforce its competitive position against rivals.\n\n### **[Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/)**\nThis is a critical warning for marketing and product teams: overt \"AI branding\" can alienate consumers, despite the industry's push for AI integration. Businesses must carefully consider how they communicate AI's role in their products and services, prioritizing tangible benefits and trust over buzzwords to avoid consumer backlash.\n\n### **[GPT-NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/)**\nThe development of \"sovereign\" language models like GPT-NL signals a growing trend among nations to control their AI infrastructure and data. This has significant implications for data privacy, national security, and economic competitiveness, potentially leading to a more fragmented global AI landscape and new opportunities for localized AI solutions.\n\n### **[Generative AI recent news | AI Business](https://aibusiness.com/generative-ai)**\nThis broad overview points to the rapid diversification and competitive intensity within the generative AI sector. The emergence of \"Physical AI Research\" and new \"Agent Workflows\" indicates a shift towards more embodied and autonomous AI applications, while challenges to Nvidia highlight the ongoing race for AI hardware dominance.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)**\nThis is a significant development for developers, indicating that the performance and tooling for running large language models locally have matured considerably. It opens up new possibilities for privacy-preserving applications, offline functionality, and cost-effective experimentation, making AI development more accessible and flexible.\n\n### **[Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)**\nWolfram's integration of an AI Assistant and symbolic music capabilities into Mathematica 15 provides powerful new tools for technical computing and creative applications. Developers and researchers can leverage these features for advanced data analysis, complex problem-solving, and novel generative projects, extending the platform's utility in AI-driven workflows.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation)**\nOpenAI's Deployment Simulation is a crucial step towards more responsible AI development, offering a proactive approach to identifying and mitigating risks before models reach the public. This methodology could become a standard for evaluating AI safety and robustness, pushing the frontier of trustworthy AI systems.\n\n### **[Variable-Width Transformers](http://arxiv.org/abs/2606.18246v1)**\nThis paper explores a novel architectural design for transformers, challenging the conventional constant-width approach. Variable-width transformers could lead to more efficient and specialized models, optimizing resource allocation within the network and potentially unlocking new performance gains for specific tasks.\n\n### **[Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement](http://arxiv.org/abs/2606.18247v1)**\nVERITAS introduces a promising approach for robots to learn and improve autonomously in real-world environments through visual verification. This research is vital for developing more robust and adaptable robotic systems, enabling them to refine their policies and enhance safety without constant human intervention.\n\n### **[EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation](http://arxiv.org/abs/2606.18235v1)**\nEvolveNav addresses a critical challenge in embodied AI: enabling agents to navigate and find objects in unknown environments without prior training. Its focus on \"proactive preflection\" and \"self-evolving memory\" represents a significant step towards more intelligent and autonomous robotic exploration, pushing the boundaries of zero-shot learning.\n\n### **[Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients](http://arxiv.org/abs/2606.18216v1)**\nThis paper proposes an innovative knowledge distillation technique, \"Zone of Proximal Policy Optimization,\" that leverages prompts rather than gradients for transferring knowledge. This could revolutionize how smaller models learn from larger ones, making distillation more robust and effective, especially for resource-constrained applications.\n\nToday's Signal: The AI industry is grappling with the dual challenge of rapid technological advancement and growing consumer skepticism, while nations increasingly pursue sovereign AI capabilities.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | Unveils New Physical AI Research and Agent Workflows most up-to-date AI news and... |\n| [Generative AI Digest: A roundup of latest breakthroughs and ... ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-digest-a-roundup-of-latest-breakthroughs-and-developments) | Chat tool Bard is now known as Gemini, reflecting its model upgrade \u2014 the tool i... |\n| [Notable and Interesting Recent AI News, Articles, and Papers for ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Predicting model behavior before release by simulating deployment ](https://openai.com/index/deployment-simulation) | OpenAI introduces Deployment Simulation, a method to predict AI model behavior b... |\n| [Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests ](https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/) | Anthropic's popularity with business users is growing so well that the latest be... |\n| [SpaceX valuation balloons to $2.6T, briefly passes Amazon ](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/) | SpaceX's valuation has increased by $1 trillion since its shares started trading... |\n| [Android 17 launches with new multitasking tools as Google expands Gemini features ](https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/) | Google has released Android 17 and Wear OS 7, introducing new multitasking featu... |\n| [Sixty percent of US consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds ](https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/) | WordPress VIP\u2019s latest survey suggests consumers are wary of AI-generated answer... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement ](http://arxiv.org/abs/2606.18247v1) | Robots deployed in the real world should learn from their experience and improve... |\n| [Variable-Width Transformers ](http://arxiv.org/abs/2606.18246v1) | Scaling model size, specifically depth and width, has driven significant progres... |\n| [ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues ](http://arxiv.org/abs/2606.18237v1) | Reproducing research results from papers and released code is central to scienti... |\n| [Sign-Rank, Index, and List Replicability: Connections and Separations ](http://arxiv.org/abs/2606.18236v1) | In learning theory, the sign rank of a binary concept class captures the smalles... |\n| [EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation ](http://arxiv.org/abs/2606.18235v1) | Zero-Shot Object-Goal Navigation (ZS-OGN) requires embodied agents to explore an... |\n| [Adaptive Volumetric Mechanical Property Fields Invariant to Resolution ](http://arxiv.org/abs/2606.18231v1) | Accurate mechanical properties (or materials) Young's modulus ($E$), Poisson's r... |\n| [Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents ](http://arxiv.org/abs/2606.18223v1) | With sophisticated cyber-attacks becoming increasingly prevalent, modern network... |\n| [Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses ](http://arxiv.org/abs/2606.18222v1) | We introduce Darshana Graph, a corpus of over 125,000 text records spanning clas... |\n| [Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds ](http://arxiv.org/abs/2606.18218v1) | We study finite-horizon queue peaks in generalized switches, a standard stochast... |\n| [Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients ](http://arxiv.org/abs/2606.18216v1) | Knowledge distillation transfers a teacher's competence to a small student but i... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n| [google/diffusiongemma-26B-A4B-it ](https://huggingface.co/google/diffusiongemma-26B-A4B-it) | Trending HF Model. Tags: transformers, safetensors, diffusion_gemma, image-text-... |\n| [MiniMaxAI/MiniMax-M3 ](https://huggingface.co/MiniMaxAI/MiniMax-M3) | Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/) | HN Score: 1241. Comments: 491 |\n| [[HackerNews] The founder's playbook: Building an AI-native startup](https://claude.com/blog/the-founders-playbook) | HN Score: 8. Comments: 5 |\n| [[HackerNews] Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/) | HN Score: 213. Comments: 50 |\n| [[HackerNews] Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/) | HN Score: 150. Comments: 66 |\n| [[HackerNews] GPT\u2011NL: a sovereign language model for the Netherlands](https://www.tno.nl/en/digital/artificial-intelligence/gpt-nl/) | HN Score: 196. Comments: 177 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
