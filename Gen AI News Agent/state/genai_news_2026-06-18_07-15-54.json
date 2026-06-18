@@ -1,0 +1,461 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Roelof Botha joins SpaceX\u2019s board of directors",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "http://arxiv.org/abs/2606.19341v1",
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning User Simulators with Turing Rewards",
+      "url": "http://arxiv.org/abs/2606.19336v1",
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "http://arxiv.org/abs/2606.19334v1",
+      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs",
+      "url": "http://arxiv.org/abs/2605.12713v3",
+      "summary": "In the field of quantum reservoir computing (QRC), many different computational models and architectures have been proposed. From these models, we identify feedback-based models -- which use a feedbac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+      "url": "http://arxiv.org/abs/2606.19329v1",
+      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2606.19328v1",
+      "summary": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+      "url": "http://arxiv.org/abs/2606.19327v1",
+      "summary": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DiPOD: Diffusion Policy Optimization without Drifting Apart",
+      "url": "http://arxiv.org/abs/2606.13795v2",
+      "summary": "RL post-training has become increasingly pivotal for improving diffusion policies, but existing diffusion policy-gradient methods are often unstable and cannot achieve reliable policy improvement. We ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+      "url": "http://arxiv.org/abs/2606.19325v1",
+      "summary": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+      "url": "http://arxiv.org/abs/2606.19319v1",
+      "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 146784",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 666",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 42198",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "summary": "HN Score: 27. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] [x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "summary": "HN Score: 29. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "summary": "HN Score: 177. Comments: 84",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How to Become a Person After Smartphones Have Rotted Your Brain",
+      "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+      "summary": "HN Score: 18. Comments: 3",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Roelof Botha joins SpaceX\u2019s board of directors",
+      "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+      "summary": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
+      "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+      "summary": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "http://arxiv.org/abs/2606.19341v1",
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning User Simulators with Turing Rewards",
+      "url": "http://arxiv.org/abs/2606.19336v1",
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States",
+      "url": "http://arxiv.org/abs/2606.19334v1",
+      "summary": "Progress in legal AI increasingly depends on access to authoritative legal text at scale. Yet one of the most consequential layers of American law remains largely absent from existing machine-readable...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs",
+      "url": "http://arxiv.org/abs/2605.12713v3",
+      "summary": "In the field of quantum reservoir computing (QRC), many different computational models and architectures have been proposed. From these models, we identify feedback-based models -- which use a feedbac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning",
+      "url": "http://arxiv.org/abs/2606.19329v1",
+      "summary": "We present a framework to cross-match sources from the Chandra Source Catalog (CSC v2.1) with optical sources from Gaia Data Release 3. Unlike purely spatial approaches, we use source properties such ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2606.19328v1",
+      "summary": "Preference-based RL provides an approach to learning reward models from pairwise comparisons of behaviors, bypassing the need for explicit reward design. However, existing methods typically rely on pa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation",
+      "url": "http://arxiv.org/abs/2606.19327v1",
+      "summary": "Post-training of reasoning language models is commonly driven by supervised distillation and reinforcement learning with verifiable rewards. Distillation often relies on chain-of-thought annotations t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DiPOD: Diffusion Policy Optimization without Drifting Apart",
+      "url": "http://arxiv.org/abs/2606.13795v2",
+      "summary": "RL post-training has become increasingly pivotal for improving diffusion policies, but existing diffusion policy-gradient methods are often unstable and cannot achieve reliable policy improvement. We ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors",
+      "url": "http://arxiv.org/abs/2606.19325v1",
+      "summary": "Existing multi-speaker dialogue systems bind speakers to utterances through structured supervision: per-turn tags, multi-stream transcriptions, or learnable speaker embeddings. These systems operate w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+      "url": "http://arxiv.org/abs/2606.19319v1",
+      "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 146784",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 666",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 42198",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] The Australian Government to Require SMS/MMS Sender ID Registraion",
+      "url": "https://www.acma.gov.au/sms-sender-id-register",
+      "summary": "HN Score: 27. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] [x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "summary": "HN Score: 29. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "url": "https://github.com/Adam-CAD/CADAM",
+      "summary": "HN Score: 177. Comments: 84",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How to Become a Person After Smartphones Have Rotted Your Brain",
+      "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
+      "summary": "HN Score: 18. Comments: 3",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+        "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+        "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+      },
+      {
+        "title": "[RSS] How to turn off AI in your Google Docs",
+        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+        "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] [x86] AI Compute Extensions (ACE) Specification",
+        "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+        "summary": "HN Score: 29. Comments: 13"
+      },
+      {
+        "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 146784"
+      },
+      {
+        "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 42198"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction",
+        "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+      },
+      {
+        "title": "[RSS] Introducing LifeSciBench",
+        "url": "https://openai.com/index/introducing-life-sci-bench",
+        "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+      },
+      {
+        "title": "[ArXiv] Native Active Perception as Reasoning for Omni-Modal Understanding",
+        "url": "http://arxiv.org/abs/2606.19341v1",
+        "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat..."
+      },
+      {
+        "title": "[ArXiv] Learning User Simulators with Turing Rewards",
+        "url": "http://arxiv.org/abs/2606.19336v1",
+        "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr..."
+      },
+      {
+        "title": "[ArXiv] Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+        "url": "http://arxiv.org/abs/2606.19319v1",
+        "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+    },
+    {
+      "title": "[RSS] How to turn off AI in your Google Docs",
+      "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+      "summary": "Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go away."
+    },
+    {
+      "title": "[HackerNews] [x86] AI Compute Extensions (ACE) Specification",
+      "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
+      "summary": "HN Score: 29. Comments: 13"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 146784"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 42198"
+    },
+    {
+      "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research."
+    },
+    {
+      "title": "[RSS] Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions."
+    },
+    {
+      "title": "[ArXiv] Native Active Perception as Reasoning for Omni-Modal Understanding",
+      "url": "http://arxiv.org/abs/2606.19341v1",
+      "summary": "Passive models for long video understanding typically rely on a \"watch-it-all\" paradigm, processing frames uniformly regardless of query difficulty, causing computational cost to grow with video durat..."
+    },
+    {
+      "title": "[ArXiv] Learning User Simulators with Turing Rewards",
+      "url": "http://arxiv.org/abs/2606.19336v1",
+      "summary": "Learning to simulate human users in interactive settings could advance the training of agent assistants, evaluation of personalization systems, research in the social sciences, and more. Existing appr..."
+    },
+    {
+      "title": "[ArXiv] Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents",
+      "url": "http://arxiv.org/abs/2606.19319v1",
+      "summary": "Production data integration is bottlenecked by repeated, lossy handoffs between data owners, engineers, and analysts who must collaboratively discover, structure, and query enterprise data. We present..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Autonomous Agents Drive Scientific Discovery & Enterprise Efficiency\n\nToday's AI landscape is marked by a dual surge: advanced autonomous agents are pushing the boundaries of scientific research, while practical AI tools continue to refine enterprise workflows and developer capabilities. From self-improving chemists to intelligent data agents, the focus is shifting towards AI systems that can independently interpret, act, and learn, promising profound impacts across industries.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Here's ALL the big AI news that dropped over the past week - LinkedIn](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR)**\nThis LinkedIn summary highlights a rapid acceleration in product cycles from major players like OpenAI (GPT-5.1, ChatGPT group chats) and Microsoft. Business leaders should note the continuous innovation, particularly around advanced models and collaborative AI, which could redefine team productivity and customer engagement strategies. Staying abreast of these frequent updates is crucial for competitive advantage and strategic planning.\n\n### **[How to turn off AI in your Google Docs](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/)**\nWhile seemingly minor, this article points to a critical user experience challenge for AI integration in enterprise tools. Businesses deploying AI must consider user agency and control, as forced adoption or intrusive features can lead to frustration and resistance. Strategic implementation requires balancing innovation with user preference and providing clear opt-out mechanisms to ensure adoption and satisfaction.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[[x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/)**\nThis specification signals a significant development in hardware-level AI acceleration for the x86 architecture. Developers should watch this closely as it could lead to new opportunities for optimizing AI workloads directly on CPUs, potentially reducing reliance on specialized GPUs for certain tasks and expanding the reach of on-device AI. Understanding these low-level extensions will be key for maximizing performance in future applications.\n\n### **[yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**\nThis trending GGUF model, based on Gemma-4 and fine-tuned for coding and reasoning, is a strong candidate for developers building local or edge AI applications. Its GGUF format makes it highly accessible for deployment on consumer hardware, offering powerful code generation and problem-solving capabilities without cloud dependency. Practitioners should experiment with this model for enhancing developer tools, automated scripting, or intelligent agents.\n\n### **[MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**\nMiniMax-M3, a multimodal MoE model, represents a cutting-edge tool for developers working with complex data types. Its ability to handle image-text-to-text tasks opens up new possibilities for applications requiring sophisticated understanding and generation across modalities, such as advanced content creation, intelligent search, or interactive AI assistants. Engineers should explore its potential for building more intuitive and versatile AI systems.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction)**\nThis breakthrough demonstrates the profound potential of AI, specifically advanced LLMs like GPT-5.4, to accelerate scientific discovery in complex domains like chemistry. The concept of a \"near-autonomous AI chemist\" points towards a future where AI agents can independently design and optimize experiments, significantly reducing R&D cycles and opening new avenues for drug discovery and materials science. Researchers should consider the implications for automating experimental design and hypothesis generation across scientific disciplines.\n\n### **[Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench)**\nThe introduction of LifeSciBench is a critical step forward for robust evaluation of AI in the life sciences. This expert-curated benchmark will enable researchers to more accurately assess the capabilities and limitations of AI models in real-world biological and medical contexts, moving beyond generic benchmarks. It provides a standardized framework for comparing models, fostering more reliable and impactful AI applications in scientific research.\n\n### **[Native Active Perception as Reasoning for Omni-Modal Understanding](http://arxiv.org/abs/2606.19341v1)**\nThis paper proposes a novel approach to long video understanding by moving beyond passive, uniform processing to \"active perception.\" By integrating reasoning into the perception process, AI systems can intelligently select and focus on relevant information, significantly reducing computational overhead and improving efficiency for complex, extended temporal data. This has profound implications for real-time video analysis, robotics, and resource-constrained AI deployments.\n\n### **[Learning User Simulators with Turing Rewards](http://arxiv.org/abs/2606.19336v1)**\nThe concept of \"Turing Rewards\" for learning user simulators presents an intriguing new paradigm for developing more sophisticated and human-like AI agents. By training models to generate user behaviors that are indistinguishable from real humans, this research could revolutionize the evaluation and training of interactive AI systems, personalization engines, and even contribute to social science research by providing realistic experimental subjects. This pushes the boundaries of AI's ability to model and interact with human cognition.\n\n### **[Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents](http://arxiv.org/abs/2606.19319v1)**\nThis research introduces \"Data Intelligence Agents\" that leverage autonomous coding to streamline enterprise data workflows. By enabling AI agents to interpret, model, and query complex data independently, this work addresses a major bottleneck in data integration and analysis. It points towards a future where data professionals can offload significant portions of their work to intelligent agents, accelerating insights and reducing errors in large-scale data environments.\n\n---\n**Today's Signal:** The rapid evolution of AI is increasingly focused on developing autonomous agents that can independently perform complex tasks, from scientific discovery to enterprise data management, signaling a shift towards more intelligent and self-sufficient AI systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry ](https://openai.com/index/ai-chemist-improves-reaction) | OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 impr... |\n| [Introducing LifeSciBench ](https://openai.com/index/introducing-life-sci-bench) | Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for eval... |\n| [How to turn off AI in your Google Docs ](https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/) | Here's what you need to do to get those pesky \"write with Gemini\" pop-ups to go ... |\n| [Roelof Botha joins SpaceX\u2019s board of directors ](https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/) | The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's b... |\n| [After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive ](https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/) | Snap's long-awaited smart glasses debut hasn't exactly done wonders for the comp... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Native Active Perception as Reasoning for Omni-Modal Understanding ](http://arxiv.org/abs/2606.19341v1) | Passive models for long video understanding typically rely on a \"watch-it-all\" p... |\n| [Learning User Simulators with Turing Rewards ](http://arxiv.org/abs/2606.19336v1) | Learning to simulate human users in interactive settings could advance the train... |\n| [Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States ](http://arxiv.org/abs/2606.19334v1) | Progress in legal AI increasingly depends on access to authoritative legal text ... |\n| [Controllable Quantum Memory Capacity in Quantum Reservoir Networks with Tunable partial-SWAPs ](http://arxiv.org/abs/2605.12713v3) | In the field of quantum reservoir computing (QRC), many different computational ... |\n| [The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning ](http://arxiv.org/abs/2606.19329v1) | We present a framework to cross-match sources from the Chandra Source Catalog (C... |\n| [UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning ](http://arxiv.org/abs/2606.19328v1) | Preference-based RL provides an approach to learning reward models from pairwise... |\n| [Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation ](http://arxiv.org/abs/2606.19327v1) | Post-training of reasoning language models is commonly driven by supervised dist... |\n| [DiPOD: Diffusion Policy Optimization without Drifting Apart ](http://arxiv.org/abs/2606.13795v2) | RL post-training has become increasingly pivotal for improving diffusion policie... |\n| [Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors ](http://arxiv.org/abs/2606.19325v1) | Existing multi-speaker dialogue systems bind speakers to utterances through stru... |\n| [Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents ](http://arxiv.org/abs/2606.19319v1) | Production data integration is bottlenecked by repeated, lossy handoffs between ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [MiniMaxAI/MiniMax-M3 ](https://huggingface.co/MiniMaxAI/MiniMax-M3) | Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] The Australian Government to Require SMS/MMS Sender ID Registraion](https://www.acma.gov.au/sms-sender-id-register) | HN Score: 27. Comments: 9 |\n| [[HackerNews] [x86] AI Compute Extensions (ACE) Specification](https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/) | HN Score: 29. Comments: 13 |\n| [[HackerNews] Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD](https://github.com/Adam-CAD/CADAM) | HN Score: 177. Comments: 84 |\n| [[HackerNews] How to Become a Person After Smartphones Have Rotted Your Brain](https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain) | HN Score: 18. Comments: 3 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
