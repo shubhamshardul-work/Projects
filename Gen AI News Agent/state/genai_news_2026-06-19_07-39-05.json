@@ -1,0 +1,369 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 211424",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 4307",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 56162",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "summary": "HN Score: 27. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "summary": "HN Score: 6. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "url": "https://www.flexport.com/company/careers/",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "summary": "HN Score: 82. Comments: 65",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Akse3D \u2013 open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+      "summary": "Learn how GPT-5.5 Instant improves ChatGPT\u2019s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+      "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 211424",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 4307",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 56162",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Zen and the Art of Machine Learning Research",
+      "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+      "summary": "HN Score: 27. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
+      "summary": "HN Score: 6. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
+      "url": "https://www.flexport.com/company/careers/",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] How Japan's railways stayed one while splitting apart",
+      "url": "https://arun.is/blog/jr-logo/",
+      "summary": "HN Score: 82. Comments: 65",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Akse3D \u2013 open-source 3D modelling anyone can master",
+      "url": "https://akse3d-en.skaperiet.no",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
