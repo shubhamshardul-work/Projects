@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "Google Cloud generative AI automates council planning operations \u00b7 SAP and Google Cloud deploy agentic commerce architecture \u00b7 Google Cloud generative AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 312332",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 19683",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 85771",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "HN Score: 63. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "summary": "HN Score: 210. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "summary": "HN Score: 46. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "summary": "HN Score: 159. Comments: 33",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "summary": "HN Score: 111. Comments: 71",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "Google Cloud generative AI automates council planning operations \u00b7 SAP and Google Cloud deploy agentic commerce architecture \u00b7 Google Cloud generative AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5&#8217;s guardrails.&#160; Cybersecurity researchers have&#160;since ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 312332",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 19683",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 85771",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "HN Score: 63. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "url": "https://github.com/mysk-research/loupe",
+      "summary": "HN Score: 210. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "summary": "HN Score: 46. Comments: 12",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slow breathing modulates brain function and risk behavior",
+      "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+      "summary": "HN Score: 159. Comments: 33",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Your brain was never designed for this much bad news",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+      "summary": "HN Score: 111. Comments: 71",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+        "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "summary": "Jumper isn't the only big name leaving Google DeepMind."
+      },
+      {
+        "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+        "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+        "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos."
+      },
+      {
+        "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+        "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+        "summary": "Just as last week\u00a0was ending,\u00a0the US government\u00a0forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5\u2019s guardrails.\u00a0 Cybersecurity researchers have\u00a0since "
+      }
+    ],
+    "technical": [
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "summary": "So ... what's your In the Weights score?"
+      },
+      {
+        "title": "Building reliable agentic AI systems",
+        "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+        "summary": "HN Score: 63. Comments: 12"
+      },
+      {
+        "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 312332"
+      },
+      {
+        "title": "MiniMaxAI/MiniMax-M3",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 85771"
+      }
+    ],
+    "research": [
+      {
+        "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "summary": "\u201cThese are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+      },
+      {
+        "title": "How Transparent is DiffusionGemma?",
+        "url": "http://arxiv.org/abs/2606.20560v1",
+        "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..."
+      },
+      {
+        "title": "Optimal Deterministic Multicalibration and Omniprediction",
+        "url": "http://arxiv.org/abs/2606.20557v1",
+        "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each..."
+      },
+      {
+        "title": "Predictability as a Fine-Grained Measure for Privacy",
+        "url": "http://arxiv.org/abs/2606.20546v1",
+        "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W..."
+      },
+      {
+        "title": "The 100k Whys of AI",
+        "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+        "summary": "HN Score: 46. Comments: 12"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "url": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper isn't the only big name leaving Google DeepMind."
+    },
+    {
+      "title": "From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone",
+      "url": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "For the last 30 years, stopping the flow of cybersecurity-related software has proven to be ineffective. It's unclear why it would work now with Anthropic\u2019s cybersecurity model Mythos."
+    },
+    {
+      "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
+      "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "Just as last week\u00a0was ending,\u00a0the US government\u00a0forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5\u2019s guardrails.\u00a0 Cybersecurity researchers have\u00a0since "
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?"
+    },
+    {
+      "title": "Building reliable agentic AI systems",
+      "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+      "summary": "HN Score: 63. Comments: 12"
+    },
+    {
+      "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 312332"
+    },
+    {
+      "title": "MiniMaxAI/MiniMax-M3",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to-text, multimodal, moe. Downloads: 85771"
+    },
+    {
+      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\u201cThese are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+    },
+    {
+      "title": "How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..."
+    },
+    {
+      "title": "Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each..."
+    },
+    {
+      "title": "Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W..."
+    },
+    {
+      "title": "The 100k Whys of AI",
+      "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+      "summary": "HN Score: 46. Comments: 12"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Talent Wars, Regulatory Tangles, and the Quest for Transparent AI\n\nToday's AI landscape is a dynamic interplay of high-stakes talent acquisition, evolving regulatory challenges, and a deep dive into the ethical and technical foundations of increasingly complex models. We're seeing a fierce competition for top minds, alongside critical discussions on AI's societal impact and the tools to build more reliable systems.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/)**\nThe departure of Nobel laureate John Jumper from Google DeepMind to Anthropic signals a significant shift in the AI talent war. Jumper, a pivotal figure in AlphaFold's success, brings immense scientific credibility and expertise to Anthropic, intensifying the competition for leading researchers and potentially accelerating Anthropic's foundational model development. This move underscores the strategic importance of attracting and retaining top-tier talent in the race for AI dominance.\n\n### **[From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/)**\nThis historical analysis casts doubt on the effectiveness of current export controls, particularly those targeting advanced AI models like Anthropic's Mythos. Drawing parallels to past failures in controlling encryption and spyware, the report suggests that attempts to restrict the flow of cutting-edge AI technology may prove futile. Business leaders should consider the potential for such controls to be circumvented, impacting global market dynamics and the spread of AI capabilities.\n\n### **[Is the US government\u2019s Anthropic ban accidentally helping the brand?](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/)**\nThe recent US government ban on Anthropic's Fable 5 and Mythos 5 models, citing national security concerns, presents a complex strategic dilemma. While intended to mitigate risks, such high-profile government intervention can inadvertently elevate a brand's profile and perceived capabilities, creating a \"forbidden fruit\" effect. Executives should monitor how regulatory actions, even restrictive ones, can paradoxically influence public perception and market positioning in the rapidly evolving AI sector.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)**\n\"In the Weights\" appears to be emerging as a new platform or tool for developers to evaluate and benchmark their AI models, potentially offering a unique \"vanity score\" for performance. This could become a valuable resource for practitioners looking to gauge their model's standing against others or track improvements over time. Developers should explore this tool for insights into model optimization and competitive analysis.\n\n### **[Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html)**\nFor engineers and developers, the challenge of building reliable agentic AI systems is paramount, and this article from Martin Fowler's site offers critical insights. With a solid HN score, it likely provides practical strategies and architectural patterns to ensure AI agents perform consistently and predictably in real-world applications. This is a must-read for anyone working on autonomous or semi-autonomous AI systems.\n\n### **[yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**\nThis trending Hugging Face model, a GGUF quantized version of a Gemma-based coder model, is gaining significant traction with over 300,000 downloads. Its focus on coding, reasoning, and thinking makes it an excellent candidate for developers building local LLM applications that require strong code generation or logical problem-solving capabilities. Practitioners should consider integrating this model for efficient, on-device AI coding assistance.\n\n### **[MiniMaxAI/MiniMax-M3](https://huggingface.co/MiniMaxAI/MiniMax-M3)**\nAnother trending Hugging Face model, MiniMax-M3, stands out as a multimodal MoE (Mixture of Experts) model, indicating advanced capabilities in processing both image and text data. With substantial downloads, it's a strong contender for developers working on multimodal AI applications, such as image captioning, visual question answering, or complex content generation. This model offers a powerful foundation for exploring the frontiers of integrated AI understanding.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)**\nMeredith Whittaker's stark reminder that \"These are not your friends. These are not conscious beings. These are not sentient interlocutors\" serves as a crucial ethical anchor for AI researchers. This perspective challenges the growing anthropomorphization of AI, urging the community to maintain a clear distinction between advanced algorithms and genuine consciousness. It's a call to foster responsible development grounded in scientific reality rather than speculative sentience.\n\n### **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**\nThis arXiv paper delves into the critical issue of LLM reasoning transparency, specifically for DiffusionGemma models. Understanding how models arrive at their decisions is vital for debugging, mitigating misuse, and ensuring alignment with human values. Researchers should pay close attention to methods that enhance transparency, as it's a cornerstone for building trustworthy and explainable AI systems.\n\n### **[Optimal Deterministic Multicalibration and Omniprediction](http://arxiv.org/abs/2606.20557v1)**\nThis research explores advanced concepts in AI fairness, focusing on \"multicalibration\" and \"omniprediction\" to ensure models are unbiased across various demographic subgroups. Achieving calibration not just overall, but also conditionally on specific reweighted contexts, represents a significant theoretical step towards more equitable AI. Academics and deep-tech thinkers will find this work crucial for developing robust and fair predictive models.\n\n### **[Predictability as a Fine-Grained Measure for Privacy](http://arxiv.org/abs/2606.20546v1)**\nMoving beyond the worst-case guarantees of differential privacy, this paper introduces \"predictability\" as a more fine-grained measure for privacy. This approach aims to offer a nuanced understanding of the privacy-accuracy tradeoff, potentially leading to more efficient privacy-preserving AI systems. Researchers in privacy and security should investigate this novel framework for its implications on data protection and model utility.\n\n### **[The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai)**\nWith a solid HN score, \"The 100k Whys of AI\" likely presents a thought-provoking exploration of fundamental questions, challenges, and philosophical underpinnings of artificial intelligence. This piece encourages researchers and deep-tech thinkers to critically examine the core principles, limitations, and long-term implications of AI development. It's an essential read for anyone seeking to understand the deeper intellectual currents shaping the field.\n\n---\n**Today's Signal:** The AI industry is simultaneously battling for top talent and grappling with the profound ethical, regulatory, and technical challenges of building truly reliable and responsible intelligent systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI News | Latest News | Insights Powering AI-Driven Business Growth ](https://www.artificialintelligence-news.com) | Google Cloud generative AI automates council planning operations \u00b7 SAP and Googl... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019 ](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) | \"These are not your friends. These are not conscious beings. These are not senti... |\n| [[RSS] In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) | So ... what's your In the Weights score? |\n| [[RSS] Nobel laureate John Jumper is leaving DeepMind for rival Anthropic](https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/) | Jumper isn't the only big name leaving Google DeepMind. |\n| [From PGP to Mythos: a brief history of export controls that didn\u2019t stop anyone ](https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/) | For the last 30 years, stopping the flow of cybersecurity-related software has p... |\n| [Is the US government\u2019s Anthropic ban accidentally helping the brand? ](https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/) | Just as last week&#160;was ending,&#160;the US government&#160;forced Anthropic ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How Transparent is DiffusionGemma? ](http://arxiv.org/abs/2606.20560v1) | LLM reasoning transparency is a critical affordance for understanding model deci... |\n| [UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning ](http://arxiv.org/abs/2606.20559v1) | Egocentric video understanding is inherently limited by the narrow perspective o... |\n| [Optimal Deterministic Multicalibration and Omniprediction ](http://arxiv.org/abs/2606.20557v1) | A model is multicalibrated on a collection of group weights $G$ if it is calibra... |\n| [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation ](http://arxiv.org/abs/2606.20554v1) | Generative recommendation is an emerging paradigm that has shown promise in indu... |\n| [The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups ](http://arxiv.org/abs/2606.20547v1) | We place the attention token on the group: a token is an element $g_i$ of a matr... |\n| [Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent ](http://arxiv.org/abs/2604.08552v2) | Scientific metadata are often incomplete and noncompliant with community standar... |\n| [Predictability as a Fine-Grained Measure for Privacy ](http://arxiv.org/abs/2606.20546v1) | Differential privacy (DP) ensures rigorous individual-level privacy guarantees a... |\n| [Toward Calibrated Mixture-of-Experts Under Distribution Shift ](http://arxiv.org/abs/2606.20544v1) | Calibration aligns a model's predictive uncertainty with the frequencies of its ... |\n| [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs ](http://arxiv.org/abs/2603.16941v2) | Speech Large Language Models (SpeechLLMs) process spoken input directly, retaini... |\n| [Multi-Task Bayesian In-Context Learning ](http://arxiv.org/abs/2606.20538v1) | Bayesian predictive inference provides a principled framework for uncertainty qu... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [MiniMaxAI/MiniMax-M3 ](https://huggingface.co/MiniMaxAI/MiniMax-M3) | Trending HF Model. Tags: transformers, safetensors, minimax_m3_vl, image-text-to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Building reliable agentic AI systems](https://martinfowler.com/articles/reliable-llm-bayer.html) | HN Score: 63. Comments: 12 |\n| [[HackerNews] Loupe \u2013 A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe) | HN Score: 210. Comments: 57 |\n| [[HackerNews] The 100k Whys of AI](https://lcamtuf.substack.com/p/the-100000-whys-of-ai) | HN Score: 46. Comments: 12 |\n| [[HackerNews] Slow breathing modulates brain function and risk behavior](https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9) | HN Score: 159. Comments: 33 |\n| [[HackerNews] Your brain was never designed for this much bad news](https://www.sciencedaily.com/releases/2026/06/260614012006.htm) | HN Score: 111. Comments: 71 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
