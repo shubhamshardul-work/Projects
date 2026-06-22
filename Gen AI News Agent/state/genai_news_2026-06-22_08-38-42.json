@@ -1,0 +1,493 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news, AI breakthroughs, AI controversies, AI innovations and agentic AI news from May and June 2026.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 27413",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 358677",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen2, text-generation, math, code. Downloads: 20277",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "summary": "HN Score: 362. Comments: 122",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "summary": "HN Score: 211. Comments: 151",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "summary": "HN Score: 32. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "summary": "HN Score: 122. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "summary": "HN Score: 731. Comments: 615",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Stay ahead with the latest AI news, AI breakthroughs, AI controversies, AI innovations and agentic AI news from May and June 2026.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning",
+      "url": "http://arxiv.org/abs/2606.20559v1",
+      "summary": "Egocentric video understanding is inherently limited by the narrow perspective of wearable cameras: a single viewpoint, a single modality, a single model cannot capture the full richness of human acti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "url": "http://arxiv.org/abs/2606.20554v1",
+      "summary": "Generative recommendation is an emerging paradigm that has shown promise in industrial recommendation systems, aiming to predict users' next interactions from their historical behaviors. At the core o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent",
+      "url": "http://arxiv.org/abs/2604.08552v2",
+      "summary": "Scientific metadata are often incomplete and noncompliant with community standards, limiting dataset findability, interoperability, and reuse. Even when standard metadata reporting guidelines exist, t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Calibrated Mixture-of-Experts Under Distribution Shift",
+      "url": "http://arxiv.org/abs/2606.20544v1",
+      "summary": "Calibration aligns a model's predictive uncertainty with the frequencies of its empirical outcomes and is important for understanding and trusting reported probabilities. Recent work shows that enforc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs",
+      "url": "http://arxiv.org/abs/2603.16941v2",
+      "summary": "Speech Large Language Models (SpeechLLMs) process spoken input directly, retaining cues such as accent and perceived gender that were previously removed in cascaded pipelines. This introduces speaker ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 27413",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 358677",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] WeiboAI/VibeThinker-3B",
+      "url": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen2, text-generation, math, code. Downloads: 20277",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "summary": "HN Score: 362. Comments: 122",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] There is minimal downside to switching to open models",
+      "url": "https://www.marble.onl/posts/cancel_claude.html",
+      "summary": "HN Score: 211. Comments: 151",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "summary": "HN Score: 32. Comments: 6",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "summary": "HN Score: 122. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Identity verification on Claude",
+      "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+      "summary": "HN Score: 731. Comments: 615",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+        "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts."
+      },
+      {
+        "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+        "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+      },
+      {
+        "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+        "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+        "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27."
+      },
+      {
+        "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+        "url": "https://apertvs.ai/",
+        "summary": "HN Score: 362. Comments: 122"
+      },
+      {
+        "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+        "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+        "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+      }
+    ],
+    "technical": [
+      {
+        "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+        "summary": "HN Score: 122. Comments: 29"
+      },
+      {
+        "title": "In the Weights is your new AI-centric vanity search",
+        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+        "summary": "So ... what's your In the Weights score?"
+      }
+    ],
+    "research": [
+      {
+        "title": "How Transparent is DiffusionGemma?",
+        "url": "http://arxiv.org/abs/2606.20560v1",
+        "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..."
+      },
+      {
+        "title": "Optimal Deterministic Multicalibration and Omniprediction",
+        "url": "http://arxiv.org/abs/2606.20557v1",
+        "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each..."
+      },
+      {
+        "title": "Predictability as a Fine-Grained Measure for Privacy",
+        "url": "http://arxiv.org/abs/2606.20546v1",
+        "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W..."
+      },
+      {
+        "title": "Multi-Task Bayesian In-Context Learning",
+        "url": "http://arxiv.org/abs/2606.20538v1",
+        "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap..."
+      },
+      {
+        "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+        "url": "http://arxiv.org/abs/2606.20547v1",
+        "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "summary": "Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide, marking one of OpenAI\u2019s largest enterprise AI rollouts."
+    },
+    {
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "url": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "On the new episode of Equity, we discussed what actually prompted the administration's latest moves against Anthropic, and what this might mean for the AI ecosystem."
+    },
+    {
+      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+      "url": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s most useful AI features are arriving elsewhere in iOS 27."
+    },
+    {
+      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "url": "https://apertvs.ai/",
+      "summary": "HN Score: 362. Comments: 122"
+    },
+    {
+      "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
+      "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "\"These are not your friends. These are not conscious beings. These are not sentient interlocutors.\u201d"
+    },
+    {
+      "title": "Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "summary": "HN Score: 122. Comments: 29"
+    },
+    {
+      "title": "In the Weights is your new AI-centric vanity search",
+      "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "So ... what's your In the Weights score?"
+    },
+    {
+      "title": "How Transparent is DiffusionGemma?",
+      "url": "http://arxiv.org/abs/2606.20560v1",
+      "summary": "LLM reasoning transparency is a critical affordance for understanding model decisions, mitigating misuse and misalignment, and debugging surprising model behaviors. However, DiffusionGemma performs a ..."
+    },
+    {
+      "title": "Optimal Deterministic Multicalibration and Omniprediction",
+      "url": "http://arxiv.org/abs/2606.20557v1",
+      "summary": "A model is multicalibrated on a collection of group weights $G$ if it is calibrated -- i.e. unbiased even conditional on its prediction -- not just overall, but also after reweighting contexts by each..."
+    },
+    {
+      "title": "Predictability as a Fine-Grained Measure for Privacy",
+      "url": "http://arxiv.org/abs/2606.20546v1",
+      "summary": "Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. W..."
+    },
+    {
+      "title": "Multi-Task Bayesian In-Context Learning",
+      "url": "http://arxiv.org/abs/2606.20538v1",
+      "summary": "Bayesian predictive inference provides a principled framework for uncertainty quantification, data efficiency, and robust generalization. However, exact inference is often intractable, and scalable ap..."
+    },
+    {
+      "title": "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups",
+      "url": "http://arxiv.org/abs/2606.20547v1",
+      "summary": "We place the attention token on the group: a token is an element $g_i$ of a matrix Lie group $G$ -- a bare transformation, with no feature payload and no external action $\u03c1(g)$ carrying it. To our kno..."
+    }
+  ],
+  "final_report": "# AI Pulse: Enterprise Adoption Surges Amidst Regulatory Scrutiny and Foundational Research\n\nToday's intelligence report highlights a significant push for enterprise-wide AI integration, exemplified by major deployments, while simultaneously navigating emerging regulatory landscapes and deep dives into AI's fundamental principles. From practical applications to theoretical breakthroughs, the AI ecosystem continues its rapid evolution.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment)**\nSamsung's massive rollout of ChatGPT Enterprise and Codex across its global workforce signals a pivotal moment for large-scale corporate AI adoption. This move underscores the growing confidence in generative AI for boosting internal productivity and innovation, setting a precedent for other multinational corporations considering similar enterprise-wide deployments. It also represents a significant win for OpenAI, solidifying its position as a leading provider of secure, scalable AI solutions for the business sector.\n\n### **[When the Trump administration cracks down on Anthropic, who benefits?](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/)**\nThe discussion around potential regulatory actions against AI leaders like Anthropic highlights the increasing intersection of government policy and AI development. Such interventions could significantly reshape the competitive landscape, potentially favoring certain players or slowing innovation in specific areas. Business leaders must closely monitor these geopolitical and regulatory shifts, as they can introduce substantial risks and opportunities for investment and market strategy.\n\n### **[Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/)**\nApple's strategy to embed practical AI features throughout iOS 27, extending far beyond a revamped Siri, demonstrates a clear focus on enhancing everyday user experience. This approach emphasizes seamless integration of AI into core functionalities, driving consumer adoption and setting new benchmarks for intuitive, intelligent personal technology. For businesses, this signals the imperative to develop AI solutions that are not just powerful, but also deeply integrated and user-centric.\n\n### **[Apertus \u2013 Open Foundation Model for Sovereign AI](https://apertvs.ai/)**\nThe emergence of initiatives like Apertus, focused on open foundation models for \"Sovereign AI,\" points to a growing desire for national or regional control over critical AI infrastructure. This trend could lead to a more fragmented global AI landscape, with implications for data governance, intellectual property, and international collaboration. Businesses operating globally should prepare for varying AI regulations and potentially localized AI ecosystems.\n\n### **[Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/)**\nMeredith Whittaker's stark reminder about the non-sentient nature of AI chatbots is a crucial ethical consideration for businesses deploying conversational AI. Managing user expectations and clearly communicating the capabilities and limitations of AI systems is paramount to building trust and preventing misuse or misinterpretation. Companies must prioritize transparency and responsible AI design to avoid reputational damage and ensure ethical engagement with their AI tools.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions)**\nThis report highlights the practical viability of fine-tuning smaller, local Large Language Models (LLMs) for specific tasks, such as question categorization. For developers, this demonstrates a powerful strategy for achieving specialized performance with reduced computational overhead and enhanced data privacy, making on-premise or edge AI deployments more accessible and efficient. It encourages experimentation with smaller models for targeted applications where full-scale LLMs might be overkill.\n\n### **[In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/)**\n\"In the Weights\" represents a novel and engaging application of AI for personal branding and self-discovery within the tech community. This tool showcases how AI can be leveraged creatively to provide unique insights and interactive experiences, moving beyond traditional utility. Developers should watch for similar innovative uses of AI that blend utility with personal engagement, opening new avenues for AI-powered applications.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How Transparent is DiffusionGemma?](http://arxiv.org/abs/2606.20560v1)**\nThis research delves into the critical area of LLM reasoning transparency, a cornerstone for understanding, debugging, and mitigating risks in AI models. For researchers, improving transparency in models like DiffusionGemma is essential for building trust, ensuring ethical deployment, and advancing the scientific understanding of complex AI behaviors. It underscores the ongoing challenge of making powerful generative models more interpretable.\n\n### **[Optimal Deterministic Multicalibration and Omniprediction](http://arxiv.org/abs/2606.20557v1)**\nThis paper addresses the fundamental problem of fairness in AI, focusing on multicalibration to ensure models are unbiased across various subgroups. This work is crucial for developing equitable AI systems, moving beyond overall accuracy to guarantee fairness even when conditioning on specific predictions or demographic groups. Researchers will find this valuable for advancing robust and ethical AI design.\n\n### **[Predictability as a Fine-Grained Measure for Privacy](http://arxiv.org/abs/2606.20546v1)**\nExploring \"predictability\" as a fine-grained measure for privacy offers a novel perspective beyond traditional differential privacy. This research could lead to more nuanced and efficient privacy-preserving AI systems, allowing for a better balance between privacy guarantees and model utility. It challenges existing paradigms and opens new avenues for designing AI that respects individual data while maintaining performance.\n\n### **[Multi-Task Bayesian In-Context Learning](http://arxiv.org/abs/2606.20538v1)**\nThis work investigates Multi-Task Bayesian In-Context Learning, providing a principled framework for uncertainty quantification and data efficiency in AI. For researchers, this represents a significant step towards more robust and generalizable AI models that can learn effectively from limited data and provide reliable confidence estimates. It pushes the boundaries of how AI can adapt and perform in complex, real-world scenarios.\n\n### **[The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups](http://arxiv.org/abs/2606.20547v1)**\nThis theoretical paper proposes a novel attention mechanism where tokens are treated as elements of a matrix Lie group, offering a fresh mathematical foundation for neural network architectures. This deep dive into the algebraic underpinnings of attention could lead to more powerful, interpretable, and geometrically aware AI models, inspiring new directions in neural network design and representation learning.\n\nToday's Signal: The AI landscape is rapidly maturing, with a clear trend towards practical enterprise integration and a simultaneous, critical focus on ethical governance and foundational research to ensure responsible and robust development.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Stay ahead with the latest AI news, AI breakthroughs, AI controversies, AI innov... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Samsung Electronics brings ChatGPT and Codex to employees ](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) | Samsung Electronics deploys ChatGPT Enterprise and Codex to employees worldwide,... |\n| [When the Trump administration cracks down on Anthropic, who benefits? ](https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/) | On the new episode of Equity, we discussed what actually prompted the administra... |\n| [Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27 ](https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/) | Siri\u2019s AI overhaul may have grabbed the headlines at WWDC, but some of Apple\u2019s m... |\n| [Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019 ](https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/) | \"These are not your friends. These are not conscious beings. These are not senti... |\n| [[RSS] In the Weights is your new AI-centric vanity search](https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/) | So ... what's your In the Weights score? |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How Transparent is DiffusionGemma? ](http://arxiv.org/abs/2606.20560v1) | LLM reasoning transparency is a critical affordance for understanding model deci... |\n| [UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning ](http://arxiv.org/abs/2606.20559v1) | Egocentric video understanding is inherently limited by the narrow perspective o... |\n| [Optimal Deterministic Multicalibration and Omniprediction ](http://arxiv.org/abs/2606.20557v1) | A model is multicalibrated on a collection of group weights $G$ if it is calibra... |\n| [Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation ](http://arxiv.org/abs/2606.20554v1) | Generative recommendation is an emerging paradigm that has shown promise in indu... |\n| [The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups ](http://arxiv.org/abs/2606.20547v1) | We place the attention token on the group: a token is an element $g_i$ of a matr... |\n| [Automated Standardization of Legacy Biomedical Metadata Using an Ontology-Constrained LLM Agent ](http://arxiv.org/abs/2604.08552v2) | Scientific metadata are often incomplete and noncompliant with community standar... |\n| [Predictability as a Fine-Grained Measure for Privacy ](http://arxiv.org/abs/2606.20546v1) | Differential privacy (DP) ensures rigorous individual-level privacy guarantees a... |\n| [Toward Calibrated Mixture-of-Experts Under Distribution Shift ](http://arxiv.org/abs/2606.20544v1) | Calibration aligns a model's predictive uncertainty with the frequencies of its ... |\n| [The Voice Behind the Words: Quantifying Intersectional Bias in SpeechLLMs ](http://arxiv.org/abs/2603.16941v2) | Speech Large Language Models (SpeechLLMs) process spoken input directly, retaini... |\n| [Multi-Task Bayesian In-Context Learning ](http://arxiv.org/abs/2606.20538v1) | Bayesian predictive inference provides a principled framework for uncertainty qu... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n| [WeiboAI/VibeThinker-3B ](https://huggingface.co/WeiboAI/VibeThinker-3B) | Trending HF Model. Tags: transformers, safetensors, qwen2, text-generation, math... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Apertus \u2013 Open Foundation Model for Sovereign AI](https://apertvs.ai/) | HN Score: 362. Comments: 122 |\n| [[HackerNews] There is minimal downside to switching to open models](https://www.marble.onl/posts/cancel_claude.html) | HN Score: 211. Comments: 151 |\n| [[HackerNews] Munich 1991: The Roots of the Current AI Boom](https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html) | HN Score: 32. Comments: 6 |\n| [[HackerNews] Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions](https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions) | HN Score: 122. Comments: 29 |\n| [[HackerNews] Identity verification on Claude](https://support.claude.com/en/articles/14328960-identity-verification-on-claude) | HN Score: 731. Comments: 615 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
