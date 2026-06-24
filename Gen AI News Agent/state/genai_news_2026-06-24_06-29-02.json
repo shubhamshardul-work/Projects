@@ -1,0 +1,479 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "http://arxiv.org/abs/2606.24884v1",
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "url": "http://arxiv.org/abs/2606.24879v1",
+      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $\u03b7=\u0398(1/\\sqrt n)$. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+      "url": "http://arxiv.org/abs/2606.24874v1",
+      "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments",
+      "url": "http://arxiv.org/abs/2503.05226v2",
+      "summary": "Monte Carlo tree search is attractive for robotic manipulation because it can improve action selection through simulation without requiring a fully differentiable policy. In uncertain domains, however...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LangMAP: A Language-Adaptive Approach to Tokenization",
+      "url": "http://arxiv.org/abs/2606.23566v2",
+      "summary": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance",
+      "url": "http://arxiv.org/abs/2603.12120v2",
+      "summary": "We introduce CRAFT hand, a tendon-driven anthropomorphic hand with hybrid hard-soft compliance for contact-rich manipulation. The design is based on a simple idea: contact is not uniform across the ha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models",
+      "url": "http://arxiv.org/abs/2606.17102v2",
+      "summary": "Quantum computing promises transformative advances across science and industry, yet the physical hardware that enables these computations remains invisible to the public: quantum processors operate in...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
+      "url": "http://arxiv.org/abs/2605.21401v2",
+      "summary": "Large language models (LLMs) are increasingly deployed as autonomous agents that make sequences of decisions over extended interactions in high-stakes domains. However, the behaviour of LLMs under sus...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "http://arxiv.org/abs/2606.24855v1",
+      "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
+      "url": "http://arxiv.org/abs/2606.24854v1",
+      "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be di...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 40127",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 456117",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, image-feature-extraction, baidu, vision-language. Downloads: 8396",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "summary": "HN Score: 437. Comments: 131",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "summary": "HN Score: 46. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "summary": "HN Score: 135. Comments: 63",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "http://arxiv.org/abs/2606.24884v1",
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "url": "http://arxiv.org/abs/2606.24879v1",
+      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $\u03b7=\u0398(1/\\sqrt n)$. We p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+      "url": "http://arxiv.org/abs/2606.24874v1",
+      "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments",
+      "url": "http://arxiv.org/abs/2503.05226v2",
+      "summary": "Monte Carlo tree search is attractive for robotic manipulation because it can improve action selection through simulation without requiring a fully differentiable policy. In uncertain domains, however...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LangMAP: A Language-Adaptive Approach to Tokenization",
+      "url": "http://arxiv.org/abs/2606.23566v2",
+      "summary": "Language-specific tokenizers improve tokenization quality and the downstream performance of models on those languages. However, using such a tokenizer comes at a cost: either a new model must be train...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance",
+      "url": "http://arxiv.org/abs/2603.12120v2",
+      "summary": "We introduce CRAFT hand, a tendon-driven anthropomorphic hand with hybrid hard-soft compliance for contact-rich manipulation. The design is based on a simple idea: contact is not uniform across the ha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models",
+      "url": "http://arxiv.org/abs/2606.17102v2",
+      "summary": "Quantum computing promises transformative advances across science and industry, yet the physical hardware that enables these computations remains invisible to the public: quantum processors operate in...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
+      "url": "http://arxiv.org/abs/2605.21401v2",
+      "summary": "Large language models (LLMs) are increasingly deployed as autonomous agents that make sequences of decisions over extended interactions in high-stakes domains. However, the behaviour of LLMs under sus...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "http://arxiv.org/abs/2606.24855v1",
+      "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
+      "url": "http://arxiv.org/abs/2606.24854v1",
+      "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be di...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 40127",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 456117",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, image-feature-extraction, baidu, vision-language. Downloads: 8396",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "summary": "HN Score: 437. Comments: 131",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "summary": "HN Score: 46. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Low-Tech AI of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "summary": "HN Score: 135. Comments: 63",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+        "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+        "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+      },
+      {
+        "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+        "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+        "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools."
+      },
+      {
+        "title": "[RSS] Helping build shared standards for advanced AI",
+        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+        "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+      },
+      {
+        "title": "[RSS] Daybreak: Tools for securing every organization in the world",
+        "url": "https://openai.com/index/daybreak-securing-the-world",
+        "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+      },
+      {
+        "title": "[RSS] Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "url": "https://openai.com/index/patch-the-planet",
+        "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] FUTO Swipe \u2013 A new swipe typing model",
+        "url": "https://swipe.futo.tech/",
+        "summary": "HN Score: 437. Comments: 131"
+      },
+      {
+        "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 456117"
+      },
+      {
+        "title": "[HuggingFace] zai-org/GLM-5.2",
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 40127"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+        "url": "https://openai.com/index/gpt-5-immunology-mystery",
+        "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+      },
+      {
+        "title": "[ArXiv] InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+        "url": "http://arxiv.org/abs/2606.24884v1",
+        "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc..."
+      },
+      {
+        "title": "[ArXiv] FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+        "url": "http://arxiv.org/abs/2606.24874v1",
+        "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i..."
+      },
+      {
+        "title": "[ArXiv] OpenThoughts-Agent: Data Recipes for Agentic Models",
+        "url": "http://arxiv.org/abs/2606.24855v1",
+        "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S..."
+      },
+      {
+        "title": "[HackerNews] Qwen-AgentWorld: Language World Models for General Agents",
+        "url": "https://arxiv.org/abs/2606.24597",
+        "summary": "HN Score: 46. Comments: 9"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "... ai, latest ai news, generative ai advancements, ai studio features, latest ai tools."
+    },
+    {
+      "title": "[RSS] Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "summary": "OpenAI helps build shared standards for advanced AI, supporting evaluation frameworks, safety practices, and global cooperation through the Appia Foundation."
+    },
+    {
+      "title": "[RSS] Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale."
+    },
+    {
+      "title": "[RSS] Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review."
+    },
+    {
+      "title": "[HackerNews] FUTO Swipe \u2013 A new swipe typing model",
+      "url": "https://swipe.futo.tech/",
+      "summary": "HN Score: 437. Comments: 131"
+    },
+    {
+      "title": "[HuggingFace] yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "url": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downloads: 456117"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 40127"
+    },
+    {
+      "title": "[RSS] How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
+      "summary": "GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T cell behavior. The breakthrough could support cancer and autoimmune research."
+    },
+    {
+      "title": "[ArXiv] InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "http://arxiv.org/abs/2606.24884v1",
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unloc..."
+    },
+    {
+      "title": "[ArXiv] FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+      "url": "http://arxiv.org/abs/2606.24874v1",
+      "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input i..."
+    },
+    {
+      "title": "[ArXiv] OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "http://arxiv.org/abs/2606.24855v1",
+      "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, S..."
+    },
+    {
+      "title": "[HackerNews] Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "summary": "HN Score: 46. Comments: 9"
+    }
+  ],
+  "final_report": "# AI Pulse: OpenAI's Strategic Surge & The Rise of Agentic Intelligence\n\nThis week, OpenAI dominated headlines with a flurry of new model releases, enterprise security tools, and a strong push for global AI standards, signaling a maturing ecosystem. Concurrently, researchers are pushing the boundaries of AI agents and scientific discovery, while developers gain access to increasingly specialized and powerful tools.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Here's ALL the big AI news that dropped over the past week - LinkedIn](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR)**\nThe past week saw a rapid acceleration of AI developments, with OpenAI leading the charge through significant product announcements like GPT-5.1 and ChatGPT group chats. This rapid iteration underscores the intense competitive landscape and the imperative for businesses to stay agile in adopting new AI capabilities to maintain a strategic edge. The sheer volume of news highlights AI's pervasive impact across industries.\n\n### **[AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) - YouTube](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en)**\nThis comprehensive roundup emphasizes the ongoing \"AI arms race\" between major players like Google and Claude, showcasing the continuous innovation in generative AI and new studio features. For business leaders, this signals a dynamic market where choosing the right foundational models and platforms is critical for future-proofing operations and leveraging cutting-edge AI advancements. The competition benefits enterprises by driving rapid improvements and diverse offerings.\n\n### **[Helping build shared standards for advanced AI - OpenAI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai)**\nOpenAI is actively contributing to the development of shared standards for advanced AI through the Appia Foundation, focusing on evaluation frameworks, safety practices, and global cooperation. This strategic move is crucial for fostering trust, mitigating risks, and ensuring the responsible deployment of powerful AI systems, which is paramount for long-term business sustainability and regulatory compliance. Investing in standards now can prevent future fragmentation and ensure broader adoption.\n\n### **[Daybreak: Tools for securing every organization in the world - OpenAI](https://openai.com/index/daybreak-securing-the-world)**\nOpenAI introduced Daybreak, a suite of new security tools including Codex Security and GPT-5.5-Cyber, designed to help organizations identify, validate, and patch vulnerabilities at scale. This initiative directly addresses a critical pain point for enterprises: cybersecurity in an increasingly AI-driven world. Integrating AI into security operations offers a powerful defense mechanism, making robust AI-powered security solutions a strategic imperative for every business.\n\n### **[Patch the Planet: a Daybreak initiative to support open source maintainers - OpenAI](https://openai.com/index/patch-the-planet)**\nAs part of its Daybreak initiative, OpenAI launched Patch the Planet to support open-source maintainers in finding and fixing vulnerabilities using AI and expert review. This move not only enhances the security of the broader software ecosystem but also strategically positions OpenAI as a key enabler of secure open-source development. For businesses relying on open-source components, this initiative promises a more secure and reliable foundation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[FUTO Swipe \u2013 A new swipe typing model - HackerNews](https://swipe.futo.tech/)**\nFUTO Swipe introduces an innovative approach to swipe typing, garnering significant attention from the developer community. This development highlights the continuous evolution of human-computer interaction and input methods, offering developers new avenues to enhance user experience in mobile and accessibility applications. Exploring such models can lead to more intuitive and efficient interfaces.\n\n### **[yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF - HuggingFace](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF)**\nThis trending Hugging Face model, a GGUF version of Gemma-4-12B-coder, is specifically optimized for coding, reasoning, and thinking tasks. Its high download count indicates strong developer interest in specialized, efficient models for code generation and problem-solving. Developers should consider integrating such models into their workflows for enhanced productivity and accelerated development cycles.\n\n### **[zai-org/GLM-5.2 - HuggingFace](https://huggingface.co/zai-org/GLM-5.2)**\nThe GLM-5.2 model is gaining traction on Hugging Face, offering capabilities in text generation and conversational AI. Its popularity suggests a demand for versatile, performant models that can be easily integrated into various applications. Engineers should watch this model for its potential in building more sophisticated chatbots, content generation tools, and interactive AI experiences.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery - OpenAI](https://openai.com/index/gpt-5-immunology-mystery)**\nGPT-5 Pro demonstrated its profound potential in scientific discovery by helping immunologist Derya Unutmaz unravel a three-year-old mystery concerning T cell behavior. This breakthrough showcases the transformative power of advanced AI in accelerating complex research, offering unprecedented insights that could significantly impact fields like cancer and autoimmune disease research. It signals a new era for AI as a scientific co-pilot.\n\n### **[InSight: Self-Guided Skill Acquisition via Steerable VLAs - ArXiv](http://arxiv.org/abs/2606.24884v1)**\nThe InSight framework introduces a novel approach for Vision-Language-Action (VLA) models to acquire skills through self-guidance, moving beyond the limitations of pre-existing training data. This research is critical for developing more autonomous and adaptable robotic systems capable of learning new manipulation skills on the fly, paving the way for more versatile and intelligent agents in unstructured environments.\n\n### **[FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation - ArXiv](http://arxiv.org/abs/2606.24874v1)**\nFLUX3D presents a significant advancement in high-fidelity 3D Gaussian Splatting generation, addressing the challenge of preserving high-frequency visual details from input images. This work has profound implications for creating realistic 3D content, virtual reality, and digital twins, pushing the boundaries of generative AI in visual media and immersive experiences.\n\n### **[OpenThoughts-Agent: Data Recipes for Agentic Models - ArXiv](http://arxiv.org/abs/2606.24855v1)**\nOpenThoughts-Agent explores the crucial, yet often opaque, aspect of curating training data for broadly capable agentic language models. This research is vital for understanding how to build more robust and versatile AI agents, providing \"data recipes\" that can unlock new levels of performance and application for autonomous AI systems. It's a foundational step towards more reliable agent development.\n\n### **[Qwen-AgentWorld: Language World Models for General Agents - HackerNews](https://arxiv.org/abs/2606.24597)**\nQwen-AgentWorld introduces the concept of Language World Models for general agents, aiming to equip AI with a deeper understanding of the world to perform complex tasks. This research is a cornerstone for developing truly general-purpose AI agents that can reason, plan, and interact more effectively within diverse environments, moving closer to human-like intelligence.\n\n---\n\n**Today's Signal:** The AI landscape is rapidly maturing, marked by OpenAI's aggressive product and standards push, while research frontiers continue to expand the capabilities of autonomous agents and scientific discovery.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | ... ai, latest ai news, generative ai advancements, ai studio features, latest a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Helping build shared standards for advanced AI ](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) | OpenAI helps build shared standards for advanced AI, supporting evaluation frame... |\n| [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery ](https://openai.com/index/gpt-5-immunology-mystery) | GPT-5 Pro helped solve a 3-year-old immunology mystery, offering insights into T... |\n| [How Omio is building the future of conversational travel ](https://openai.com/index/omio) | Discover how Omio uses OpenAI to power conversational travel experiences, accele... |\n| [Daybreak: Tools for securing every organization in the world ](https://openai.com/index/daybreak-securing-the-world) | OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber... |\n| [Patch the Planet: a Daybreak initiative to support open source maintainers ](https://openai.com/index/patch-the-planet) | OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source ma... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [InSight: Self-Guided Skill Acquisition via Steerable VLAs ](http://arxiv.org/abs/2606.24884v1) | Vision-language-action (VLA) models can learn manipulation skills from demonstra... |\n| [New Bounds for the Last Iterate of the Stochastic subGradient Method ](http://arxiv.org/abs/2606.24879v1) | We study the last iterate of the stochastic subgradient method for one-dimension... |\n| [FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation ](http://arxiv.org/abs/2606.24874v1) | Sparse voxel representation has emerged as a scalable foundation for image-to-3D... |\n| [Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments ](http://arxiv.org/abs/2503.05226v2) | Monte Carlo tree search is attractive for robotic manipulation because it can im... |\n| [LangMAP: A Language-Adaptive Approach to Tokenization ](http://arxiv.org/abs/2606.23566v2) | Language-specific tokenizers improve tokenization quality and the downstream per... |\n| [CRAFT: A Tendon-Driven Hand with Hybrid Hard-Soft Compliance ](http://arxiv.org/abs/2603.12120v2) | We introduce CRAFT hand, a tendon-driven anthropomorphic hand with hybrid hard-s... |\n| [Quantum Cinema: An Interactive Cinematic Exploration of Quantum Computing Hardware via Generative World Models ](http://arxiv.org/abs/2606.17102v2) | Quantum computing promises transformative advances across science and industry, ... |\n| [Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment ](http://arxiv.org/abs/2605.21401v2) | Large language models (LLMs) are increasingly deployed as autonomous agents that... |\n| [OpenThoughts-Agent: Data Recipes for Agentic Models ](http://arxiv.org/abs/2606.24855v1) | Agentic language models dramatically expand the applications of AI yet little is... |\n| [It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces ](http://arxiv.org/abs/2606.24854v1) | Artificial intelligence (AI) can enhance what people who use augmentative and al... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF ](https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF) | Trending HF Model. Tags: gguf, gemma4, coding, code, reasoning, thinking. Downlo... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, image-feature... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] FUTO Swipe \u2013 A new swipe typing model](https://swipe.futo.tech/) | HN Score: 437. Comments: 131 |\n| [[HackerNews] Qwen-AgentWorld: Language World Models for General Agents](https://arxiv.org/abs/2606.24597) | HN Score: 46. Comments: 9 |\n| [[HackerNews] The Low-Tech AI of Elden Ring](https://nega.tv/posts/low-tech-ai-of-elden-ring.html) | HN Score: 135. Comments: 63 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
