@@ -1,0 +1,472 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "This publication is dedicated to providing in-depth coverage of the latest developments, research, and applications of generative AI.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings",
+      "url": "http://arxiv.org/abs/2602.18364v3",
+      "summary": "Maximum likelihood prediction (MLP) is a core task at the heart of modern large language models. Here, we study a quantum version of this task for a simplified data model consisting of independent and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training",
+      "url": "http://arxiv.org/abs/2512.02652v2",
+      "summary": "Existing methods for expressive music performance rendering, a conditional generation task that aims to generate a human-like performance from a symbolic score, rely on supervised learning over small ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Elicitation via Mismatched Wrong Drafts",
+      "url": "http://arxiv.org/abs/2605.17314v2",
+      "summary": "We consider whether off-policy experience from a smaller, weaker model can elicit capability in a stronger learner that on-policy RL fine-tuning (e.g., GRPO) does not reach. We find that injecting mat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "http://arxiv.org/abs/2606.27347v1",
+      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "url": "http://arxiv.org/abs/2606.27342v1",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 134146",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 83589",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 486810",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Previewing GPT\u20115.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "summary": "HN Score: 928. Comments: 565",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "summary": "HN Score: 343. Comments: 340",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "HN Score: 96. Comments: 62",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "summary": "HN Score: 41. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "summary": "HN Score: 940. Comments: 1012",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "This publication is dedicated to providing in-depth coverage of the latest developments, research, and applications of generative AI.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.&#160;&#160; OpenAI just shared its plans to spice things up with&#160;Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings",
+      "url": "http://arxiv.org/abs/2602.18364v3",
+      "summary": "Maximum likelihood prediction (MLP) is a core task at the heart of modern large language models. Here, we study a quantum version of this task for a simplified data model consisting of independent and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training",
+      "url": "http://arxiv.org/abs/2512.02652v2",
+      "summary": "Existing methods for expressive music performance rendering, a conditional generation task that aims to generate a human-like performance from a symbolic score, rely on supervised learning over small ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Elicitation via Mismatched Wrong Drafts",
+      "url": "http://arxiv.org/abs/2605.17314v2",
+      "summary": "We consider whether off-policy experience from a smaller, weaker model can elicit capability in a stronger learner that on-policy RL fine-tuning (e.g., GRPO) does not reach. We find that injecting mat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "http://arxiv.org/abs/2606.27347v1",
+      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "url": "http://arxiv.org/abs/2606.27342v1",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 134146",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 83589",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 486810",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Previewing GPT\u20115.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "summary": "HN Score: 928. Comments: 565",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "summary": "HN Score: 343. Comments: 340",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI in mathematics is forcing big questions",
+      "url": "https://spectrum.ieee.org/ai-in-mathematics",
+      "summary": "HN Score: 96. Comments: 62",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Hacker News on a train station-style flip board",
+      "url": "https://popflame.quickish.space/hn-flipboard/",
+      "summary": "HN Score: 41. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] U.S. government will decide who gets to use GPT-5.6",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "summary": "HN Score: 940. Comments: 1012",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+      },
+      {
+        "title": "[RSS] Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+        "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+        "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+      },
+      {
+        "title": "[RSS] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+        "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+        "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d"
+      },
+      {
+        "title": "[RSS] OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+        "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+      },
+      {
+        "title": "[RSS] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+        "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building"
+      }
+    ],
+    "technical": [],
+    "research": [
+      {
+        "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+        "url": "http://arxiv.org/abs/2606.27377v1",
+        "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..."
+      },
+      {
+        "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+        "url": "http://arxiv.org/abs/2606.27369v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ..."
+      },
+      {
+        "title": "[ArXiv] Autoregressive Boltzmann Generators",
+        "url": "http://arxiv.org/abs/2606.27361v1",
+        "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo..."
+      },
+      {
+        "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+        "url": "http://arxiv.org/abs/2606.27359v1",
+        "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the..."
+      },
+      {
+        "title": "[ArXiv] Error-Conditioned Neural Solvers",
+        "url": "http://arxiv.org/abs/2606.27354v1",
+        "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
+    {
+      "title": "[RSS] Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
+      "url": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+    },
+    {
+      "title": "[RSS] OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "summary": "\u201cWe don\u2019t believe this kind of government access process should become the long-term default,\u201d says OpenAI. \u201cIt keeps the best tools from users, developers, enterprises, cyber defenders, and global partners who need them.\u201d"
+    },
+    {
+      "title": "[RSS] OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring."
+    },
+    {
+      "title": "[RSS] Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+      "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending. OpenAI just shared its plans to spice things up with Jalape\u00f1o, its custom inference chip built with Broadcom, joining Google, Apple, and SpaceX in a growing list of companies building"
+    },
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..."
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ..."
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo..."
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the..."
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow..."
+    }
+  ],
+  "final_report": "# AI Pulse: Navigating the New Frontier of Models, Markets, and Regulation\n\nToday's AI landscape is defined by a powerful convergence: groundbreaking model advancements from industry leaders like OpenAI, intensified strategic maneuvers for global market dominance, and the ever-present hand of government oversight shaping deployment. As capabilities soar, the tension between innovation and regulation becomes a critical strategic consideration for every organization.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)**\nOpenAI's preview of GPT-5.6 Sol signals a significant leap in AI capabilities, particularly in critical domains like coding, science, and cybersecurity, coupled with an advanced safety stack. For business leaders, this means a new benchmark for AI integration, offering unprecedented potential for automation, research acceleration, and enhanced digital defense, while the emphasis on safety aims to build crucial trust for enterprise adoption.\n\n### **[Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/)**\nThe widespread authorization of Anthropic's Mythos 5 by over 100 US companies and government agencies, including their non-American employees, marks a pivotal moment for AI adoption at scale. This government endorsement not only validates Anthropic's technology but also accelerates the integration of advanced AI across diverse sectors, potentially setting new operational standards and driving competitive pressures for AI-driven transformation.\n\n### **[OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/)**\nOpenAI's decision to limit GPT-5.6 rollout due to government intervention, coupled with their public stance against such restrictions, highlights the escalating tension between rapid AI innovation and regulatory control. This incident underscores the critical need for businesses to closely monitor evolving government policies, as regulatory actions can directly impact market access, product development timelines, and the global competitiveness of AI solutions.\n\n### **[OpenAI poaches Uber India chief to lead its biggest market outside the US](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/)**\nOpenAI's strategic hire of Uber India's chief to spearhead its expansion in India demonstrates a clear focus on aggressive global market penetration. This move signifies a commitment to tapping into high-growth regions, fostering local partnerships, and building a strong international presence, which is crucial for long-term market dominance and diversifying its user base beyond traditional Western markets.\n\n### **[Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/)**\nThe trend of major AI players like OpenAI (with \"Jalape\u00f1o\") and SpaceX developing custom inference chips signals a significant strategic shift away from sole reliance on Nvidia. This move aims to optimize performance, reduce operational costs, and gain greater control over the AI hardware stack, potentially reshaping the competitive landscape for AI infrastructure and offering new avenues for innovation and efficiency.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**\nThis research introduces a novel approach to unify diverse image generation capabilities, such as text-to-image, local editing, and global editing, into a single model. The implication is a significant step towards more versatile and efficient generative AI, potentially simplifying complex creative workflows and enabling more sophisticated and integrated artistic and design applications.\n\n### **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](http://arxiv.org/abs/2606.27369v1)**\nThis paper explores how reinforcement learning can enhance Large Language Models (LLMs) even without the need for ground-truth answers, which are typically a prerequisite for verifiable rewards. This breakthrough broadens the applicability of RL for LLM training, opening new possibilities for self-improvement in tasks where definitive correct answers are scarce or impossible to define, thus expanding the scope of problems LLMs can tackle.\n\n### **[Autoregressive Boltzmann Generators](http://arxiv.org/abs/2606.27361v1)**\nThe development of Autoregressive Boltzmann Generators offers a new method for efficiently sampling molecular systems at thermodynamic equilibrium, a long-standing challenge in statistical physics. This innovation promises to significantly advance computational chemistry and materials science, enabling more accurate and efficient simulations crucial for drug discovery, novel material design, and a deeper understanding of complex physical phenomena.\n\n### **[When are likely answers right? On Sequence Probability and Correctness in LLMs](http://arxiv.org/abs/2606.27359v1)**\nThis research delves into the critical relationship between the probability assigned to an LLM's output sequence and its actual correctness. Understanding this connection is vital for improving LLM reliability, potentially leading to more robust decoding methods and better confidence estimation, which are essential for deploying LLMs in high-stakes applications where accuracy is paramount.\n\n### **[Error-Conditioned Neural Solvers](http://arxiv.org/abs/2606.27354v1)**\nNeural surrogate models for Partial Differential Equations (PDEs) often struggle with error correction once trained, treating solving as a purely statistical task. This paper introduces \"Error-Conditioned Neural Solvers\" to address this limitation, promising more accurate and robust neural solvers that can dynamically correct their own errors, which is crucial for scientific computing, engineering simulations, and real-time modeling across various fields.\n\n**Today's Signal:** The AI industry is rapidly maturing, marked by a strategic push for global market expansion, a critical re-evaluation of hardware dependencies, and an intensifying dance between groundbreaking innovation and government oversight.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | This publication is dedicated to providing in-depth coverage of the latest devel... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Previewing GPT-5.6 Sol: a next-generation model ](https://openai.com/index/previewing-gpt-5-6-sol) | OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities ... |\n| [Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies ](https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/) | Over 100 companies and government agencies are reportedly authorized to use Myth... |\n| [OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm ](https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/) | \u201cWe don\u2019t believe this kind of government access process should become the long-... |\n| [OpenAI poaches Uber India chief to lead its biggest market outside the US ](https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/) | The hire marks OpenAI's latest push into India, expanding offices, partnerships ... |\n| [Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia) ](https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/) | Nvidia has dominated the AI chip market for years, but the era of total dependen... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [DanceOPD: On-Policy Generative Field Distillation ](http://arxiv.org/abs/2606.27377v1) | Modern image generation demands a single model that unifies diverse capabilities... |\n| [Reinforcement Learning without Ground-Truth Solutions can Improve LLMs ](http://arxiv.org/abs/2606.27369v1) | Reinforcement learning with verifiable rewards (RLVR) for training LLMs typicall... |\n| [Autoregressive Boltzmann Generators ](http://arxiv.org/abs/2606.27361v1) | Efficient sampling of molecular systems at thermodynamic equilibrium is a hallma... |\n| [When are likely answers right? On Sequence Probability and Correctness in LLMs ](http://arxiv.org/abs/2606.27359v1) | Many decoding methods for large language models can be understood as shifting pr... |\n| [Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings ](http://arxiv.org/abs/2602.18364v3) | Maximum likelihood prediction (MLP) is a core task at the heart of modern large ... |\n| [Error-Conditioned Neural Solvers ](http://arxiv.org/abs/2606.27354v1) | Neural surrogate models offer fast approximate mappings from PDE parameters to s... |\n| [Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training ](http://arxiv.org/abs/2512.02652v2) | Existing methods for expressive music performance rendering, a conditional gener... |\n| [Weak-to-Strong Elicitation via Mismatched Wrong Drafts ](http://arxiv.org/abs/2605.17314v2) | We consider whether off-policy experience from a smaller, weaker model can elici... |\n| [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline ](http://arxiv.org/abs/2606.27347v1) | Whether political elites organise into rent-seeking coalitions that capture publ... |\n| [Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching ](http://arxiv.org/abs/2606.27342v1) | Entity Matching (EM) is a core operation in the data integration pipeline, where... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Previewing GPT\u20115.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/) | HN Score: 928. Comments: 565 |\n| [[HackerNews] U.S. allows Anthropic to release Mythos AI to \u2018trusted\u2019 US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies) | HN Score: 343. Comments: 340 |\n| [[HackerNews] AI in mathematics is forcing big questions](https://spectrum.ieee.org/ai-in-mathematics) | HN Score: 96. Comments: 62 |\n| [[HackerNews] Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/) | HN Score: 41. Comments: 9 |\n| [[HackerNews] U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/) | HN Score: 940. Comments: 1012 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
