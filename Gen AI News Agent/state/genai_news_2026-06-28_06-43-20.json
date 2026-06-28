@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings",
+      "url": "http://arxiv.org/abs/2602.18364v3",
+      "summary": "Maximum likelihood prediction (MLP) is a core task at the heart of modern large language models. Here, we study a quantum version of this task for a simplified data model consisting of independent and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training",
+      "url": "http://arxiv.org/abs/2512.02652v2",
+      "summary": "Existing methods for expressive music performance rendering, a conditional generation task that aims to generate a human-like performance from a symbolic score, rely on supervised learning over small ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Elicitation via Mismatched Wrong Drafts",
+      "url": "http://arxiv.org/abs/2605.17314v2",
+      "summary": "We consider whether off-policy experience from a smaller, weaker model can elicit capability in a stronger learner that on-policy RL fine-tuning (e.g., GRPO) does not reach. We find that injecting mat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "http://arxiv.org/abs/2606.27347v1",
+      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "url": "http://arxiv.org/abs/2606.27342v1",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 212760",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 98994",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 712627",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "HN Score: 32. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "summary": "HN Score: 121. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "summary": "HN Score: 37. Comments: 24",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "summary": "HN Score: 223. Comments: 145",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "HN Score: 209. Comments: 160",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Here's ALL the big AI news that dropped over the past week - LinkedIn",
+      "url": "https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR",
+      "summary": "Here's ALL the big AI news that dropped over the past week: - OpenAI releases GPT-5.1 - OpenAI tests ChatGPT group chats - Microsoft unveils",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime \u2014 blood results, scan data, wearable output, journal entries \u2014 into Claude. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings",
+      "url": "http://arxiv.org/abs/2602.18364v3",
+      "summary": "Maximum likelihood prediction (MLP) is a core task at the heart of modern large language models. Here, we study a quantum version of this task for a simplified data model consisting of independent and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training",
+      "url": "http://arxiv.org/abs/2512.02652v2",
+      "summary": "Existing methods for expressive music performance rendering, a conditional generation task that aims to generate a human-like performance from a symbolic score, rely on supervised learning over small ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Elicitation via Mismatched Wrong Drafts",
+      "url": "http://arxiv.org/abs/2605.17314v2",
+      "summary": "We consider whether off-policy experience from a smaller, weaker model can elicit capability in a stronger learner that on-policy RL fine-tuning (e.g., GRPO) does not reach. We find that injecting mat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline",
+      "url": "http://arxiv.org/abs/2606.27347v1",
+      "summary": "Whether political elites organise into rent-seeking coalitions that capture public resources or civic networks that sustain governance is a central question in comparative politics. Yet observing thes...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching",
+      "url": "http://arxiv.org/abs/2606.27342v1",
+      "summary": "Entity Matching (EM) is a core operation in the data integration pipeline, where records from different sources are compared to determine whether they refer to the same real-world entity. Recent work ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 212760",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 98994",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 712627",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "HN Score: 32. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ford hired AI and sacked humans. It backfired badly",
+      "url": "https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html",
+      "summary": "HN Score: 121. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them",
+      "url": "https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/",
+      "summary": "HN Score: 37. Comments: 24",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "summary": "HN Score: 223. Comments: 145",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "HN Score: 209. Comments: 160",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+        "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+      },
+      {
+        "title": "[RSS] SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+        "summary": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers."
+      },
+      {
+        "title": "[RSS] Apple Vision Pro exec is reportedly leaving for OpenAI",
+        "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+        "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team."
+      },
+      {
+        "title": "[RSS] Asian AI startups launch Mythos-like models as Anthropic\u2019s export ban drags on",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+        "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+        "url": "https://github.com/itsthelore/wayfinder-router",
+        "summary": "HN Score: 32. Comments: 1"
+      },
+      {
+        "title": "[HackerNews] AI learns the \u201cdark art\u201d of RFIC design",
+        "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "summary": "HN Score: 223. Comments: 145"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+        "url": "http://arxiv.org/abs/2606.27377v1",
+        "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..."
+      },
+      {
+        "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+        "url": "http://arxiv.org/abs/2606.27369v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ..."
+      },
+      {
+        "title": "[ArXiv] Autoregressive Boltzmann Generators",
+        "url": "http://arxiv.org/abs/2606.27361v1",
+        "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo..."
+      },
+      {
+        "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+        "url": "http://arxiv.org/abs/2606.27359v1",
+        "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the..."
+      },
+      {
+        "title": "[ArXiv] Error-Conditioned Neural Solvers",
+        "url": "http://arxiv.org/abs/2606.27354v1",
+        "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+    },
+    {
+      "title": "[RSS] SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk\u2019s vision for orbital data centers."
+    },
+    {
+      "title": "[RSS] Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI\u2019s hardware team."
+    },
+    {
+      "title": "[RSS] Asian AI startups launch Mythos-like models as Anthropic\u2019s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market."
+    },
+    {
+      "title": "[HackerNews] Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "summary": "HN Score: 32. Comments: 1"
+    },
+    {
+      "title": "[HackerNews] AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "summary": "HN Score: 223. Comments: 145"
+    },
+    {
+      "title": "[ArXiv] DanceOPD: On-Policy Generative Field Distillation",
+      "url": "http://arxiv.org/abs/2606.27377v1",
+      "summary": "Modern image generation demands a single model that unifies diverse capabilities, including text-to-image (T2I), local editing, and global editing. However, these capabilities are rarely naturally ali..."
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning without Ground-Truth Solutions can Improve LLMs",
+      "url": "http://arxiv.org/abs/2606.27369v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) for training LLMs typically rely on ground-truth answers to assign rewards, limiting their applicability to tasks where the ground-truth solution ..."
+    },
+    {
+      "title": "[ArXiv] Autoregressive Boltzmann Generators",
+      "url": "http://arxiv.org/abs/2606.27361v1",
+      "summary": "Efficient sampling of molecular systems at thermodynamic equilibrium is a hallmark challenge in statistical physics. This challenge has driven the development of Boltzmann Generators (BGs), which allo..."
+    },
+    {
+      "title": "[ArXiv] When are likely answers right? On Sequence Probability and Correctness in LLMs",
+      "url": "http://arxiv.org/abs/2606.27359v1",
+      "summary": "Many decoding methods for large language models can be understood as shifting probability mass toward outputs that are more likely under the model, either locally at the token level or globally at the..."
+    },
+    {
+      "title": "[ArXiv] Error-Conditioned Neural Solvers",
+      "url": "http://arxiv.org/abs/2606.27354v1",
+      "summary": "Neural surrogate models offer fast approximate mappings from PDE parameters to solutions, but they typically treat solving as a purely statistical task: once trained, they struggle to correct their ow..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: OpenAI's Next Leap & The Global AI Race\n\nToday's report highlights OpenAI's aggressive push with a new flagship model and strategic talent acquisition, while geopolitical dynamics reshape the global AI market. Meanwhile, developers gain new tools for LLM management, and researchers explore novel applications from chip design to molecular simulation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol)**\nOpenAI is once again setting the pace, previewing GPT-5.6 Sol, a model boasting significant advancements in coding, science, and cybersecurity, coupled with its most sophisticated safety stack yet. This move signals OpenAI's continued commitment to pushing the frontier of AI capabilities, potentially widening the competitive gap and setting new industry benchmarks for performance and responsible deployment.\n\n### **[SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/)**\nSkepticism is mounting around Elon Musk's ambitious vision for orbital data centers, with SoftBank's CEO joining a chorus of doubters. This reflects a growing trend among investors and industry leaders to scrutinize highly speculative, capital-intensive AI infrastructure projects, demanding clearer roadmaps and demonstrable feasibility beyond initial hype.\n\n### **[Apple Vision Pro exec is reportedly leaving for OpenAI](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/)**\nIn a significant talent coup, Paul Meade, a key Apple VP behind the Vision Pro headset, is reportedly departing for OpenAI's hardware team. This high-profile hire underscores OpenAI's serious intent to explore hardware integration, potentially signaling future ventures into specialized AI devices or integrated physical-digital experiences beyond its current software-centric offerings.\n\n### **[Asian AI startups launch Mythos-like models as Anthropic\u2019s export ban drags on](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/)**\nUS export controls are inadvertently fueling the rise of powerful local AI ecosystems in Asia, with startups launching models that rival capabilities like Anthropic's Mythos without the risk of trade restrictions. This development highlights the accelerating fragmentation of the global AI market and poses a significant challenge for US AI labs to regain lost market share in these critical regions.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)**\nA new tool, Wayfinder Router, offers deterministic query routing between local and hosted LLMs, addressing a crucial need for developers. This project provides practitioners with greater control and efficiency, enabling optimized hybrid deployments that balance performance, cost, and data privacy for various LLM applications.\n\n### **[AI learns the \u201cdark art\u201d of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design)**\nAI is making inroads into the highly specialized and complex domain of Radio Frequency Integrated Circuit (RFIC) design, traditionally considered a \"dark art\" due to its intricate nature. This breakthrough demonstrates AI's growing capability to automate and enhance complex engineering tasks, promising accelerated design cycles and potentially novel solutions in critical hardware development.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[DanceOPD: On-Policy Generative Field Distillation](http://arxiv.org/abs/2606.27377v1)**\nResearchers are pushing the boundaries of image generation with DanceOPD, a method aiming to unify diverse capabilities like text-to-image, local, and global editing within a single model. This work signifies a move towards more versatile and efficient generative AI, promising more holistic and practical tools for creative and design applications.\n\n### **[Reinforcement Learning without Ground-Truth Solutions can Improve LLMs](http://arxiv.org/abs/2606.27369v1)**\nA new paper explores how Reinforcement Learning (RL) can enhance Large Language Models (LLMs) even without relying on ground-truth solutions for reward assignment. This research expands the applicability of RL to a broader spectrum of LLM tasks, potentially unlocking new avenues for training and fine-tuning models in complex, open-ended scenarios where explicit answers are unavailable.\n\n### **[Autoregressive Boltzmann Generators](http://arxiv.org/abs/2606.27361v1)**\nThis research introduces Autoregressive Boltzmann Generators to tackle the challenge of efficiently sampling molecular systems at thermodynamic equilibrium. The development has significant implications for fields like drug discovery, materials science, and fundamental physics, by enabling more accurate and efficient simulations of complex physical phenomena.\n\n### **[When are likely answers right? On Sequence Probability and Correctness in LLMs](http://arxiv.org/abs/2606.27359v1)**\nThis paper delves into the critical relationship between an LLM's sequence probability and the correctness of its answers. Understanding how decoding methods influence the reliability of LLM outputs is crucial for developing more trustworthy and robust AI systems, allowing for better calibration of confidence and accuracy.\n\n### **[Error-Conditioned Neural Solvers](http://arxiv.org/abs/2606.27354v1)**\nResearchers are developing Error-Conditioned Neural Solvers to improve the reliability of neural surrogate models for Partial Differential Equations (PDEs). This approach allows neural solvers to self-correct errors, moving beyond purely statistical approximations towards more robust and physically consistent solutions for complex scientific and engineering problems.\n\n---\n**Today's Signal:** The AI landscape is rapidly diversifying, marked by intense competition at the frontier, strategic talent shifts, and the emergence of localized innovation hubs, all while practical tools and foundational research continue to expand AI's reach into complex domains.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Here's ALL the big AI news that dropped over the past week - LinkedIn ](https://www.linkedin.com/posts/matt-wolfe-30841712_heres-all-the-big-ai-news-that-dropped-over-activity-7395214492122390529-o3YR) | Here's ALL the big AI news that dropped over the past week: - OpenAI releases GP... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Age... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Previewing GPT-5.6 Sol: a next-generation model ](https://openai.com/index/previewing-gpt-5-6-sol) | OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities ... |\n| [[RSS] SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype](https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/) | Not everyone is buying Elon Musk\u2019s vision for orbital data centers. |\n| [Apple Vision Pro exec is reportedly leaving for OpenAI ](https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/) | Paul Meade, the Apple vice president in charge of the Vision Pro headset, is rep... |\n| [The fittest founder in the room got cancer. Here\u2019s how he used AI to fight back. ](https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/) | When confronted with cancer, Connor Christou fed everything tied tied to his reg... |\n| [Asian AI startups launch Mythos-like  models as Anthropic\u2019s export ban drags on ](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) | New models are launching in Asia that promise Mythos-like capabilities without f... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [DanceOPD: On-Policy Generative Field Distillation ](http://arxiv.org/abs/2606.27377v1) | Modern image generation demands a single model that unifies diverse capabilities... |\n| [Reinforcement Learning without Ground-Truth Solutions can Improve LLMs ](http://arxiv.org/abs/2606.27369v1) | Reinforcement learning with verifiable rewards (RLVR) for training LLMs typicall... |\n| [Autoregressive Boltzmann Generators ](http://arxiv.org/abs/2606.27361v1) | Efficient sampling of molecular systems at thermodynamic equilibrium is a hallma... |\n| [When are likely answers right? On Sequence Probability and Correctness in LLMs ](http://arxiv.org/abs/2606.27359v1) | Many decoding methods for large language models can be understood as shifting pr... |\n| [Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings ](http://arxiv.org/abs/2602.18364v3) | Maximum likelihood prediction (MLP) is a core task at the heart of modern large ... |\n| [Error-Conditioned Neural Solvers ](http://arxiv.org/abs/2606.27354v1) | Neural surrogate models offer fast approximate mappings from PDE parameters to s... |\n| [Pianist Transformer: Towards Expressive Piano Performance Rendering via Scalable Self-Supervised Pre-Training ](http://arxiv.org/abs/2512.02652v2) | Existing methods for expressive music performance rendering, a conditional gener... |\n| [Weak-to-Strong Elicitation via Mismatched Wrong Drafts ](http://arxiv.org/abs/2605.17314v2) | We consider whether off-policy experience from a smaller, weaker model can elici... |\n| [Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline ](http://arxiv.org/abs/2606.27347v1) | Whether political elites organise into rent-seeking coalitions that capture publ... |\n| [Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching ](http://arxiv.org/abs/2606.27342v1) | Entity Matching (EM) is a core operation in the data integration pipeline, where... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router) | HN Score: 32. Comments: 1 |\n| [[HackerNews] Ford hired AI and sacked humans. It backfired badly](https://www.the-independent.com/tech/ford-ai-automation-human-workers-b3003787.html) | HN Score: 121. Comments: 61 |\n| [[HackerNews] Ancient Tablets Show Markets Worked 4k Years Before Economists Explained Them](https://thedailyeconomy.org/article/ancient-clay-tablets-show-markets-worked-4000-years-before-economists-explained-them/) | HN Score: 37. Comments: 24 |\n| [[HackerNews] AI learns the \u201cdark art\u201d of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design) | HN Score: 223. Comments: 145 |\n| [[HackerNews] Asian AI startups launch Mythos-like models](https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/) | HN Score: 209. Comments: 160 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
