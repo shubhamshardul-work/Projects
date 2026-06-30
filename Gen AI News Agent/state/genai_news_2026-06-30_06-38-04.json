@@ -1,0 +1,469 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Recent tools include Gemini Workspace AI, Nvidia Nemo Claw, Claude Code Review, Pomelli marketing AI, and Hermes AI agent. Why Are AI Agents",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Gemini\u2019s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "url": "http://arxiv.org/abs/2606.30645v1",
+      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Good Can Linear Models Be for Time-Series Forecasting?",
+      "url": "http://arxiv.org/abs/2606.27282v2",
+      "summary": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unloc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "url": "http://arxiv.org/abs/2606.30642v1",
+      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a struc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Self-Evolving World Models for LLM Agent Planning",
+      "url": "http://arxiv.org/abs/2606.30639v1",
+      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "http://arxiv.org/abs/2606.30634v1",
+      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "url": "http://arxiv.org/abs/2606.30632v1",
+      "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challeng...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "http://arxiv.org/abs/2606.30627v1",
+      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to ex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DOPD: Dual On-policy Distillation",
+      "url": "http://arxiv.org/abs/2606.30626v1",
+      "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby eleva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+      "url": "http://arxiv.org/abs/2606.30625v1",
+      "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, em...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion",
+      "url": "http://arxiv.org/abs/2606.00616v3",
+      "summary": "Recent Vision-Language Models (VLMs) struggle with grounded reasoning, temporal consistency, and context aware planning in videos. We introduce pause-and-think-T, a reasoning-centric training dataset ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 362945",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 907682",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 133350",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] .self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "summary": "HN Score: 428. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "HN Score: 90. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "summary": "HN Score: 188. Comments: 38",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "... breakthroughs in large language models and creative AI. If you're looking to stay ahead on the latest in AI tools, generative AI, and the",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Recent tools include Gemini Workspace AI, Nvidia Nemo Claw, Claude Code Review, Pomelli marketing AI, and Hermes AI agent. Why Are AI Agents",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs.\u00a0",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Gemini\u2019s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "url": "http://arxiv.org/abs/2606.30645v1",
+      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] How Good Can Linear Models Be for Time-Series Forecasting?",
+      "url": "http://arxiv.org/abs/2606.27282v2",
+      "summary": "Time-series forecasting research has been moving steadily toward larger architectures, from specialized transformers to general-purpose foundation models, on the assumption that capacity is what unloc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "url": "http://arxiv.org/abs/2606.30642v1",
+      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a struc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Self-Evolving World Models for LLM Agent Planning",
+      "url": "http://arxiv.org/abs/2606.30639v1",
+      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "http://arxiv.org/abs/2606.30634v1",
+      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GROW$^2$: Grounding Which and Where for Robot Tool Use",
+      "url": "http://arxiv.org/abs/2606.30632v1",
+      "summary": "Can the robot use a plate to cut a cake if no knife is available? Tool use greatly expands robot capabilities, but to use tools creatively beyond their intended functions, the robot faces the challeng...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "http://arxiv.org/abs/2606.30627v1",
+      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to ex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DOPD: Dual On-policy Distillation",
+      "url": "http://arxiv.org/abs/2606.30626v1",
+      "summary": "On-policy distillation (OPD) offers superior capacity transfer by supervising student-sampled trajectories with dense token-level signals. To furnish high-quality supervision sources and thereby eleva...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms",
+      "url": "http://arxiv.org/abs/2606.30625v1",
+      "summary": "Contrastive embedding models trained with scale-invariant losses are typically paired with distance metrics like cosine similarity, effectively ignoring embedding magnitudes. However, surprisingly, em...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion",
+      "url": "http://arxiv.org/abs/2606.00616v3",
+      "summary": "Recent Vision-Language Models (VLMs) struggle with grounded reasoning, temporal consistency, and context aware planning in videos. We introduce pause-and-think-T, a reasoning-centric training dataset ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 362945",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 907682",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 133350",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] .self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "summary": "HN Score: 428. Comments: 249",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "HN Score: 90. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "summary": "HN Score: 188. Comments: 38",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+      },
+      {
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+      },
+      {
+        "title": "The AI jobs debate just got messier",
+        "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+        "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
+      },
+      {
+        "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+        "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+        "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models."
+      },
+      {
+        "title": "Gemini\u2019s personalized AI image generation is now free for US users",
+        "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+        "summary": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+      }
+    ],
+    "technical": [
+      {
+        "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+        "url": "https://longcat.chat/blog/longcat-2.0/",
+        "summary": "HN Score: 90. Comments: 28"
+      },
+      {
+        "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+        "url": "https://github.com/deepreinforce-ai/Ornith-1",
+        "summary": "HN Score: 188. Comments: 38"
+      }
+    ],
+    "research": [
+      {
+        "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+        "url": "http://arxiv.org/abs/2606.30645v1",
+        "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu..."
+      },
+      {
+        "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+        "url": "http://arxiv.org/abs/2606.30642v1",
+        "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a struc..."
+      },
+      {
+        "title": "Self-Evolving World Models for LLM Agent Planning",
+        "url": "http://arxiv.org/abs/2606.30639v1",
+        "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even..."
+      },
+      {
+        "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+        "url": "http://arxiv.org/abs/2606.30634v1",
+        "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchro..."
+      },
+      {
+        "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+        "url": "http://arxiv.org/abs/2606.30627v1",
+        "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to ex..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+    },
+    {
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "url": "https://openai.com/index/hp-frontier-partnership",
+      "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations."
+    },
+    {
+      "title": "The AI jobs debate just got messier",
+      "url": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Among those companies, entry-level headcount rose by 12%, countering the rhetoric that AI kills junior jobs."
+    },
+    {
+      "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+      "url": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014 with hopes that it will eventually outperform frontier models."
+    },
+    {
+      "title": "Gemini\u2019s personalized AI image generation is now free for US users",
+      "url": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "Google is expanding Gemini\u2019s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images based on your interests and data from connected Google apps."
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "summary": "HN Score: 90. Comments: 28"
+    },
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "summary": "HN Score: 188. Comments: 38"
+    },
+    {
+      "title": "VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes",
+      "url": "http://arxiv.org/abs/2606.30645v1",
+      "summary": "Perception-based humanoid loco-manipulation requires connecting egocentric observations and task instructions to whole-body motion. Learning this mapping requires synchronized egocentric images, langu..."
+    },
+    {
+      "title": "LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training",
+      "url": "http://arxiv.org/abs/2606.30642v1",
+      "summary": "Full-length song generation must preserve coherence and musicality, render detailed vocal and accompaniment acoustics, and follow lyrics and prompts. Existing language model-based systems face a struc..."
+    },
+    {
+      "title": "Self-Evolving World Models for LLM Agent Planning",
+      "url": "http://arxiv.org/abs/2606.30639v1",
+      "summary": "World models offer a principled way to equip long-horizon LLM agents with foresight: predictions of action consequences before execution. However, unreliable foresight can be ignored, misused, or even..."
+    },
+    {
+      "title": "One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining",
+      "url": "http://arxiv.org/abs/2606.30634v1",
+      "summary": "Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism; however, synchronous implementations leave GPUs idle during pipeline bubbles, wasting computational resources. Asynchro..."
+    },
+    {
+      "title": "Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models",
+      "url": "http://arxiv.org/abs/2606.30627v1",
+      "summary": "Conservative offline training is widely advocated as a safe foundation for subsequent online adaptation: if a policy stays close to well-supported behaviour, the argument goes, it is less likely to ex..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Evolving Landscape of AI Adoption and Innovation\n\nToday's report highlights a dynamic interplay between strategic enterprise AI adoption and foundational research breakthroughs. We're seeing major players integrate AI deeply into operations while the academic frontier pushes the boundaries of agentic models and training efficiency.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Mapping Europe\u2019s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)**\nA new OpenAI report offers critical insights into how AI will reshape the European job market, identifying roles prone to automation, growth, or significant workflow changes. This analysis is vital for business leaders and policymakers to proactively strategize workforce development, talent acquisition, and educational reforms to navigate the impending shifts.\n\n### **[HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership)**\nHP Inc. is significantly expanding its collaboration with OpenAI, aiming to embed AI across its customer experiences, software development, and enterprise operations. This partnership underscores a growing trend of established corporations leveraging frontier AI models to drive efficiency, innovation, and competitive advantage at scale.\n\n### **[The AI jobs debate just got messier](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/)**\nContrary to widespread fears, a new report indicates that \"high-intensity AI adopters\" experienced a 10.2% increase in overall headcount, with entry-level positions rising by 12%. This challenges the prevailing narrative that AI primarily eliminates junior roles, suggesting that strategic AI integration can instead fuel growth and create new opportunities within organizations.\n\n### **[Vibe coding platform Base44 launches own model as AI startups seek defensibility](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/)**\nWix-owned Base44, a vibe coding platform, is rolling out its proprietary AI model with aspirations to surpass frontier models in performance. This move highlights a strategic imperative for specialized AI startups to develop unique, defensible models that offer tailored capabilities and competitive differentiation beyond general-purpose solutions.\n\n### **[Gemini\u2019s personalized AI image generation is now free for US users](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/)**\nGoogle is democratizing advanced creative AI by making Gemini\u2019s personalized image generation available for free to eligible U.S. users, leveraging their interests and connected Google app data. This aggressive push aims to broaden AI accessibility, drive user engagement, and further integrate AI into everyday digital experiences.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/)**\nDevelopers should take note of LongCat-2.0, a new Mixture-of-Experts (MoE) model boasting a massive 1.6 trillion total parameters with 48 billion active. This architecture promises enhanced efficiency and capability for handling complex, long-context tasks, making it a significant model to watch for advanced application development.\n\n### **[Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)**\nOrnith-1.0 introduces self-improving open-source models specifically designed for agentic coding, a crucial step towards more autonomous development workflows. This project offers practitioners a powerful tool for automating and enhancing coding tasks, pushing the frontier of what AI can achieve in software engineering.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes](http://arxiv.org/abs/2606.30645v1)**\nThis research explores teaching humanoid robots complex loco-manipulation skills by learning from synthetic interactions within reconstructed scenes. It represents a significant leap in robotic control, enabling humanoids to connect egocentric observations with whole-body motion, with profound implications for automation in complex, real-world environments.\n\n### **[LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training](http://arxiv.org/abs/2606.30642v1)**\nLeVo 2 addresses the challenge of generating full-length, coherent, and melodious songs by employing hierarchical representation modeling and progressive post-training. This work pushes the boundaries of AI music creation, promising more nuanced vocal and accompaniment acoustics that faithfully follow lyrics and prompts.\n\n### **[Self-Evolving World Models for LLM Agent Planning](http://arxiv.org/abs/2606.30639v1)**\nThis paper introduces a novel approach where LLM agents can build and refine their own \"world models\" to improve long-horizon planning and foresight. This is a critical development for creating more intelligent, adaptable, and reliable AI agents capable of anticipating consequences before execution.\n\n### **[One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining](http://arxiv.org/abs/2606.30634v1)**\nResearchers demonstrate that asynchronous pipeline parallelism, even with a one-step gradient delay, can be highly effective for large-scale LLM pretraining, challenging previous assumptions about its limitations. This finding has significant implications for optimizing computational resources and accelerating the development of future frontier models.\n\n### **[Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models](http://arxiv.org/abs/2606.30627v1)**\nA crucial study reveals that conservative offline training, often advocated for safety, can paradoxically amplify reward hacking during subsequent online adaptation in reasoning models. This highlights a critical challenge for AI alignment and safety, urging a re-evaluation of current strategies to prevent unintended and undesirable model behaviors.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, characterized by widespread enterprise adoption driving new job opportunities, while cutting-edge research continues to refine agentic capabilities and optimize the very foundations of large model training and safety.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | ... breakthroughs in large language models and creative AI. If you're looking to... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Recent tools include Gemini Workspace AI, Nvidia Nemo Claw, Claude Code Review, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Mapping Europe\u2019s AI Workforce Opportunity ](https://openai.com/index/mapping-ai-jobs-transition-eu) | A new OpenAI report maps how AI could reshape jobs across the EU, highlighting w... |\n| [HP Inc. launches Frontier strategic partnership with OpenAI ](https://openai.com/index/hp-frontier-partnership) | HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer expe... |\n| [The AI jobs debate just got messier ](https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/) | A new report finds \"high-intensity AI adopters\u201d saw headcount increase 10.2%. Am... |\n| [Vibe coding platform Base44 launches own model as AI startups seek defensibility ](https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/) | Wix-owned vibe coding platform Base44 has started rolling out its own AI model \u2014... |\n| [Gemini\u2019s personalized AI image generation is now free for US users ](https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/) | Google is expanding Gemini\u2019s personalized AI image generation to eligible free u... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes ](http://arxiv.org/abs/2606.30645v1) | Perception-based humanoid loco-manipulation requires connecting egocentric obser... |\n| [How Good Can Linear Models Be for Time-Series Forecasting? ](http://arxiv.org/abs/2606.27282v2) | Time-series forecasting research has been moving steadily toward larger architec... |\n| [LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training ](http://arxiv.org/abs/2606.30642v1) | Full-length song generation must preserve coherence and musicality, render detai... |\n| [Self-Evolving World Models for LLM Agent Planning ](http://arxiv.org/abs/2606.30639v1) | World models offer a principled way to equip long-horizon LLM agents with foresi... |\n| [One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining ](http://arxiv.org/abs/2606.30634v1) | Modern large-scale LLM pretraining benefits from utilizing Pipeline Parallelism;... |\n| [GROW$^2$: Grounding Which and Where for Robot Tool Use ](http://arxiv.org/abs/2606.30632v1) | Can the robot use a plate to cut a cake if no knife is available? Tool use great... |\n| [Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models ](http://arxiv.org/abs/2606.30627v1) | Conservative offline training is widely advocated as a safe foundation for subse... |\n| [DOPD: Dual On-policy Distillation ](http://arxiv.org/abs/2606.30626v1) | On-policy distillation (OPD) offers superior capacity transfer by supervising st... |\n| [Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms ](http://arxiv.org/abs/2606.30625v1) | Contrastive embedding models trained with scale-invariant losses are typically p... |\n| [Pause and Think: A Dataset and Benchmark for Video-Grounded Assistive Action Suggestion ](http://arxiv.org/abs/2606.00616v3) | Recent Vision-Language Models (VLMs) struggle with grounded reasoning, temporal ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] .self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) | HN Score: 428. Comments: 249 |\n| [[HackerNews] LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) | HN Score: 90. Comments: 28 |\n| [[HackerNews] Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) | HN Score: 188. Comments: 38 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
