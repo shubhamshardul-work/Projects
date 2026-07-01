@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "If you're looking to stay ahead on the latest in AI tools, generative AI ... AI News: The New Model That's As Good As Fable. Matt Wolfe. New.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Another major development in this AI News Update involves Nvidia's release of Nemotron 3 Super. This reasoning model contains around 120 billion",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+      "url": "http://arxiv.org/abs/2606.32038v1",
+      "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32034v1",
+      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "http://arxiv.org/abs/2606.32032v1",
+      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "url": "http://arxiv.org/abs/2606.32029v1",
+      "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Freeform Preference Learning for Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2606.32027v1",
+      "summary": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary prefe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AdaJEPA: An Adaptive Latent World Model",
+      "url": "http://arxiv.org/abs/2606.32026v1",
+      "summary": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Coarsening Bias from Variable Discretization in Causal Functionals",
+      "url": "http://arxiv.org/abs/2602.22083v2",
+      "summary": "Causal identification functionals often require integration over conditional densities of continuous variables, such as those arising in nonparametric identification theory of total and mediated causa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generative Skill Composition for LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32025v1",
+      "summary": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a san...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+      "url": "http://arxiv.org/abs/2606.32023v1",
+      "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
+      "url": "http://arxiv.org/abs/2606.32022v1",
+      "summary": "Residual-stream analysis asks how language-model computation evolves across depth, but intermediate decoding requires comparable readout coordinates across layers. If embedding anchors and unembedding...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 429056",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 970663",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 142547",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "summary": "HN Score: 1735. Comments: 498",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "HN Score: 1050. Comments: 612",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "summary": "HN Score: 567. Comments: 299",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "summary": "HN Score: 452. Comments: 134",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "summary": "HN Score: 20. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "If you're looking to stay ahead on the latest in AI tools, generative AI ... AI News: The New Model That's As Good As Fable. Matt Wolfe. New.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Another major development in this AI News Update involves Nvidia's release of Nemotron 3 Super. This reasoning model contains around 120 billion",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+      "summary": "OpenAI engineers used large-scale core dump analysis to debug rare infrastructure crashes, uncovering both a hardware fault and a long-standing software bug.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": "",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision",
+      "url": "http://arxiv.org/abs/2606.32038v1",
+      "summary": "When does training language models (LMs) to generate explanations of their predictions yield faithful introspection, rather than superficial imitation? We study LMs trained to explain which features o...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32034v1",
+      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "http://arxiv.org/abs/2606.32032v1",
+      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors",
+      "url": "http://arxiv.org/abs/2606.32029v1",
+      "summary": "While large language models (LLMs) perform well on table tasks, they still make data referencing errors (DREs), i.e., incorrectly citing or omitting table values, despite understanding the table struc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Freeform Preference Learning for Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2606.32027v1",
+      "summary": "Reward design remains a central bottleneck for autonomous robot policy improvement, especially in long-horizon manipulation tasks where sparse success labels provide too little signal and binary prefe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AdaJEPA: An Adaptive Latent World Model",
+      "url": "http://arxiv.org/abs/2606.32026v1",
+      "summary": "Latent world models enable planning from high-dimensional observations by predicting future states in a compact latent space. However, these models are typically kept frozen at test time: when their p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Coarsening Bias from Variable Discretization in Causal Functionals",
+      "url": "http://arxiv.org/abs/2602.22083v2",
+      "summary": "Causal identification functionals often require integration over conditional densities of continuous variables, such as those arising in nonparametric identification theory of total and mediated causa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Generative Skill Composition for LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32025v1",
+      "summary": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a san...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+      "url": "http://arxiv.org/abs/2606.32023v1",
+      "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models",
+      "url": "http://arxiv.org/abs/2606.32022v1",
+      "summary": "Residual-stream analysis asks how language-model computation evolves across depth, but intermediate decoding requires comparable readout coordinates across layers. If embedding anchors and unembedding...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 429056",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 970663",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 142547",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "summary": "HN Score: 1735. Comments: 498",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "HN Score: 1050. Comments: 612",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "summary": "HN Score: 567. Comments: 299",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "summary": "HN Score: 452. Comments: 134",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "summary": "HN Score: 20. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[HackerNews] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+        "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+        "summary": "HN Score: 567. Comments: 299"
+      },
+      {
+        "title": "[HackerNews] Claude Sonnet 5",
+        "url": "https://www.anthropic.com/news/claude-sonnet-5",
+        "summary": "HN Score: 1050. Comments: 612"
+      },
+      {
+        "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+      },
+      {
+        "title": "[RSS] How ChatGPT adoption has expanded",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+      },
+      {
+        "title": "[HackerNews] Claude Science",
+        "url": "https://claude.com/product/claude-science",
+        "summary": "HN Score: 452. Comments: 134"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Claude Code is steganographically marking requests",
+        "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "summary": "HN Score: 1735. Comments: 498"
+      },
+      {
+        "title": "[HackerNews] Matrix Orthogonalization Improves Memory in Recurrent Models",
+        "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+        "summary": "HN Score: 20. Comments: 1"
+      },
+      {
+        "title": "[ArXiv] FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+        "url": "http://arxiv.org/abs/2606.32023v1",
+        "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest..."
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Introducing GeneBench-Pro",
+        "url": "https://openai.com/index/introducing-genebench-pro",
+        "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+      },
+      {
+        "title": "[RSS] Inside Genebench-Pro",
+        "url": "https://openai.com/index/genebench-pro/case-studies",
+        "summary": ""
+      },
+      {
+        "title": "[ArXiv] Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+        "url": "http://arxiv.org/abs/2606.32032v1",
+        "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu..."
+      },
+      {
+        "title": "[ArXiv] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+        "url": "http://arxiv.org/abs/2606.32034v1",
+        "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ..."
+      },
+      {
+        "title": "[ArXiv] Generative Skill Composition for LLM Agents",
+        "url": "http://arxiv.org/abs/2606.32025v1",
+        "summary": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a san..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[HackerNews] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "summary": "HN Score: 567. Comments: 299"
+    },
+    {
+      "title": "[HackerNews] Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "summary": "HN Score: 1050. Comments: 612"
+    },
+    {
+      "title": "[RSS] Mapping Europe\u2019s AI Workforce Opportunity",
+      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes."
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages."
+    },
+    {
+      "title": "[HackerNews] Claude Science",
+      "url": "https://claude.com/product/claude-science",
+      "summary": "HN Score: 452. Comments: 134"
+    },
+    {
+      "title": "[HackerNews] Claude Code is steganographically marking requests",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "summary": "HN Score: 1735. Comments: 498"
+    },
+    {
+      "title": "[HackerNews] Matrix Orthogonalization Improves Memory in Recurrent Models",
+      "url": "https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/",
+      "summary": "HN Score: 20. Comments: 1"
+    },
+    {
+      "title": "[ArXiv] FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data",
+      "url": "http://arxiv.org/abs/2606.32023v1",
+      "summary": "Forest attributes are essential for national-scale resource monitoring. Airborne LiDAR metrics are among the auxiliary variables most strongly correlated with forest attributes used in National Forest..."
+    },
+    {
+      "title": "[RSS] Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+    },
+    {
+      "title": "[RSS] Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
+      "summary": ""
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs",
+      "url": "http://arxiv.org/abs/2606.32032v1",
+      "summary": "Metacognition is a critical component of intelligence that describes the ability to monitor and regulate one's own cognitive processes. Yet LLMs exhibit systemic deficiencies in key metacognitive facu..."
+    },
+    {
+      "title": "[ArXiv] QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32034v1",
+      "summary": "LLM agents increasingly act over long horizons, where a single trajectory can contain hundreds or thousands of actions. In these settings, outcome-only rewards provide too sparse guidance, failing to ..."
+    },
+    {
+      "title": "[ArXiv] Generative Skill Composition for LLM Agents",
+      "url": "http://arxiv.org/abs/2606.32025v1",
+      "summary": "Recent LLM agents benefit from skills for solving complex tasks. Skills encapsulate modular packages of procedural knowledge and instructions for performing specialized tasks, such as setting up a san..."
+    }
+  ],
+  "final_report": "# AI's Global Expansion & Deepening Capabilities: From Regulatory Shifts to Metacognitive Agents\n\nToday's intelligence report highlights a dynamic landscape where AI models are rapidly expanding their global reach and deepening their specialized capabilities. We're seeing significant regulatory movements alongside crucial advancements in model reliability and agentic intelligence.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341)**\nThis is a significant regulatory move, indicating a shift in how advanced AI models are viewed for international deployment. It could open up new markets and accelerate global AI adoption, particularly for Anthropic's cutting-edge models, impacting competitive dynamics.\n\n### **[Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)**\nAnthropic's continued release of new Claude models, especially Sonnet 5, signals rapid iteration and competition in the foundational model space. Businesses should evaluate its capabilities for improved performance and cost-efficiency in various applications, potentially driving new product development.\n\n### **[Mapping Europe\u2019s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu)**\nThis OpenAI report provides crucial insights for strategic workforce planning and policy-making across the EU. Business leaders must understand these shifts to prepare their organizations for the evolving talent landscape and invest proactively in reskilling initiatives to maintain competitiveness.\n\n### **[How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded)**\nThe expanding global adoption of ChatGPT underscores the mainstreaming of generative AI, with users increasing usage and exploring more capabilities. This trend indicates a growing user base ready for AI-powered products and services, presenting opportunities for businesses to integrate AI more deeply into their operations and customer interactions.\n\n### **[Claude Science](https://claude.com/product/claude-science)**\nThe introduction of specialized AI models like Claude Science highlights a strategic move towards domain-specific AI solutions. This could offer significant advantages for industries requiring deep scientific understanding, potentially accelerating research and development cycles and creating new market niches.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)**\nThis discovery of steganographic marking in Claude Code prompts raises important questions about data privacy, intellectual property, and model attribution. Developers need to be aware of such practices and consider their implications for sensitive code or proprietary information, potentially influencing toolchain choices.\n\n### **[Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/)**\nThis research offers a potential optimization for recurrent neural networks, which are foundational in many sequence-based AI applications. Engineers working with RNNs should investigate this technique for potential memory efficiency gains and improved model performance, especially in resource-constrained environments.\n\n### **[FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data](http://arxiv.org/abs/2606.32023v1)**\nFLORA demonstrates a practical application of deep learning for environmental monitoring, leveraging complex LiDAR data for national-scale resource assessment. Developers in geospatial AI or environmental tech should watch this for robust methods in processing heterogeneous sensor data for real-world predictive models.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro)**\nGeneBench-Pro is a critical new benchmark for evaluating AI in life sciences, providing a standardized way to measure performance on complex biological tasks. Researchers should leverage this tool to rigorously test and compare new models, accelerating progress in AI for genomics and biology.\n\n### **[Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies)**\nThe accompanying case studies for GeneBench-Pro offer deeper insights into its practical application and the challenges it addresses in scientific AI. This provides valuable context for researchers looking to understand the nuances of applying AI to real-world biological problems and developing robust solutions.\n\n### **[Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs](http://arxiv.org/abs/2606.32032v1)**\nThis research explores a novel approach to improve LLM reliability by integrating metacognitive feedback through reinforcement learning. Enhancing LLMs' ability to express uncertainty faithfully is crucial for building more trustworthy and robust AI systems, especially in high-stakes applications like medical diagnosis or financial advice.\n\n### **[QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents](http://arxiv.org/abs/2606.32034v1)**\nQVal addresses a significant challenge in training long-horizon LLM agents by proposing a cost-effective method for evaluating dense supervision signals. This work is vital for researchers developing complex AI agents, as it promises to make training more efficient and effective by providing richer feedback than sparse outcome-only rewards.\n\n### **[Generative Skill Composition for LLM Agents](http://arxiv.org/abs/2606.32025v1)**\nThis paper introduces generative skill composition, a method to enhance LLM agents' ability to tackle complex tasks by dynamically combining modular skills. This represents a significant step towards more adaptable and intelligent agents, allowing them to reason and act more effectively in diverse, multi-step environments.\n\n**Today's Signal:** The AI ecosystem is maturing rapidly, marked by both increasing global accessibility of powerful models and a concerted research effort to enhance their trustworthiness and autonomous capabilities.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | If you're looking to stay ahead on the latest in AI tools, generative AI ... AI ... |\n| [AI News Update: 6 AI Tools That Dropped In The Last 24 Hours ](https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the) | Another major development in this AI News Update involves Nvidia's release of Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How ChatGPT adoption has expanded ](https://openai.com/index/how-chatgpt-adoption-has-expanded) | New OpenAI Signals data shows how ChatGPT adoption is growing globally, with use... |\n| [Introducing GeneBench-Pro ](https://openai.com/index/introducing-genebench-pro) | Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, b... |\n| [Core dump epidemiology: fixing an 18-year-old bug ](https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug) | OpenAI engineers used large-scale core dump analysis to debug rare infrastructur... |\n| [[RSS] Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) |  |\n| [Mapping Europe\u2019s AI Workforce Opportunity ](https://openai.com/index/mapping-ai-jobs-transition-eu) | A new OpenAI report maps how AI could reshape jobs across the EU, highlighting w... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision ](http://arxiv.org/abs/2606.32038v1) | When does training language models (LMs) to generate explanations of their predi... |\n| [QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents ](http://arxiv.org/abs/2606.32034v1) | LLM agents increasingly act over long horizons, where a single trajectory can co... |\n| [Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs ](http://arxiv.org/abs/2606.32032v1) | Metacognition is a critical component of intelligence that describes the ability... |\n| [When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors ](http://arxiv.org/abs/2606.32029v1) | While large language models (LLMs) perform well on table tasks, they still make ... |\n| [Freeform Preference Learning for Robotic Manipulation ](http://arxiv.org/abs/2606.32027v1) | Reward design remains a central bottleneck for autonomous robot policy improveme... |\n| [AdaJEPA: An Adaptive Latent World Model ](http://arxiv.org/abs/2606.32026v1) | Latent world models enable planning from high-dimensional observations by predic... |\n| [Coarsening Bias from Variable Discretization in Causal Functionals ](http://arxiv.org/abs/2602.22083v2) | Causal identification functionals often require integration over conditional den... |\n| [Generative Skill Composition for LLM Agents ](http://arxiv.org/abs/2606.32025v1) | Recent LLM agents benefit from skills for solving complex tasks. Skills encapsul... |\n| [FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data ](http://arxiv.org/abs/2606.32023v1) | Forest attributes are essential for national-scale resource monitoring. Airborne... |\n| [SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models ](http://arxiv.org/abs/2606.32022v1) | Residual-stream analysis asks how language-model computation evolves across dept... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | HN Score: 1735. Comments: 498 |\n| [[HackerNews] Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | HN Score: 1050. Comments: 612 |\n| [[HackerNews] Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) | HN Score: 567. Comments: 299 |\n| [[HackerNews] Claude Science](https://claude.com/product/claude-science) | HN Score: 452. Comments: 134 |\n| [[HackerNews] Matrix Orthogonalization Improves Memory in Recurrent Models](https://ayushtambde.com/blog/matrix-orthogonalization-improves-memory-in-recurrent-models/) | HN Score: 20. Comments: 1 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
