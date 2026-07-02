@@ -1,0 +1,424 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence - TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Read the latest on artificial intelligence and machine learning tech, generative AI, including large language models, text-to-image and text-to-video models;",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Another major development in this AI News Update involves Nvidia's release of Nemotron 3 Super. This reasoning model contains around 120 billion",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Measuring the Gap Between Human and LLM Research Ideas",
+      "url": "http://arxiv.org/abs/2607.01233v1",
+      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "http://arxiv.org/abs/2607.01232v1",
+      "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v2",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, nonstationary, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language-Critique Imitation Learning from Suboptimal Demonstrations",
+      "url": "http://arxiv.org/abs/2607.01225v1",
+      "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "http://arxiv.org/abs/2607.01224v1",
+      "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "http://arxiv.org/abs/2607.01223v1",
+      "summary": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The State-Prediction Separation Hypothesis",
+      "url": "http://arxiv.org/abs/2607.01218v1",
+      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.01212v1",
+      "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "http://arxiv.org/abs/2607.01211v1",
+      "summary": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+      "url": "http://arxiv.org/abs/2607.01208v1",
+      "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 630246",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1113871",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 159967",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "HN Score: 24. Comments: 8",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence - TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Read the latest on artificial intelligence and machine learning tech, generative AI, including large language models, text-to-image and text-to-video models;",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Update: 6 AI Tools That Dropped In The Last 24 Hours",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the",
+      "summary": "Another major development in this AI News Update involves Nvidia's release of Nemotron 3 Super. This reasoning model contains around 120 billion",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "summary": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth across regions and languages.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Measuring the Gap Between Human and LLM Research Ideas",
+      "url": "http://arxiv.org/abs/2607.01233v1",
+      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "http://arxiv.org/abs/2607.01232v1",
+      "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v2",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, nonstationary, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Language-Critique Imitation Learning from Suboptimal Demonstrations",
+      "url": "http://arxiv.org/abs/2607.01225v1",
+      "summary": "Prior work on imitation learning from suboptimal demonstrations typically relies on compressed supervision signals such as confidence estimates, discriminator scores, or importance weights. These scal...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoMem: Automated Learning of Memory as a Cognitive Skill",
+      "url": "http://arxiv.org/abs/2607.01224v1",
+      "summary": "Memory expertise is a learned skill: knowing what to encode, when to retrieve, and how to organize knowledge--a capacity known in cognitive science as metamemory. We bring this perspective to LLMs by ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Theoria: Rewrite-Acceptability Verification over Informal Reasoning States",
+      "url": "http://arxiv.org/abs/2607.01223v1",
+      "summary": "When should an AI system's answer be trusted? Formal proof assistants offer certainty but cannot reach most of the problem distribution; scalar LLM judges offer coverage but produce opaque scores that...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The State-Prediction Separation Hypothesis",
+      "url": "http://arxiv.org/abs/2607.01218v1",
+      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.01212v1",
+      "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?",
+      "url": "http://arxiv.org/abs/2607.01211v1",
+      "summary": "Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and SWE-fficiency evaluate coding agents by applying patches to real repositories and comparing runtime against unoptimized b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+      "url": "http://arxiv.org/abs/2607.01208v1",
+      "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 630246",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1113871",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 159967",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "HN Score: 24. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=Qj71N0tBzRo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI."
+      },
+      {
+        "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+        "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+        "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+      },
+      {
+        "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+        "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+        "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them."
+      },
+      {
+        "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+        "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+        "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+      },
+      {
+        "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "summary": "HN Score: 24. Comments: 8"
+      }
+    ],
+    "technical": [],
+    "research": [
+      {
+        "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+        "url": "http://arxiv.org/abs/2607.01232v1",
+        "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi..."
+      },
+      {
+        "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+        "url": "http://arxiv.org/abs/2607.01208v1",
+        "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i..."
+      },
+      {
+        "title": "The State-Prediction Separation Hypothesis",
+        "url": "http://arxiv.org/abs/2607.01218v1",
+        "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:..."
+      },
+      {
+        "title": "Measuring the Gap Between Human and LLM Research Ideas",
+        "url": "http://arxiv.org/abs/2607.01233v1",
+        "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g..."
+      },
+      {
+        "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+        "url": "http://arxiv.org/abs/2607.01212v1",
+        "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembl..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+      "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+      "summary": "Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI."
+    },
+    {
+      "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+      "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+    },
+    {
+      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+      "url": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies \u2014 the infrastructure and energy that power them."
+    },
+    {
+      "title": "Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content",
+      "url": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+    },
+    {
+      "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "summary": "HN Score: 24. Comments: 8"
+    },
+    {
+      "title": "Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training",
+      "url": "http://arxiv.org/abs/2607.01232v1",
+      "summary": "Reinforcement learning (RL) has become a central component of post-training large language models (LLMs), yet little is understood about how RL adaptation is distributed across transformer layers. Exi..."
+    },
+    {
+      "title": "Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation",
+      "url": "http://arxiv.org/abs/2607.01208v1",
+      "summary": "Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor i..."
+    },
+    {
+      "title": "The State-Prediction Separation Hypothesis",
+      "url": "http://arxiv.org/abs/2607.01218v1",
+      "summary": "Transformers use the same forward computation stream to both predict the next token and store useful state for future token predictions. We formulate the \\emph{state-prediction separation hypothesis}:..."
+    },
+    {
+      "title": "Measuring the Gap Between Human and LLM Research Ideas",
+      "url": "http://arxiv.org/abs/2607.01233v1",
+      "summary": "LLMs are increasingly used to brainstorm research ideas, but existing evaluations mostly judge individual ideas by novelty, feasibility, or expert preference. We instead ask: how far are current LLM-g..."
+    },
+    {
+      "title": "FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.01212v1",
+      "summary": "Current work on robot furniture assembly mostly focuses on toy-scale settings or single-arm manipulation. We introduce FurnitureVLA, the first systematic study of real-scale bimanual furniture assembl..."
+    }
+  ],
+  "final_report": "# AI Intelligence Briefing: The Shifting Sands of AI Strategy and Discovery\n\nToday's intelligence report highlights a dynamic landscape where established tech giants face new AI-powered challengers, while venture capital pivots to foundational AI infrastructure. Simultaneously, cutting-edge research pushes the boundaries of AI efficiency, interpretability, and real-world application.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)**\nThis significant personal investment signals a strong belief in AI's potential to disrupt deeply entrenched enterprise software markets currently dominated by Microsoft and Google. Business leaders should recognize this as a bellwether for increased competition and innovation in productivity tools, potentially offering more tailored and efficient AI-native solutions. The strategic implication is a looming battle for the future of workplace software, where AI integration becomes the primary differentiator.\n\n### **[SpaceX has an AI device prototype, and it sure sounds phone-ish](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/)**\nSpaceX's reported development of a \"handset-like\" AI device suggests a strategic expansion beyond its core space and satellite internet services. This move could indicate a vertical integration play, leveraging Starlink's global connectivity to power a new generation of AI-driven mobile or edge computing devices. Executives should consider the potential for new ecosystems to emerge around satellite internet infrastructure, challenging traditional telecom and device manufacturers.\n\n### **[Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/)**\nThis venture capital shift from \"category-leading AI labs\" to the \"infrastructure and energy\" powering them reflects a maturing investment thesis in the AI space. It suggests a strategic belief that the next wave of significant returns will come from foundational technologies, such as specialized hardware, data centers, and energy solutions, rather than solely from application-layer AI models. Investors should take note of this pivot as an indicator of where smart money sees long-term value in the evolving AI landscape.\n\n### **[Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers\u2019 content/)**\nCloudflare's new policy marks a critical turning point in the ongoing debate over AI training data and intellectual property rights. By requiring AI companies to differentiate their web crawlers, it creates a mechanism for publishers to control and potentially monetize access to their content for AI training. This development could significantly impact the cost structure and legal landscape for AI model development, forcing companies to re-evaluate their data acquisition strategies and potentially setting a precedent for content licensing across the industry.\n\n### **[Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)**\nThe general availability of Kimi K2.7 Code in GitHub Copilot signifies the accelerating integration of advanced AI into core developer workflows. For businesses, this translates to enhanced developer productivity, potentially faster software development cycles, and reduced time-to-market for new products and features. Strategically, it underscores the importance of adopting AI-powered tools to maintain a competitive edge in software innovation and talent attraction.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](http://arxiv.org/abs/2607.01232v1)**\nThis groundbreaking research challenges the conventional wisdom of deep transformer architectures in reinforcement learning, demonstrating that a single layer can achieve comparable performance to full-parameter training. For researchers, this opens up significant avenues for developing more efficient, less computationally intensive RL models, potentially accelerating experimentation and deployment in resource-constrained environments. The implications could lead to a paradigm shift in how we design and optimize RL agents.\n\n### **[Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation](http://arxiv.org/abs/2607.01208v1)**\nThis paper introduces a novel and crucial method, \"cartridge distillation,\" for uncovering subtle, \"stealth\" biases within large language models. This technique provides researchers with a powerful new tool to audit LLMs for preferential biases that could steer user decisions, enhancing the ethical development and deployment of AI systems. Understanding and mitigating these hidden biases is paramount for building trustworthy and fair AI.\n\n### **[The State-Prediction Separation Hypothesis](http://arxiv.org/abs/2607.01218v1)**\nThis hypothesis proposes a fundamental re-evaluation of how transformers process information, suggesting a distinct separation between storing useful state and predicting the next token. For deep-tech thinkers, exploring this separation could lead to more interpretable, efficient, and potentially more robust transformer architectures. It offers a new theoretical lens through which to understand and optimize the core mechanisms of modern AI models.\n\n### **[Measuring the Gap Between Human and LLM Research Ideas](http://arxiv.org/abs/2607.01233v1)**\nThis study provides a quantitative framework for comparing the quality and novelty of research ideas generated by humans versus large language models. It offers valuable insights into the current limitations and unique strengths of AI in creative ideation, guiding future research into how LLMs can truly augment, rather than merely automate, the scientific discovery process. Understanding this gap is key to leveraging AI effectively in research.\n\n### **[FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model](http://arxiv.org/abs/2607.01212v1)**\nFurnitureVLA represents a significant leap in robotic manipulation, tackling the complex, real-world challenge of bimanual furniture assembly. This work demonstrates progress towards more capable and adaptable robots that can integrate vision, language, and action to perform intricate, long-horizon tasks. The implications extend to manufacturing, logistics, and assistive robotics, pushing the frontiers of embodied AI.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with strategic investments shifting towards foundational infrastructure and a growing emphasis on ethical AI development and data monetization, while research continues to unlock new efficiencies and capabilities in model design and robotic interaction.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI News & Artificial Intelligence - TechCrunch ](https://techcrunch.com/category/artificial-intelligence) | Read the latest on artificial intelligence and machine learning tech, generative... |\n| [AI News Update: 6 AI Tools That Dropped In The Last 24 Hours ](https://www.reddit.com/r/AISEOInsider/comments/1rs5ybc/ai_news_update_6_ai_tools_that_dropped_in_the) | Another major development in this AI News Update involves Nvidia's release of Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How ChatGPT adoption has expanded ](https://openai.com/index/how-chatgpt-adoption-has-expanded) | New OpenAI Signals data shows how ChatGPT adoption is growing globally, with use... |\n| [Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office ](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/) | Neo is Bhavin Turakhia\u2019s fifth venture and his latest involving enterprise softw... |\n| [SpaceX has an AI device prototype, and it sure sounds phone-ish ](https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/) | SpaceX reportedly showed investors a \"handset-like\" AI device before going publi... |\n| [Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller ](https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/) | Sound built its reputation on concentrated, high-conviction bets in category-lea... |\n| [Cloudflare\u2019s new policy pushes AI companies to pay for publishers\u2019 content ](https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/) | Cloudflare is giving AI companies until September 15 to separate web crawlers us... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Measuring the Gap Between Human and LLM Research Ideas ](http://arxiv.org/abs/2607.01233v1) | LLMs are increasingly used to brainstorm research ideas, but existing evaluation... |\n| [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training ](http://arxiv.org/abs/2607.01232v1) | Reinforcement learning (RL) has become a central component of post-training larg... |\n| [Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds ](http://arxiv.org/abs/2606.18218v2) | We study finite-horizon queue peaks in generalized switches, a standard stochast... |\n| [Language-Critique Imitation Learning from Suboptimal Demonstrations ](http://arxiv.org/abs/2607.01225v1) | Prior work on imitation learning from suboptimal demonstrations typically relies... |\n| [AutoMem: Automated Learning of Memory as a Cognitive Skill ](http://arxiv.org/abs/2607.01224v1) | Memory expertise is a learned skill: knowing what to encode, when to retrieve, a... |\n| [Theoria: Rewrite-Acceptability Verification over Informal Reasoning States ](http://arxiv.org/abs/2607.01223v1) | When should an AI system's answer be trusted? Formal proof assistants offer cert... |\n| [The State-Prediction Separation Hypothesis ](http://arxiv.org/abs/2607.01218v1) | Transformers use the same forward computation stream to both predict the next to... |\n| [FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model ](http://arxiv.org/abs/2607.01212v1) | Current work on robot furniture assembly mostly focuses on toy-scale settings or... |\n| [Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents? ](http://arxiv.org/abs/2607.01211v1) | Repository-level performance-optimization benchmarks such as GSO, SWE-Perf and S... |\n| [Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation ](http://arxiv.org/abs/2607.01208v1) | Language models deployed in high-stakes roles can potentially favor certain enti... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (1 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/) | HN Score: 24. Comments: 8 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=Qj71N0tBzRo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
