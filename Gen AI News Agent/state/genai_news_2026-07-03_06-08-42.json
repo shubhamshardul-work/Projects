@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "http://arxiv.org/abs/2601.16211v3",
+      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "url": "http://arxiv.org/abs/2607.02504v1",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1250562",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 758489",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 176154",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "summary": "HN Score: 207. Comments: 76",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude-real-video \uff0d any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "HN Score: 116. Comments: 34",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "summary": "HN Score: 99. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "summary": "HN Score: 41. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Every AI Visibility Tool Is Lying to You",
+      "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now - Reddit",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Agent Expansion \u00b7 Gemini Workspace Integration Appears In Latest AI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "http://arxiv.org/abs/2601.16211v3",
+      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "url": "http://arxiv.org/abs/2607.02504v1",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1250562",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 758489",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 176154",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Reality has a surprising amount of detail (2017)",
+      "url": "https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+      "summary": "HN Score: 207. Comments: 76",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude-real-video \uff0d any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "HN Score: 116. Comments: 34",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "summary": "HN Score: 99. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time",
+      "url": "https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/",
+      "summary": "HN Score: 41. Comments: 21",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Every AI Visibility Tool Is Lying to You",
+      "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+      "summary": "HN Score: 9. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+      },
+      {
+        "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. "
+      },
+      {
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-lunches-vibe-coded-gaming-app-pocket/",
+        "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+      },
+      {
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. "
+      },
+      {
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. "
+      }
+    ],
+    "technical": [
+      {
+        "title": "Claude-real-video \uff0d any LLM can watch a video",
+        "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+        "summary": "HN Score: 116. Comments: 34"
+      },
+      {
+        "title": "The short leash AI coding method for beating Fable",
+        "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+        "summary": "HN Score: 99. Comments: 125"
+      },
+      {
+        "title": "Every AI Visibility Tool Is Lying to You",
+        "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+        "summary": "HN Score: 9. Comments: 1"
+      }
+    ],
+    "research": [
+      {
+        "title": "Distributed Attacks in Persistent-State AI Control",
+        "url": "http://arxiv.org/abs/2607.02514v1",
+        "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..."
+      },
+      {
+        "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+        "url": "http://arxiv.org/abs/2607.02513v1",
+        "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti..."
+      },
+      {
+        "title": "Online Safety Monitoring for LLMs",
+        "url": "http://arxiv.org/abs/2607.02510v1",
+        "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical..."
+      },
+      {
+        "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+        "url": "http://arxiv.org/abs/2607.02509v1",
+        "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context..."
+      },
+      {
+        "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+        "url": "http://arxiv.org/abs/2607.02502v1",
+        "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+    },
+    {
+      "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+      "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold. "
+    },
+    {
+      "title": "Meta quietly launches vibe-coded gaming app Pocket",
+      "url": "https://techcrunch.com/2026/07/02/meta-quietly-lunches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+    },
+    {
+      "title": "Anthropic is discussing a new custom chip with Samsung",
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. "
+    },
+    {
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity to a U.S. sovereign wealth fund, reviving discussions about letting the public share in the financial gains from the AI boom. "
+    },
+    {
+      "title": "Claude-real-video \uff0d any LLM can watch a video",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "summary": "HN Score: 116. Comments: 34"
+    },
+    {
+      "title": "The short leash AI coding method for beating Fable",
+      "url": "https://blog.okturtles.org/2026/07/short-leash-ai-method/",
+      "summary": "HN Score: 99. Comments: 125"
+    },
+    {
+      "title": "Every AI Visibility Tool Is Lying to You",
+      "url": "https://canonry.ai/blog/ai-visibility-tools-are-lying",
+      "summary": "HN Score: 9. Comments: 1"
+    },
+    {
+      "title": "Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..."
+    },
+    {
+      "title": "LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti..."
+    },
+    {
+      "title": "Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical..."
+    },
+    {
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context..."
+    },
+    {
+      "title": "DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: July 2nd, 2026\n\nToday's AI landscape presents a fascinating dichotomy: while the industry grapples with the realities of agent development and the pervasive \"AI washing\" of unrelated businesses, leading players are making strategic moves in hardware and governance. Meanwhile, developers gain new tools for multimodal interaction and face critical questions about AI observability, as researchers push the boundaries of AI safety, unlearning, and long-context reasoning.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/)**\nMeta CEO Mark Zuckerberg's candid admission about the slower-than-anticipated progress of AI agents offers a crucial reality check for the industry. This transparency underscores the significant technical hurdles and R&D investment required to bring truly autonomous and capable AI agents to fruition, potentially tempering some of the more ambitious timelines circulating in the market.\n\n### **[Jersey Mike\u2019s IPO illustrates how bad the AI hype has become](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/)**\nThe inclusion of AI mentions in a sandwich shop's IPO documents serves as a stark illustration of the current \"AI washing\" phenomenon. This trend highlights the pervasive hype surrounding AI and the pressure on companies, regardless of their core business, to align with the narrative for investor appeal, demanding greater scrutiny from business leaders and investors alike.\n\n### **[Meta quietly launches vibe-coded gaming app Pocket](https://techcrunch.com/2026/07/02/meta-quietly-lunches-vibe-coded-gaming-app-pocket/)**\nMeta's quiet launch of Pocket, an experimental AI-powered gaming app, signals its continued exploration of consumer-facing AI applications, particularly in creative and interactive entertainment. This move could be a strategic play to gather user data, refine generative AI models, and test the waters for broader AI integration into its ecosystem.\n\n### **[Anthropic is discussing a new custom chip with Samsung](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/)**\nFollowing OpenAI's similar announcement, Anthropic's discussions with Samsung for a custom AI chip underscore a critical strategic shift among leading AI labs. Developing proprietary hardware is becoming essential for optimizing performance, reducing the immense costs associated with AI training and inference, and securing a competitive advantage in the race for advanced AI.\n\n### **[OpenAI proposed donating 5% of its equity to a US sovereign wealth fund](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-US-sovereign-wealth-fund/)**\nSam Altman's proposal to donate 5% of OpenAI's equity to a U.S. sovereign wealth fund is a significant development that could reshape discussions around AI's economic impact and public benefit. This move suggests a potential model for broader wealth distribution from the AI boom and could influence future regulatory and governance frameworks for the industry.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Claude-real-video \u2014 any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video)**\nThis project offers developers a practical pathway to integrate multimodal capabilities into their LLM applications, allowing models to \"watch\" and interpret video content. It's a valuable tool for those looking to build more sophisticated AI systems that can understand dynamic visual information, pushing the boundaries of what LLMs can perceive.\n\n### **[The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/)**\nThe \"short leash\" AI coding method presents an intriguing approach to AI-assisted problem-solving, particularly for complex tasks like beating a game. Developers should explore this methodology for insights into more controlled, iterative, and potentially more efficient ways to leverage AI in their development workflows.\n\n### **[Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying)**\nThis provocative article highlights a critical challenge for AI practitioners: the potential inaccuracies and limitations of current AI visibility and observability tools. Developers need to be acutely aware of these shortcomings and seek more robust, transparent methods for understanding, debugging, and ensuring the reliability of their AI systems.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**\nThis research identifies a novel and concerning attack surface in autonomous AI coding agents, where persistent codebases can be exploited across sessions. It's a crucial warning for researchers to prioritize the development of robust security measures and threat models for iterative AI development environments to prevent sophisticated, long-term compromises.\n\n### **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1)**\nAddressing the pressing need for data privacy and ethical AI, LACUNA provides a vital testbed for evaluating the precision of LLM unlearning methods. This work is fundamental for advancing techniques to reliably remove sensitive or personally identifiable information from models, ensuring compliance and building trust in AI systems.\n\n### **[Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1)**\nDespite extensive alignment training, LLMs can still generate unsafe outputs in deployment, making online safety monitoring critical. This research proposes methods for real-time vigilance, highlighting the necessity for continuous adaptive safety mechanisms to ensure responsible and secure AI deployment in real-world applications.\n\n### **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](http://arxiv.org/abs/2607.02509v1)**\nReContext introduces a promising technique, recursive evidence replay, to enhance LLM understanding and reasoning over increasingly long contexts. This is a significant step towards overcoming a key limitation in many practical LLM applications, offering a path to more coherent and comprehensive AI analysis of extensive information.\n\n### **[DemoPSD: Disagreement-Modulated Policy Self-Distillation](http://arxiv.org/abs/2607.02502v1)**\nDemoPSD presents an innovative advancement in training LLMs for complex reasoning through on-policy self-distillation, where a single model acts as both teacher and student. This method could lead to more efficient and effective ways to imbue LLMs with sophisticated reasoning capabilities, pushing the frontier of autonomous AI learning.\n\n---\n**Today's Signal:** The AI industry is navigating a complex landscape of hype versus reality, driving strategic moves in hardware and governance while simultaneously pushing the boundaries of multimodal capabilities, security, and ethical AI research.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Latest AI News: The Biggest AI Announcements Right Now - Reddit ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Meta Buying Moltbook Appears In Latest AI News \u00b7 Nvidia Nemo Claw Signals AI Age... |\n| [Notable and Interesting Recent AI News, Articles, and Papers for ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped ](https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/) | At an internal meeting, the Meta CEO reportedly said that AI development efforts... |\n| [Jersey Mike\u2019s IPO illustrates how bad the AI hype has become ](https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/) | Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich ... |\n| [Meta quietly launches vibe-coded gaming app Pocket ](https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/) | Meta has quietly launched Pocket, an experimental AI app that lets users generat... |\n| [Anthropic is discussing a new custom chip with Samsung ](https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/) | The news comes about a week after OpenAI announced its own custom AI chip in a p... |\n| [OpenAI proposed donating 5% of its equity to a US sovereign wealth fund ](https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/) | OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company\u2019s equity ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Distributed Attacks in Persistent-State AI Control ](http://arxiv.org/abs/2607.02514v1) | As AI coding agents become more autonomous, they increasingly ship code iterativ... |\n| [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition ](http://arxiv.org/abs/2601.16211v3) | Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel v... |\n| [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning ](http://arxiv.org/abs/2607.02513v1) | LLMs memorize sensitive training data, including personally identifiable informa... |\n| [Program-as-Weights: A Programming Paradigm for Fuzzy Functions ](http://arxiv.org/abs/2607.02512v1) | Many everyday programming tasks resist clean rule-based implementation, such as ... |\n| [Online Safety Monitoring for LLMs ](http://arxiv.org/abs/2607.02510v1) | Despite alignment training, LLMs remain prone to generating unsafe outputs at de... |\n| [ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning ](http://arxiv.org/abs/2607.02509v1) | Understanding and reasoning over long contexts has become a key requirement for ... |\n| [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates ](http://arxiv.org/abs/2607.02507v1) | LLM agents will increasingly act in socially structured settings where role, aud... |\n| [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas ](http://arxiv.org/abs/2607.02504v1) | Long-form TV dramas present a formidable challenge for comprehensive video under... |\n| [DemoPSD: Disagreement-Modulated Policy Self-Distillation ](http://arxiv.org/abs/2607.02502v1) | On-policy self-distillation (OPSD) has emerged as a practical method for trainin... |\n| [Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials ](http://arxiv.org/abs/2607.02499v1) | Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) | HN Score: 207. Comments: 76 |\n| [[HackerNews] Claude-real-video \uff0d any LLM can watch a video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | HN Score: 116. Comments: 34 |\n| [[HackerNews] The short leash AI coding method for beating Fable](https://blog.okturtles.org/2026/07/short-leash-ai-method/) | HN Score: 99. Comments: 125 |\n| [[HackerNews] A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time](https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/) | HN Score: 41. Comments: 21 |\n| [[HackerNews] Every AI Visibility Tool Is Lying to You](https://canonry.ai/blog/ai-visibility-tools-are-lying) | HN Score: 9. Comments: 1 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=y24lF1q4SFY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
