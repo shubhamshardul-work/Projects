@@ -1,0 +1,321 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence - Latest AI News - Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The only AI glossary you\u2019ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1464047",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 208920",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 988379",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "summary": "HN Score: 11. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "summary": "HN Score: 222. Comments: 78",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "summary": "HN Score: 49. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "summary": "HN Score: 142. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "summary": "HN Score: 28. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence - Latest AI News - Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The only AI glossary you\u2019ll need this year",
+      "url": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1464047",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 208920",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 988379",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "summary": "HN Score: 11. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "summary": "HN Score: 222. Comments: 78",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
+      "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
+      "summary": "HN Score: 49. Comments: 4",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "summary": "HN Score: 142. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
+      "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
+      "summary": "HN Score: 28. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+        "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+        "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+      },
+      {
+        "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+      },
+      {
+        "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+      },
+      {
+        "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+        "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+        "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://hic-ai.com",
+        "summary": "HN Score: 11. Comments: 13"
+      },
+      {
+        "title": "[HackerNews] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+        "url": "https://github.com/openai/codex/issues/30364",
+        "summary": "HN Score: 222. Comments: 78"
+      },
+      {
+        "title": "[HackerNews] Better Models: Worse Tools",
+        "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+        "summary": "HN Score: 142. Comments: 45"
+      }
+    ],
+    "research": []
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d"
+    },
+    {
+      "title": "[HackerNews] Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://hic-ai.com",
+      "summary": "HN Score: 11. Comments: 13"
+    },
+    {
+      "title": "[HackerNews] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "summary": "HN Score: 222. Comments: 78"
+    },
+    {
+      "title": "[HackerNews] Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "summary": "HN Score: 142. Comments: 45"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Navigating the AI Frontier \u2013 From Boardroom to Codebase\n\nToday's AI intelligence report reveals a dynamic landscape where strategic positioning, corporate governance, and developer experience are all in sharp focus. We're seeing major players define AI's role in society, while the practicalities of integrating and managing these powerful tools present both opportunities and significant challenges.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[New Google commercial imagines a Declaration of Independence written with help from AI](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/)**\nGoogle is strategically positioning AI as a foundational tool for creativity and historical impact, aiming to normalize its use in critical, high-stakes contexts. This narrative could influence public perception and accelerate enterprise adoption by framing AI as an indispensable partner for innovation and efficiency, even for tasks requiring profound human insight. Business leaders should note this cultural push as a sign of AI's increasing mainstream acceptance and potential for broader application.\n\n### **[Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)**\nThis legal maneuver highlights the escalating intellectual property and transparency battles at the intersection of AI and creative industries. For businesses, it underscores the critical need for clear policies on AI-generated content, data provenance, and potential legal liabilities, especially as AI tools become more integrated into production pipelines. Executives must proactively address IP strategies and compliance frameworks for AI adoption.\n\n### **[Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)**\nAlibaba's reported ban on Claude Code due to \"high-risk\" classification signals growing corporate concerns around data security, intellectual property leakage, and compliance when using third-party AI tools. This move reflects a broader trend where enterprises are grappling with the governance and risk management implications of integrating external AI solutions, potentially favoring in-house or highly vetted alternatives. This should prompt other organizations to review their own AI tool usage policies.\n\n### **[What is Mistral AI? Everything to know about the OpenAI competitor](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/)**\nMistral AI's rapid rise and significant funding position it as a formidable challenger to OpenAI, particularly with its focus on open-source models. This competition is a strategic boon for businesses, offering more diverse, potentially customizable, and cost-effective AI solutions, while also pushing the frontier of model capabilities and accessibility. Investors and executives should watch Mistral as a key player shaping the competitive landscape and potentially democratizing advanced AI.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com)**\nThis new tool addresses a critical pain point for developers working with AI coding agents: the need for precise control and refinement over generated code. For practitioners, Mouse offers a promising avenue to enhance the reliability and efficiency of AI-assisted code generation, moving beyond mere suggestions to more actionable, editable outputs. This is a valuable tool to watch for improving developer workflows and integrating AI more seamlessly into the coding process.\n\n### **[GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)**\nThis report from a GitHub issue points to a potential degradation in performance for a key AI coding model, specifically related to how it handles reasoning tokens. Developers should be acutely aware of such issues, as they can significantly impact the reliability and effectiveness of AI-driven code generation and debugging. It highlights the ongoing challenges in maintaining consistent model performance and the critical importance of community feedback and vigilance.\n\n### **[Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/)**\nThis article likely explores the paradox where advanced AI models are emerging at a rapid pace, but the surrounding tooling and developer experience haven't kept pace. For engineers, this means that while model capabilities are improving, the practical application and integration into existing workflows can still be cumbersome and frustrating. It's a crucial call to action for the community to prioritize robust, user-friendly tooling alongside model advancements to unlock their full potential.\n\n---\n**Today's Signal:** The AI industry is simultaneously pushing the boundaries of model capabilities and grappling with the practicalities of integration, governance, and developer experience, highlighting a critical need for robust tooling and clear corporate policies.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Notable and Interesting Recent AI News, Articles, and Papers for ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n| [Artificial Intelligence - Latest AI News - Reuters ](https://www.reuters.com/technology/artificial-intelligence) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [New Google commercial imagines a Declaration of Independence written with help from AI ](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) | Two hundred and fifty years after the signing of the Declaration of Independence... |\n| [Midjourney wants Hollywood studios to reveal the details of their AI usage ](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) | As part of an ongoing legal dispute with three Hollywood studios, Midjourney is ... |\n| [[RSS] Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) | Alibaba has reportedly classified Claude Code as high-risk software. |\n| [What is Mistral AI? Everything to know about the OpenAI competitor ](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) | Mistral AI, which offers some open source AI models, has raised significant fund... |\n| [The only AI glossary you\u2019ll need this year ](https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/) | The rise of AI has brought an avalanche of new terms and slang. Here is a glossa... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Mouse: Precision Editing Tools for AI Coding Agents](https://hic-ai.com) | HN Score: 11. Comments: 13 |\n| [[HackerNews] GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364) | HN Score: 222. Comments: 78 |\n| [[HackerNews] Atomic Force Microscope high-speed video, stainless etching, bacteria, and more](https://www.youtube.com/watch?v=DyIQkqBXhS0) | HN Score: 49. Comments: 4 |\n| [[HackerNews] Better Models: Worse Tools](https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/) | HN Score: 142. Comments: 45 |\n| [[HackerNews] Record-breaking solo rower Kelsey Pfendler arrives in Hawaii](https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/) | HN Score: 28. Comments: 1 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=y24lF1q4SFY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
