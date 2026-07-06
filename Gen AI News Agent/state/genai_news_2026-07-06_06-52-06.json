@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon\u2019s Mechanical Turk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "http://arxiv.org/abs/2601.16211v3",
+      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "url": "http://arxiv.org/abs/2607.02504v1",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1533844",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 220379",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1044217",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "summary": "HN Score: 212. Comments: 143",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "summary": "HN Score: 93. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "summary": "HN Score: 158. Comments: 31",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "summary": "HN Score: 113. Comments: 167",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "HN Score: 156. Comments: 93",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and Papers for ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon\u2019s Mechanical Turk.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] New Google commercial imagines a Declaration of Independence written with help from AI",
+      "url": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] What is Mistral AI? Everything to know about the OpenAI competitor",
+      "url": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to \u201cput frontier AI in the hands of everyone.\u201d",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "url": "http://arxiv.org/abs/2601.16211v3",
+      "summary": "Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel verb-object combinations composed of previously observed primitives. In this work, we tackle a key failure mode: models p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "url": "http://arxiv.org/abs/2607.02512v1",
+      "summary": "Many everyday programming tasks resist clean rule-based implementation, such as alerting on important log lines, repairing malformed JSON, or ranking search results by intent, and are increasingly out...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas",
+      "url": "http://arxiv.org/abs/2607.02504v1",
+      "summary": "Long-form TV dramas present a formidable challenge for comprehensive video understanding, where deciphering complex storyline often relies on \\textbf{speaker recognition}, the task of accurately attri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DemoPSD: Disagreement-Modulated Policy Self-Distillation",
+      "url": "http://arxiv.org/abs/2607.02502v1",
+      "summary": "On-policy self-distillation (OPSD) has emerged as a practical method for training large language models (LLMs) to reason, where a single model acts as both the teacher and the student with different l...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials",
+      "url": "http://arxiv.org/abs/2607.02499v1",
+      "summary": "Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for scientific simulation. While efforts on new architectures and datasets have led to increasingly accurate and general mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1533844",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 220379",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1044217",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "summary": "HN Score: 212. Comments: 143",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Does code cleanliness affect coding agents? A controlled minimal-pair study",
+      "url": "https://arxiv.org/abs/2605.20049",
+      "summary": "HN Score: 93. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+      "summary": "HN Score: 158. Comments: 31",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+      "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+      "summary": "HN Score: 113. Comments: 167",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "summary": "HN Score: 156. Comments: 93",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[HackerNews] GPT-5.6 Sol Ultra will be in Codex",
+        "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "summary": "HN Score: 212. Comments: 143"
+      },
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+      },
+      {
+        "title": "[RSS] Amazon will stop accepting new customers for Mechanical Turk",
+        "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+        "summary": "These may be the last days of Amazon\u2019s Mechanical Turk."
+      },
+      {
+        "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+        "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+      },
+      {
+        "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+        "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+        "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1533844"
+      },
+      {
+        "title": "[HuggingFace] baidu/Unlimited-OCR",
+        "url": "https://huggingface.co/baidu/Unlimited-OCR",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1044217"
+      },
+      {
+        "title": "[HuggingFace] zai-org/GLM-5.2",
+        "url": "https://huggingface.co/zai-org/GLM-5.2",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 220379"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+        "url": "http://arxiv.org/abs/2607.02514v1",
+        "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..."
+      },
+      {
+        "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+        "url": "http://arxiv.org/abs/2607.02513v1",
+        "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti..."
+      },
+      {
+        "title": "[ArXiv] Online Safety Monitoring for LLMs",
+        "url": "http://arxiv.org/abs/2607.02510v1",
+        "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical..."
+      },
+      {
+        "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+        "url": "http://arxiv.org/abs/2607.02509v1",
+        "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context..."
+      },
+      {
+        "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+        "url": "http://arxiv.org/abs/2607.02507v1",
+        "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[HackerNews] GPT-5.6 Sol Ultra will be in Codex",
+      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+      "summary": "HN Score: 212. Comments: 143"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+    },
+    {
+      "title": "[RSS] Amazon will stop accepting new customers for Mechanical Turk",
+      "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon\u2019s Mechanical Turk."
+    },
+    {
+      "title": "[RSS] Alibaba reportedly bans employees from using Claude Code",
+      "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+    },
+    {
+      "title": "[RSS] Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1533844"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1044217"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 220379"
+    },
+    {
+      "title": "[ArXiv] Distributed Attacks in Persistent-State AI Control",
+      "url": "http://arxiv.org/abs/2607.02514v1",
+      "summary": "As AI coding agents become more autonomous, they increasingly ship code iteratively, with the codebase persisting across sessions. This persistence creates a new attack surface: a misaligned or prompt..."
+    },
+    {
+      "title": "[ArXiv] LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning",
+      "url": "http://arxiv.org/abs/2607.02513v1",
+      "summary": "LLMs memorize sensitive training data, including personally identifiable information (PII), creating a pressing need for reliable post hoc removal methods. Unlearning has emerged as a promising soluti..."
+    },
+    {
+      "title": "[ArXiv] Online Safety Monitoring for LLMs",
+      "url": "http://arxiv.org/abs/2607.02510v1",
+      "summary": "Despite alignment training, LLMs remain prone to generating unsafe outputs at deployment time. Monitoring outputs online and raising an alarm when safety can no longer be assumed is therefore critical..."
+    },
+    {
+      "title": "[ArXiv] ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "url": "http://arxiv.org/abs/2607.02509v1",
+      "summary": "Understanding and reasoning over long contexts has become a key requirement for deploying large language models (LLMs) in realistic applications. Although recent LLMs support increasingly long context..."
+    },
+    {
+      "title": "[ArXiv] What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates",
+      "url": "http://arxiv.org/abs/2607.02507v1",
+      "summary": "LLM agents will increasingly act in socially structured settings where role, audience, and relational context can shape what is advantageous or costly to say. We study whether such social structure, w..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Shifting Sands of AI Strategy, Development, and Safety\n\nToday's AI landscape reveals a dynamic interplay between strategic corporate shifts, rapid developer innovation, and critical advancements in AI safety and ethical research. From major tech players redefining their AI ecosystems to cutting-edge research addressing the core challenges of autonomous agents, the industry is navigating a period of profound transformation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)**\nOpenAI appears poised to release a new, highly advanced model, GPT-5.6 Sol Ultra, specifically integrated into Codex. This move signals a significant escalation in the AI-assisted coding space, potentially setting a new benchmark for developer productivity and challenging existing tools. Businesses should prepare for a new wave of AI-driven software development capabilities and increased competition in this critical domain.\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nGoogle's \"Pixel Drop\" introduces Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation, all with a new UI. This comprehensive suite of multimodal AI capabilities integrated into consumer devices underscores Google's strategic push to embed advanced AI directly into everyday user experiences. Executives should note the accelerating trend of AI becoming a core feature, not just a backend tool, driving product differentiation and ecosystem lock-in.\n\n### **[Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)**\nThe potential winding down of new customer intake for Amazon's Mechanical Turk marks a pivotal moment for human-in-the-loop AI data sourcing. This could signal a strategic shift by Amazon, perhaps towards more automated data labeling solutions or a recognition of the evolving landscape for training data. Businesses reliant on crowdsourced human intelligence for AI model development should evaluate alternative platforms and strategies for data annotation and validation.\n\n### **[Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/)**\nAlibaba's reported classification of Claude Code as \"high-risk software\" and subsequent ban highlights growing corporate concerns around data security, intellectual property, and compliance when using third-party AI tools for sensitive tasks like code generation. This move underscores the critical need for enterprises to establish clear internal policies and robust governance frameworks for AI adoption, balancing innovation with risk mitigation.\n\n### **[Midjourney wants Hollywood studios to reveal the details of their AI usage](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/)**\nIn an ongoing legal dispute, Midjourney is compelling Hollywood studios to disclose their internal AI usage. This action reflects the escalating legal and ethical battles over generative AI's impact on creative industries, intellectual property rights, and fair compensation. Business leaders in creative sectors must closely monitor these developments, as they will shape future regulations and industry standards for AI integration.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**\nThis trending GGUF model, boasting over 1.5 million downloads, offers a quantized, efficient solution for local deployment, likely inspired by Claude's reasoning capabilities. Developers seeking powerful, uncensored LLMs for edge devices or privacy-sensitive applications should explore this model for its performance and flexibility. Its popularity highlights the demand for accessible, high-quality local inference options.\n\n### **[baidu/Unlimited-OCR](https://huggingface.co/baidu/Unlimited-OCR)**\nBaidu's \"Unlimited-OCR\" is a highly downloaded model, indicating strong developer interest in robust and versatile optical character recognition. This tool is essential for applications requiring efficient text extraction from images and documents, such as automation, data processing, and digital archiving. Engineers should consider integrating this model for high-performance OCR tasks.\n\n### **[zai-org/GLM-5.2](https://huggingface.co/zai-org/GLM-5.2)**\nThe GLM-5.2 model from zai-org is gaining traction for text generation and conversational AI, with over 220,000 downloads. Its focus on conversational capabilities makes it a valuable asset for developers building chatbots, virtual assistants, or any application requiring natural language interaction. This model is worth watching for those looking to enhance their generative AI projects.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Distributed Attacks in Persistent-State AI Control](http://arxiv.org/abs/2607.02514v1)**\nThis research uncovers a novel attack surface in autonomous AI coding agents that iteratively modify their own codebase. As AI systems become more self-sufficient and persistent, understanding and mitigating these distributed attacks will be crucial for ensuring the security and alignment of future AI. Researchers should prioritize developing robust security frameworks for self-evolving AI.\n\n### **[LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning](http://arxiv.org/abs/2607.02513v1)**\nAddressing the critical need for removing sensitive data from LLMs, LACUNA introduces a testbed for evaluating the precision of unlearning methods. This work is vital for advancing privacy-preserving AI and ensuring compliance with data protection regulations. Researchers should leverage such testbeds to develop more effective and reliable post-hoc unlearning techniques.\n\n### **[Online Safety Monitoring for LLMs](http://arxiv.org/abs/2607.02510v1)**\nDespite alignment training, LLMs can still generate unsafe outputs, making online monitoring essential. This paper explores methods for real-time detection and alarming when LLM safety cannot be guaranteed. This research is paramount for the responsible deployment of LLMs in public-facing applications, providing a critical layer of defense against harmful content.\n\n### **[ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning](http://arxiv.org/abs/2607.02509v1)**\nTackling the challenge of long-context reasoning, ReContext proposes a novel \"recursive evidence replay\" mechanism to enhance LLM performance on complex, extended inputs. This breakthrough pushes the boundaries of LLM comprehension and reasoning over vast amounts of information. Researchers should explore this approach for applications requiring deep understanding of lengthy documents and conversations.\n\n### **[What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates](http://arxiv.org/abs/2607.02507v1)**\nThis intriguing study investigates how social structures influence the communication and emergent objectives of LLM agents in multi-agent debates. Understanding the latent behaviors and social dynamics of interacting AI systems is crucial for predicting and controlling their actions in complex environments. Researchers should delve into these social aspects to build more predictable and aligned multi-agent AI systems.\n\n---\n\n**Today's Signal:** The overarching signal today is a heightened focus on responsible AI deployment, balancing innovation with robust safety, security, and ethical considerations across all facets of the AI lifecycle.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generatio... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Notable and Interesting Recent AI News, Articles, and Papers for ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[RSS] Amazon will stop accepting new customers for Mechanical Turk](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/) | These may be the last days of Amazon\u2019s Mechanical Turk. |\n| [New Google commercial imagines a Declaration of Independence written with help from AI ](https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/) | Two hundred and fifty years after the signing of the Declaration of Independence... |\n| [Midjourney wants Hollywood studios to reveal the details of their AI usage ](https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/) | As part of an ongoing legal dispute with three Hollywood studios, Midjourney is ... |\n| [[RSS] Alibaba reportedly bans employees from using Claude Code](https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/) | Alibaba has reportedly classified Claude Code as high-risk software. |\n| [What is Mistral AI? Everything to know about the OpenAI competitor ](https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/) | Mistral AI, which offers some open source AI models, has raised significant fund... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Distributed Attacks in Persistent-State AI Control ](http://arxiv.org/abs/2607.02514v1) | As AI coding agents become more autonomous, they increasingly ship code iterativ... |\n| [Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition ](http://arxiv.org/abs/2601.16211v3) | Zero-Shot Compositional Action Recognition (ZS-CAR) requires recognizing novel v... |\n| [LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning ](http://arxiv.org/abs/2607.02513v1) | LLMs memorize sensitive training data, including personally identifiable informa... |\n| [Program-as-Weights: A Programming Paradigm for Fuzzy Functions ](http://arxiv.org/abs/2607.02512v1) | Many everyday programming tasks resist clean rule-based implementation, such as ... |\n| [Online Safety Monitoring for LLMs ](http://arxiv.org/abs/2607.02510v1) | Despite alignment training, LLMs remain prone to generating unsafe outputs at de... |\n| [ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning ](http://arxiv.org/abs/2607.02509v1) | Understanding and reasoning over long contexts has become a key requirement for ... |\n| [What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates ](http://arxiv.org/abs/2607.02507v1) | LLM agents will increasingly act in socially structured settings where role, aud... |\n| [Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas ](http://arxiv.org/abs/2607.02504v1) | Long-form TV dramas present a formidable challenge for comprehensive video under... |\n| [DemoPSD: Disagreement-Modulated Policy Self-Distillation ](http://arxiv.org/abs/2607.02502v1) | On-policy self-distillation (OPSD) has emerged as a practical method for trainin... |\n| [Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials ](http://arxiv.org/abs/2607.02499v1) | Machine learning interatomic potentials (MLIPs) have become a hallmark of AI for... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151) | HN Score: 212. Comments: 143 |\n| [[HackerNews] Does code cleanliness affect coding agents? A controlled minimal-pair study](https://arxiv.org/abs/2605.20049) | HN Score: 93. Comments: 45 |\n| [[HackerNews] Mr. Baby Paint and accidentally discovering a new cellular automata](https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/) | HN Score: 158. Comments: 31 |\n| [[HackerNews] Delta flight hit by firework while landing at Midway Airport on Fourth of July](https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/) | HN Score: 113. Comments: 167 |\n| [[HackerNews] New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf) | HN Score: 156. Comments: 93 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=y24lF1q4SFY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
