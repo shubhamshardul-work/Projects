@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.05396v1",
+      "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2607.05394v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+      "url": "http://arxiv.org/abs/2607.05393v1",
+      "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v3",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, nonstationary, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+      "url": "http://arxiv.org/abs/2607.05382v1",
+      "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Discrete Diffusion Model Learn?",
+      "url": "http://arxiv.org/abs/2607.05381v1",
+      "summary": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2607.05380v1",
+      "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyper...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+      "url": "http://arxiv.org/abs/2607.05378v1",
+      "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+      "url": "http://arxiv.org/abs/2607.05377v1",
+      "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current obs...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1617508",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 231218",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1070230",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "HN Score: 310. Comments: 191",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "HN Score: 92. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "summary": "HN Score: 172. Comments: 43",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "summary": "HN Score: 334. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "summary": "HN Score: 308. Comments: 218",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe",
+      "summary": "A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+      "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.05396v1",
+      "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Weak-to-Strong Generalization via Direct On-Policy Distillation",
+      "url": "http://arxiv.org/abs/2607.05394v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for improving language-model reasoning, but it is expensive to repeat on every new strong model because the target model must...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification",
+      "url": "http://arxiv.org/abs/2607.05393v1",
+      "summary": "Time-domain surveys generate many transient candidates, making Real-Bogus classification a critical step in automated discovery pipelines. Reliable labels are costly, while community labels can be noi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds",
+      "url": "http://arxiv.org/abs/2606.18218v3",
+      "summary": "We study finite-horizon queue peaks in generalized switches, a standard stochastic-network model in which many queues share constrained service resources. Arrivals may be dependent, nonstationary, and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+      "url": "http://arxiv.org/abs/2607.05382v1",
+      "summary": "Visual generators excel at rendering, but they confidently fabricate what they do not know. User requests are unbounded, evolving, and deeply long-tailed: new characters, trending entities, post-cutof...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Discrete Diffusion Model Learn?",
+      "url": "http://arxiv.org/abs/2607.05381v1",
+      "summary": "What does a discrete diffusion model learn: a denoiser, a score ratio, or a bridge plug-in predictor? At the level of jump rates, these are one object in different coordinates, and reading a neural ne...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning",
+      "url": "http://arxiv.org/abs/2607.05380v1",
+      "summary": "In deep learning for tabular data, efficient ensembles of multilayer perceptrons (MLPs) have recently emerged as effective and practical architectures. Existing methods of this kind use the same hyper...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+      "url": "http://arxiv.org/abs/2607.05378v1",
+      "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+      "url": "http://arxiv.org/abs/2607.05377v1",
+      "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current obs...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1617508",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 231218",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 1070230",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "HN Score: 310. Comments: 191",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "HN Score: 92. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "summary": "HN Score: 172. Comments: 43",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "summary": "HN Score: 334. Comments: 125",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "summary": "HN Score: 308. Comments: 218",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+      },
+      {
+        "title": "[RSS] US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+        "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+        "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday."
+      },
+      {
+        "title": "[RSS] You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+        "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+        "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. "
+      },
+      {
+        "title": "[RSS] Every major tech layoff in 2026 that has name-checked AI",
+        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+      },
+      {
+        "title": "[HackerNews] GLM 5.2 and the coming AI margin collapse",
+        "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "summary": "HN Score: 310. Comments: 191"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] The \u2018first\u2019 AI-run ransomware attack still needed a human",
+        "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+        "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's"
+      },
+      {
+        "title": "[HackerNews] Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+        "url": "https://ternlight-demo.vercel.app/",
+        "summary": "HN Score: 172. Comments: 43"
+      },
+      {
+        "title": "[HackerNews] AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+        "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "summary": "HN Score: 308. Comments: 218"
+      },
+      {
+        "title": "[HackerNews] Small AI Models Gain Traction In places with unreliable networks",
+        "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "summary": "HN Score: 92. Comments: 19"
+      },
+      {
+        "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1617508"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework",
+        "url": "http://arxiv.org/abs/2607.05391v1",
+        "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th..."
+      },
+      {
+        "title": "[ArXiv] CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+        "url": "http://arxiv.org/abs/2607.05378v1",
+        "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction ..."
+      },
+      {
+        "title": "[ArXiv] Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+        "url": "http://arxiv.org/abs/2607.05377v1",
+        "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current obs..."
+      },
+      {
+        "title": "[HackerNews] A global workspace in language models",
+        "url": "https://www.anthropic.com/research/global-workspace",
+        "summary": "HN Score: 334. Comments: 125"
+      },
+      {
+        "title": "[ArXiv] From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+        "url": "http://arxiv.org/abs/2607.05396v1",
+        "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+    },
+    {
+      "title": "[RSS] US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+      "url": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday."
+    },
+    {
+      "title": "[RSS] You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta",
+      "url": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI. "
+    },
+    {
+      "title": "[RSS] Every major tech layoff in 2026 that has name-checked AI",
+      "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+    },
+    {
+      "title": "[HackerNews] GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "summary": "HN Score: 310. Comments: 191"
+    },
+    {
+      "title": "[RSS] The \u2018first\u2019 AI-run ransomware attack still needed a human",
+      "url": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human still chose the victim, set up the infrastructure, and supplied stolen credentials \u2014 meaning it wasn't quite the fully autonomous cybercrime debut that last week's"
+    },
+    {
+      "title": "[HackerNews] Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "summary": "HN Score: 172. Comments: 43"
+    },
+    {
+      "title": "[HackerNews] AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "summary": "HN Score: 308. Comments: 218"
+    },
+    {
+      "title": "[HackerNews] Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "summary": "HN Score: 92. Comments: 19"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1617508"
+    },
+    {
+      "title": "[ArXiv] LLM-as-a-Verifier: A General-Purpose Verification Framework",
+      "url": "http://arxiv.org/abs/2607.05391v1",
+      "summary": "Scaling pre-training, post-training, and test-time compute have become the central paradigms for improving the capabilities of LLMs. In this work, we identify verification, the ability to determine th..."
+    },
+    {
+      "title": "[ArXiv] CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents",
+      "url": "http://arxiv.org/abs/2607.05378v1",
+      "summary": "Long-horizon agentic LLMs are increasingly limited by finite context windows, as extended interaction trajectories can exceed the maximum context length before a task is completed. Context compaction ..."
+    },
+    {
+      "title": "[ArXiv] Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation",
+      "url": "http://arxiv.org/abs/2607.05377v1",
+      "summary": "While recent Vision-Language-Action (VLA) models show promise toward generalist manipulation policies, they struggle with long-horizon tasks due to their Markovian nature-relying solely on current obs..."
+    },
+    {
+      "title": "[HackerNews] A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "summary": "HN Score: 334. Comments: 125"
+    },
+    {
+      "title": "[ArXiv] From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+      "url": "http://arxiv.org/abs/2607.05396v1",
+      "summary": "Real-world robot deployment rarely maintains the training-stage camera setup, where cameras often experience repositioning or remounting depending on actual scenarios. Existing view-robust Vision-Lang..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Dawn of Practical & Pervasive AI\n\nToday's intelligence report highlights a pivotal shift towards making AI more practical, pervasive, and robust across all sectors. From strategic business investments in AI infrastructure to groundbreaking research enabling more adaptable and reliable AI agents, the focus is clearly on real-world deployment and impact.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nGoogle's latest Pixel Drop showcases a strategic push into multimodal AI, integrating advanced capabilities like video editing, music generation, and real-time speech translation directly into consumer devices. This move signals a significant step towards ubiquitous, integrated AI experiences, potentially setting new benchmarks for user interaction and productivity across the tech ecosystem.\n\n### **[US investors will soon get access to SK Hynix, another memory maker riding the AI boom](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/)**\nThe impending multibillion-dollar U.S. IPO of SK Hynix underscores the immense investor confidence and strategic importance of memory manufacturers in the burgeoning AI hardware supply chain. This event highlights how critical infrastructure providers, beyond just chip designers, are capitalizing on the AI boom, offering lucrative opportunities for investors seeking exposure to the foundational elements of AI growth.\n\n### **[You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/)**\nApple's enhancement of Siri with customizable pace and expressivity in iOS 27 beta reflects a strategic pivot towards a more personalized and human-centric generative AI experience. This move is crucial for Apple to differentiate its AI offerings, aiming to deepen user engagement and loyalty by making its intelligent assistant feel more natural and intuitive, thereby strengthening its ecosystem.\n\n### **[Every major tech layoff in 2026 that has name-checked AI](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)**\nThe recurring theme of AI being cited as a factor in major tech layoffs in 2026 reveals a complex strategic landscape where companies are aggressively reallocating resources towards AI initiatives. While some roles become redundant due to automation, this trend also signifies a strategic imperative to streamline operations and invest heavily in AI-driven growth areas, demanding a workforce with evolving skill sets.\n\n### **[GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)**\nThe discussion around GLM 5.2 and the \"coming AI margin collapse\" signals a critical strategic concern for businesses heavily invested in AI model development and deployment. As AI capabilities become more commoditized and accessible, the pressure on profit margins for foundational models could intensify, forcing companies to innovate on application layers or specialized solutions to maintain competitive advantage and profitability.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[The \u2018first\u2019 AI-run ransomware attack still needed a human](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/)**\nWhile an AI agent technically executed a ransomware attack, the critical role of human oversight in victim selection and infrastructure setup highlights current limitations in fully autonomous AI for malicious purposes. Developers should watch this space closely, as it underscores the evolving threat landscape and the need for robust AI security measures, even as AI's role remains assistive rather than fully independent in complex cyberattacks.\n\n### **[Ternlight \u2013 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/)**\nTernlight's 7 MB embedding model running directly in the browser via WASM is a significant development for client-side AI applications, offering low-latency, privacy-preserving inference without server roundtrips. Developers should explore this for building highly responsive web-based AI features, especially for tasks like semantic search or recommendation engines where local processing is advantageous.\n\n### **[AMD Ryzen AI Halo \u2013 $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)**\nAMD's Ryzen AI Halo development kit, priced at $4k, signals a growing push for powerful, dedicated hardware for on-device AI development and deployment. Engineers looking to optimize AI models for edge computing or integrate advanced AI capabilities directly into high-performance systems should watch this kit as a potential platform for accelerating their development cycles and achieving greater efficiency.\n\n### **[Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals)**\nThe increasing traction of small AI models, particularly in regions with unreliable network infrastructure, emphasizes the practical need for efficient, deployable AI solutions. Developers should focus on optimizing models for size and performance, considering use cases where bandwidth is limited or offline capabilities are crucial, opening up new markets and applications for AI.\n\n### **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**\nThe trending Qwythos-9B-Claude-Mythos-5-1M-GGUF model on HuggingFace, with its high download count and tags like `gguf`, `llama.cpp`, and `quantized`, indicates strong developer interest in efficient, locally deployable large language models. Practitioners should evaluate this model for applications requiring powerful reasoning capabilities on consumer hardware, especially given its uncensored nature for broader utility.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[LLM-as-a-Verifier: A General-Purpose Verification Framework](http://arxiv.org/abs/2607.05391v1)**\nThis paper introduces \"LLM-as-a-Verifier,\" proposing a novel paradigm where large language models are leveraged not just for generation but for verifying outputs, a critical step beyond traditional scaling methods. This research has profound implications for improving the reliability and trustworthiness of AI systems, suggesting a future where LLMs can self-correct or validate complex reasoning chains, pushing the boundaries of AI safety and accuracy.\n\n### **[CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents](http://arxiv.org/abs/2607.05378v1)**\n\"CompactionRL\" addresses the fundamental challenge of finite context windows in long-horizon agentic LLMs by introducing reinforcement learning with context compaction. This work is crucial for developing more capable and persistent AI agents, enabling them to maintain coherence and memory over extended interactions, which is vital for complex, multi-step tasks in real-world environments.\n\n### **[Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation](http://arxiv.org/abs/2607.05377v1)**\nThe \"Cortex\" framework tackles the limitations of current Vision-Language-Action (VLA) models in long-horizon manipulation tasks by proposing a bidirectionally aligned embodied agent. This research is significant for advancing robotics and embodied AI, offering a pathway to more robust and adaptable generalist manipulation policies that can plan and execute complex sequences of actions over extended periods.\n\n### **[A global workspace in language models](https://www.anthropic.com/research/global-workspace)**\nThe concept of a \"global workspace\" in language models, as discussed on Hacker News, explores how LLMs might integrate and process information across different modalities or reasoning steps more holistically. This idea could lead to breakthroughs in AI cognition, enabling models to achieve a more unified understanding and decision-making process, akin to human consciousness, with far-reaching implications for general AI development.\n\n### **[From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model](http://arxiv.org/abs/2607.05396v1)**\nThis paper presents a \"Calibration-Free View-Robust Vision-Language-Action Model,\" addressing a critical practical challenge in real-world robot deployment where camera setups are rarely static. This research is pivotal for making embodied AI systems more adaptable and deployable in dynamic environments, significantly reducing the overhead of recalibration and accelerating the transition of robotics from controlled labs to unpredictable real-world scenarios.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with a strong emphasis on practical deployment, efficiency, and robustness, driving innovation from foundational hardware to advanced agentic capabilities and strategic market shifts.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generatio... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [Notable and Interesting Recent AI News, Articles, and ... ](https://www.linkedin.com/pulse/notable-interesting-recent-ai-news-articles-papers-tuesday-sutor-2ksoe) | A selection of the most important recent news, articles, and papers about AI. Ne... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The \u2018first\u2019 AI-run ransomware attack still needed a human ](https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/) | An AI agent carried out the technical execution of a real-world ransomware attac... |\n| [US investors will soon get access to SK Hynix, another memory maker riding the AI boom ](https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/) | SK Hynix is experiencing a boom credited to AI. It will ride that to a multibill... |\n| [Vercel CEO Guillermo Rauch on the fight to split off models from agents ](https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/) | \"The reality is, when you're optimizing for production, you start looking at a p... |\n| [You can now customize Siri\u2019s pace and expressivity in the latest iOS 27 beta ](https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/) | The update is part of Apple's broader effort to make Siri feel more natural and ... |\n| [Every major tech layoff in 2026 that has name-checked AI ](https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) | A running look \u2014 in reverse chronological order \u2014 at the bigger tech companies t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model ](http://arxiv.org/abs/2607.05396v1) | Real-world robot deployment rarely maintains the training-stage camera setup, wh... |\n| [Weak-to-Strong Generalization via Direct On-Policy Distillation ](http://arxiv.org/abs/2607.05394v1) | Reinforcement learning with verifiable rewards (RLVR) is a powerful recipe for i... |\n| [Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification ](http://arxiv.org/abs/2607.05393v1) | Time-domain surveys generate many transient candidates, making Real-Bogus classi... |\n| [LLM-as-a-Verifier: A General-Purpose Verification Framework ](http://arxiv.org/abs/2607.05391v1) | Scaling pre-training, post-training, and test-time compute have become the centr... |\n| [Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds ](http://arxiv.org/abs/2606.18218v3) | We study finite-horizon queue peaks in generalized switches, a standard stochast... |\n| [Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation ](http://arxiv.org/abs/2607.05382v1) | Visual generators excel at rendering, but they confidently fabricate what they d... |\n| [What Does a Discrete Diffusion Model Learn? ](http://arxiv.org/abs/2607.05381v1) | What does a discrete diffusion model learn: a denoiser, a score ratio, or a brid... |\n| [TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning ](http://arxiv.org/abs/2607.05380v1) | In deep learning for tabular data, efficient ensembles of multilayer perceptrons... |\n| [CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents ](http://arxiv.org/abs/2607.05378v1) | Long-horizon agentic LLMs are increasingly limited by finite context windows, as... |\n| [Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation ](http://arxiv.org/abs/2607.05377v1) | While recent Vision-Language-Action (VLA) models show promise toward generalist ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) | HN Score: 310. Comments: 191 |\n| [[HackerNews] Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) | HN Score: 92. Comments: 19 |\n| [[HackerNews] Ternlight \u2013 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) | HN Score: 172. Comments: 43 |\n| [[HackerNews] A global workspace in language models](https://www.anthropic.com/research/global-workspace) | HN Score: 334. Comments: 125 |\n| [[HackerNews] AMD Ryzen AI Halo \u2013 $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo) | HN Score: 308. Comments: 218 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=y24lF1q4SFY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
