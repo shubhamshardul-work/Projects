@@ -1,0 +1,472 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "url": "http://arxiv.org/abs/2607.06565v1",
+      "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "url": "http://arxiv.org/abs/2607.04434v2",
+      "summary": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "url": "http://arxiv.org/abs/2607.06546v1",
+      "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+      "url": "http://arxiv.org/abs/2607.06544v1",
+      "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
+      "url": "http://arxiv.org/abs/2607.06542v1",
+      "summary": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+      "url": "http://arxiv.org/abs/2607.06540v1",
+      "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PerCaM-Health: Personalized Dynamic Causal Graphs for Healthcare Reasoning",
+      "url": "http://arxiv.org/abs/2605.07267v2",
+      "summary": "Personalized healthcare decisions require reasoning about how physiological and behavioral variables influence an individual patient over time. Existing temporal causal discovery methods are poorly ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GraphBU: MILP Instance Generation with Graph-Native Block Units",
+      "url": "http://arxiv.org/abs/2607.06532v1",
+      "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "url": "http://arxiv.org/abs/2607.06531v1",
+      "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment",
+      "url": "http://arxiv.org/abs/2511.06229v3",
+      "summary": "This paper focuses on dynamic origin-destination matrix estimation (DODE), a crucial calibration process necessary for the effective application of microscopic traffic simulations. The fundamental cha...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1683711",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, hunyuan, hy3. Downloads: 121",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 281584",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "summary": "HN Score: 111. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "HN Score: 525. Comments: 171",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "summary": "HN Score: 55. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "summary": "HN Score: 255. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "summary": "HN Score: 129. Comments: 138",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI",
+      "url": "https://generativeai.pub",
+      "summary": "Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest Headlines and Developments",
+      "url": "https://www.reuters.com/technology/artificial-intelligence",
+      "summary": "Explore the latest artificial intelligence news with Reuters - from AI breakthroughs and technology trends to regulation, ethics, business and global impact.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
+      "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "url": "http://arxiv.org/abs/2607.06565v1",
+      "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "url": "http://arxiv.org/abs/2607.04434v2",
+      "summary": "Generalist robot manipulation policies have advanced rapidly, yet existing benchmarks remain limited in systematically evaluating their capabilities. Many rely on simple, short-horizon, or skill-narro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "url": "http://arxiv.org/abs/2607.06546v1",
+      "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+      "url": "http://arxiv.org/abs/2607.06544v1",
+      "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?",
+      "url": "http://arxiv.org/abs/2607.06542v1",
+      "summary": "Dependency parsing consists of finding a tree representation for a sequence. Unsupervised dependency parsing aims to develop parsing methods without a gold standard during model training. In human lan...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+      "url": "http://arxiv.org/abs/2607.06540v1",
+      "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PerCaM-Health: Personalized Dynamic Causal Graphs for Healthcare Reasoning",
+      "url": "http://arxiv.org/abs/2605.07267v2",
+      "summary": "Personalized healthcare decisions require reasoning about how physiological and behavioral variables influence an individual patient over time. Existing temporal causal discovery methods are poorly ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GraphBU: MILP Instance Generation with Graph-Native Block Units",
+      "url": "http://arxiv.org/abs/2607.06532v1",
+      "summary": "Mixed-integer linear programming (MILP) instances used for solver development are hard to obtain when models come from private or application-specific pipelines. A generator must keep the structure th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "url": "http://arxiv.org/abs/2607.06531v1",
+      "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment",
+      "url": "http://arxiv.org/abs/2511.06229v3",
+      "summary": "This paper focuses on dynamic origin-destination matrix estimation (DODE), a crucial calibration process necessary for the effective application of microscopic traffic simulations. The fundamental cha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 1683711",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy3",
+      "url": "https://huggingface.co/tencent/Hy3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, hunyuan, hy3. Downloads: 121",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.2",
+      "url": "https://huggingface.co/zai-org/GLM-5.2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 281584",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "summary": "HN Score: 111. Comments: 29",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "summary": "HN Score: 525. Comments: 171",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "summary": "HN Score: 55. Comments: 13",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "summary": "HN Score: 255. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We're extending access to Fable 5 on all paid plans through July 12",
+      "url": "https://twitter.com/claudeai/status/2074548242386178258",
+      "summary": "HN Score: 129. Comments: 138",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=y24lF1q4SFY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[HackerNews] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+        "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+        "summary": "HN Score: 55. Comments: 13"
+      },
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+      },
+      {
+        "title": "[RSS] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+        "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+        "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. "
+      },
+      {
+        "title": "[RSS] Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. "
+      },
+      {
+        "title": "[RSS] Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+      }
+    ],
+    "technical": [],
+    "research": [
+      {
+        "title": "[ArXiv] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+        "url": "http://arxiv.org/abs/2607.06565v1",
+        "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena..."
+      },
+      {
+        "title": "[ArXiv] Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+        "url": "http://arxiv.org/abs/2607.06540v1",
+        "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl..."
+      },
+      {
+        "title": "[ArXiv] The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+        "url": "http://arxiv.org/abs/2607.06531v1",
+        "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T..."
+      },
+      {
+        "title": "[ArXiv] Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+        "url": "http://arxiv.org/abs/2607.06546v1",
+        "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi..."
+      },
+      {
+        "title": "[ArXiv] Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+        "url": "http://arxiv.org/abs/2607.06544v1",
+        "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[HackerNews] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday",
+      "url": "https://twitter.com/OpenAI/status/2074704958419792299",
+      "summary": "HN Score: 55. Comments: 13"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generation, and AudioLM for speech-to-translation capabilities. New UI"
+    },
+    {
+      "title": "[RSS] Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos",
+      "url": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "The new image-generating model has numerous use cases, including advertising and decorating, and creator-based opportunities. "
+    },
+    {
+      "title": "[RSS] Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. "
+    },
+    {
+      "title": "[RSS] Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+      "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+    },
+    {
+      "title": "[ArXiv] ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "url": "http://arxiv.org/abs/2607.06565v1",
+      "summary": "Unified 3D foundation models aspire to generate 3D assets and reason about them in language within a single backbone, but their text-3D interaction remains largely implicit. Existing methods concatena..."
+    },
+    {
+      "title": "[ArXiv] Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs",
+      "url": "http://arxiv.org/abs/2607.06540v1",
+      "summary": "Developing seamless, high-performance, native intelligent full-duplex Spoken Language Models (SLMs) remains a critical challenge and long-standing goal for the speech and NLP community. Despite notabl..."
+    },
+    {
+      "title": "[ArXiv] The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology",
+      "url": "http://arxiv.org/abs/2607.06531v1",
+      "summary": "- Objective: Multimodal deep learning models in oncology are currently limited by monolithic designs that rigidly couple data ingestion, clinical routing, and artificial intelligence (AI) inference. T..."
+    },
+    {
+      "title": "[ArXiv] Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "url": "http://arxiv.org/abs/2607.06546v1",
+      "summary": "Denoising graphs is a fundamental problem in graph learning and the core operation of graph diffusion models. Attention-based architectures like graph transformers have recently shown promise in denoi..."
+    },
+    {
+      "title": "[ArXiv] Rethinking Indic AI from a Lens of Cultural Heritage Preservation",
+      "url": "http://arxiv.org/abs/2607.06544v1",
+      "summary": "As Artificial Intelligence (AI) makes inroads into different parts of the Indian subcontinent, there is significant interest in studying how AI impacts the linguistic and cultural foundations of this ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Multimodal Breakthroughs & Strategic Shifts\n\nToday's AI landscape is marked by a rapid expansion of multimodal capabilities, from advanced video and music generation to sophisticated 3D understanding. Concurrently, major players are recalibrating their strategies, focusing on cost efficiency and in-house model development, signaling a maturing market.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nGoogle continues to push the boundaries of multimodal AI with the Pixel Drop event, unveiling Gemini Omni for advanced video editing, Lyria 3 for sophisticated music generation, and AudioLM for seamless speech-to-translation. These innovations, coupled with a new user interface, underscore a strategic move to integrate powerful AI directly into creative workflows and enhance user experience across its ecosystem. For businesses, this signifies a growing opportunity to leverage integrated, multimodal AI for content creation, marketing, and global communication, while also intensifying competition in the creative AI space.\n\n### **[Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/)**\nMeta has entered the generative image market with Muse Image, a new AI tool designed for diverse applications from advertising to creator-based opportunities. While the model promises significant utility, its launch has been met with immediate user pushback concerning the use of personal photos for training data. This highlights the ongoing tension between AI innovation and data privacy, posing a critical strategic challenge for companies seeking to deploy large-scale generative AI models.\n\n### **[Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/)**\nMicrosoft is the latest tech giant to pivot towards greater reliance on its proprietary AI models, signaling a broader industry trend towards cost optimization and strategic independence in AI development. This move allows Microsoft to exert more control over its AI infrastructure, potentially reducing operational expenses associated with third-party model usage. For executives, this underscores the increasing importance of building in-house AI capabilities and optimizing resource allocation as the AI market matures.\n\n### **[Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/)**\nDespite the rapid advancements and growing adoption of open-source AI models, frontier labs like Anthropic are currently not experiencing significant competitive pressure. This suggests a market segmentation where proprietary, cutting-edge models and accessible open-source alternatives cater to different phases of the AI adoption lifecycle. Business leaders should recognize this dynamic, understanding that both proprietary and open-source solutions will continue to drive innovation and capture distinct market segments, influencing investment and partnership strategies.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation](http://arxiv.org/abs/2607.06565v1)**\nResearchers are advancing unified 3D foundation models with ELSA3D, a novel approach that enhances text-3D interaction through elastic semantic anchoring. This work aims to create models capable of both generating and reasoning about 3D assets using natural language within a single architecture. The implications are profound for fields like virtual reality, digital twins, and advanced robotics, promising more intuitive and powerful tools for 3D content creation and interaction.\n\n### **[Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs](http://arxiv.org/abs/2607.06540v1)**\nA new paper explores Hierarchical Acoustic-Semantic Modeling to tackle the challenge of developing seamless, high-performance full-duplex Spoken Language Models (SLMs). By focusing on modality separation and semantic coherence, this research aims to overcome current limitations in real-time, natural speech interaction. This breakthrough could lead to significantly more fluid and intelligent conversational AI systems, enhancing human-computer interaction across various applications.\n\n### **[The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology](http://arxiv.org/abs/2607.06531v1)**\nIntroducing The Large Cancer Assistant (LCA), a model-agnostic orchestration framework designed to provide scalable clinical decision support in oncology. This framework addresses the limitations of monolithic deep learning models by decoupling data ingestion, clinical routing, and AI inference, offering a more flexible and robust solution. This research has significant implications for the future of AI in healthcare, promising more adaptable and effective tools for personalized cancer treatment and improved patient outcomes.\n\n### **[Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion](http://arxiv.org/abs/2607.06546v1)**\nThis paper delves into Graph Convolutional Attention from a spectral perspective, focusing on its role in graph denoising and diffusion models. By analyzing attention-based architectures like graph transformers, the research aims to improve the fundamental operations of graph learning. This work could lead to more robust and efficient processing of complex networked data, with applications spanning social network analysis, drug discovery, and recommendation systems.\n\n### **[Rethinking Indic AI from a Lens of Cultural Heritage Preservation](http://arxiv.org/abs/2607.06544v1)**\nResearchers are examining the impact of Artificial Intelligence on the linguistic and cultural foundations of the Indian subcontinent, advocating for a re-evaluation of Indic AI through the lens of cultural heritage preservation. This critical perspective highlights the importance of developing AI systems that are culturally sensitive and contribute to the preservation of diverse languages and traditions. This research is crucial for fostering ethical and inclusive AI development that respects and supports global cultural diversity.\n\n---\n**Today's Signal:** The AI landscape is rapidly diversifying with advanced multimodal capabilities and strategic shifts towards in-house model development and cost efficiency, while research continues to push boundaries in 3D, speech, healthcare, and culturally sensitive AI.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | The Pixel Drop brings Gemini Omni for video editing, Lyria 3 for music generatio... |\n| [Generative AI ](https://generativeai.pub) | Stay updated with the latest news, research, and developments in the world of ge... |\n| [AI News | Latest Headlines and Developments ](https://www.reuters.com/technology/artificial-intelligence) | Explore the latest artificial intelligence news with Reuters - from AI breakthro... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Australian Payments Plus moves faster with ChatGPT and Codex ](https://openai.com/index/australian-payments-plus) | See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faste... |\n| [MUFG aims to become AI-native with OpenAI ](https://openai.com/index/mufg) | MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflo... |\n| [Meta just launched a new AI generator, Muse Image, and users are already pushing back over use of their photos ](https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/) | The new image-generating model has numerous use cases, including advertising and... |\n| [Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet ](https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/) | Open source models\u2019 success isn\u2019t coming at the expense of frontier labs. Instea... |\n| [[RSS] Microsoft joins AI cost-cutting trend by relying more on its own models](https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/) | Microsoft is the latest Silicon Valley giant to cut back on its AI spending.  |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation ](http://arxiv.org/abs/2607.06565v1) | Unified 3D foundation models aspire to generate 3D assets and reason about them ... |\n| [RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies ](http://arxiv.org/abs/2607.04434v2) | Generalist robot manipulation policies have advanced rapidly, yet existing bench... |\n| [Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion ](http://arxiv.org/abs/2607.06546v1) | Denoising graphs is a fundamental problem in graph learning and the core operati... |\n| [Rethinking Indic AI from a Lens of Cultural Heritage Preservation ](http://arxiv.org/abs/2607.06544v1) | As Artificial Intelligence (AI) makes inroads into different parts of the Indian... |\n| [On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species? ](http://arxiv.org/abs/2607.06542v1) | Dependency parsing consists of finding a tree representation for a sequence. Uns... |\n| [Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs ](http://arxiv.org/abs/2607.06540v1) | Developing seamless, high-performance, native intelligent full-duplex Spoken Lan... |\n| [PerCaM-Health: Personalized Dynamic Causal Graphs for Healthcare Reasoning ](http://arxiv.org/abs/2605.07267v2) | Personalized healthcare decisions require reasoning about how physiological and ... |\n| [GraphBU: MILP Instance Generation with Graph-Native Block Units ](http://arxiv.org/abs/2607.06532v1) | Mixed-integer linear programming (MILP) instances used for solver development ar... |\n| [The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology ](http://arxiv.org/abs/2607.06531v1) | - Objective: Multimodal deep learning models in oncology are currently limited b... |\n| [Deep Reinforcement Learning for Dynamic Origin-Destination Matrix Estimation in Microscopic Traffic Simulations Considering Credit Assignment ](http://arxiv.org/abs/2511.06229v3) | This paper focuses on dynamic origin-destination matrix estimation (DODE), a cru... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n| [tencent/Hy3 ](https://huggingface.co/tencent/Hy3) | Trending HF Model. Tags: transformers, safetensors, hy_v3, text-generation, huny... |\n| [zai-org/GLM-5.2 ](https://huggingface.co/zai-org/GLM-5.2) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) | HN Score: 111. Comments: 29 |\n| [[HackerNews] Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) | HN Score: 525. Comments: 171 |\n| [[HackerNews] GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday](https://twitter.com/OpenAI/status/2074704958419792299) | HN Score: 55. Comments: 13 |\n| [[HackerNews] Show HN: Davit, a Apple Containers UI](https://davit.app) | HN Score: 255. Comments: 55 |\n| [[HackerNews] We're extending access to Fable 5 on all paid plans through July 12](https://twitter.com/claudeai/status/2074548242386178258) | HN Score: 129. Comments: 138 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=y24lF1q4SFY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
