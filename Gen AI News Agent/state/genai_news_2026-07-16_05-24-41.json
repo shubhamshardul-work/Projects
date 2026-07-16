@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "/goto?url=CAESbAHuR6pNvErTk9FWnPinIfMleoOxImGJM86C2CJjRvt-bAZikKfXKMWzOy1jH3Sewz4QoEhb03MvRMtkp_euIaCjV2SeFp7ciN2t6jn_3ZtEQyPP2rUnBVNcY6wGB9EcObGkmr1TszAO39dCag%3D%3D",
+      "summary": "This week's AI News is packed with 28 major updates from Google, new generative AI tools \u2026 fresh breakthroughs in large language models and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "/goto?url=CAESnQEB7keqTTiehbPPFcpy71nFH2hPbyz14wf5LwOuCR83Sx7HB6fLLmW1ELpISZs0kq24NKoaK7ABDZrNYWgvuyuRJ6IwRlfjiCnJdbKgEhS8436zIZVichPwX003cU7s3sUetjo3__ce9Oxz7y7ilD1SZbs1GaoEUZp8CxA9oyQW86VG9J-H7KNdqci1HltuGq1RZfyolp-BSjXeSUPg",
+      "summary": "Aug 6, 2024 \u2014 A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now",
+      "url": "/goto?url=CAESoQEB7keqTXrlsdfwwvS4Nu9YsIDOtp6DaG-l36JZtQJOIa-fnfvlxMdwncPRZy-fEK6mVMji-1ns6XIj1rIh2fJTfTeU_1jCRAGUq1DNMNU-JrHKL5bgux9AWywtFZ3eEwnijixzakYTlKoV__rIGINdHst2qbUnzgdMIkxvWoE_u671f1awKBtKfH7bjMhYplG5nhemd9mrZnQpMdDJ-Q5Hhw%3D%3D",
+      "summary": "Latest AI news includes new AI tools, company announcements, research breakthroughs, and startup funding. Recent tools include Gemini Workspace",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Leveraging unlabelled data for generalizable neural population decoding",
+      "url": "http://arxiv.org/abs/2607.14086v1",
+      "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linear Independent Component Analysis via Optimal Transport",
+      "url": "http://arxiv.org/abs/2607.14081v1",
+      "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Representation-Based Exploration for Language Models: From Test-Time to Post-Training",
+      "url": "http://arxiv.org/abs/2510.11686v2",
+      "summary": "Reinforcement learning (RL) promises to expand the capabilities of language models, but it is unclear if current RL techniques promote the discovery of novel behaviors, or simply sharpen those already...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MetaPerch: Learning from metadata for bioacoustics foundation models",
+      "url": "http://arxiv.org/abs/2607.14072v1",
+      "summary": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce S...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+      "url": "http://arxiv.org/abs/2607.14070v1",
+      "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization",
+      "url": "http://arxiv.org/abs/2607.07513v2",
+      "summary": "Self-supervised learning matches supervised accuracy from a fraction of the labels, but the labeled-sample efficiency behind this has lacked a theoretical explanation. We provide one. Data augmentatio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bandit PCA with Minimax Optimal Regret",
+      "url": "http://arxiv.org/abs/2607.10936v2",
+      "summary": "We study the bandit-feedback version of online principal component analysis (Bandit PCA): in each round $t = 1,\\dots,T$, the adversary selects a $d \\times d$ symmetric gain matrix $G_t$ with spectrum ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+      "url": "http://arxiv.org/abs/2607.14051v1",
+      "summary": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Avoiding unsafe sets when training with Langevin Dynamics",
+      "url": "http://arxiv.org/abs/2607.07538v2",
+      "summary": "Training a model with noisy gradient descent can be idealized as overdamped Langevin dynamics, and a natural safety question is to bound the probability $\u03bd_t(\\mathcal{A}_H) = \\mathbb{P}(Q_t \\in \\mathc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing",
+      "url": "http://arxiv.org/abs/2607.05364v2",
+      "summary": "Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "summary": "Trending HF Model. Tags: llama.cpp, gguf, conversational, ternary, 2-bit, llama-cpp. Downloads: 23",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] thinkingmachines/Inkling",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "summary": "Trending HF Model. Tags: safetensors, inkling_mm_model, conversational, image-text-to-text, audio-text-to-text, moe. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 2006265",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+      "summary": "HN Score: 126. Comments: 73",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "HN Score: 837. Comments: 212",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "HN Score: 133. Comments: 51",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "summary": "HN Score: 12. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] High-Bandwidth Flash offers efficient storage for model weights",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "summary": "HN Score: 25. Comments: 7",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "/goto?url=CAESbAHuR6pNvErTk9FWnPinIfMleoOxImGJM86C2CJjRvt-bAZikKfXKMWzOy1jH3Sewz4QoEhb03MvRMtkp_euIaCjV2SeFp7ciN2t6jn_3ZtEQyPP2rUnBVNcY6wGB9EcObGkmr1TszAO39dCag%3D%3D",
+      "summary": "This week's AI News is packed with 28 major updates from Google, new generative AI tools \u2026 fresh breakthroughs in large language models and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Notable and Interesting Recent AI News, Articles, and ...",
+      "url": "/goto?url=CAESnQEB7keqTTiehbPPFcpy71nFH2hPbyz14wf5LwOuCR83Sx7HB6fLLmW1ELpISZs0kq24NKoaK7ABDZrNYWgvuyuRJ6IwRlfjiCnJdbKgEhS8436zIZVichPwX003cU7s3sUetjo3__ce9Oxz7y7ilD1SZbs1GaoEUZp8CxA9oyQW86VG9J-H7KNdqci1HltuGq1RZfyolp-BSjXeSUPg",
+      "summary": "Aug 6, 2024 \u2014 A selection of the most important recent news, articles, and papers about AI. News, Articles, and Analyses Generative AI in Real-World",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest AI News: The Biggest AI Announcements Right Now",
+      "url": "/goto?url=CAESoQEB7keqTXrlsdfwwvS4Nu9YsIDOtp6DaG-l36JZtQJOIa-fnfvlxMdwncPRZy-fEK6mVMji-1ns6XIj1rIh2fJTfTeU_1jCRAGUq1DNMNU-JrHKL5bgux9AWywtFZ3eEwnijixzakYTlKoV__rIGINdHst2qbUnzgdMIkxvWoE_u671f1awKBtKfH7bjMhYplG5nhemd9mrZnQpMdDJ-Q5Hhw%3D%3D",
+      "summary": "Latest AI news includes new AI tools, company announcements, research breakthroughs, and startup funding. Recent tools include Gemini Workspace",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Leveraging unlabelled data for generalizable neural population decoding",
+      "url": "http://arxiv.org/abs/2607.14086v1",
+      "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linear Independent Component Analysis via Optimal Transport",
+      "url": "http://arxiv.org/abs/2607.14081v1",
+      "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Representation-Based Exploration for Language Models: From Test-Time to Post-Training",
+      "url": "http://arxiv.org/abs/2510.11686v2",
+      "summary": "Reinforcement learning (RL) promises to expand the capabilities of language models, but it is unclear if current RL techniques promote the discovery of novel behaviors, or simply sharpen those already...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MetaPerch: Learning from metadata for bioacoustics foundation models",
+      "url": "http://arxiv.org/abs/2607.14072v1",
+      "summary": "Bioacoustic foundation models rely on large-scale citizen science platforms like Xeno-Canto for geographically and ecologically diverse data. Recent work has shown that supervision alone can produce S...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+      "url": "http://arxiv.org/abs/2607.14070v1",
+      "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization",
+      "url": "http://arxiv.org/abs/2607.07513v2",
+      "summary": "Self-supervised learning matches supervised accuracy from a fraction of the labels, but the labeled-sample efficiency behind this has lacked a theoretical explanation. We provide one. Data augmentatio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bandit PCA with Minimax Optimal Regret",
+      "url": "http://arxiv.org/abs/2607.10936v2",
+      "summary": "We study the bandit-feedback version of online principal component analysis (Bandit PCA): in each round $t = 1,\\dots,T$, the adversary selects a $d \\times d$ symmetric gain matrix $G_t$ with spectrum ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+      "url": "http://arxiv.org/abs/2607.14051v1",
+      "summary": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Avoiding unsafe sets when training with Langevin Dynamics",
+      "url": "http://arxiv.org/abs/2607.07538v2",
+      "summary": "Training a model with noisy gradient descent can be idealized as overdamped Langevin dynamics, and a natural safety question is to bound the probability $\u03bd_t(\\mathcal{A}_H) = \\mathbb{P}(Q_t \\in \\mathc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing",
+      "url": "http://arxiv.org/abs/2607.05364v2",
+      "summary": "Modern autoregressive ASR systems can emit timestamps as decoded tokens, enabling timestamped transcription without frame-level aligners or inference-time post-processing. We show that these generated...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] prism-ml/Ternary-Bonsai-27B-gguf",
+      "url": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+      "summary": "Trending HF Model. Tags: llama.cpp, gguf, conversational, ternary, 2-bit, llama-cpp. Downloads: 23",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] thinkingmachines/Inkling",
+      "url": "https://huggingface.co/thinkingmachines/Inkling",
+      "summary": "Trending HF Model. Tags: safetensors, inkling_mm_model, conversational, image-text-to-text, audio-text-to-text, moe. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 2006265",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign",
+      "url": "https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/",
+      "summary": "HN Score: 126. Comments: 73",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "HN Score: 837. Comments: 212",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "HN Score: 133. Comments: 51",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers",
+      "url": "https://arxiv.org/abs/2607.11859",
+      "summary": "HN Score: 12. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] High-Bandwidth Flash offers efficient storage for model weights",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "summary": "HN Score: 25. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=mWlCituW7wo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "The US is advancing AI safety through state and federal action",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+      },
+      {
+        "title": "How to manage AI investments in the agentic era",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+      },
+      {
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+      },
+      {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+      },
+      {
+        "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "summary": "HN Score: 133. Comments: 51"
+      }
+    ],
+    "technical": [
+      {
+        "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 2006265"
+      },
+      {
+        "title": "Inkling: Our Open-Weights Model",
+        "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "summary": "HN Score: 837. Comments: 212"
+      },
+      {
+        "title": "High-Bandwidth Flash offers efficient storage for model weights",
+        "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+        "summary": "HN Score: 25. Comments: 7"
+      }
+    ],
+    "research": [
+      {
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+      },
+      {
+        "title": "Leveraging unlabelled data for generalizable neural population decoding",
+        "url": "http://arxiv.org/abs/2607.14086v1",
+        "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve..."
+      },
+      {
+        "title": "Linear Independent Component Analysis via Optimal Transport",
+        "url": "http://arxiv.org/abs/2607.14081v1",
+        "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu..."
+      },
+      {
+        "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+        "url": "http://arxiv.org/abs/2607.14070v1",
+        "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac..."
+      },
+      {
+        "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+        "url": "http://arxiv.org/abs/2607.14051v1",
+        "summary": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "summary": "OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state laws help build a national framework for safe, democratic AI."
+    },
+    {
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+    },
+    {
+      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+      "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+      "summary": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry."
+    },
+    {
+      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+      "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models."
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "summary": "HN Score: 133. Comments: 51"
+    },
+    {
+      "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "url": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncensored. Downloads: 2006265"
+    },
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "summary": "HN Score: 837. Comments: 212"
+    },
+    {
+      "title": "High-Bandwidth Flash offers efficient storage for model weights",
+      "url": "https://spectrum.ieee.org/high-bandwidth-flash",
+      "summary": "HN Score: 25. Comments: 7"
+    },
+    {
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "summary": "Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+    },
+    {
+      "title": "Leveraging unlabelled data for generalizable neural population decoding",
+      "url": "http://arxiv.org/abs/2607.14086v1",
+      "summary": "Robust and accurate neural decoders are integral to neurotechnologies such as brain-computer interfaces and closed-loop experiments. Recent work has shown that tokenizing neural data at the spike leve..."
+    },
+    {
+      "title": "Linear Independent Component Analysis via Optimal Transport",
+      "url": "http://arxiv.org/abs/2607.14081v1",
+      "summary": "Linear Independent Component Analysis (ICA) recovers jointly independent source signals from their linear mixtures. To achieve this, classical ICA algorithms attempt to maximize non-Gaussianity, measu..."
+    },
+    {
+      "title": "Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes",
+      "url": "http://arxiv.org/abs/2607.14070v1",
+      "summary": "Genomic foundation models such as Evo 2 learn rich sequence representations, but their value for biosecurity screening is largely unexplored. We ask how much biosecurity-relevant signal is linearly ac..."
+    },
+    {
+      "title": "Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters",
+      "url": "http://arxiv.org/abs/2607.14051v1",
+      "summary": "Forecasters are evaluated by backtesting, which replays resolved questions and grades the probability the system would have assigned before the outcome was known. For LLMs, two channels leak the answe..."
+    }
+  ],
+  "final_report": "# AI Intelligence Brief: Navigating the Agentic Era and the Open-Source Divide\n\nToday's intelligence report highlights the intensifying strategic competition in the AI landscape, from Microsoft's sales tactics to the push for open-source investment, alongside critical advancements in AI safety and efficiency. We're seeing a clear focus on practical deployment and robust governance as the \"agentic era\" takes hold.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The US is advancing AI safety through state and federal action](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action)**\nOpenAI is advocating for a \"reverse federalism\" approach to AI governance, suggesting that state-level initiatives can serve as crucial testing grounds for national safety frameworks. This strategy could lead to a more adaptable and comprehensive regulatory environment, influencing how businesses develop and deploy AI solutions across different jurisdictions. For executives, understanding this evolving regulatory landscape is key to ensuring compliance and mitigating future operational risks.\n\n### **[How to manage AI investments in the agentic era](https://openai.com/index/managing-ai-investments-in-agentic-era)**\nAs AI agents become more autonomous, enterprises must shift their investment focus from raw compute to measuring \"useful work per dollar.\" This guidance from OpenAI emphasizes optimizing efficiency and scaling high-value workflows, urging business leaders to prioritize tangible ROI and strategic impact over mere technological adoption. It's a call to action for a more disciplined approach to AI portfolio management.\n\n### **[Applied Computing wants to give oil and gas operators an AI model for the entire plant](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/)**\nApplied Computing has secured $20 million in Series A funding to develop a foundational AI model specifically for the oil, gas, and petrochemical industries. This significant investment underscores the growing trend of verticalizing AI, where specialized models promise to unlock immense value in traditional, asset-heavy sectors. For investors and industry leaders, this signals a ripe opportunity for targeted AI solutions to drive efficiency and innovation in complex industrial operations.\n\n### **[Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)**\nReports indicate Microsoft is actively positioning its in-house AI models as more efficient and cost-effective alternatives to those from OpenAI and Anthropic. This aggressive sales strategy highlights the intensifying competition in the enterprise AI market, as major players vie for market share and attempt to differentiate their offerings. Business leaders should anticipate a more competitive vendor landscape and carefully evaluate the long-term value proposition of different AI providers.\n\n### **[Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf)**\nA new report advocates for significant investment in free and open-source AI (FOSS AI) by governments, corporations, and non-profits. This push for open-source development aims to democratize access to advanced AI, foster innovation, and potentially mitigate the risks of concentrated power among a few large AI developers. Strategically, this could lead to a more diverse and resilient AI ecosystem, impacting future talent acquisition and technological dependencies.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF)**\nThis trending Hugging Face model, Qwythos-9B-Claude-Mythos-5-1M-GGUF, is gaining significant traction with over 2 million downloads, indicating strong developer interest in efficient, quantized models. Its focus on reasoning and uncensored capabilities, packaged in the `gguf` format for `llama.cpp`, makes it highly appealing for local deployment and experimentation. Developers should watch this space for more performant and accessible models that can run on consumer-grade hardware.\n\n### **[Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)**\nThinking Machines has introduced \"Inkling,\" their new open-weights model, generating considerable discussion within the developer community. The release of more open-weight models provides engineers with greater flexibility for customization, fine-tuning, and integration into proprietary systems. This trend empowers developers to build more specialized applications without being locked into closed ecosystems.\n\n### **[High-Bandwidth Flash offers efficient storage for model weights](https://spectrum.ieee.org/high-bandwidth-flash)**\nNew advancements in high-bandwidth flash memory promise more efficient storage solutions for large AI model weights. For architects and developers, this hardware innovation could significantly reduce the latency and cost associated with loading and running large language models. This technology is crucial for improving the performance and scalability of AI applications, especially those requiring rapid access to vast amounts of model data.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[GPT-Red: Unlocking Self-Improvement for Robustness](https://openai.com/index/unlocking-self-improvement-gpt-red)**\nOpenAI's GPT-Red introduces an automated red teaming system that leverages self-play to enhance AI safety, alignment, and robustness against prompt injection attacks. This research is critical for developing more resilient AI systems that can withstand adversarial inputs and operate reliably in real-world scenarios. Researchers should explore self-play mechanisms as a powerful tool for discovering and mitigating AI vulnerabilities.\n\n### **[Leveraging unlabelled data for generalizable neural population decoding](http://arxiv.org/abs/2607.14086v1)**\nThis paper explores novel methods for creating robust and accurate neural decoders for neurotechnologies like brain-computer interfaces by leveraging unlabelled data. The ability to generalize from less labeled data is a significant step towards more practical and accessible neurotechnological applications. Researchers in neuroscience and AI should consider semi-supervised and unsupervised learning techniques to overcome data scarcity challenges in complex biological systems.\n\n### **[Linear Independent Component Analysis via Optimal Transport](http://arxiv.org/abs/2607.14081v1)**\nThis research introduces a new approach to Linear Independent Component Analysis (ICA) using optimal transport theory to recover independent source signals from their linear mixtures. By maximizing non-Gaussianity, this method offers a fresh perspective on signal separation, which is fundamental to many AI applications, from audio processing to medical imaging. Deep-tech thinkers should investigate optimal transport's broader applicability in unsupervised learning and data disentanglement.\n\n### **[Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes](http://arxiv.org/abs/2607.14070v1)**\nThis paper investigates the utility of genomic foundation models like Evo 2 for biosecurity screening in metagenomic data. The findings suggest that these models can effectively identify biosecurity-relevant signals, highlighting AI's potential in critical areas like pandemic prevention and biological threat detection. Researchers at the intersection of AI and biology should explore how large-scale genomic models can be fine-tuned for public health and national security applications.\n\n### **[Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters](http://arxiv.org/abs/2607.14051v1)**\n\"Hindcast\" proposes a novel methodology for evaluating LLM forecasters by replaying prediction markets, addressing the challenge of data leakage in traditional backtesting. This research offers a more rigorous framework for assessing the predictive capabilities of large language models, crucial for their deployment in high-stakes forecasting applications. Academics and practitioners should adopt and refine such evaluation methods to build more trustworthy and accurate AI forecasting systems.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing, with a dual focus on strategic market competition and foundational research into safety, efficiency, and robust evaluation.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](/goto?url=CAESbAHuR6pNvErTk9FWnPinIfMleoOxImGJM86C2CJjRvt-bAZikKfXKMWzOy1jH3Sewz4QoEhb03MvRMtkp_euIaCjV2SeFp7ciN2t6jn_3ZtEQyPP2rUnBVNcY6wGB9EcObGkmr1TszAO39dCag%3D%3D) | This week's AI News is packed with 28 major updates from Google, new generative ... |\n| [Notable and Interesting Recent AI News, Articles, and ... ](/goto?url=CAESnQEB7keqTTiehbPPFcpy71nFH2hPbyz14wf5LwOuCR83Sx7HB6fLLmW1ELpISZs0kq24NKoaK7ABDZrNYWgvuyuRJ6IwRlfjiCnJdbKgEhS8436zIZVichPwX003cU7s3sUetjo3__ce9Oxz7y7ilD1SZbs1GaoEUZp8CxA9oyQW86VG9J-H7KNdqci1HltuGq1RZfyolp-BSjXeSUPg) | Aug 6, 2024 \u2014 A selection of the most important recent news, articles, and paper... |\n| [Latest AI News: The Biggest AI Announcements Right Now ](/goto?url=CAESoQEB7keqTXrlsdfwwvS4Nu9YsIDOtp6DaG-l36JZtQJOIa-fnfvlxMdwncPRZy-fEK6mVMji-1ns6XIj1rIh2fJTfTeU_1jCRAGUq1DNMNU-JrHKL5bgux9AWywtFZ3eEwnijixzakYTlKoV__rIGINdHst2qbUnzgdMIkxvWoE_u671f1awKBtKfH7bjMhYplG5nhemd9mrZnQpMdDJ-Q5Hhw%3D%3D) | Latest AI news includes new AI tools, company announcements, research breakthrou... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The US is advancing AI safety through state and federal action ](https://openai.com/index/advancing-ai-safety-through-state-and-federal-action) | OpenAI outlines a \u201creverse federalism\u201d approach to AI governance, where state la... |\n| [GPT-Red: Unlocking Self-Improvement for Robustness ](https://openai.com/index/unlocking-self-improvement-gpt-red) | Explore GPT-Red, OpenAI\u2019s automated red teaming system that uses self-play to im... |\n| [How to manage AI investments in the agentic era ](https://openai.com/index/managing-ai-investments-in-agentic-era) | Learn how enterprises can manage AI investments in the agentic era by measuring ... |\n| [Applied Computing wants to give oil and gas operators an AI model for the entire plant ](https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/) | Applied Computing has raised a $20M Series A to build a foundation AI model for ... |\n| [Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic ](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/) | Microsoft is looking to sell its in-house AI models as more efficient and cost-e... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Leveraging unlabelled data for generalizable neural population decoding ](http://arxiv.org/abs/2607.14086v1) | Robust and accurate neural decoders are integral to neurotechnologies such as br... |\n| [Linear Independent Component Analysis via Optimal Transport ](http://arxiv.org/abs/2607.14081v1) | Linear Independent Component Analysis (ICA) recovers jointly independent source ... |\n| [Representation-Based Exploration for Language Models: From Test-Time to Post-Training ](http://arxiv.org/abs/2510.11686v2) | Reinforcement learning (RL) promises to expand the capabilities of language mode... |\n| [MetaPerch: Learning from metadata for bioacoustics foundation models ](http://arxiv.org/abs/2607.14072v1) | Bioacoustic foundation models rely on large-scale citizen science platforms like... |\n| [Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes ](http://arxiv.org/abs/2607.14070v1) | Genomic foundation models such as Evo 2 learn rich sequence representations, but... |\n| [Fast Rates for Semi-Supervised Learning via Data-Augmentation Graph Regularization ](http://arxiv.org/abs/2607.07513v2) | Self-supervised learning matches supervised accuracy from a fraction of the labe... |\n| [Bandit PCA with Minimax Optimal Regret ](http://arxiv.org/abs/2607.10936v2) | We study the bandit-feedback version of online principal component analysis (Ban... |\n| [Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters ](http://arxiv.org/abs/2607.14051v1) | Forecasters are evaluated by backtesting, which replays resolved questions and g... |\n| [Avoiding unsafe sets when training with Langevin Dynamics ](http://arxiv.org/abs/2607.07538v2) | Training a model with noisy gradient descent can be idealized as overdamped Lang... |\n| [REDDIT: Correcting Model-Generated Timestamp Drift in ASR without Forgetting via Replay-Based Distribution Editing ](http://arxiv.org/abs/2607.05364v2) | Modern autoregressive ASR systems can emit timestamps as decoded tokens, enablin... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [prism-ml/Ternary-Bonsai-27B-gguf ](https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf) | Trending HF Model. Tags: llama.cpp, gguf, conversational, ternary, 2-bit, llama-... |\n| [thinkingmachines/Inkling ](https://huggingface.co/thinkingmachines/Inkling) | Trending HF Model. Tags: safetensors, inkling_mm_model, conversational, image-te... |\n| [empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF ](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF) | Trending HF Model. Tags: gguf, llama.cpp, quantized, qwen3.5, reasoning, uncenso... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Guerrilla London Bus Ads Mock Kylie Jenner's Meta Glasses Campaign](https://hyperallergic.com/guerrilla-london-bus-ads-mock-kylie-jenners-meta-glasses-campaign/) | HN Score: 126. Comments: 73 |\n| [[HackerNews] Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | HN Score: 837. Comments: 212 |\n| [[HackerNews] Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) | HN Score: 133. Comments: 51 |\n| [[HackerNews] Can LLMs Perform Deep Technical Comprehension of Computer Architecture Papers](https://arxiv.org/abs/2607.11859) | HN Score: 12. Comments: 0 |\n| [[HackerNews] High-Bandwidth Flash offers efficient storage for model weights](https://spectrum.ieee.org/high-bandwidth-flash) | HN Score: 25. Comments: 7 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=mWlCituW7wo) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
