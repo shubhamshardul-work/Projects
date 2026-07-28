@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence",
+      "summary": "Jan. 28, 2026 \u0097 AI may learn better when it\u2019s allowed to talk to itself. Researchers showed that internal \u201cmumbling,\u201d combined with short-term memory, helps AI adapt to new tasks, switch goals, and handle ... \n\n  \n\nResearchers Tested AI Against 100,000 Humans on Creativity\n\nJan. 25, 2026 \u0097 A massive new study comparing more than 100,000 people with today\u2019s most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. ... [...] Apr. 18, 2026 \u0097 Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These ... \n\n  \n\nQuantum AI Just Got Shockingly Good at Predicting Chaos\n\nApr. 17, 2026 \u0097 Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... [...] Apr. 7, 2026 \u0097 A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics\u2019 biggest limits. Built from an unusual stack ... \n\n  \n\nAI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy\n\nApr. 5, 2026 \u0097 AI is consuming staggering amounts of energy\u2014already over 10% of U.S. electricity\u2014and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that ...",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "http://arxiv.org/abs/2607.24743v1",
+      "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+      "url": "http://arxiv.org/abs/2607.24741v1",
+      "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fourier Weak SINDy: Spectral Test Function Selection for Robust Model Identification",
+      "url": "http://arxiv.org/abs/2604.20141v2",
+      "summary": "We introduce Fourier Weak SINDy, a minimal noise-robust and interpretable derivative-free equation learning method that combines weak-form sparse equation learning with spectral density estimation for...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Distributions from Multiple Data Providers",
+      "url": "http://arxiv.org/abs/2607.24732v1",
+      "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distrib...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "url": "http://arxiv.org/abs/2607.24731v1",
+      "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "url": "http://arxiv.org/abs/2607.24730v1",
+      "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+      "url": "http://arxiv.org/abs/2607.24726v1",
+      "summary": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "url": "http://arxiv.org/abs/2607.24717v1",
+      "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Deep learning approaches show promise for predicting childhood malnutrition: A comparative study with traditional machine learning methods using survey data",
+      "url": "http://arxiv.org/abs/2602.10381v2",
+      "summary": "Childhood malnutrition remains a major public health concern in Nepal and other low-resource settings, while conventional case-finding approaches are labor-intensive and frequently unavailable in remo...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction, compressed-tensors, conversational. Downloads: 2850",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laguna, text-generation, laguna-s-2.1, vllm. Downloads: 63605",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 2645773",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "HN Score: 667. Comments: 938",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "summary": "HN Score: 147. Comments: 49",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "HN Score: 87. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why I joined Blacksmith to work on storage again",
+      "url": "https://www.blacksmith.sh/blog/why-i-joined-blacksmith-to-work-on-storage-again",
+      "summary": "HN Score: 13. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "summary": "HN Score: 37. Comments: 10",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Artificial Intelligence News -- ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/artificial_intelligence",
+      "summary": "Jan. 28, 2026 \u0097 AI may learn better when it\u2019s allowed to talk to itself. Researchers showed that internal \u201cmumbling,\u201d combined with short-term memory, helps AI adapt to new tasks, switch goals, and handle ... \n\n  \n\nResearchers Tested AI Against 100,000 Humans on Creativity\n\nJan. 25, 2026 \u0097 A massive new study comparing more than 100,000 people with today\u2019s most advanced AI systems delivers a surprising result: generative AI can now beat the average human on certain creativity tests. ... [...] Apr. 18, 2026 \u0097 Engineers at Northwestern University have taken a striking leap toward merging machines with the human brain by printing artificial neurons that can actually communicate with real ones. These ... \n\n  \n\nQuantum AI Just Got Shockingly Good at Predicting Chaos\n\nApr. 17, 2026 \u0097 Researchers have shown that blending quantum computing with AI can dramatically improve predictions of complex, chaotic systems. By letting a quantum computer identify hidden patterns in data, the AI ... [...] Apr. 7, 2026 \u0097 A team of engineers has created a breakthrough memory device that keeps working at temperatures hotter than molten lava, shattering one of electronics\u2019 biggest limits. Built from an unusual stack ... \n\n  \n\nAI Breakthrough Cuts Energy Use by 100x While Boosting Accuracy\n\nApr. 5, 2026 \u0097 AI is consuming staggering amounts of energy\u2014already over 10% of U.S. electricity\u2014and the demand is only accelerating. Now, researchers have unveiled a radically more efficient approach that ...",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "http://arxiv.org/abs/2607.24743v1",
+      "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport",
+      "url": "http://arxiv.org/abs/2607.24741v1",
+      "summary": "Dynamic applications, including optimal-transport Flow Matching, repeatedly solve related entropic optimal transport problems, yet conventional distributed Sinkhorn processes frames sequentially and s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fourier Weak SINDy: Spectral Test Function Selection for Robust Model Identification",
+      "url": "http://arxiv.org/abs/2604.20141v2",
+      "summary": "We introduce Fourier Weak SINDy, a minimal noise-robust and interpretable derivative-free equation learning method that combines weak-form sparse equation learning with spectral density estimation for...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Distributions from Multiple Data Providers",
+      "url": "http://arxiv.org/abs/2607.24732v1",
+      "summary": "Motivated by learning from heterogeneous and overlapping data providers, we study a stylized model of distribution learning from restricted conditional samples. The goal is to learn an unknown distrib...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "url": "http://arxiv.org/abs/2607.24731v1",
+      "summary": "On-policy distillation (OPD) adapts diffusion models by querying a teacher along trajectories generated by the current student, but how it should behave under classifier-free guidance (CFG), a default...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "url": "http://arxiv.org/abs/2607.24730v1",
+      "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs",
+      "url": "http://arxiv.org/abs/2607.24726v1",
+      "summary": "The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have become widely-used methods for solving partial differential equations (PDEs) in the rapidly growing field of scientific...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "url": "http://arxiv.org/abs/2607.24717v1",
+      "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Deep learning approaches show promise for predicting childhood malnutrition: A comparative study with traditional machine learning methods using survey data",
+      "url": "http://arxiv.org/abs/2602.10381v2",
+      "summary": "Childhood malnutrition remains a major public health concern in Nepal and other low-resource settings, while conventional case-finding approaches are labor-intensive and frequently unavailable in remo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction, compressed-tensors, conversational. Downloads: 2850",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] poolside/Laguna-S-2.1",
+      "url": "https://huggingface.co/poolside/Laguna-S-2.1",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laguna, text-generation, laguna-s-2.1, vllm. Downloads: 63605",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 2645773",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "HN Score: 667. Comments: 938",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "summary": "HN Score: 147. Comments: 49",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "HN Score: 87. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Why I joined Blacksmith to work on storage again",
+      "url": "https://www.blacksmith.sh/blog/why-i-joined-blacksmith-to-work-on-storage-again",
+      "summary": "HN Score: 13. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "summary": "HN Score: 37. Comments: 10",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+        "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+        "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need."
+      },
+      {
+        "title": "[RSS] Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+        "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+      },
+      {
+        "title": "[RSS] Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+        "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+        "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+      },
+      {
+        "title": "[RSS] Satya Nadella says companies that trust one AI for everything may not survive",
+        "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+        "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says."
+      },
+      {
+        "title": "[HackerNews] Our position on open-weights models",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "summary": "HN Score: 667. Comments: 938"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+      },
+      {
+        "title": "[HackerNews] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+        "url": "https://fermisense.com/when-machines-take-the-wheel/",
+        "summary": "HN Score: 87. Comments: 27"
+      },
+      {
+        "title": "[HackerNews] Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+        "url": "https://github.com/FrigadeHQ/yap",
+        "summary": "HN Score: 37. Comments: 10"
+      },
+      {
+        "title": "[HackerNews] Using an open model feels surprisingly good",
+        "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+        "summary": "HN Score: 147. Comments: 49"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] How AI is expanding what people do at work",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+      },
+      {
+        "title": "[ArXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+        "url": "http://arxiv.org/abs/2607.24743v1",
+        "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab..."
+      },
+      {
+        "title": "[ArXiv] KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+        "url": "http://arxiv.org/abs/2607.24730v1",
+        "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr..."
+      },
+      {
+        "title": "[ArXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+        "url": "http://arxiv.org/abs/2607.24720v1",
+        "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m..."
+      },
+      {
+        "title": "[ArXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+        "url": "http://arxiv.org/abs/2607.24717v1",
+        "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need."
+    },
+    {
+      "title": "[RSS] Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
+      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales."
+    },
+    {
+      "title": "[RSS] Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI",
+      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities."
+    },
+    {
+      "title": "[RSS] Satya Nadella says companies that trust one AI for everything may not survive",
+      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "Companies without their own models \u2014 or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself \u2014 will be in trouble, Nadella says."
+    },
+    {
+      "title": "[HackerNews] Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "summary": "HN Score: 667. Comments: 938"
+    },
+    {
+      "title": "[RSS] PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project."
+    },
+    {
+      "title": "[HackerNews] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "url": "https://fermisense.com/when-machines-take-the-wheel/",
+      "summary": "HN Score: 87. Comments: 27"
+    },
+    {
+      "title": "[HackerNews] Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download",
+      "url": "https://github.com/FrigadeHQ/yap",
+      "summary": "HN Score: 37. Comments: 10"
+    },
+    {
+      "title": "[HackerNews] Using an open model feels surprisingly good",
+      "url": "https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/",
+      "summary": "HN Score: 147. Comments: 49"
+    },
+    {
+      "title": "[RSS] How AI is expanding what people do at work",
+      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+      "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries."
+    },
+    {
+      "title": "[ArXiv] ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "http://arxiv.org/abs/2607.24743v1",
+      "summary": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must ab..."
+    },
+    {
+      "title": "[ArXiv] KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "url": "http://arxiv.org/abs/2607.24730v1",
+      "summary": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are incr..."
+    },
+    {
+      "title": "[ArXiv] The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "url": "http://arxiv.org/abs/2607.24720v1",
+      "summary": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, m..."
+    },
+    {
+      "title": "[ArXiv] DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data",
+      "url": "http://arxiv.org/abs/2607.24717v1",
+      "summary": "Pretraining data processing is critical to the downstream performance of Large Language Models (LLMs). However, many existing approaches define a fixed processing strategy at the corpus or domain leve..."
+    }
+  ],
+  "final_report": "# AI's Rapid Evolution: Strategic Diversification, Open Source Momentum, and Frontier Breakthroughs\n\nToday's AI landscape is a whirlwind of strategic shifts, practical innovations, and profound research. From corporate giants advocating for diversified AI portfolios to developers embracing open-source power, the industry is navigating complex challenges and unlocking new potentials at an unprecedented pace.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[28 Major AI Updates You Missed This Week](https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US)**\nThe sheer volume of AI innovation, with 28 significant updates from industry titans like Google, OpenAI, and Nvidia, underscores the relentless pace of development. Business leaders must recognize that staying competitive requires continuous monitoring and rapid adaptation to new tools and breakthroughs across generative AI, LLMs, and productivity enhancements. This rapid evolution necessitates agile strategies to integrate new capabilities and avoid falling behind.\n\n### **[Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/)**\nCursor's aggressive expansion into India, now its third-largest market, highlights the strategic importance of global market penetration and localized pricing in the AI software space. This move, coupled with an impending acquisition by SpaceX, signals a consolidation trend and the increasing value placed on AI development tools within larger tech ecosystems. Companies should watch for similar regional expansions and M&A activities as AI becomes more embedded globally.\n\n### **[Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models, but fears Chinese AI/)**\nAnthropic CEO Dario Amodei's nuanced stance on open-weight models, coupled with concerns over China's AI capabilities, reveals the complex geopolitical dimensions influencing AI strategy. This perspective underscores the tension between fostering open innovation and managing national security risks, a critical consideration for policymakers and businesses operating in the global AI arena. The debate over open vs. closed AI models is increasingly intertwined with international competition and ethical frameworks.\n\n### **[Satya Nadella says companies that trust one AI for everything may not survive](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/)**\nMicrosoft CEO Satya Nadella's warning against relying on a single AI model is a powerful strategic directive for enterprises. He advocates for developing proprietary models or implementing AI gateways to diversify AI infrastructure, mitigating vendor lock-in and enhancing data security. This advice emphasizes the need for a robust, multi-faceted AI strategy to ensure resilience and competitive advantage in the long term.\n\n### **[Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)**\nAnthropic's official statement on open-weight models further clarifies its strategic position, emphasizing the careful balance between accelerating AI progress and ensuring safety. This public stance influences the broader industry dialogue around responsible AI development and the implications for intellectual property and competitive landscapes. Businesses must consider the ethical and strategic ramifications of both open and closed AI approaches.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[PSA: Your Claude shared chats and Artifacts may have ended up on Google](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/)**\nThis critical privacy alert regarding Claude's shared chat feature highlights the paramount importance of data security and privacy in AI tool usage. Developers and organizations must exercise extreme caution with shared links and thoroughly review the data handling policies of all AI platforms. This incident serves as a stark reminder that convenience features can inadvertently expose sensitive information, necessitating robust security protocols.\n\n### **[A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/)**\nThis breakthrough demonstrates the immense power and cost-effectiveness of fine-tuning smaller, open-source models for specific tasks. Developers can achieve state-of-the-art performance on niche applications, like catalog review, with significantly less investment than training large frontier models from scratch. This signals a shift towards specialized, optimized AI solutions that leverage open-source foundations, making advanced AI more accessible and efficient.\n\n### **[Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download](https://github.com/FrigadeHQ/yap)**\nYap's introduction as an open-source, on-device voice dictation tool for macOS is a significant win for privacy and local processing. By eliminating the need for cloud-based models, it offers enhanced data security and offline functionality, appealing to developers prioritizing user privacy and control. This project exemplifies the growing trend towards edge AI and open-source solutions that empower users with greater autonomy over their data.\n\n### **[Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/)**\nThe sentiment that \"using an open model feels surprisingly good\" reflects a growing appreciation among developers for the flexibility, transparency, and community support offered by open-source AI. This positive experience often stems from the ability to inspect, modify, and deploy models without restrictive licenses or opaque black-box behaviors. It underscores the increasing viability and appeal of open-source alternatives in the developer ecosystem.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How AI is expanding what people do at work](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work)**\nNew OpenAI research reveals that AI is not just automating tasks but fundamentally reshaping job roles and expanding human capabilities at work. This suggests a future where AI acts as a co-pilot, enabling workers to take on more diverse and complex responsibilities across traditional job boundaries. Researchers should delve deeper into the socio-economic implications of this \"job expansion\" and its impact on workforce development and training.\n\n### **[ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding](http://arxiv.org/abs/2607.24743v1)**\nClinFusion represents a significant leap in applying multimodal LLMs to clinical practice, specifically addressing the vision-centric challenges of medical data. By integrating visual and textual information, this system aims for a more holistic understanding of patient conditions, promising to revolutionize diagnostics and treatment planning. This research highlights the critical need for robust multimodal AI in high-stakes domains like healthcare, where comprehensive data interpretation is paramount.\n\n### **[KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability](http://arxiv.org/abs/2607.24730v1)**\nKANEx's work on translating Kolmogorov-Arnold Networks (KANs) for medical explainability is a crucial step towards building trust in AI within clinical workflows. By offering more interpretable models for applications like chest X-ray classification, it addresses the \"black-box\" problem that often hinders clinician adoption. This research is vital for advancing explainable AI (XAI) and ensuring that AI tools are not only effective but also transparent and trustworthy in critical decision-making environments.\n\n### **[The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation](http://arxiv.org/abs/2607.24720v1)**\nThis paper delves into the fundamental challenges of multi-turn long-horizon planning for foundation model agents, proposing novel distillation techniques to improve performance. By moving beyond opaque internet data, the research aims to create more robust and controllable agents capable of complex, sustained interactions. This work is foundational for developing truly intelligent agents that can navigate and plan effectively in dynamic, real-world scenarios.\n\n### **[DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data](http://arxiv.org/abs/2607.24717v1)**\nDataOrchestra introduces an innovative approach to pretraining data curation, moving beyond fixed strategies to orchestrate per-example processing. This fine-grained control over data quality is critical for optimizing LLM performance, addressing a key bottleneck in model development. This research underscores the growing understanding that intelligent data management is as crucial as model architecture for achieving state-of-the-art results.\n\n---\n\n**Today's Signal:** The signal today points to a maturing AI ecosystem where strategic diversification, open-source innovation, and explainability are becoming paramount for both business survival and technological advancement.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Artificial Intelligence News -- ScienceDaily ](https://www.sciencedaily.com/news/computers_math/artificial_intelligence) | Jan. 28, 2026 \u0097 AI may learn better when it\u2019s allowed to talk to itself. Researc... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US) | This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, R... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How AI is expanding what people do at work ](https://openai.com/index/how-ai-is-expanding-what-people-do-at-work) | New OpenAI research shows how AI is expanding what workers do, with ChatGPT user... |\n| [Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing ](https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/) | Cursor says India is now its third-largest market globally and plans to expand l... |\n| [Anthropic\u2019s Dario Amodei responds: doesn\u2019t oppose open-weight models, but fears Chinese AI ](https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/) | Anthropic founder and CEO Dario Amodei made his views clear about open-weight mo... |\n| [Satya Nadella says companies that trust one AI for everything may not survive ](https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/) | Companies without their own models \u2014 or without a layer of AI infrastructure kno... |\n| [PSA: Your Claude shared chats and Artifacts may have ended up on Google ](https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/) | The issue appears to have originated from Claude\u2019s \u201cshare chat\u201d feature, which a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding ](http://arxiv.org/abs/2607.24743v1) | Multimodal large language models (MLLMs) hold immense potential to revolutionize... |\n| [Certified Parallel-in-Time Sinkhorn for Dynamic Entropic Optimal Transport ](http://arxiv.org/abs/2607.24741v1) | Dynamic applications, including optimal-transport Flow Matching, repeatedly solv... |\n| [Fourier Weak SINDy: Spectral Test Function Selection for Robust Model Identification ](http://arxiv.org/abs/2604.20141v2) | We introduce Fourier Weak SINDy, a minimal noise-robust and interpretable deriva... |\n| [Learning Distributions from Multiple Data Providers ](http://arxiv.org/abs/2607.24732v1) | Motivated by learning from heterogeneous and overlapping data providers, we stud... |\n| [Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation ](http://arxiv.org/abs/2607.24731v1) | On-policy distillation (OPD) adapts diffusion models by querying a teacher along... |\n| [KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability ](http://arxiv.org/abs/2607.24730v1) | Computer vision models have become highly effective for medical applications, ye... |\n| [Global Convergence of DGM and PINN Algorithms for Solving Nonlinear PDEs ](http://arxiv.org/abs/2607.24726v1) | The Deep Galerkin Method (DGM) and Physics Informed Neural Networks (PINNs) have... |\n| [The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation ](http://arxiv.org/abs/2607.24720v1) | Multi-turn long-horizon planning is critical for foundation model agents, yet ho... |\n| [DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data ](http://arxiv.org/abs/2607.24717v1) | Pretraining data processing is critical to the downstream performance of Large L... |\n| [Deep learning approaches show promise for predicting childhood malnutrition: A comparative study with traditional machine learning methods using survey data ](http://arxiv.org/abs/2602.10381v2) | Childhood malnutrition remains a major public health concern in Nepal and other ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [moonshotai/Kimi-K3 ](https://huggingface.co/moonshotai/Kimi-K3) | Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction,... |\n| [poolside/Laguna-S-2.1 ](https://huggingface.co/poolside/Laguna-S-2.1) | Trending HF Model. Tags: transformers, safetensors, laguna, text-generation, lag... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | HN Score: 667. Comments: 938 |\n| [[HackerNews] Using an open model feels surprisingly good](https://matthewsaltz.com/blog/using-an-open-model-feels-surprisingly-good/) | HN Score: 147. Comments: 49 |\n| [[HackerNews] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review](https://fermisense.com/when-machines-take-the-wheel/) | HN Score: 87. Comments: 27 |\n| [[HackerNews] Why I joined Blacksmith to work on storage again](https://www.blacksmith.sh/blog/why-i-joined-blacksmith-to-work-on-storage-again) | HN Score: 13. Comments: 1 |\n| [[HackerNews] Show HN: Yap \u2013 OSS on-device voice dictation for macOS with no model to download](https://github.com/FrigadeHQ/yap) | HN Score: 37. Comments: 10 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=wzY2fV4Mp3U) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
