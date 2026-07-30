@@ -1,0 +1,473 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business ...",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource\n\nDecember 11, 2025\n\n# On-Demand Webinar: From Complexity to Clarity: AI + Agility Layer for Intelligent Insurance\n\n[](\n\nResource [...] July 21, 2026\n\n### HP accelerates enterprise workflows with OpenAI Frontier\n\nWorld of Work\n\nJune 29, 2026\n\n### Omio scales travel product development using OpenAI models\n\nAI in Action\n\nJune 23, 2026\n\n#### Deep Learning\n\n### Aviva deploys AI to stop \u00a3230M in sophisticated insurance fraud\n\nAI in Action\n\nJune 8, 2026\n\n### China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention\n\nEnvironment & Sustainability\n\nMay 22, 2026 [...] Retail & Logistics AI\n\nJune 19, 2026\n\n[](\n\n#### Enterprise\n\n### Google\u2019s Gemini 3.6 Flash targets enterprise agent token costs\n\nAI in Action\n\nJuly 21, 2026\n\n### AWS GraphRAG deployment cuts drug research cycles by 87%\n\nHealthcare & Wellness AI\n\nJuly 9, 2026\n\n### Anthropic deploys Claude Sonnet 5, Fable and Mythos restored\n\nInside AI\n\nJuly 1, 2026\n\n#### Industries\n\n### Google\u2019s Gemini 3.6 Flash targets enterprise agent token costs\n\nAI in Action\n\nJuly 21, 2026",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+      "url": "http://arxiv.org/abs/2607.27203v1",
+      "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mental World Modeling",
+      "url": "http://arxiv.org/abs/2607.27201v1",
+      "summary": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Classification to Regression: Using a Fruitfly to Solve Equations",
+      "url": "http://arxiv.org/abs/2607.27196v1",
+      "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "url": "http://arxiv.org/abs/2607.27191v1",
+      "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] APEX-Accounting",
+      "url": "http://arxiv.org/abs/2607.27189v1",
+      "summary": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+      "url": "http://arxiv.org/abs/2607.27188v1",
+      "summary": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pangram 4 Technical Report",
+      "url": "http://arxiv.org/abs/2607.27183v1",
+      "summary": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
+      "url": "http://arxiv.org/abs/2607.27179v1",
+      "summary": "Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
+      "url": "http://arxiv.org/abs/2607.27178v1",
+      "summary": "State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+      "url": "http://arxiv.org/abs/2607.27177v1",
+      "summary": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed t...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction, compressed-tensors, conversational. Downloads: 99214",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 2694935",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, unsloth, fine tune, heretic, uncensored, abliterated. Downloads: 736692",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "HN Score: 319. Comments: 169",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "summary": "HN Score: 134. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "summary": "HN Score: 147. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "summary": "HN Score: 124. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "summary": "HN Score: 26. Comments: 8",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business ...",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource\n\nDecember 11, 2025\n\n# On-Demand Webinar: From Complexity to Clarity: AI + Agility Layer for Intelligent Insurance\n\n[](\n\nResource [...] July 21, 2026\n\n### HP accelerates enterprise workflows with OpenAI Frontier\n\nWorld of Work\n\nJune 29, 2026\n\n### Omio scales travel product development using OpenAI models\n\nAI in Action\n\nJune 23, 2026\n\n#### Deep Learning\n\n### Aviva deploys AI to stop \u00a3230M in sophisticated insurance fraud\n\nAI in Action\n\nJune 8, 2026\n\n### China\u2019s AI just mapped its entire renewable energy grid. Here\u2019s why the rest of the world should pay attention\n\nEnvironment & Sustainability\n\nMay 22, 2026 [...] Retail & Logistics AI\n\nJune 19, 2026\n\n[](\n\n#### Enterprise\n\n### Google\u2019s Gemini 3.6 Flash targets enterprise agent token costs\n\nAI in Action\n\nJuly 21, 2026\n\n### AWS GraphRAG deployment cuts drug research cycles by 87%\n\nHealthcare & Wellness AI\n\nJuly 9, 2026\n\n### Anthropic deploys Claude Sonnet 5, Fable and Mythos restored\n\nInside AI\n\nJuly 1, 2026\n\n#### Industries\n\n### Google\u2019s Gemini 3.6 Flash targets enterprise agent token costs\n\nAI in Action\n\nJuly 21, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning?",
+      "url": "http://arxiv.org/abs/2607.27203v1",
+      "summary": "Pre-training followed by fine-tuning has become the dominant recipe for learning performant policies, and in value-based reinforcement learning (RL) this raises a natural question: given a pretrained ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mental World Modeling",
+      "url": "http://arxiv.org/abs/2607.27201v1",
+      "summary": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Classification to Regression: Using a Fruitfly to Solve Equations",
+      "url": "http://arxiv.org/abs/2607.27196v1",
+      "summary": "We present a novel approach to regression tasks using classification which is motivated by the mechanism used by fruitflies to sense their environment. Specifically, we formulate a general framework f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can AI agents conduct open-ended AI research? Early evidence from two case studies",
+      "url": "http://arxiv.org/abs/2607.27191v1",
+      "summary": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on nar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] APEX-Accounting",
+      "url": "http://arxiv.org/abs/2607.27189v1",
+      "summary": "We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ramp, to assess whether frontier models can do the real work of accountants. Tasks include reconciling accounts, accruing ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes",
+      "url": "http://arxiv.org/abs/2607.27188v1",
+      "summary": "Accurate option prices do not imply accurate recovery of the latent risk-neutral density. We study this distinction with two complementary benchmarks. A controlled benchmark exposes simulator-truth de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pangram 4 Technical Report",
+      "url": "http://arxiv.org/abs/2607.27183v1",
+      "summary": "We present Pangram 4, the latest deep-learning-based AI-text classification model from Pangram Labs. We achieve an AUROC of 0.9916 with a false positive rate of 0.0041% and a false negative rate of 0....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making",
+      "url": "http://arxiv.org/abs/2607.27179v1",
+      "summary": "Conversational AI is increasingly positioned as a teammate rather than a tool, yet we know little about how its presence reshapes communication among the humans on the team. We examined sociocognitive...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search",
+      "url": "http://arxiv.org/abs/2607.27178v1",
+      "summary": "State-of-the-art retrieval models increasingly rely on closed training data, creating a reproducibility gap. We present an open end-to-end recipe for training retrieval models and study how English su...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
+      "url": "http://arxiv.org/abs/2607.27177v1",
+      "summary": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction, compressed-tensors, conversational. Downloads: 99214",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] baidu/Unlimited-OCR",
+      "url": "https://huggingface.co/baidu/Unlimited-OCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extraction, baidu, vision-language. Downloads: 2694935",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "url": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, unsloth, fine tune, heretic, uncensored, abliterated. Downloads: 736692",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "HN Score: 319. Comments: 169",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "summary": "HN Score: 134. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] The Cold Email",
+      "url": "https://zachholman.com/posts/cold-email",
+      "summary": "HN Score: 147. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "summary": "HN Score: 124. Comments: 68",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "summary": "HN Score: 26. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=wzY2fV4Mp3U",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Microsoft is openly competing with OpenAI, Anthropic more than ever",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+        "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+      },
+      {
+        "title": "[RSS] Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+        "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+        "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases"
+      },
+      {
+        "title": "[RSS] How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+      },
+      {
+        "title": "[RSS] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+      },
+      {
+        "title": "[HackerNews] Show HN: A local merge queue for parallel Claude Code agents",
+        "url": "https://github.com/funador/claude-code-merge-queue",
+        "summary": "HN Score: 26. Comments: 8"
+      },
+      {
+        "title": "[HackerNews] LLM Honeypot",
+        "url": "https://llm2human.pages.dev/",
+        "summary": "HN Score: 134. Comments: 45"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Scientific computing in the age of agentic AI",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai",
+        "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+      },
+      {
+        "title": "[HackerNews] AI's top startups are barely publishing their research",
+        "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+        "summary": "HN Score: 319. Comments: 169"
+      },
+      {
+        "title": "[HackerNews] Some thoughts about Anthropic's new cryptanalysis results",
+        "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+        "summary": "HN Score: 124. Comments: 68"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+    },
+    {
+      "title": "[RSS] Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases"
+    },
+    {
+      "title": "[RSS] How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+    },
+    {
+      "title": "[RSS] How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+    },
+    {
+      "title": "[HackerNews] Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue",
+      "summary": "HN Score: 26. Comments: 8"
+    },
+    {
+      "title": "[HackerNews] LLM Honeypot",
+      "url": "https://llm2human.pages.dev/",
+      "summary": "HN Score: 134. Comments: 45"
+    },
+    {
+      "title": "[RSS] Scientific computing in the age of agentic AI",
+      "url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+    },
+    {
+      "title": "[HackerNews] AI's top startups are barely publishing their research",
+      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
+      "summary": "HN Score: 319. Comments: 169"
+    },
+    {
+      "title": "[HackerNews] Some thoughts about Anthropic's new cryptanalysis results",
+      "url": "https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/",
+      "summary": "HN Score: 124. Comments: 68"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Great AI Race Heats Up\n\nToday's AI landscape is marked by intensified competition, even among allies, as major players like Microsoft and OpenAI vie for market dominance while simultaneously pushing the boundaries of efficiency and accessibility. Developers are awash in a torrent of new tools and models, while researchers grapple with the evolving dynamics of open science versus proprietary innovation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Microsoft is openly competing with OpenAI, Anthropic more than ever](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)**\nMicrosoft's direct challenge to OpenAI and Anthropic, pitching its own AI models and tools, signals a significant shift in the competitive landscape. This move underscores Microsoft's ambition to be a full-stack AI provider, potentially fragmenting the market and forcing enterprises to carefully evaluate their AI vendor strategies. Business leaders should anticipate increased innovation and potentially more tailored solutions as these giants vie for market share.\n\n### **[Accelerating scientific discovery with ChatGPT for Academic Researchers](https://openai.com/index/chatgpt-for-academic-researchers)**\nOpenAI's initiative to provide 100,000 academic researchers with free access to its most advanced ChatGPT models is a strategic play to embed its technology deeply within the scientific community. This move not only fosters goodwill and accelerates research across various fields but also positions OpenAI as a foundational tool for future scientific innovation, potentially creating a loyal user base and generating invaluable real-world use cases.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[AI NEWS: 28 Releases and Updates You Missed This Week](https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US)**\nThis week has seen an explosion of 28 major updates from industry leaders like Google, OpenAI, Meta, and Nvidia, covering everything from new generative AI tools for editing and music to significant model upgrades. Developers must stay vigilant to keep pace with this rapid innovation, exploring new capabilities like Google's Gemini AI upgrades and advanced creative AI tools to enhance their projects and workflows.\n\n### **[How GPT-5.6 fuses frontier intelligence with frontier efficiency](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency)**\nOpenAI's GPT-5.6 release emphasizes a critical balance between raw intelligence and operational efficiency across models, inference, and agentic workflows. For developers, this means building more powerful applications that are also more cost-effective, delivering \"more useful intelligence per dollar\" and enabling the deployment of sophisticated AI solutions at scale.\n\n### **[How enabling two settings tripled our scores on the ARC-AGI-3 benchmark](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores)**\nThis practical insight from OpenAI highlights how specific API settings\u2014retaining reasoning and enabling compaction\u2014can dramatically boost GPT-5.6's performance and efficiency on complex benchmarks like ARC-AGI-3. Developers should immediately investigate these settings to optimize their own GPT-5.6 implementations, unlocking significant gains in intelligence and cost-effectiveness.\n\n### **[Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue)**\nThis Hacker News project introduces a local merge queue designed for parallel Claude Code agents, addressing a key challenge in collaborative AI development. For engineers working with agentic coding systems, this tool offers a practical solution for managing concurrent code generation and refinement tasks, streamlining workflows and improving team productivity.\n\n### **[LLM Honeypot](https://llm2human.pages.dev/)**\nThe concept of an \"LLM Honeypot\" presents an intriguing development in AI security and adversarial robustness. Developers should watch this space for tools and techniques to understand and defend against malicious interactions with large language models, helping to build more secure and resilient AI applications.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Scientific computing in the age of agentic AI](https://openai.com/index/scientific-computing-agentic-ai)**\nA new field report from OpenAI reveals the transformative impact of AI coding agents on scientific computing, accelerating software development and discovery in fields like genomics. Researchers should explore how agentic AI can modernize their computational workflows, from automating code generation to assisting with complex data analysis, thereby speeding up the pace of scientific breakthroughs.\n\n### **[AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)**\nThis critical observation highlights a growing trend where leading AI startups are increasingly withholding their research findings from public academic publication. For researchers, this shift poses challenges to open science, transparency, and the collaborative advancement of AI, necessitating new strategies for knowledge sharing and independent verification.\n\n### **[Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/)**\nAnthropic's latest cryptanalysis results are sparking important discussions among deep-tech thinkers, likely pertaining to the security, interpretability, or robustness of advanced AI models. Researchers should delve into these findings to understand their implications for AI safety, privacy, and the development of more secure and trustworthy intelligent systems.\n\n---\n**Today's Signal:** The AI ecosystem is rapidly maturing, marked by fierce competition, a relentless pace of innovation for developers, and a growing tension between open scientific collaboration and proprietary research.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US) | This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, R... |\n| [AI News | Latest News | Insights Powering AI-Driven Business ... ](https://www.artificialintelligence-news.com) | April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How enabling two settings tripled our scores on the ARC-AGI-3 benchmark ](https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores) | How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores ... |\n| [Accelerating scientific discovery with ChatGPT for Academic Researchers ](https://openai.com/index/chatgpt-for-academic-researchers) | OpenAI is giving 100,000 academic researchers free access to ChatGPT's most adva... |\n| [How GPT-5.6 fuses frontier intelligence with frontier efficiency ](https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency) | GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, ... |\n| [Scientific computing in the age of agentic AI ](https://openai.com/index/scientific-computing-agentic-ai) | A new field report shows how scientists use AI coding agents to modernize scient... |\n| [Microsoft is openly competing with OpenAI, Anthropic more than ever ](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/) | Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos comp... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Do You Really Need to Pretrain Q-Functions for Online RL Fine-Tuning? ](http://arxiv.org/abs/2607.27203v1) | Pre-training followed by fine-tuning has become the dominant recipe for learning... |\n| [Mental World Modeling ](http://arxiv.org/abs/2607.27201v1) | World models enable a predictive substrate for planning and action, yet existing... |\n| [From Classification to Regression: Using a Fruitfly to Solve Equations ](http://arxiv.org/abs/2607.27196v1) | We present a novel approach to regression tasks using classification which is mo... |\n| [Can AI agents conduct open-ended AI research? Early evidence from two case studies ](http://arxiv.org/abs/2607.27191v1) | Forecasts of explosive AI progress hinge on AI agents automating AI research. Bu... |\n| [APEX-Accounting ](http://arxiv.org/abs/2607.27189v1) | We introduce APEX-Accounting, a benchmark built by Mercor in partnership with Ra... |\n| [Inverse Learning of Latent Risk-Neutral Densities from Irregular Option Quotes ](http://arxiv.org/abs/2607.27188v1) | Accurate option prices do not imply accurate recovery of the latent risk-neutral... |\n| [Pangram 4 Technical Report ](http://arxiv.org/abs/2607.27183v1) | We present Pangram 4, the latest deep-learning-based AI-text classification mode... |\n| [The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making ](http://arxiv.org/abs/2607.27179v1) | Conversational AI is increasingly positioned as a teammate rather than a tool, y... |\n| [DenseOn with the LateOn: Fully Open Dense and Late-Interaction Models for Multilingual, Long-Context, and Code Search ](http://arxiv.org/abs/2607.27178v1) | State-of-the-art retrieval models increasingly rely on closed training data, cre... |\n| [Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork ](http://arxiv.org/abs/2607.27177v1) | Effective collaboration with novel and diverse partners is a crucial skill for a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [moonshotai/Kimi-K3 ](https://huggingface.co/moonshotai/Kimi-K3) | Trending HF Model. Tags: transformers, safetensors, kimi_k3, feature-extraction,... |\n| [baidu/Unlimited-OCR ](https://huggingface.co/baidu/Unlimited-OCR) | Trending HF Model. Tags: transformers, safetensors, unlimited-ocr, feature-extra... |\n| [DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF ](https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF) | Trending HF Model. Tags: gguf, unsloth, fine tune, heretic, uncensored, ablitera... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) | HN Score: 319. Comments: 169 |\n| [[HackerNews] LLM Honeypot](https://llm2human.pages.dev/) | HN Score: 134. Comments: 45 |\n| [[HackerNews] The Cold Email](https://zachholman.com/posts/cold-email) | HN Score: 147. Comments: 55 |\n| [[HackerNews] Some thoughts about Anthropic's new cryptanalysis results](https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/) | HN Score: 124. Comments: 68 |\n| [[HackerNews] Show HN: A local merge queue for parallel Claude Code agents](https://github.com/funador/claude-code-merge-queue) | HN Score: 26. Comments: 8 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=wzY2fV4Mp3U) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
