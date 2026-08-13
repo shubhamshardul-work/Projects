@@ -1,0 +1,3739 @@
+{
+  "ACC-001": {
+    "account_id": "ACC-001",
+    "account": {
+      "name": "Meridian Telecom",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1200000,
+      "days_to_renewal": 68,
+      "open_tickets": 4,
+      "modules_licensed": 8,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer IT Lead: 'We are struggling to get the team on board with new modules'",
+      "[EMAIL]\nCSM: 'Happy to schedule a training session, let me know your availability'",
+      "[EMAIL]\nCustomer IT Lead: 'Will circle back after Q3 planning' — sent 3 weeks ago, no follow-up since",
+      "[SLACK | #cs-meridian-telecom]\n@here heads-up on Meridian Telecom: renewal in 68d, adoption ~38%, 4 open tickets — needs a plan."
+    ],
+    "health": {
+      "score": 24,
+      "rag_status": "RED",
+      "adoption_pct": 37.5,
+      "components": {
+        "adoption": 47,
+        "engagement": 10,
+        "recency": 0,
+        "friction": 20,
+        "sentiment": 25,
+        "milestone": 20
+      },
+      "rules_fired": [],
+      "previous_score": 26,
+      "delta": -2
+    },
+    "signals": {
+      "sentiment_score": -0.5,
+      "sentiment_label": "NEGATIVE",
+      "key_themes": [
+        "adoption resistance",
+        "renewal planning",
+        "open support load"
+      ],
+      "churn_signals": [
+        "\"We are struggling to get the team on board with new modules\"",
+        "\"Will circle back after Q3 planning\""
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "We are struggling to get the team on board"
+        },
+        {
+          "source": "SLACK | #cs-meridian-telecom",
+          "quote": "adoption ~38%, 4 open tickets"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Customer is struggling with internal adoption of new modules.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "struggling to get the team on board"
+            }
+          ],
+          "confidence": 0.92
+        },
+        {
+          "summary": "Renewal is approaching with low adoption and open tickets.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-meridian-telecom",
+              "quote": "renewal in 68d, adoption ~38%, 4 open tickets"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM offered a training session.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Happy to schedule a training session"
+            }
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "Adoption is being delayed pending Q3 planning.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Will circle back after Q3 planning"
+            }
+          ],
+          "confidence": 0.84
+        }
+      ],
+      "open_asks": [
+        {
+          "summary": "CSM is waiting for customer availability to schedule training.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let me know your availability"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.9
+    },
+    "brief": {
+      "brief_type": "RETENTION",
+      "headline": "Meridian is at churn risk: health 24, adoption stalled at 37.5%, and renewal is 68 days out with open support load.",
+      "situation": "Meridian Telecom’s account health fell to 24/100 (-2 WoW), driven by very low engagement (10), no recent activity (recency 0), and weak milestone progress (20). Only 37.5% of licensed modules are active, sentiment is negative (-0.50), and the customer has 4 open tickets while renewal is 68 days away. The customer has explicitly said they are “struggling to get the team on board with new modules” and will “circle back after Q3 planning,” so adoption is being deferred right when renewal planning should be starting.",
+      "risks": [
+        "Renewal risk is immediate: renewal is in 68 days while adoption is only 37.5% and there are 4 open tickets, which creates a weak value story going into the contract cycle.",
+        "Internal buy-in is not there yet: the customer said they are “struggling to get the team on board with new modules” (EMAIL, conf 92%), and adoption is being delayed until after Q3 planning (conf 84%).",
+        "Engagement is effectively dead: recency is 0 and engagement is 10/100, so there has been no recent momentum to counter the negative sentiment (-0.50)."
+      ],
+      "action": "This week, get a live 30-minute working session on the calendar with the customer to run a focused training/adoption review and agree on a Q3 plan tied to renewal, while also clearing or triaging the 4 open support tickets before that meeting.",
+      "draft": "Subject: Quick step to get Meridian back on track\n\nHi [Customer Name],\n\nI wanted to reach out because we’re getting close to renewal and I don’t want Meridian to carry unresolved adoption issues into Q3. I saw your note that the team is still struggling to get onboard with the new modules, and I understand you’d like to circle back after Q3 planning.\n\nTo help stabilize things, I’d like to schedule a 30-minute working session this week to do two things:\n1) review where adoption is getting stuck, and\n2) walk through a short training plan for the team so we can align on the highest-value modules before renewal.\n\nWe also have 4 open tickets on our side, and I’d like to make sure those are cleared or triaged before the session so we can use the time effectively.\n\nWould you be available [two time options]?\n\nBest,\nSarah"
+    },
+    "grounding": {
+      "total": 9,
+      "grounded": 9,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1534,
+      "output_tokens": 365,
+      "total_tokens": 1899
+    },
+    "latency_s": 3.51,
+    "attempts": 1
+  },
+  "ACC-002": {
+    "account_id": "ACC-002",
+    "account": {
+      "name": "Apex Utilities",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 900000,
+      "days_to_renewal": 210,
+      "open_tickets": 1,
+      "modules_licensed": 6,
+      "modules_active": 5
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer CTO: 'Great QBR last week, the team is excited about the roadmap'",
+      "[EMAIL]\nCSM: 'Sending over the expansion proposal for the Compliance module'",
+      "[EMAIL]\nCustomer CTO: 'Looping in our procurement team on the expansion'",
+      "[SLACK | #cs-apex-utilities]\nApex Utilities looking strong (83% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 91,
+      "rag_status": "GREEN",
+      "adoption_pct": 83.3,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 73,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 91,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "roadmap enthusiasm",
+        "expansion motion",
+        "high adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "expansion proposal",
+        "expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Great QBR last week"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "the team is excited about the roadmap"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM is sending an expansion proposal for the Compliance module.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Sending over the expansion proposal for the Compliance module"
+            }
+          ],
+          "confidence": 0.98
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [
+        {
+          "summary": "Procurement has been looped into the expansion process.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Looping in our procurement team on the expansion"
+            }
+          ],
+          "confidence": 0.94
+        }
+      ],
+      "overall_confidence": 0.92
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Apex is in strong shape and ready for a Compliance module upsell; procurement is already in the loop.",
+      "situation": "Apex Utilities remains a high-health account at 91/100 with no week-over-week change, and adoption/engagement are both maxed at 100. The account is already showing expansion intent: roadmap enthusiasm is strong, an expansion proposal is in motion, and procurement has been looped into the expansion process. Renewal is still 210 days out, so this is a clean NRR moment to advance the Compliance module motion without urgency from churn.",
+      "risks": [
+        "Only 83.3% of licensed modules are active, so there is still unused value on the table that can delay expansion if not converted.",
+        "Recency is 73, lower than the 100s in adoption and engagement, which suggests the relationship needs a live touchpoint to keep the expansion moving.",
+        "Procurement is now involved in the expansion process, so the proposal can stall if pricing, approvals, or commercial terms are not pre-aligned."
+      ],
+      "action": "Send the Compliance module expansion proposal this week and set a procurement-specific review call to confirm commercial path and approval steps before next week.",
+      "draft": "Subject: Compliance module proposal for Apex Utilities\n\nHi team,\n\nFollowing our recent expansion discussions, I’m sending over the proposal for the Compliance module for review. Given the strong adoption across your current deployment and the interest you’ve already shared around roadmap and expansion, this looks like a good fit to extend value into your compliance workflows.\n\nI also understand procurement has been looped into the expansion process, so I’d suggest we set up a short review to align on commercial terms, approval steps, and any questions from your side.\n\nIf helpful, I can walk through the proposal live this week and make sure we keep things moving.\n\nBest,\nMarcus"
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1498,
+      "output_tokens": 211,
+      "total_tokens": 1709
+    },
+    "latency_s": 1.94,
+    "attempts": 1
+  },
+  "ACC-003": {
+    "account_id": "ACC-003",
+    "account": {
+      "name": "NovaPower Grid",
+      "csm": "Sarah Chen",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 600000,
+      "days_to_renewal": 45,
+      "open_tickets": 3,
+      "modules_licensed": 5,
+      "modules_active": 2
+    },
+    "raw_comms": [
+      "[EMAIL | 2026-08-05 | dana.ruiz@novapower.example → sarah.chen@fieldora.com]\nSubject: Re: Re: scheduling outage — AGAIN\n\nSarah,\n\nFrankly, this is unacceptable. The scheduling module went down twice this month,\nand this morning it happened again during our 6am dispatch window. My crews were\nstanding around for forty minutes. I am still waiting on the update you promised\nlast week.\n\nI have leadership asking me why we are paying for something that keeps failing. I\nneed a real answer this time, not another \"we've escalated it.\"\n\n> On Aug 1, Sarah Chen wrote:\n> Hi Dana — thanks for flagging, we've escalated this to engineering and I'll get\n> you an update by end of week.\n>\n> > On Jul 31, Dana Ruiz wrote:\n> > The platform went down again. This is the second time. Please advise.\n\nDana Ruiz\nDirector of Grid Operations, NovaPower\n—\nThis message and any attachments are confidential and intended solely for the\naddressee. If you have received this in error, please delete it.",
+      "[EMAIL | 2026-08-05 | sarah.chen@fieldora.com → dana.ruiz@novapower.example]\nSubject: Re: Re: scheduling outage — AGAIN\n\nDana — I completely understand the frustration and I'm sorry. I've escalated this\nto our engineering lead as a P1 and I'm pushing for a root-cause by Thursday. I'd\nlike to get our VP of Engineering on a call with you this week. Are you free\nWednesday afternoon?\n\nSarah",
+      "[EMAIL | 2026-08-06 | noreply@novapower.example → sarah.chen@fieldora.com]\nSubject: Automatic reply: Re: scheduling outage — AGAIN\n\nI am out of the office until August 11 with limited access to email. For urgent\ngrid-operations matters, contact the NOC duty desk. For all other matters I will\nrespond on my return.",
+      "[SLACK | #cs-novapower | 2026-08-06]\n@here heads-up on NovaPower — renewal is in 45 days and this is not in a good spot.\nAdoption is stuck around 40% (2 of 5 modules), compliance reporting is still not\nworking, and Dana is escalating outages to her leadership. I'm setting up an exec\ncall. Flagging as at-risk for the Monday review.",
+      "[SLACK | #cs-team | 2026-07-30]\nbtw on NovaPower — heard secondhand from the AE that their team has started looking\nat what else is out there for scheduling. Not confirmed, but worth taking seriously\ngiven the renewal timing.",
+      "[SUPPORT | TKT-847 | open 12d | priority: high]\nSubject: Platform performance degradation during peak scheduling\nCustomer reports the scheduling module becomes unresponsive during the 6am dispatch\nwindow. Reproduced intermittently. Two related outages logged this month. Awaiting\nroot-cause from engineering. Customer has asked for status twice.",
+      "[SUPPORT | TKT-851 | open 5d]\nSubject: Compliance report export failing\nThe monthly compliance report export returns an error for this account. Customer\nnotes they have a regulatory filing due and \"the compliance reporting is still not\nworking.\" Escalated to the reporting team.",
+      "[CRM_NOTE | QBR call log | 2026-07-17 | attendees: D.Ruiz, new VP Ops M.Feld, S.Chen]\nQBR recap. Tone was tense. Dana was direct: \"we need to see this stabilize before we\ncommit to the renewal.\" A new VP of Operations, Marcus Feld, has joined on their\nside and is reviewing all vendor contracts. Core scheduling is live but the crews\ndon't trust it after the outages; compliance reporting has been delayed for two\nmonths. Action items: root-cause the outages, get compliance export working, and\nschedule an exec-to-exec call before renewal.\n(For contrast: my Q1 note on this account read \"relationship is healthy, champion\nvery engaged\" — that has clearly changed since the outages started.)"
+    ],
+    "health": {
+      "score": 38,
+      "rag_status": "RED",
+      "adoption_pct": 40.0,
+      "components": {
+        "adoption": 50,
+        "engagement": 40,
+        "recency": 27,
+        "friction": 40,
+        "sentiment": 6,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 38,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": -0.88,
+      "sentiment_label": "NEGATIVE",
+      "key_themes": [
+        "scheduling outages",
+        "compliance reporting failure",
+        "renewal risk / exec escalation",
+        "low adoption / trust erosion"
+      ],
+      "churn_signals": [
+        "\"we need to see this stabilize before we commit to the renewal\"",
+        "\"looking at what else is out there for scheduling\"",
+        "\"this is unacceptable\""
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL 2026-08-05",
+          "quote": "this is unacceptable"
+        },
+        {
+          "source": "CRM_NOTE | QBR call log | 2026-07-17",
+          "quote": "Tone was tense."
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Repeated scheduling outages are creating frustration and escalation risk",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "went down twice this month"
+            },
+            {
+              "source": "SUPPORT | TKT-847",
+              "quote": "Two related outages logged this month."
+            }
+          ],
+          "confidence": 0.98
+        },
+        {
+          "summary": "Renewal is being put at risk by unresolved product issues",
+          "evidence": [
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "before we commit to the renewal"
+            },
+            {
+              "source": "SLACK | #cs-novapower | 2026-08-06",
+              "quote": "renewal is in 45 days"
+            }
+          ],
+          "confidence": 0.95
+        },
+        {
+          "summary": "Compliance reporting remains broken and is tied to a regulatory deadline",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-novapower | 2026-08-06",
+              "quote": "compliance reporting is still not working"
+            },
+            {
+              "source": "SUPPORT | TKT-851",
+              "quote": "regulatory filing due"
+            }
+          ],
+          "confidence": 0.93
+        },
+        {
+          "summary": "Customer trust in core scheduling has eroded after outages",
+          "evidence": [
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "the crews don't trust it after the outages"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "another \"we've escalated it.\""
+            }
+          ],
+          "confidence": 0.88
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "Fieldora committed to escalate the outage issue and provide a root-cause update",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "I've escalated this"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "pushing for a root-cause by Thursday"
+            }
+          ],
+          "confidence": 0.96
+        },
+        {
+          "summary": "Fieldora proposed an executive call this week",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "get our VP of Engineering on a call"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "this week"
+            }
+          ],
+          "confidence": 0.92
+        },
+        {
+          "summary": "Action items were set to resolve outages and compliance export",
+          "evidence": [
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "root-cause the outages"
+            },
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "get compliance export working"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "Scheduling module is intermittently unresponsive during the dispatch window",
+          "evidence": [
+            {
+              "source": "SUPPORT | TKT-847",
+              "quote": "becomes unresponsive during the 6am dispatch window"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "happened again during our 6am dispatch window"
+            }
+          ],
+          "confidence": 0.98
+        },
+        {
+          "summary": "Compliance report export is failing for the account",
+          "evidence": [
+            {
+              "source": "SUPPORT | TKT-851",
+              "quote": "returns an error for this account"
+            },
+            {
+              "source": "SUPPORT | TKT-851",
+              "quote": "still not working"
+            }
+          ],
+          "confidence": 0.97
+        },
+        {
+          "summary": "Adoption is limited across the product footprint",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-novapower | 2026-08-06",
+              "quote": "Adoption is stuck around 40%"
+            },
+            {
+              "source": "SLACK | #cs-novapower | 2026-08-06",
+              "quote": "(2 of 5 modules)"
+            }
+          ],
+          "confidence": 0.89
+        }
+      ],
+      "open_asks": [
+        {
+          "summary": "Customer is waiting for the promised update on the outage",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "I am still waiting on the update you promised"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "last week"
+            }
+          ],
+          "confidence": 0.98
+        },
+        {
+          "summary": "Customer asked for a real answer on the repeated outages",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "I need a real answer this time"
+            },
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "not another \"we've escalated it.\""
+            }
+          ],
+          "confidence": 0.95
+        },
+        {
+          "summary": "Fieldora asked to schedule an executive call",
+          "evidence": [
+            {
+              "source": "EMAIL 2026-08-05",
+              "quote": "Are you free Wednesday afternoon?"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "competitor_mentions": [
+        "what else is out there for scheduling"
+      ],
+      "stakeholder_changes": [
+        {
+          "summary": "A new VP of Operations has joined on the customer side and is reviewing contracts",
+          "evidence": [
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "A new VP of Operations, Marcus Feld, has joined"
+            },
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "reviewing all vendor contracts"
+            }
+          ],
+          "confidence": 0.97
+        },
+        {
+          "summary": "The prior healthy champion relationship has clearly changed",
+          "evidence": [
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "relationship is healthy, champion very engaged"
+            },
+            {
+              "source": "CRM_NOTE | QBR call log | 2026-07-17",
+              "quote": "that has clearly changed"
+            }
+          ],
+          "confidence": 0.84
+        }
+      ],
+      "overall_confidence": 0.96
+    },
+    "brief": {
+      "brief_type": "RETENTION",
+      "headline": "Renewal is at risk in 45 days: NovaPower is escalating over unresolved outages, broken compliance reporting, and a new VP review.",
+      "situation": "Health is flat at 38/100 with negative sentiment (-0.88) and only 40.0% of licensed modules active. The account is still dealing with repeated scheduling outages during the 6am dispatch window, and compliance reporting is failing with a regulatory filing due. A new VP of Operations, Marcus Feld, is now reviewing vendor contracts, so the customer is re-evaluating trust right as renewal pressure is rising.",
+      "risks": [
+        "Scheduling outages hit twice this month and the dispatch workflow becomes unresponsive during the 6am window [conf 98%] — \"went down twice this month\" / \"Two related outages logged this month.\"",
+        "Renewal is explicitly being questioned with 45 days left [conf 95%] — \"we need to see this stabilize before we commit to the renewal\" and \"renewal is in 45 days\".",
+        "Compliance reporting is still broken with a regulatory filing due [conf 93%] — \"compliance reporting is still not working\" and \"regulatory filing due\".",
+        "A new VP of Operations is reviewing all vendor contracts, while adoption remains stuck around 40% (2 of 5 modules) [conf 97% / 89%] — trust is eroding and the customer is looking at \"what else is out there for scheduling\"."
+      ],
+      "action": "Today, personally send Marcus Feld and the operational owner a direct note proposing a same-week executive incident review with our VP of Engineering, plus a dated plan for outage root-cause, compliance export repair, and a renewal stabilization checkpoint before end of week.",
+      "draft": "Subject: Proposed executive review to stabilize scheduling, compliance, and renewal\n\nHi Marcus and team,\n\nI want to acknowledge the frustration here directly — the repeated 6am scheduling outages and the compliance reporting failure are not acceptable, especially with renewal 45 days away and a regulatory filing pending.\n\nWe’ve already escalated the outage and are pushing for a root-cause update by Thursday. Given the new VP of Operations review and the concern about whether the platform is stable enough to renew, I’d like to set up a short executive working session this week with our VP of Engineering, Sarah, and your team.\n\nProposed agenda:\n1) outage root cause and immediate stabilization steps\n2) compliance export fix and filing support\n3) clear owners and dates for next updates before renewal\n\nIf you’re open, I can send a calendar hold for Wednesday afternoon. We need to give you a real answer and a concrete plan, not another escalation note.\n\nBest,\nSarah Chen"
+    },
+    "grounding": {
+      "total": 35,
+      "grounded": 35,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 2295,
+      "output_tokens": 1239,
+      "total_tokens": 3534
+    },
+    "latency_s": 6.89,
+    "attempts": 1
+  },
+  "ACC-004": {
+    "account_id": "ACC-004",
+    "account": {
+      "name": "Vantage Energy",
+      "csm": "Marcus Webb",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 450000,
+      "days_to_renewal": 155,
+      "open_tickets": 0,
+      "modules_licensed": 4,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP Operations: 'Can we discuss adding the AI scheduling module? Our team loves the platform'",
+      "[EMAIL]\nCSM: 'Absolutely, I will set up a demo for next week'",
+      "[EMAIL]\nCustomer VP Operations: 'Also referring you to our sister company Vantage West'",
+      "[SLACK | #cs-vantage-energy]\nVantage Energy looking strong (100% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 96,
+      "rag_status": "GREEN",
+      "adoption_pct": 100.0,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 83,
+        "friction": 100,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 96,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "expansion interest",
+        "high adoption",
+        "referral"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "adding the AI scheduling module",
+        "referring you to our sister company Vantage West",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Our team loves the platform"
+        },
+        {
+          "source": "SLACK | #cs-vantage-energy",
+          "quote": "looking strong (100% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM committed to set up a demo next week.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will set up a demo for next week"
+            }
+          ],
+          "confidence": 0.98
+        }
+      ],
+      "blockers": [],
+      "open_asks": [
+        {
+          "summary": "Customer asked to discuss adding the AI scheduling module.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Can we discuss adding the AI scheduling module?"
+            }
+          ],
+          "confidence": 0.97
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.95
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Vantage Energy is fully adopted and healthy; the immediate opportunity is closing the AI scheduling upsell and leveraging the referral to Vantage West.",
+      "situation": "Vantage Energy is in excellent shape: health is 96/100 with no change week over week, adoption is 100% across all licensed modules, engagement is 100, and friction is 100. The customer has explicitly asked to discuss adding the AI scheduling module, and Marcus already committed to a demo next week. Sentiment is positive at +0.80, and the account is also surfacing a referral opportunity to Vantage West.",
+      "risks": [
+        "The expansion conversation is time-sensitive: the customer has already asked, \"Can we discuss adding the AI scheduling module?\" so delaying the demo could slow momentum.",
+        "Renewal is 155 days out, which is not urgent today but means expansion work should be sequenced now so it doesn’t get pushed into renewal season.",
+        "The referral signal to Vantage West is active; if Marcus doesn’t follow up, the warm intro opportunity may cool before it turns into pipeline."
+      ],
+      "action": "By Friday, send the demo invite and a short expansion note to confirm next week’s AI scheduling module review, while also asking for the best contact at Vantage West for a warm referral intro.",
+      "draft": "Subject: Next week’s demo + AI scheduling module discussion\n\nHi team,\n\nThanks again for the strong partnership — I’m glad to see the platform is fully adopted and delivering value across all licensed modules.\n\nAs discussed, I’m setting up a demo next week so we can walk through the AI scheduling module and review how it would fit your current workflow. I’ll include time for Q&A and can tailor the session to the use case you had in mind.\n\nAlso, you mentioned Vantage West. We’d love to help there as well — if you’re open to it, could you point me to the right contact for a warm introduction?\n\nI’ll send the calendar hold shortly. Looking forward to it.\n\nBest,\nMarcus"
+    },
+    "grounding": {
+      "total": 7,
+      "grounded": 7,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1508,
+      "output_tokens": 228,
+      "total_tokens": 1736
+    },
+    "latency_s": 1.92,
+    "attempts": 1
+  },
+  "ACC-005": {
+    "account_id": "ACC-005",
+    "account": {
+      "name": "Summit Wireless",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 800000,
+      "days_to_renewal": 80,
+      "open_tickets": 4,
+      "modules_licensed": 7,
+      "modules_active": 2
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'Honestly we expected more value by now, the rollout has stalled'",
+      "[EMAIL]\nCustomer VP: 'Leadership is asking whether we should re-evaluate options at renewal'",
+      "[EMAIL]\nCSM: 'I understand the concern, let me put together a recovery plan'",
+      "[SLACK | #cs-summit-wireless]\n@here heads-up on Summit Wireless: renewal in 80d, adoption ~29%, 4 open tickets — needs a plan."
+    ],
+    "health": {
+      "score": 20,
+      "rag_status": "RED",
+      "adoption_pct": 28.6,
+      "components": {
+        "adoption": 36,
+        "engagement": 15,
+        "recency": 0,
+        "friction": 20,
+        "sentiment": 10,
+        "milestone": 20
+      },
+      "rules_fired": [],
+      "previous_score": 20,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": -0.8,
+      "sentiment_label": "NEGATIVE",
+      "key_themes": [
+        "stalled rollout",
+        "renewal risk",
+        "low adoption",
+        "open support issues"
+      ],
+      "churn_signals": [
+        "the rollout has stalled",
+        "re-evaluate options at renewal"
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "we expected more value by now"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "re-evaluate options at renewal"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Customer is dissatisfied with progress and value delivery.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "we expected more value by now"
+            },
+            {
+              "source": "EMAIL",
+              "quote": "the rollout has stalled"
+            }
+          ],
+          "confidence": 0.95
+        },
+        {
+          "summary": "Renewal risk is emerging as leadership is considering alternatives.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "re-evaluate options at renewal"
+            }
+          ],
+          "confidence": 0.94
+        },
+        {
+          "summary": "Low adoption and open tickets suggest the account needs intervention.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-summit-wireless",
+              "quote": "adoption ~29%, 4 open tickets"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM committed to creating a recovery plan.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "put together a recovery plan"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "The rollout has stalled, blocking realized value.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "the rollout has stalled"
+            }
+          ],
+          "confidence": 0.96
+        }
+      ],
+      "open_asks": [
+        {
+          "summary": "Customer leadership is asking to re-evaluate options at renewal.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "re-evaluate options at renewal"
+            }
+          ],
+          "confidence": 0.92
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.89
+    },
+    "brief": {
+      "brief_type": "RETENTION",
+      "headline": "Summit Wireless is in active churn risk: rollout stalled, adoption is only 28.6%, and renewal is 80 days out.",
+      "situation": "Health is RED at 20/100 and flat week-over-week, with no improvement in any core recovery signal. Adoption is only 28.6% of licensed modules active, recency is 0, engagement is 15, and sentiment is strongly negative at -0.80. Analyst review confirms the customer believes \"the rollout has stalled,\" feels they \"expected more value by now,\" and leadership is asking to \"re-evaluate options at renewal.\"",
+      "risks": [
+        "Renewal risk is real: renewal is in 80 days and leadership has already asked to \"re-evaluate options at renewal\" (conf 92-94%).",
+        "Value delivery is failing in the customer’s view: they said \"we expected more value by now\" and that \"the rollout has stalled\" (conf 95-96%).",
+        "Usage is too low to defend the account: only 28.6% of licensed modules are active, with 4 open tickets called out in Slack and recency at 0."
+      ],
+      "action": "This week, Sarah should schedule a 30-minute executive recovery call with the customer sponsor and leadership to align on a dated recovery plan, confirm the top 2 rollout blockers, and leave with named owners and deadlines for ticket closure, adoption ramp, and a renewal-risk checkpoint.",
+      "draft": "Subject: Proposed recovery session for Summit Wireless\n\nHi [Customer Name],\n\nI want to be direct: I know the rollout has stalled, and I don’t think we should wait to address it. With renewal 80 days out, I’d like to set up a 30-minute recovery session this week with you and any other stakeholders you want involved so we can align on the blockers, close the open issues, and put a dated plan in place to get value moving again.\n\nMy goal for that meeting is simple: confirm the top issues, assign owners, and agree on the next milestones for the next 2–4 weeks.\n\nIf you’re open to it, send over a couple of times that work and I’ll get it on the calendar.\n\nBest,\nSarah"
+    },
+    "grounding": {
+      "total": 11,
+      "grounded": 11,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1524,
+      "output_tokens": 378,
+      "total_tokens": 1902
+    },
+    "latency_s": 2.83,
+    "attempts": 1
+  },
+  "ACC-006": {
+    "account_id": "ACC-006",
+    "account": {
+      "name": "Riverbend Utilities",
+      "csm": "Sarah Chen",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 650000,
+      "days_to_renewal": 140,
+      "open_tickets": 2,
+      "modules_licensed": 5,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'Adoption on the reporting module has been slower than we hoped'",
+      "[EMAIL]\nCSM: 'Let us line up a short enablement session for that team'",
+      "[EMAIL]\nCustomer Manager: 'That works, we want to get more out of it'",
+      "[SLACK | #cs-riverbend-utilities]\nRiverbend Utilities: steady. Adoption ~60%, 18d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 65,
+      "rag_status": "AMBER",
+      "adoption_pct": 60.0,
+      "components": {
+        "adoption": 75,
+        "engagement": 60,
+        "recency": 40,
+        "friction": 60,
+        "sentiment": 55,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 65,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.1,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "reporting module adoption",
+        "enablement follow-up",
+        "moderate usage"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "want to get more out of it"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Adoption on the reporting module has been slower than we hoped"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "we want to get more out of it"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Reporting-module adoption is below expectations",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Adoption on the reporting module has been slower than we hoped"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM offered a short enablement session",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Let us line up a short enablement session"
+            }
+          ],
+          "confidence": 0.92
+        },
+        {
+          "summary": "Customer agreed to the enablement session",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "That works, we want to get more out of it"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.77
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Riverbend is stable at AMBER, but reporting adoption is lagging and needs a fast enablement push.",
+      "situation": "Health is flat week over week at 65/100, with strongest signals in milestone completion (100) and adoption (75), but weaker engagement (60), recency (40), and sentiment (55). Only 60.0% of licensed modules are active, and the analyst read confirms reporting-module adoption is below expectations. The customer has already agreed to a short enablement session, and sentiment is neutral with a slight positive tilt (+0.10).",
+      "risks": [
+        "Reporting-module adoption is below expectations [conf 90%], with the customer explicitly noting \"Adoption on the reporting module has been slower than we hoped.\"",
+        "Only 60.0% of licensed modules are active, so there is still meaningful unused value in the account.",
+        "Recency is weak at 40 and engagement is only 60, which suggests usage may slip further without a near-term touchpoint."
+      ],
+      "action": "This week, schedule and run the agreed short enablement session focused on reporting workflows, then confirm 1-2 specific use cases Riverbend will adopt before the next check-in.",
+      "draft": "Internal note for next check-in: Riverbend agreed to a short enablement session, and the stated goal is to get more out of the platform. I’d open by acknowledging that reporting adoption has been slower than expected, then propose a focused walkthrough of 1-2 reporting workflows their team can use immediately. Goal for the call: lock a date for enablement, confirm the primary reporting use case, and define what \"success\" looks like before the next review."
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1512,
+      "output_tokens": 258,
+      "total_tokens": 1770
+    },
+    "latency_s": 2.17,
+    "attempts": 1
+  },
+  "ACC-007": {
+    "account_id": "ACC-007",
+    "account": {
+      "name": "Helios Energy",
+      "csm": "Sarah Chen",
+      "industry": "energy",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 1100000,
+      "days_to_renewal": 110,
+      "open_tickets": 3,
+      "modules_licensed": 8,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Lead: 'The delayed reporting rollout is a bit frustrating but manageable'",
+      "[EMAIL]\nCSM: 'We have a fix planned for next sprint, I will keep you posted'",
+      "[EMAIL]\nCustomer Lead: 'Appreciated, keep us in the loop'",
+      "[SLACK | #cs-helios-energy]\nHelios Energy: steady. Adoption ~50%, 20d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 50,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 50,
+        "recency": 33,
+        "friction": 40,
+        "sentiment": 45,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 51,
+      "delta": -1
+    },
+    "signals": {
+      "sentiment_score": -0.1,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "delayed reporting rollout",
+        "planned fix next sprint",
+        "partial adoption"
+      ],
+      "churn_signals": [
+        "delayed reporting rollout is a bit frustrating",
+        "keeping an eye on it"
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "The delayed reporting rollout is a bit frustrating but manageable"
+        },
+        {
+          "source": "SLACK | #cs-helios-energy",
+          "quote": "steady. Adoption ~50%, 20d since last contact — keeping an eye on it."
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Reporting rollout frustration may be creating relationship risk",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "The delayed reporting rollout is a bit frustrating but manageable"
+            }
+          ],
+          "confidence": 0.79
+        },
+        {
+          "summary": "Adoption is only partial and the account is being monitored",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-helios-energy",
+              "quote": "Adoption ~50%, 20d since last contact — keeping an eye on it."
+            }
+          ],
+          "confidence": 0.72
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "A fix is planned for the next sprint",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "We have a fix planned for next sprint"
+            }
+          ],
+          "confidence": 0.93
+        },
+        {
+          "summary": "CSM will keep the customer posted",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will keep you posted"
+            }
+          ],
+          "confidence": 0.91
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "Reporting rollout is delayed",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "The delayed reporting rollout is a bit frustrating but manageable"
+            }
+          ],
+          "confidence": 0.88
+        }
+      ],
+      "open_asks": [
+        {
+          "summary": "Customer wants ongoing updates",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "keep us in the loop"
+            }
+          ],
+          "confidence": 0.84
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.88
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Amber account with early friction: reporting delay is the main issue, and adoption is still only at 50%.",
+      "situation": "Helios Energy is sitting at 50/100 health, down 1 point week over week, with only 50.0% of licensed modules active. The biggest drag is the delayed reporting rollout: the customer called it \"a bit frustrating but manageable,\" and a fix is planned for the next sprint. Sentiment is neutral (-0.10), but the account has had 20 days since last contact and is being monitored.",
+      "risks": [
+        "Reporting rollout delay is creating relationship risk: the customer explicitly said the delay is \"a bit frustrating\" and wants to \"keep us in the loop\" (EMAIL).",
+        "Adoption is still partial at 50.0%, and the account was noted as \"Adoption ~50%, 20d since last contact — keeping an eye on it\" (SLACK | #cs-helios-energy).",
+        "Renewal is 110 days out, so any slippage in the next sprint could linger into renewal planning; the current health score is only 50/100 and trending down 1 point week over week."
+      ],
+      "action": "This week, Sarah should send a proactive status update and schedule a brief check-in to confirm the next-sprint reporting fix timeline, set expectations for rollout, and show progress on expanding module adoption beyond the current 50%.",
+      "draft": "Internal note for next check-in: Helios is still amber at 50/100, with the main issue being the delayed reporting rollout. Customer feedback is manageable but clearly wants ongoing updates, and we’ve already committed to keeping them posted. Next step is to share a specific timeline for the next-sprint fix, confirm what will change once it ships, and use the call to review which modules are still inactive so we can move adoption past 50%."
+    },
+    "grounding": {
+      "total": 10,
+      "grounded": 10,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 3073,
+      "output_tokens": 744,
+      "total_tokens": 3817
+    },
+    "latency_s": 5.3,
+    "attempts": 2
+  },
+  "ACC-008": {
+    "account_id": "ACC-008",
+    "account": {
+      "name": "Pinnacle Telecom",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1400000,
+      "days_to_renewal": 190,
+      "open_tickets": 1,
+      "modules_licensed": 8,
+      "modules_active": 7
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Director: 'The team is getting real value from the platform'",
+      "[EMAIL]\nCSM: 'Great to hear, let us keep building on that momentum'",
+      "[EMAIL]\nCustomer Director: 'Looking forward to the next roadmap review'",
+      "[SLACK | #cs-pinnacle-telecom]\nPinnacle Telecom looking strong (88% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 92,
+      "rag_status": "GREEN",
+      "adoption_pct": 87.5,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 80,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 92,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "high adoption",
+        "roadmap interest",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "The team is getting real value from the platform"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "Looking forward to the next roadmap review"
+        }
+      ],
+      "risks": [],
+      "commitments": [],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.89
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Pinnacle is a strong green account with 87.5% module adoption and clear room to grow before the 190-day renewal window.",
+      "situation": "Pinnacle Telecom remains highly healthy at 92/100, flat week over week, with perfect adoption and engagement scores (100/100 each). They are using 87.5% of licensed modules and sentiment is positive at +0.80, which lines up with the stated expansion potential and roadmap interest. Renewal is still 190 days out, so this is the right time to advance an NRR conversation rather than wait for the renewal cycle.",
+      "risks": [
+        "Only 87.5% of licensed modules are active, leaving 12.5% of paid capability unused and available for expansion motion.",
+        "Recency and friction both sit at 80/100, so there is still some room to strengthen recent touchpoints and reduce any latent implementation drag before the renewal clock tightens to 190 days.",
+        "The account is healthy enough that there are no churn signals, which means the main risk is inaction: without a concrete proposal, the expansion opportunity may stall despite the 'good expansion candidate' signal."
+      ],
+      "action": "This week, Sarah should send a tailored expansion email proposing a module deep-dive/demo for the 12.5% of inactive licensed capability and ask for a 30-minute working session next week to identify 1-2 use cases for quick win deployment.",
+      "draft": "Subject: Quick idea to expand Pinnacle’s current Fieldora footprint\n\nHi [Customer Name],\n\nPinnacle has been getting strong value from Fieldora, and I wanted to propose a short working session to review the modules you’re not yet using. You’re currently active on 87.5% of your licensed modules, which suggests there may be a few areas where we can help you get more value from the platform without adding complexity.\n\nGiven the positive momentum and the roadmap interest we’ve heard, I’d love to set up 30 minutes next week to:\n- review the remaining licensed capabilities,\n- map them to your current priorities,\n- and identify 1–2 quick-win use cases worth piloting.\n\nIf helpful, I can also bring a recommended expansion path based on teams most similar to Pinnacle.\n\nWould Tuesday or Thursday work for a brief working session?\n\nBest,\nSarah"
+    },
+    "grounding": {
+      "total": 3,
+      "grounded": 3,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1498,
+      "output_tokens": 128,
+      "total_tokens": 1626
+    },
+    "latency_s": 1.71,
+    "attempts": 1
+  },
+  "ACC-009": {
+    "account_id": "ACC-009",
+    "account": {
+      "name": "Terra Energy",
+      "csm": "Sarah Chen",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 950000,
+      "days_to_renewal": 160,
+      "open_tickets": 0,
+      "modules_licensed": 6,
+      "modules_active": 5
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'We would like to explore the predictive maintenance module'",
+      "[EMAIL]\nCSM: 'Happy to scope that with you next week'",
+      "[EMAIL]\nCustomer VP: 'Perfect, the team is very happy with results so far'",
+      "[SLACK | #cs-terra-energy]\nTerra Energy looking strong (83% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 94,
+      "rag_status": "GREEN",
+      "adoption_pct": 83.3,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 70,
+        "friction": 100,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 94,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "module exploration",
+        "high adoption",
+        "customer satisfaction"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "explore the predictive maintenance module",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "the team is very happy with results so far"
+        },
+        {
+          "source": "SLACK | #cs-terra-energy",
+          "quote": "looking strong (83% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM agreed to scope the predictive maintenance module next week.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Happy to scope that with you next week"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [],
+      "open_asks": [
+        {
+          "summary": "Customer wants to explore the predictive maintenance module.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "explore the predictive maintenance module"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.86
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Terra Energy is a strong expansion candidate: 94/100 health, 83.3% module adoption, and an open ask to scope predictive maintenance next week.",
+      "situation": "Terra Energy is performing very well overall: health is 94/100 with adoption, engagement, friction, and milestone all at 100. They are using 83.3% of licensed modules, sentiment is positive at +0.80, and the customer explicitly asked to explore the predictive maintenance module. Sarah already committed to scope that next week, so the account is moving from satisfaction into a clear expansion conversation.",
+      "risks": [
+        "Recency is the only soft spot at 70/100, so if next week’s scoping slips, momentum on the predictive maintenance ask could fade.",
+        "Only 83.3% of licensed modules are active, which means there is still unused value on the table despite perfect adoption scores on the modules in use.",
+        "Renewal is 160 days out, so the expansion discussion needs to happen now rather than waiting until renewal pressure builds."
+      ],
+      "action": "This week, send the predictive maintenance scoping note and lock a time next week with the customer so you can convert their open ask into a defined expansion path.",
+      "draft": "Subject: Next step on predictive maintenance\n\nHi team,\n\nThanks again for the interest in the predictive maintenance module. As discussed, I’d like to scope this with you next week and walk through how it would fit your current setup, expected outcomes, and any implementation considerations.\n\nGiven how broadly you’re already using the platform, this feels like a strong opportunity to extend value from the modules you’ve already adopted and see whether predictive maintenance is the right next step.\n\nWould you be open to a 30-minute working session next week? If helpful, I can come prepared with:\n- a quick overview of the module\n- recommended use cases for Terra Energy\n- next-step requirements and timeline\n\nBest,\nSarah"
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1494,
+      "output_tokens": 217,
+      "total_tokens": 1711
+    },
+    "latency_s": 1.9,
+    "attempts": 1
+  },
+  "ACC-010": {
+    "account_id": "ACC-010",
+    "account": {
+      "name": "Beacon Utilities",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 720000,
+      "days_to_renewal": 220,
+      "open_tickets": 1,
+      "modules_licensed": 7,
+      "modules_active": 6
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'Solid quarter, the field teams are onboard'",
+      "[EMAIL]\nCSM: 'Glad to hear it, adoption looks strong on our side too'",
+      "[SLACK | #cs-beacon-utilities]\nBeacon Utilities looking strong (86% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 92,
+      "rag_status": "GREEN",
+      "adoption_pct": 85.7,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 77,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 92,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "strong adoption",
+        "positive quarter",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Solid quarter, the field teams are onboard"
+        },
+        {
+          "source": "SLACK | #cs-beacon-utilities",
+          "quote": "looking strong (86% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.93
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Beacon is a strong expansion account: 92/100 health, 100s in adoption/engagement/milestone, and 220 days to renewal.",
+      "situation": "Beacon Utilities is performing very well and has held a 92/100 health score week over week. Adoption and engagement are both at 100, 85.7% of licensed modules are active, and sentiment is positive at +0.80. The account also has 220 days until renewal, giving Marcus room to convert the current momentum into NRR growth.",
+      "risks": [
+        "Only 85.7% of licensed modules are active, so 14.3% of licensed capacity is still unused and represents untapped value.",
+        "Recency is the weakest component at 77, which suggests Beacon may not be interacting with the product as recently as its overall health would imply.",
+        "Friction is at 80, meaning there is still some implementation or workflow drag to clear before expansion will feel effortless."
+      ],
+      "action": "This week, Marcus should send a targeted expansion email proposing a scoped review of the inactive 14.3% of licensed modules and set up a 30-minute value discussion before the renewal window tightens.",
+      "draft": "Subject: Quick idea to expand Beacon’s value from Fieldora\n\nHi [Name],\n\nBeacon’s results continue to look strong on our side — engagement and adoption are both high, and I’m glad to see the positive momentum this quarter.\n\nOne thing I wanted to flag: 85.7% of your licensed modules are active today, which leaves a meaningful amount of value on the table. I’d love to set up a short working session to review the remaining modules and see whether there’s a fit to expand usage or unlock additional workflows for your team.\n\nIf helpful, I can come prepared with a quick gap analysis and a few options for how other utilities accounts have turned that unused capacity into measurable ROI.\n\nWould you be open to a 30-minute conversation next week?\n\nBest,\nMarcus"
+    },
+    "grounding": {
+      "total": 3,
+      "grounded": 3,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1478,
+      "output_tokens": 134,
+      "total_tokens": 1612
+    },
+    "latency_s": 1.86,
+    "attempts": 1
+  },
+  "ACC-011": {
+    "account_id": "ACC-011",
+    "account": {
+      "name": "Northwind Energy",
+      "csm": "Marcus Webb",
+      "industry": "energy",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 1300000,
+      "days_to_renewal": 250,
+      "open_tickets": 0,
+      "modules_licensed": 5,
+      "modules_active": 5
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer CTO: 'Fieldora is now core to our field operations'",
+      "[EMAIL]\nCustomer CTO: 'Happy to be a reference, and we may refer a partner utility'",
+      "[EMAIL]\nCSM: 'That means a lot, thank you — let us set up a reference call'",
+      "[SLACK | #cs-northwind-energy]\nNorthwind Energy looking strong (100% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 97,
+      "rag_status": "GREEN",
+      "adoption_pct": 100.0,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 87,
+        "friction": 100,
+        "sentiment": 95,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 97,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.9,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "core operational value",
+        "reference willingness",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "may refer a partner utility",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Fieldora is now core to our field operations"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "Happy to be a reference"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM proposed a reference call",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let us set up a reference call"
+            }
+          ],
+          "confidence": 0.87
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.92
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Northwind is fully adopted and highly engaged; the only meaningful move now is to convert strong sentiment into expansion or a referral.",
+      "situation": "Northwind Energy is in excellent shape at 97/100 with no week-over-week change, and every licensed module is active. Adoption, engagement, friction, and milestone scores are all 100, sentiment is strongly positive at +0.90, and renewal is still 250 days out. The account is already showing expansion upside, with the analyst read confirming the CSM proposed a reference call and the signals calling out both a partner utility referral and expansion potential.",
+      "risks": [
+        "Recency is the only softer component at 87/100, so there has been less recent activity than the rest of the account profile even while overall health remains Green.",
+        "The account’s next value step is not automatic: the analyst-confirmed commitment is only a proposed reference call, so the referral motion still needs a concrete follow-up.",
+        "Renewal is 250 days away, which means NRR growth has to be created now through expansion or advocacy rather than waiting for the renewal window."
+      ],
+      "action": "This week, send Marcus’s follow-up email to lock in a 20-minute reference call and ask for one partner-utility introduction, positioning it as a low-lift way to share Northwind’s results while exploring whether there’s a fit for additional scope.",
+      "draft": "Subject: Quick follow-up — reference call + partner intro\n\nHi [Customer Name],\n\nThanks again for the strong partnership. You had mentioned, “let us set up a reference call,” and I wanted to follow up while the momentum is fresh.\n\nWould you be open to a 20-minute reference conversation with one of our teams next week? We’d keep it focused on the operational outcomes Northwind has seen so far and make it easy for your team.\n\nAlso, given how well things are going, I’d love to ask one favor: if there’s a partner utility you think would benefit from a conversation, would you be comfortable making an introduction? We’ve heard Northwind could be a strong reference for organizations with similar goals.\n\nIf helpful, I can send over a couple of times and a short outline so you can choose what works best.\n\nBest,\nMarcus"
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1505,
+      "output_tokens": 167,
+      "total_tokens": 1672
+    },
+    "latency_s": 1.74,
+    "attempts": 1
+  },
+  "ACC-012": {
+    "account_id": "ACC-012",
+    "account": {
+      "name": "Cascade Communications",
+      "csm": "Marcus Webb",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 600000,
+      "days_to_renewal": 175,
+      "open_tickets": 1,
+      "modules_licensed": 5,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Lead: 'Things are running smoothly, no complaints'",
+      "[EMAIL]\nCSM: 'Great — I will share a couple of tips to push adoption even higher'",
+      "[SLACK | #cs-cascade-communications]\nCascade Communications looking strong (80% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 90,
+      "rag_status": "GREEN",
+      "adoption_pct": 80.0,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 63,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 90,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "smooth operations",
+        "adoption growth",
+        "expansion opportunity"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Things are running smoothly, no complaints"
+        },
+        {
+          "source": "SLACK | #cs-cascade-communications",
+          "quote": "looking strong (80% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM plans to share adoption tips",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will share a couple of tips"
+            }
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.96
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Cascade is healthy and primed for NRR growth: 80% module adoption, perfect adoption/engagement, and no churn signals.",
+      "situation": "Cascade Communications is in strong shape this week with a 90/100 health score, unchanged from last week, and no override rules fired. Adoption and engagement are both at 100, sentiment is positive at +0.80, and 80.0% of licensed modules are active, which points to a stable implementation with room to expand usage. Renewal is still 175 days out, so the right move is to use the current momentum to open an expansion conversation while the account is quiet and healthy.",
+      "risks": [
+        "Only 80.0% of licensed modules are active, so 20% of purchased capability is still unused.",
+        "Recency is the weakest component at 63/100, which suggests the account is not interacting as recently as the rest of the health profile would imply.",
+        "There are no churn signals, but the account has a clear 'good expansion candidate' flag, so inaction risks leaving NRR upside on the table."
+      ],
+      "action": "This week, Marcus should send a short expansion-focused email proposing a 20-minute working session to review the unused modules and identify one quick-win use case, using the promised adoption tips as the hook.",
+      "draft": "Subject: A couple of adoption tips + a quick look at unused modules\n\nHi team,\n\nAs promised, I wanted to share a couple of tips that have helped other teams get more value out of Fieldora:\n1) Start with the modules your team already uses most heavily and map the adjacent workflows.\n2) Look for one repetitive task we can streamline in the next 30 days.\n\nI also noticed Cascade is currently using 80% of your licensed modules, which means there may be a few capabilities still available to support your team’s workflow.\n\nIf helpful, I’d love to set up a 20-minute working session next week to review what’s in use today and identify one expansion opportunity that could drive more value without adding complexity.\n\nWould Tuesday or Thursday work?\n\nBest,\nMarcus"
+    },
+    "grounding": {
+      "total": 4,
+      "grounded": 4,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1479,
+      "output_tokens": 170,
+      "total_tokens": 1649
+    },
+    "latency_s": 1.69,
+    "attempts": 1
+  },
+  "ACC-013": {
+    "account_id": "ACC-013",
+    "account": {
+      "name": "Cardinal Power",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "APAC",
+      "stage": "deployment",
+      "acv_usd": 500000,
+      "days_to_renewal": 300,
+      "open_tickets": 2,
+      "modules_licensed": 4,
+      "modules_active": 2
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer PM: 'Onboarding went well, we are ramping the second team now'",
+      "[EMAIL]\nCSM: 'Nice progress for month five, let us keep the momentum'",
+      "[EMAIL]\nCustomer PM: 'Agreed, a couple of open tickets to close out though'",
+      "[SLACK | #cs-cardinal-power]\nCardinal Power: steady. Adoption ~50%, 16d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 64,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 70,
+        "recency": 47,
+        "friction": 60,
+        "sentiment": 60,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 63,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": 0.2,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "onboarding progress",
+        "team expansion rollout",
+        "open support tickets",
+        "moderate adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "ramping the second team"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Onboarding went well"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "we are ramping the second team now"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "There are unresolved tickets still needing closure.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "a couple of open tickets to close out though"
+            }
+          ],
+          "confidence": 0.88
+        },
+        {
+          "summary": "Adoption appears only partial and is being monitored.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-cardinal-power",
+              "quote": "Adoption ~50%"
+            },
+            {
+              "source": "SLACK | #cs-cardinal-power",
+              "quote": "keeping an eye on it."
+            }
+          ],
+          "confidence": 0.82
+        }
+      ],
+      "commitments": [],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.83
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Amber account is stable but not yet fully adopted: 50% module usage and a couple of tickets still open.",
+      "situation": "Cardinal Power is holding at Amber with a 64/100 health score, up slightly from 63 last week. Sentiment is positive (+0.20) and milestone completion is at 100%, which suggests the rollout is progressing, but only 50.0% of licensed modules are active and the team is still monitoring adoption. The account also has a few unresolved support items that need closure before usage can deepen.",
+      "risks": [
+        "Adoption is still partial at 50.0% of licensed modules active, and the team is explicitly “keeping an eye on it.”",
+        "There are unresolved support issues: “a couple of open tickets to close out though” remains open.",
+        "Recency is weak at 47, which suggests usage/check-ins may not be consistent enough to drive the second-team rollout forward."
+      ],
+      "action": "This week, Marcus should run a short adoption and support-closeout check-in with the account owner: confirm the status of the open tickets, align on the exact modules needed for the second team rollout, and agree on a date to review usage against the remaining licensed modules.",
+      "draft": "Internal note for next check-in: Cardinal Power is still in a workable Amber state, but adoption is only ~50% and there are a couple of open tickets to close out. I’m going to confirm what’s still blocking full module usage, get an ETA on support closure, and align on the second-team rollout so we can prevent slippage and turn the positive sentiment into broader adoption."
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1517,
+      "output_tokens": 232,
+      "total_tokens": 1749
+    },
+    "latency_s": 2.27,
+    "attempts": 1
+  },
+  "ACC-014": {
+    "account_id": "ACC-014",
+    "account": {
+      "name": "Ironclad Water",
+      "csm": "Priya Nair",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 900000,
+      "days_to_renewal": 75,
+      "open_tickets": 5,
+      "modules_licensed": 6,
+      "modules_active": 1
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'This has not delivered what we were promised, we are extremely disappointed'",
+      "[EMAIL]\nCustomer VP: 'We are actively evaluating alternatives ahead of renewal'",
+      "[EMAIL]\nCSM: 'I want to make this right — can we get executives together this week?'",
+      "[SLACK | #cs-ironclad-water]\n@here heads-up on Ironclad Water: renewal in 75d, adoption ~17%, 5 open tickets — needs a plan."
+    ],
+    "health": {
+      "score": 10,
+      "rag_status": "RED",
+      "adoption_pct": 16.7,
+      "components": {
+        "adoption": 21,
+        "engagement": 10,
+        "recency": 0,
+        "friction": 0,
+        "sentiment": 3,
+        "milestone": 20
+      },
+      "rules_fired": [],
+      "previous_score": 10,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": -0.95,
+      "sentiment_label": "NEGATIVE",
+      "key_themes": [
+        "renewal risk",
+        "low adoption",
+        "delivery dissatisfaction"
+      ],
+      "churn_signals": [
+        "\"We are actively evaluating alternatives ahead of renewal\""
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "\"This has not delivered what we were promised, we are extremely disappointed\""
+        },
+        {
+          "source": "EMAIL",
+          "quote": "\"We are actively evaluating alternatives ahead of renewal\""
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Customer is dissatisfied with delivery and value.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "\"This has not delivered what we were promised\""
+            }
+          ],
+          "confidence": 0.98
+        },
+        {
+          "summary": "Renewal risk is elevated because the customer is evaluating alternatives.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "\"We are actively evaluating alternatives ahead of renewal\""
+            }
+          ],
+          "confidence": 0.99
+        },
+        {
+          "summary": "Low adoption and open tickets suggest the account needs intervention.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-ironclad-water",
+              "quote": "\"adoption ~17%, 5 open tickets — needs a plan.\""
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM proposed an executive meeting to address concerns.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "\"can we get executives together this week?\""
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [
+        "alternatives"
+      ],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.97
+    },
+    "brief": {
+      "brief_type": "RETENTION",
+      "headline": "Ironclad Water is at high churn risk: 10/100 health, 75 days to renewal, and the customer is actively evaluating alternatives.",
+      "situation": "The account is stalled at a 10/100 health score with no week-over-week improvement, and only 16.7% of licensed modules are active. Sentiment is strongly negative (-0.95), and the customer has already said, \"We are actively evaluating alternatives ahead of renewal.\" There is also clear dissatisfaction with delivery and value: \"This has not delivered what we were promised,\" alongside 5 open tickets and low adoption noted internally.",
+      "risks": [
+        "Renewal risk is immediate: renewal is in 75 days and the customer said they are \"actively evaluating alternatives ahead of renewal\" (EMAIL, 99% confidence).",
+        "Value perception is broken: the customer said, \"This has not delivered what we were promised\" (EMAIL, 98% confidence).",
+        "Adoption is too low to justify the spend: only 16.7% of licensed modules are active, and internal notes flag \"adoption ~17%, 5 open tickets — needs a plan\" (SLACK | #cs-ironclad-water, 93% confidence)."
+      ],
+      "action": "This week, secure an executive recovery meeting with the customer and bring a written remediation plan that addresses delivery gaps, open tickets, and the alternative-vendor concern before renewal discussions progress further.",
+      "draft": "Subject: Aligning on a recovery plan for Ironclad Water\n\nHi [Customer Name],\n\nI want to acknowledge the concerns you’ve raised — especially around delivery not meeting expectations and your team’s current evaluation of alternatives ahead of renewal. We take that seriously.\n\nGiven the open tickets and low module adoption, I’d like to get our executives together this week so we can reset on outcomes and agree on a concrete recovery plan. I’ll come prepared with a written action plan covering the 5 open tickets, adoption priorities, and the specific gaps you called out.\n\nAre you available for a 30-minute executive meeting on [day/time]?\n\nBest,\nPriya"
+    },
+    "grounding": {
+      "total": 8,
+      "grounded": 8,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 3109,
+      "output_tokens": 723,
+      "total_tokens": 3832
+    },
+    "latency_s": 6.65,
+    "attempts": 2
+  },
+  "ACC-015": {
+    "account_id": "ACC-015",
+    "account": {
+      "name": "Vertex Mobile",
+      "csm": "Priya Nair",
+      "industry": "telecom",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 780000,
+      "days_to_renewal": 130,
+      "open_tickets": 2,
+      "modules_licensed": 6,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'Usage is okay but we have not rolled out to all regions yet'",
+      "[EMAIL]\nCSM: 'Let us build a rollout plan for the remaining regions'",
+      "[EMAIL]\nCustomer Manager: 'Sounds good, send over a proposed timeline'",
+      "[SLACK | #cs-vertex-mobile]\nVertex Mobile: steady. Adoption ~50%, 22d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 53,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 55,
+        "recency": 27,
+        "friction": 60,
+        "sentiment": 50,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 54,
+      "delta": -1
+    },
+    "signals": {
+      "sentiment_score": 0.0,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "partial rollout",
+        "adoption at 50%",
+        "timeline planning"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Usage is okay but we have not rolled out"
+        },
+        {
+          "source": "SLACK | #cs-vertex-mobile",
+          "quote": "steady. Adoption ~50%"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Rollout is incomplete across regions",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "we have not rolled out to all regions yet"
+            }
+          ],
+          "confidence": 0.94
+        },
+        {
+          "summary": "Adoption is only partial",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-vertex-mobile",
+              "quote": "Adoption ~50%"
+            }
+          ],
+          "confidence": 0.86
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM committed to propose a rollout plan",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Let us build a rollout plan"
+            }
+          ],
+          "confidence": 0.93
+        },
+        {
+          "summary": "Customer requested a proposed timeline",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "send over a proposed timeline"
+            }
+          ],
+          "confidence": 0.91
+        }
+      ],
+      "blockers": [],
+      "open_asks": [
+        {
+          "summary": "Customer is awaiting a proposed rollout timeline",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "send over a proposed timeline"
+            }
+          ],
+          "confidence": 0.91
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.9
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Amber risk is driven by incomplete rollout and only 50% module adoption, with the customer waiting on a timeline.",
+      "situation": "Vertex Mobile is stable but not fully deployed: health is Amber at 53/100, down 1 point week over week, and only 50.0% of licensed modules are active. The customer has explicitly said they have not rolled out to all regions yet and is waiting for a proposed rollout timeline, which the CSM already committed to provide.",
+      "risks": [
+        "Rollout is incomplete across regions [conf 94%] — customer said, \"we have not rolled out to all regions yet.\"",
+        "Adoption is only partial [conf 86%] — Slack notes \"Adoption ~50%,\" and the account shows 50.0% of licensed modules active.",
+        "Customer is waiting on a proposed rollout timeline [conf 91%] — email request was \"send over a proposed timeline,\" and that is still the open ask."
+      ],
+      "action": "This week, send a concrete rollout plan with dates, regional sequencing, and owners, then confirm it in a customer check-in before the next status review.",
+      "draft": "Internal note for next check-in: Vertex Mobile is still at ~50% adoption and has not rolled out to all regions. Priya has already committed to propose a rollout plan, and the customer is waiting on a timeline. I’m sending a draft rollout sequence with target dates this week so we can align on the remaining regions and prevent slippage."
+    },
+    "grounding": {
+      "total": 7,
+      "grounded": 7,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1510,
+      "output_tokens": 307,
+      "total_tokens": 1817
+    },
+    "latency_s": 2.4,
+    "attempts": 1
+  },
+  "ACC-016": {
+    "account_id": "ACC-016",
+    "account": {
+      "name": "BlueRock Energy",
+      "csm": "Priya Nair",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 1000000,
+      "days_to_renewal": 120,
+      "open_tickets": 3,
+      "modules_licensed": 7,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Lead: 'A few open support tickets are slowing the team down'",
+      "[EMAIL]\nCSM: 'I will prioritise those with support and report back'",
+      "[EMAIL]\nCustomer Lead: 'Thanks, otherwise the platform is working for us'",
+      "[SLACK | #cs-bluerock-energy]\nBlueRock Energy: steady. Adoption ~57%, 17d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 62,
+      "rag_status": "AMBER",
+      "adoption_pct": 57.1,
+      "components": {
+        "adoption": 71,
+        "engagement": 65,
+        "recency": 43,
+        "friction": 40,
+        "sentiment": 55,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 62,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.1,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "support tickets",
+        "platform working",
+        "adoption monitoring"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "otherwise the platform is working for us"
+        },
+        {
+          "source": "SLACK | #cs-bluerock-energy",
+          "quote": "steady. Adoption ~57%"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Open support tickets are slowing the team down",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "A few open support tickets are slowing the team down"
+            }
+          ],
+          "confidence": 0.94
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM committed to prioritize the support issues and update the customer",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will prioritise those with support"
+            },
+            {
+              "source": "EMAIL",
+              "quote": "report back"
+            }
+          ],
+          "confidence": 0.92
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "Open support tickets are slowing team productivity",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "open support tickets are slowing the team down"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.9
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "BlueRock is stable but support tickets are dragging productivity and keeping health stuck at 62.",
+      "situation": "BlueRock Energy is holding at AMBER with a 62/100 health score, unchanged week over week, and no churn or expansion signals. Adoption is moderate at 57.1% of licensed modules active, but recency is weak at 43 and friction is elevated at 40, which matches the customer’s note that open support tickets are slowing the team down. Sentiment is still neutral at 55, and the platform is otherwise working, so this looks like a support-led productivity issue rather than a broader account risk.",
+      "risks": [
+        "Open support tickets are already slowing the team down, per the customer email, and the analyst read confirms this with 93%-94% confidence.",
+        "Recency is only 43, which suggests the team is not interacting consistently enough to catch issues before they affect daily work.",
+        "57.1% of licensed modules are active, so 42.9% of paid capability is still not in use while the account is 120 days from renewal."
+      ],
+      "action": "This week, Priya should send a proactive support-status update to the customer, confirm ownership and ETA on every open ticket, and schedule a short check-in within 5 business days to show progress and prevent slippage before renewal planning starts.",
+      "draft": "Internal note for next check-in: customer said open support tickets are slowing the team down; I’ve committed to prioritize the issues and report back. Please confirm current status, owners, and ETAs for each open ticket before the call. Goal is to show visible progress, reduce friction, and keep adoption moving ahead of the 120-day renewal window."
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1505,
+      "output_tokens": 255,
+      "total_tokens": 1760
+    },
+    "latency_s": 2.83,
+    "attempts": 1
+  },
+  "ACC-017": {
+    "account_id": "ACC-017",
+    "account": {
+      "name": "Granite Utilities",
+      "csm": "Priya Nair",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 550000,
+      "days_to_renewal": 145,
+      "open_tickets": 2,
+      "modules_licensed": 5,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'We have been heads-down, engagement dipped a little this month'",
+      "[EMAIL]\nCSM: 'No problem, let us reconnect and refocus on key workflows'",
+      "[SLACK | #cs-granite-utilities]\nGranite Utilities: steady. Adoption ~60%, 25d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 54,
+      "rag_status": "AMBER",
+      "adoption_pct": 60.0,
+      "components": {
+        "adoption": 75,
+        "engagement": 45,
+        "recency": 17,
+        "friction": 60,
+        "sentiment": 50,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 54,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.0,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "dipped engagement",
+        "reconnect and refocus",
+        "steady adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "engagement dipped a little this month"
+        },
+        {
+          "source": "SLACK | #cs-granite-utilities",
+          "quote": "steady. Adoption ~60%"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Engagement has softened this month.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "engagement dipped a little this month"
+            }
+          ],
+          "confidence": 0.86
+        },
+        {
+          "summary": "There has been a recent gap in contact.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-granite-utilities",
+              "quote": "25d since last contact"
+            }
+          ],
+          "confidence": 0.84
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM will reconnect and refocus on key workflows.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let us reconnect and refocus on key workflows"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.86
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Granite Utilities is stable but slipping on engagement — adoption is solid, but contact has gone cold.",
+      "situation": "Health is flat at 54/100 this week, with steady adoption (60.0% of licensed modules active) but weaker engagement and recency. The strongest signal from the analyst read is that engagement dipped this month and there has been a 25-day gap since last contact in #cs-granite-utilities. Sentiment remains neutral and there are no churn or expansion signals, so this is a prevent-slippage account rather than an escalation.",
+      "risks": [
+        "Engagement has softened this month; analyst read explicitly notes \"engagement dipped a little this month\" (86% confidence).",
+        "There has been a 25-day gap since last contact in Slack #cs-granite-utilities, which aligns with the low recency score of 17.",
+        "Adoption is only at 60.0% of licensed modules active, so there is still unused value even though current usage is steady."
+      ],
+      "action": "This week, Priya should send a proactive reconnect note and book a 30-minute working session to refocus on the top 2 workflows Granite Utilities is using most, with the goal of re-establishing contact and confirming whether any process change is driving the engagement dip.",
+      "draft": "Internal note for next check-in: Granite Utilities looks stable overall, but engagement has softened and we’re at 25 days since last contact. I’m going to reconnect this week, refocus us on the key workflows, and confirm whether anything has changed on your side that we should adjust for. Goal is to make sure we’re aligned on what’s working and what needs attention before this drifts further."
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1498,
+      "output_tokens": 252,
+      "total_tokens": 1750
+    },
+    "latency_s": 2.48,
+    "attempts": 1
+  },
+  "ACC-018": {
+    "account_id": "ACC-018",
+    "account": {
+      "name": "Horizon Telecom",
+      "csm": "Priya Nair",
+      "industry": "telecom",
+      "region": "APAC",
+      "stage": "live",
+      "acv_usd": 1200000,
+      "days_to_renewal": 200,
+      "open_tickets": 1,
+      "modules_licensed": 7,
+      "modules_active": 6
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Director: 'Strong adoption across our field teams, very pleased'",
+      "[EMAIL]\nCSM: 'Excellent — let us review advanced modules at the next QBR'",
+      "[SLACK | #cs-horizon-telecom]\nHorizon Telecom looking strong (86% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 91,
+      "rag_status": "GREEN",
+      "adoption_pct": 85.7,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 73,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 91,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "strong adoption",
+        "customer satisfaction",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate",
+        "review advanced modules"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Strong adoption across our field teams, very pleased"
+        },
+        {
+          "source": "SLACK | #cs-horizon-telecom",
+          "quote": "Horizon Telecom looking strong (86% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM proposed a future review of advanced modules at the next QBR.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let us review advanced modules at the next QBR"
+            }
+          ],
+          "confidence": 0.87
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.9
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Green and stable, with clear room to grow: 85.7% module adoption and a next-QBR advanced modules review already on the table.",
+      "situation": "Horizon Telecom remains a top-tier healthy account at 91/100, unchanged week over week, with perfect adoption and engagement scores (100/100 each) and positive sentiment at +0.80. The account is 200 days from renewal, so this is a good window to drive NRR before the renewal cycle tightens. The verified commitment already captured is a proposed review of advanced modules at the next QBR, which aligns directly with the expansion signals.",
+      "risks": [
+        "Only 85.7% of licensed modules are active, so 14.3% of purchased capability is still unused and represents immediate expansion runway.",
+        "Recency is lower than the rest of the account at 73/100, which suggests the relationship is strong but not actively in motion enough to create momentum without a scheduled next step.",
+        "Renewal is 200 days out; if the advanced-module discussion slips past the next QBR, expansion timing can drift into a renewal-only conversation."
+      ],
+      "action": "This week, send Priya a short note to lock in a QBR agenda item for advanced modules and confirm 2-3 specific module areas to review, so the expansion conversation is calendarized before the next meeting.",
+      "draft": "Subject: Adding advanced modules to the next QBR\n\nHi Priya,\n\nAhead of our next QBR, I wanted to propose a focused review of the advanced modules we haven’t activated yet. Since Horizon is already using 85.7% of licensed modules, it looks like there may be a strong opportunity to get more value from the platform and map the remaining capabilities to your team’s priorities.\n\nWould you be open to adding 20–30 minutes to the QBR agenda to review advanced modules and identify which ones could deliver the most impact for Horizon? If helpful, I can send over a short list of options in advance so you can choose the areas most relevant to your team.\n\nBest,\n[CSM Name]"
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1481,
+      "output_tokens": 189,
+      "total_tokens": 1670
+    },
+    "latency_s": 1.83,
+    "attempts": 1
+  },
+  "ACC-019": {
+    "account_id": "ACC-019",
+    "account": {
+      "name": "Solstice Power",
+      "csm": "Priya Nair",
+      "industry": "energy",
+      "region": "LATAM",
+      "stage": "live",
+      "acv_usd": 700000,
+      "days_to_renewal": 165,
+      "open_tickets": 0,
+      "modules_licensed": 5,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'We are interested in expanding to the analytics suite'",
+      "[EMAIL]\nCSM: 'Great, I will prepare an expansion proposal'",
+      "[EMAIL]\nCustomer VP: 'The team has been very satisfied overall'",
+      "[SLACK | #cs-solstice-power]\nSolstice Power looking strong (80% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 93,
+      "rag_status": "GREEN",
+      "adoption_pct": 80.0,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 67,
+        "friction": 100,
+        "sentiment": 85,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 94,
+      "delta": -1
+    },
+    "signals": {
+      "sentiment_score": 0.7,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "expansion interest",
+        "high adoption",
+        "customer satisfaction"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "interested in expanding to the analytics suite",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "The team has been very satisfied overall"
+        },
+        {
+          "source": "SLACK | #cs-solstice-power",
+          "quote": "Solstice Power looking strong (80% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM committed to prepare an expansion proposal",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will prepare an expansion proposal"
+            }
+          ],
+          "confidence": 0.98
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.91
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Solstice Power is a strong expansion candidate: 93/100 health, 80% module adoption, and active interest in the analytics suite.",
+      "situation": "Solstice Power remains in excellent shape overall. Health is 93/100, with adoption and engagement both at 100 and sentiment positive at +0.70. The main signal this week is commercial: the customer is explicitly interested in expanding to the analytics suite, and you already committed to prepare an expansion proposal.",
+      "risks": [
+        "Recency is the only soft spot: 67/100, so recent usage/comms are not as strong as the rest of the account despite 100 adoption and 100 engagement.",
+        "Only 80.0% of licensed modules are active, which means 20% of the footprint is still unused and available for expansion.",
+        "Renewal is 165 days out, so this is a good window to anchor value before the renewal cycle tightens."
+      ],
+      "action": "This week, send a tailored analytics-suite expansion proposal with pricing, use cases, and a recommended rollout path, then book a 30-minute review with the customer before next week ends.",
+      "draft": "Subject: Solstice Power analytics suite proposal\n\nHi [Customer Name],\n\nAs promised, I put together an expansion proposal for the analytics suite based on Solstice Power’s current usage and goals.\n\nGiven your team’s strong adoption across the platform and the interest in expanding into analytics, I think this could be a good next step to extend the value you’re already getting. I’ve outlined:\n- recommended analytics modules\n- expected use cases and outcomes\n- implementation path and timing\n- pricing options\n\nIf helpful, I’d like to schedule 30 minutes next week to walk through the proposal and confirm the best package for your team.\n\nBest,\nPriya"
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1491,
+      "output_tokens": 180,
+      "total_tokens": 1671
+    },
+    "latency_s": 1.69,
+    "attempts": 1
+  },
+  "ACC-020": {
+    "account_id": "ACC-020",
+    "account": {
+      "name": "Atlas Networks",
+      "csm": "Diego Alvarez",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "deployment",
+      "acv_usd": 850000,
+      "days_to_renewal": 330,
+      "open_tickets": 3,
+      "modules_licensed": 6,
+      "modules_active": 1
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Sponsor: 'We went live months ago but the team still is not really using it'",
+      "[EMAIL]\nCustomer Sponsor: 'I need to see adoption pick up soon to justify this internally'",
+      "[EMAIL]\nCSM: 'Let us reset the enablement plan and get training scheduled this week'",
+      "[SLACK | #cs-atlas-networks]\nAtlas Networks: steady. Adoption ~17%, 20d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 26,
+      "rag_status": "RED",
+      "adoption_pct": 16.7,
+      "components": {
+        "adoption": 21,
+        "engagement": 25,
+        "recency": 33,
+        "friction": 40,
+        "sentiment": 20,
+        "milestone": 20
+      },
+      "rules_fired": [],
+      "previous_score": 25,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": -0.6,
+      "sentiment_label": "NEGATIVE",
+      "key_themes": [
+        "low adoption",
+        "internal justification pressure",
+        "enablement reset"
+      ],
+      "churn_signals": [
+        "need to see adoption pick up soon to justify this internally"
+      ],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "still is not really using it"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "adoption pick up soon"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Adoption remains low despite go-live, creating account health risk.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "still is not really using it"
+            },
+            {
+              "source": "SLACK | #cs-atlas-networks",
+              "quote": "Adoption ~17%"
+            }
+          ],
+          "confidence": 0.95
+        },
+        {
+          "summary": "Customer is questioning internal justification for the purchase.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "justify this internally"
+            }
+          ],
+          "confidence": 0.88
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM committed to reset enablement and schedule training this week.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "reset the enablement plan"
+            },
+            {
+              "source": "EMAIL",
+              "quote": "training scheduled this week"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [
+        {
+          "summary": "Training has not started, which is likely limiting adoption.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "get training scheduled this week"
+            }
+          ],
+          "confidence": 0.97
+        }
+      ],
+      "open_asks": [
+        {
+          "summary": "Customer wants adoption to improve soon.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "adoption pick up soon"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.94
+    },
+    "brief": {
+      "brief_type": "RETENTION",
+      "headline": "Atlas Networks is red and still under-adopted: only 16.7% of licensed modules are active, and they’re questioning the purchase internally.",
+      "situation": "Atlas Networks improved by just 1 point week over week (26/100 vs. 25), but the account remains firmly red. Adoption is still extremely low at 16.7% of licensed modules active, and the customer is explicitly saying they need to see adoption pick up soon to justify this internally. Training has not started yet, so the enablement reset committed by the CSM is the key lever this week.",
+      "risks": [
+        "Only 16.7% of licensed modules are active, so the product is still not really being used despite go-live.",
+        "The customer said they need to \"justify this internally,\" which is a direct renewal/churn risk signal tied to perceived value.",
+        "Training has not started yet, and the customer asked to \"get training scheduled this week,\" leaving adoption stuck at 21/100 and sentiment negative at -0.60."
+      ],
+      "action": "This week, Diego should get a live training session on the calendar with Atlas Networks and send a short enablement reset plan within 24 hours; the goal is to lock a specific date, named attendees, and 2-3 adoption milestones so the customer sees immediate movement.",
+      "draft": "Subject: Let’s reset enablement this week\n\nHi [Name],\n\nI want to move quickly on the adoption concerns you raised. Right now usage is still very limited, and I don’t want that to leave you having to justify the investment internally without a clear path forward.\n\nAs discussed, I’d like to reset the enablement plan and get training scheduled this week. My suggestion is:\n- 60-minute training session with your core admins/users\n- quick review of the 2-3 modules we should prioritize first\n- follow-up plan with adoption milestones for the next 30 days\n\nIf you can send over a few times that work this week, I’ll get the session locked in right away.\n\nBest,\nDiego"
+    },
+    "grounding": {
+      "total": 10,
+      "grounded": 10,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1535,
+      "output_tokens": 359,
+      "total_tokens": 1894
+    },
+    "latency_s": 2.34,
+    "attempts": 1
+  },
+  "ACC-021": {
+    "account_id": "ACC-021",
+    "account": {
+      "name": "Delta Water Authority",
+      "csm": "Diego Alvarez",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 600000,
+      "days_to_renewal": 115,
+      "open_tickets": 3,
+      "modules_licensed": 6,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'A couple of tickets are open but nothing critical'",
+      "[EMAIL]\nCSM: 'I will chase those down and confirm resolution timelines'",
+      "[EMAIL]\nCustomer Manager: 'Appreciated'",
+      "[SLACK | #cs-delta-water-authority]\nDelta Water Authority: steady. Adoption ~50%, 19d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 56,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 50,
+        "recency": 37,
+        "friction": 40,
+        "sentiment": 55,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 55,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": 0.1,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "open tickets",
+        "follow-up on timelines",
+        "moderate adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "A couple of tickets are open but nothing critical"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "Appreciated"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "There are still a couple of open tickets, though they are not described as critical.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "A couple of tickets are open but nothing critical"
+            }
+          ],
+          "confidence": 0.82
+        },
+        {
+          "summary": "Adoption appears only moderate and contact has been relatively inactive.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-delta-water-authority",
+              "quote": "Adoption ~50%, 19d since last contact"
+            }
+          ],
+          "confidence": 0.77
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM committed to follow up on the open tickets and confirm timelines.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will chase those down and confirm resolution timelines"
+            }
+          ],
+          "confidence": 0.96
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.84
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Amber account with mild slippage: half the product is active, tickets remain open, and the last touch is stale.",
+      "situation": "Delta Water Authority is holding at AMBER with a 56/100 score, up just 1 point from last week. Adoption is still only 50.0% of licensed modules active, engagement is soft at 50, and recency is the weakest area at 37 with 19 days since last contact. Sentiment is neutral (+0.10), milestone is complete, and there are no churn or expansion signals.",
+      "risks": [
+        "A couple of tickets are still open, and while nothing is described as critical, unresolved issues can stall momentum if timelines slip. [ANALYST READ]",
+        "Adoption is only moderate at 50.0% of licensed modules active, which leaves half of the paid footprint unused. [verified extraction]",
+        "Contact has been relatively inactive: 19 days since last contact and a recency score of 37, which raises the risk of drift before renewal. [verified extraction]"
+      ],
+      "action": "This week, Diego should send a proactive check-in that confirms resolution timelines for the open tickets and re-establishes a concrete next touchpoint within 7 days.",
+      "draft": "Internal note for next check-in: I’m following up on the couple of open tickets and want to confirm your expected resolution timelines. I also want to reconnect on usage since it’s been 19 days since our last touch and adoption is sitting at about 50% of licensed modules. If helpful, I can align on the fastest path to close the tickets and identify the next modules or workflows worth activating."
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1498,
+      "output_tokens": 265,
+      "total_tokens": 1763
+    },
+    "latency_s": 2.1,
+    "attempts": 1
+  },
+  "ACC-022": {
+    "account_id": "ACC-022",
+    "account": {
+      "name": "Pioneer Energy",
+      "csm": "Diego Alvarez",
+      "industry": "energy",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 1000000,
+      "days_to_renewal": 135,
+      "open_tickets": 2,
+      "modules_licensed": 8,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Lead: 'Good progress, still want to activate the analytics piece'",
+      "[EMAIL]\nCSM: 'Let us prioritise the analytics rollout next month'",
+      "[SLACK | #cs-pioneer-energy]\nPioneer Energy: steady. Adoption ~50%, 21d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 55,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 60,
+        "recency": 30,
+        "friction": 60,
+        "sentiment": 55,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 55,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.1,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "analytics rollout",
+        "moderate adoption",
+        "next-step planning"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "want to activate the analytics piece"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Good progress, still want to activate the analytics piece"
+        },
+        {
+          "source": "SLACK | #cs-pioneer-energy",
+          "quote": "steady. Adoption ~50%"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Analytics activation is still pending.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "still want to activate the analytics piece"
+            }
+          ],
+          "confidence": 0.88
+        },
+        {
+          "summary": "Adoption is only around half and contact has lapsed.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-pioneer-energy",
+              "quote": "Adoption ~50%"
+            },
+            {
+              "source": "SLACK | #cs-pioneer-energy",
+              "quote": "21d since last contact"
+            }
+          ],
+          "confidence": 0.78
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM plans to prioritize the analytics rollout next month.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "prioritise the analytics rollout next month"
+            }
+          ],
+          "confidence": 0.93
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.83
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Pioneer Energy is stable but under-adopted: analytics is still waiting to launch and contact has gone cold.",
+      "situation": "Health is AMBER at 55/100, unchanged week over week, with moderate adoption and engagement but weak recency. Only 50.0% of licensed modules are active, and the account has gone 21 days since last contact. The main positive is clear expansion interest: the customer still wants to activate the analytics piece, and the CSM has already flagged next month as the target for rollout.",
+      "risks": [
+        "Analytics activation is still pending: the customer explicitly said they \"still want to activate the analytics piece\" (conf 88%).",
+        "Adoption is only ~50% of licensed modules, so half of the paid surface area is unused right now.",
+        "Recency is weak: there have been 21 days since last contact, which increases slippage risk on the planned rollout."
+      ],
+      "action": "This week, send a proactive check-in to lock a specific date and owner for the analytics rollout next month, and re-establish live contact before the 21-day gap extends further.",
+      "draft": "Internal note for next check-in: Pioneer Energy is still interested in activating analytics, but rollout is not yet scheduled and we’ve gone 21 days without contact. Adoption is sitting at ~50%, so I want to use this touchpoint to confirm the rollout owner, timing, and any prerequisites for next month. Goal: get a firm date on the calendar and prevent the analytics plan from slipping."
+    },
+    "grounding": {
+      "total": 7,
+      "grounded": 7,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1492,
+      "output_tokens": 275,
+      "total_tokens": 1767
+    },
+    "latency_s": 2.1,
+    "attempts": 1
+  },
+  "ACC-023": {
+    "account_id": "ACC-023",
+    "account": {
+      "name": "Keystone Energy",
+      "csm": "Diego Alvarez",
+      "industry": "energy",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1500000,
+      "days_to_renewal": 240,
+      "open_tickets": 0,
+      "modules_licensed": 8,
+      "modules_active": 7
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer CTO: 'This is one of our best vendor relationships'",
+      "[EMAIL]\nCustomer CTO: 'We want to discuss a multi-year expansion'",
+      "[EMAIL]\nCSM: 'Fantastic — I will bring options to the next QBR'",
+      "[SLACK | #cs-keystone-energy]\nKeystone Energy looking strong (88% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 96,
+      "rag_status": "GREEN",
+      "adoption_pct": 87.5,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 83,
+        "friction": 100,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 96,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "strong vendor relationship",
+        "expansion discussion",
+        "high adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "multi-year expansion",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "one of our best vendor relationships"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "We want to discuss a multi-year expansion"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM committed to bring options to the next QBR",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will bring options to the next QBR"
+            }
+          ],
+          "confidence": 0.95
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.96
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Healthy account with strong expansion timing: 87.5% module adoption and a committed QBR expansion discussion already on the calendar.",
+      "situation": "Keystone Energy is in excellent shape at 96/100, flat week over week, with perfect adoption, engagement, friction, and milestone scores. Customer sentiment is positive at +0.80, and 87.5% of licensed modules are active, which supports the expansion signals already identified: multi-year expansion and good expansion candidate. The only meaningful forward motion item is the verified commitment that Diego will bring options to the next QBR.",
+      "risks": [
+        "Only 87.5% of licensed modules are active, so 12.5% of purchased capability is still unused and available for expansion conversation.",
+        "Renewal is 240 days out, so expansion needs to be advanced now rather than deferred into renewal timing.",
+        "The only verified commitment is to bring options to the next QBR, which means expansion is still discussion-stage and not yet a decision."
+      ],
+      "action": "This week, Diego should send Keystone a pre-QBR expansion note with 2-3 concrete multi-year package options and a brief value summary, then secure a meeting slot for the QBR where he can present them.",
+      "draft": "Subject: Options for our next QBR\n\nHi [Customer Name],\n\nFollowing up on our conversation, I’ll bring a few options to the next QBR for Keystone Energy to review. Based on your current usage and the areas we’ve seen strong traction, I’d like to propose 2-3 scenarios that could support a multi-year expansion discussion and help you get more value from the platform.\n\nIf helpful, I can also send a short pre-read ahead of the QBR so we can focus the discussion on the options that matter most to your team.\n\nWould you be open to confirming the QBR timing and any priorities you’d like us to cover?\n\nBest,\nDiego"
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1493,
+      "output_tokens": 172,
+      "total_tokens": 1665
+    },
+    "latency_s": 1.73,
+    "attempts": 1
+  },
+  "ACC-024": {
+    "account_id": "ACC-024",
+    "account": {
+      "name": "Sable Telecom",
+      "csm": "Diego Alvarez",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 500000,
+      "days_to_renewal": 180,
+      "open_tickets": 1,
+      "modules_licensed": 5,
+      "modules_active": 4
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'Steady usage, team is comfortable with the platform'",
+      "[EMAIL]\nCSM: 'Great, let us look at one more workflow to automate'",
+      "[SLACK | #cs-sable-telecom]\nSable Telecom looking strong (80% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 91,
+      "rag_status": "GREEN",
+      "adoption_pct": 80.0,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 70,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 90,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "steady usage",
+        "high adoption",
+        "expansion opportunity"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Steady usage, team is comfortable with the platform"
+        },
+        {
+          "source": "SLACK | #cs-sable-telecom",
+          "quote": "looking strong (80% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM offered to explore another workflow automation.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let us look at one more workflow to automate"
+            }
+          ],
+          "confidence": 0.88
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.89
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Healthy, high-adoption account with a clear opening to expand workflow automation.",
+      "situation": "Sable Telecom is in strong shape: health is 91/100, up from 90 last week, with perfect adoption and engagement scores of 100. They are using 80.0% of licensed modules, sentiment is positive at +0.80, and renewal is still 180 days out, which gives Diego room to drive NRR rather than defend retention. The verified commitment on the account is that the CSM offered to explore one more workflow to automate, which matches the expansion signal.",
+      "risks": [
+        "Recency is the weakest component at 70, which suggests the account is healthy but not deeply active in the most recent period.",
+        "Only 80.0% of licensed modules are active, so 20% of purchased capacity is still unused and may remain unmonetized if expansion is not pursued now.",
+        "Renewal is 180 days away, which is enough time to deprioritize the account unless Diego turns the automation commitment into a concrete next step this week."
+      ],
+      "action": "This week, Diego should send a concise expansion email to schedule a 30-minute working session on the additional workflow automation and confirm the specific process to evaluate.",
+      "draft": "Subject: Next workflow to automate\n\nHi [Customer Name],\n\nWe’ve had strong momentum with the current setup, and I wanted to follow up on our note about looking at one more workflow to automate.\n\nGiven the steady usage across the platform, I think there’s a good opportunity to identify one more high-value process that could save your team time or reduce manual handoffs. If you’re open to it, I’d like to set up 30 minutes this week to map the workflow and see whether it’s a fit.\n\nIf helpful, I can come prepared with 1-2 candidate workflows based on what we’ve seen so far.\n\nWould [two options] work for you?\n\nBest,\nDiego"
+    },
+    "grounding": {
+      "total": 4,
+      "grounded": 4,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1482,
+      "output_tokens": 176,
+      "total_tokens": 1658
+    },
+    "latency_s": 1.68,
+    "attempts": 1
+  },
+  "ACC-025": {
+    "account_id": "ACC-025",
+    "account": {
+      "name": "Copperline Utilities",
+      "csm": "Diego Alvarez",
+      "industry": "utilities",
+      "region": "LATAM",
+      "stage": "live",
+      "acv_usd": 650000,
+      "days_to_renewal": 210,
+      "open_tickets": 0,
+      "modules_licensed": 6,
+      "modules_active": 5
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'Renewal should be straightforward, we are happy'",
+      "[EMAIL]\nCSM: 'Wonderful, I will start the renewal paperwork early'",
+      "[SLACK | #cs-copperline-utilities]\nCopperline Utilities looking strong (83% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 95,
+      "rag_status": "GREEN",
+      "adoption_pct": 83.3,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 77,
+        "friction": 100,
+        "sentiment": 91,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 95,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.82,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "renewal readiness",
+        "high adoption",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Renewal should be straightforward, we are happy"
+        },
+        {
+          "source": "SLACK | #cs-copperline-utilities",
+          "quote": "looking strong (83% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM committed to starting renewal paperwork early.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will start the renewal paperwork early"
+            }
+          ],
+          "confidence": 0.96
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.95
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Copperline is a prime expansion account: 95/100 health, 83.3% module adoption, and no churn risk.",
+      "situation": "Copperline Utilities is in strong shape with a 95/100 health score, flat week over week, and every component at 77 or above. Adoption and engagement are both at 100, sentiment is positive at +0.82, and 83.3% of licensed modules are active, which leaves clear room to broaden usage. Renewal is still 210 days out, and the verified commitment on file is to start renewal paperwork early, so this is a good moment to position expansion alongside renewal readiness.",
+      "risks": [
+        "Only 83.3% of licensed modules are active, so 16.7% of modules are still unused and represent unrealized value.",
+        "Recency is the weakest component at 77, which suggests there is some room to increase current-touch cadence even though overall engagement is 100.",
+        "Renewal is 210 days away; if expansion is not introduced before renewal paperwork starts, there is a risk the opportunity gets pushed into a pure renewal motion."
+      ],
+      "action": "This week, send a short expansion outreach proposing a module review or add-on assessment and tie it to the early renewal paperwork commitment so Copperline can evaluate incremental value before the renewal process starts.",
+      "draft": "Subject: Quick idea to expand Copperline’s current footprint\n\nHi [Name],\n\nCopperline is already getting strong value from the platform, and with 83.3% of licensed modules active, I think there may be an opportunity to unlock more value from the modules you’re not yet using.\n\nSince renewal is still 210 days out, I wanted to propose a short working session to review your current usage and identify whether any additional modules or add-ons could help support your team’s goals before we start renewal paperwork.\n\nIf helpful, I can put together a simple expansion review and share where customers like you typically see the fastest ROI.\n\nBest,\nDiego"
+    },
+    "grounding": {
+      "total": 4,
+      "grounded": 4,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1479,
+      "output_tokens": 174,
+      "total_tokens": 1653
+    },
+    "latency_s": 1.58,
+    "attempts": 1
+  },
+  "ACC-026": {
+    "account_id": "ACC-026",
+    "account": {
+      "name": "Lumen Grid",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "deployment",
+      "acv_usd": 700000,
+      "days_to_renewal": 340,
+      "open_tickets": 1,
+      "modules_licensed": 4,
+      "modules_active": 2
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer PM: 'Onboarding has been smooth and the team is engaged'",
+      "[EMAIL]\nCSM: 'Excellent start — right on track for your 90-day value target'",
+      "[EMAIL]\nCustomer PM: 'We are optimistic about scaling this up'",
+      "[SLACK | #cs-lumen-grid]\nLumen Grid: steady. Adoption ~50%, 6d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 80,
+      "rag_status": "GREEN",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 100,
+        "recency": 80,
+        "friction": 80,
+        "sentiment": 85,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 79,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": 0.7,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "smooth onboarding",
+        "early adoption progress",
+        "scaling interest"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "scaling this up"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Onboarding has been smooth and the team is engaged"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "We are optimistic about scaling this up"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Adoption is only around halfway complete and needs monitoring",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-lumen-grid",
+              "quote": "Adoption ~50%, 6d since last contact"
+            }
+          ],
+          "confidence": 0.82
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM affirmed the account is on track for the 90-day value target",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "right on track for your 90-day value target"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.88
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Healthy account, but only 50% module adoption leaves clear NRR upside.",
+      "situation": "Lumen Grid is in good shape overall: health is 80/100, sentiment is positive at +0.70, and onboarding has been smooth with the account on track for the 90-day value target. Engagement and milestone completion are maxed out, and the theme from the account is scaling interest. The main gap is adoption: only 50.0% of licensed modules are active, so there is still meaningful room to expand usage before renewal, which is 340 days out.",
+      "risks": [
+        "Only 50.0% of licensed modules are active, so half of the paid footprint is still not in use.",
+        "The last verified touchpoint was 6 days ago, and the Slack note explicitly flags adoption as something to monitor.",
+        "Adoption is still rated 62/100, which is the weakest meaningful component in an otherwise strong account."
+      ],
+      "action": "This week, send a short expansion email to propose a module rollout plan tied to the account’s scaling interest, and book a 30-minute working session next week to identify 1-2 underused modules to activate.",
+      "draft": "Subject: Next step on scaling Lumen Grid’s rollout\n\nHi [Name],\n\nQuick check-in — things are moving in the right direction, and we’re still on track for the 90-day value target. I also wanted to follow up on the scaling interest you’ve shared.\n\nRight now, only about 50% of your licensed modules are active, which suggests there’s still room to expand the value you’re getting from the platform. If helpful, I’d like to set up a 30-minute working session next week to review the remaining modules and map out which 1–2 could be activated next based on your priorities.\n\nIf you’re open to it, I can send a few time options.\n\nBest,\nEmma"
+    },
+    "grounding": {
+      "total": 5,
+      "grounded": 5,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1512,
+      "output_tokens": 227,
+      "total_tokens": 1739
+    },
+    "latency_s": 1.95,
+    "attempts": 1
+  },
+  "ACC-027": {
+    "account_id": "ACC-027",
+    "account": {
+      "name": "Everest Energy",
+      "csm": "Emma Thompson",
+      "industry": "energy",
+      "region": "APAC",
+      "stage": "live",
+      "acv_usd": 1100000,
+      "days_to_renewal": 195,
+      "open_tickets": 1,
+      "modules_licensed": 7,
+      "modules_active": 6
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Director: 'Reliable platform, our operations depend on it now'",
+      "[EMAIL]\nCSM: 'Glad to hear — let us plan the next phase of adoption'",
+      "[SLACK | #cs-everest-energy]\nEverest Energy looking strong (86% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 91,
+      "rag_status": "GREEN",
+      "adoption_pct": 85.7,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 73,
+        "friction": 80,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 91,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "strong adoption",
+        "platform dependency",
+        "next phase adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Reliable platform, our operations depend on it now"
+        },
+        {
+          "source": "SLACK | #cs-everest-energy",
+          "quote": "looking strong (86% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM proposed planning the next phase of adoption.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "let us plan the next phase of adoption"
+            }
+          ],
+          "confidence": 0.82
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.9
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Everest is a high-performing, low-risk expansion account with 85.7% module adoption and a clear invitation to plan the next phase.",
+      "situation": "Everest Energy is very healthy at 91/100, unchanged from last week, with perfect adoption and engagement scores (100/100 each) and strong sentiment at +0.80. The account is already using 85.7% of licensed modules, and the analyst read confirms the CSM has already proposed, \"let us plan the next phase of adoption.\" Renewal is not imminent at 195 days, so this is the right window to convert strong product usage into a structured expansion conversation.",
+      "risks": [
+        "Only 85.7% of licensed modules are active, so 14.3% of licensed value is still unused and could remain unmonetized without a next-phase plan.",
+        "Recency is the weakest component at 73/100, which suggests the account is not in a fresh interaction cycle despite perfect adoption and engagement.",
+        "Renewal is 195 days out, so if expansion is not started now, the account could settle into business-as-usual and delay NRR growth."
+      ],
+      "action": "This week, send Emma Thompson a concise expansion email proposing a 30-minute working session to map Everest’s next phase of adoption and identify the remaining licensed modules or adjacent use cases to activate before renewal planning starts.",
+      "draft": "Subject: Planning Everest’s next phase of adoption\n\nHi Emma,\n\nGiven how strongly Everest is using the platform today, I’d like to suggest we set up a short working session to plan the next phase of adoption.\n\nYou’re at 85.7% of licensed modules active, engagement is at 100/100, and sentiment remains positive (+0.80), which makes this a good time to identify where the remaining modules or adjacent workflows could create additional value.\n\nWould you be open to a 30-minute session next week to map out:\n- which licensed modules are still not active,\n- where current teams are hitting the platform’s limits, and\n- what a next-step expansion would look like ahead of renewal planning?\n\nIf helpful, I can come prepared with a simple recommendation based on current usage.\n\nBest,\n[CSM Name]"
+    },
+    "grounding": {
+      "total": 4,
+      "grounded": 4,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1479,
+      "output_tokens": 173,
+      "total_tokens": 1652
+    },
+    "latency_s": 1.9,
+    "attempts": 1
+  },
+  "ACC-028": {
+    "account_id": "ACC-028",
+    "account": {
+      "name": "Coastal Power",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 800000,
+      "days_to_renewal": 205,
+      "open_tickets": 0,
+      "modules_licensed": 6,
+      "modules_active": 5
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'No issues, the field teams like it'",
+      "[EMAIL]\nCSM: 'Perfect, I will share some advanced tips at our next sync'",
+      "[SLACK | #cs-coastal-power]\nCoastal Power looking strong (83% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 94,
+      "rag_status": "GREEN",
+      "adoption_pct": 83.3,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 67,
+        "friction": 100,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 94,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "high adoption",
+        "customer satisfaction",
+        "expansion potential"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "No issues, the field teams like it"
+        },
+        {
+          "source": "SLACK | #cs-coastal-power",
+          "quote": "looking strong (83% adoption) — good expansion candidate."
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "CSM plans to share advanced tips at the next sync",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "I will share some advanced tips at our next sync"
+            }
+          ],
+          "confidence": 0.94
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.93
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Healthy, high-adoption account with clear upside: Coastal Power is stable at 94/100 and ready for a targeted upsell conversation.",
+      "situation": "Coastal Power is performing strongly across the board: health is 94/100 with no week-over-week change, adoption and engagement are both 100, and friction is also 100. The account is using 83.3% of licensed modules, sentiment is positive at +0.80, and renewal is 205 days out, which gives us room to build an expansion case without renewal pressure. The verified commitment is that the CSM plans to share advanced tips at the next sync, which is a good opening to connect usage maturity to additional modules or services.",
+      "risks": [
+        "Recency is the only soft spot at 67, so the account is not fully active in the most recent period despite perfect adoption and engagement scores.",
+        "Only 83.3% of licensed modules are active, leaving 16.7% of paid capability unused and creating a concrete expansion opportunity that is not yet captured.",
+        "Renewal is still 205 days away, so expansion momentum needs to be created now rather than waiting for the renewal cycle."
+      ],
+      "action": "In this week’s sync, lead with advanced tips tied to current usage and ask for a 15-minute expansion discovery next week to map the remaining 16.7% of licensed modules against their team’s goals.",
+      "draft": "Subject: A few advanced ideas for Coastal Power + a quick expansion check-in\n\nHi [Customer Name],\n\nAs promised, I’ll share some advanced tips at our next sync to help your team get even more value from Fieldora.\n\nOne thing I wanted to raise ahead of that conversation: you’re already getting strong results from the platform, and I noticed you’re actively using 83.3% of your licensed modules. That usually means there’s a real opportunity to unlock additional value from the capabilities not yet in use.\n\nWould you be open to a short 15-minute conversation next week to review what you’re trying to improve this quarter and see whether any of the remaining modules or services could help?\n\nIf it’s helpful, I can come prepared with a couple of concrete examples based on how similar teams are using the platform.\n\nBest,\nEmma"
+    },
+    "grounding": {
+      "total": 4,
+      "grounded": 4,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1478,
+      "output_tokens": 181,
+      "total_tokens": 1659
+    },
+    "latency_s": 1.92,
+    "attempts": 1
+  },
+  "ACC-029": {
+    "account_id": "ACC-029",
+    "account": {
+      "name": "Redwood Utilities",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 950000,
+      "days_to_renewal": 230,
+      "open_tickets": 0,
+      "modules_licensed": 8,
+      "modules_active": 7
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer VP: 'We are ready to expand into two more business units'",
+      "[EMAIL]\nCustomer VP: 'Also happy to refer a peer utility your way'",
+      "[EMAIL]\nCSM: 'Amazing — let us scope the expansion and the referral together'",
+      "[SLACK | #cs-redwood-utilities]\nRedwood Utilities looking strong (88% adoption) — good expansion candidate."
+    ],
+    "health": {
+      "score": 96,
+      "rag_status": "GREEN",
+      "adoption_pct": 87.5,
+      "components": {
+        "adoption": 100,
+        "engagement": 100,
+        "recency": 80,
+        "friction": 100,
+        "sentiment": 90,
+        "milestone": 100
+      },
+      "rules_fired": [],
+      "previous_score": 96,
+      "delta": 0
+    },
+    "signals": {
+      "sentiment_score": 0.8,
+      "sentiment_label": "POSITIVE",
+      "key_themes": [
+        "expansion interest",
+        "referral intent",
+        "strong adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [
+        "ready to expand into two more business units",
+        "happy to refer a peer utility your way",
+        "good expansion candidate"
+      ],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "We are ready to expand into two more business units"
+        },
+        {
+          "source": "SLACK | #cs-redwood-utilities",
+          "quote": "looking strong (88% adoption)"
+        }
+      ],
+      "risks": [],
+      "commitments": [
+        {
+          "summary": "Customer is ready to expand into two more business units.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "We are ready to expand into two more business units"
+            }
+          ],
+          "confidence": 0.97
+        },
+        {
+          "summary": "Customer is willing to refer a peer utility.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "happy to refer a peer utility your way"
+            }
+          ],
+          "confidence": 0.96
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.94
+    },
+    "brief": {
+      "brief_type": "EXPANSION",
+      "headline": "Redwood is green and expansion-ready: two more business units plus a referral opportunity are both live.",
+      "situation": "Redwood Utilities is in strong shape: health is 96/100 and flat week over week, adoption is 87.5% of licensed modules active, and all core components are scoring 80-100 with friction at 100. The customer has explicitly said they are ready to expand into two more business units and are happy to refer a peer utility, so the account is positioned for NRR growth rather than retention risk.",
+      "risks": [
+        "Expansion is delayed by inaction: the customer has already said they are ready to expand into two more business units, so waiting risks losing momentum on a live buying signal.",
+        "Referral value can go stale if not captured now: the customer stated they are happy to refer a peer utility, which is a time-sensitive advocacy signal.",
+        "Renewal is still 230 days out, so there is a window to anchor expansion now before renewal timing becomes the only driver."
+      ],
+      "action": "This week, send a short expansion email to confirm the two-business-unit rollout path and ask for a 30-minute working session to scope users, modules, and timeline; in the same thread, request the referral introduction to the peer utility.",
+      "draft": "Subject: Next step on Redwood’s expansion\n\nHi [Customer Name],\n\nGreat to hear Redwood is ready to expand into two more business units. Given the strong adoption across 87.5% of licensed modules and the clean health score, I’d love to set up a 30-minute working session this week to map the rollout path, confirm the teams involved, and identify any module or training needs so we can move quickly.\n\nAlso, thank you for offering to refer a peer utility — I’d be glad to make that easy. If you’re comfortable, please reply with the best contact and I’ll coordinate the intro, or I can send a short blurb you can forward.\n\nWould Tuesday or Thursday work for the expansion planning session?\n\nBest,\nEmma"
+    },
+    "grounding": {
+      "total": 7,
+      "grounded": 7,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1497,
+      "output_tokens": 234,
+      "total_tokens": 1731
+    },
+    "latency_s": 2.07,
+    "attempts": 1
+  },
+  "ACC-030": {
+    "account_id": "ACC-030",
+    "account": {
+      "name": "Orion Telecom",
+      "csm": "Emma Thompson",
+      "industry": "telecom",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 600000,
+      "days_to_renewal": 125,
+      "open_tickets": 2,
+      "modules_licensed": 6,
+      "modules_active": 3
+    },
+    "raw_comms": [
+      "[EMAIL]\nCustomer Manager: 'Engagement has been a bit inconsistent lately'",
+      "[EMAIL]\nCSM: 'Let us schedule a refresher and revisit your key use cases'",
+      "[EMAIL]\nCustomer Manager: 'Good idea, the team could use a reset'",
+      "[SLACK | #cs-orion-telecom]\nOrion Telecom: steady. Adoption ~50%, 23d since last contact — keeping an eye on it."
+    ],
+    "health": {
+      "score": 53,
+      "rag_status": "AMBER",
+      "adoption_pct": 50.0,
+      "components": {
+        "adoption": 62,
+        "engagement": 55,
+        "recency": 23,
+        "friction": 60,
+        "sentiment": 50,
+        "milestone": 60
+      },
+      "rules_fired": [],
+      "previous_score": 52,
+      "delta": 1
+    },
+    "signals": {
+      "sentiment_score": 0.0,
+      "sentiment_label": "NEUTRAL",
+      "key_themes": [
+        "inconsistent engagement",
+        "refresher / reset",
+        "partial adoption"
+      ],
+      "churn_signals": [],
+      "expansion_signals": [],
+      "sentiment_evidence": [
+        {
+          "source": "EMAIL",
+          "quote": "Engagement has been a bit inconsistent lately"
+        },
+        {
+          "source": "EMAIL",
+          "quote": "Good idea, the team could use a reset"
+        }
+      ],
+      "risks": [
+        {
+          "summary": "Engagement has recently been inconsistent.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Engagement has been a bit inconsistent lately"
+            }
+          ],
+          "confidence": 0.88
+        },
+        {
+          "summary": "Adoption appears only partial.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-orion-telecom",
+              "quote": "Adoption ~50%"
+            }
+          ],
+          "confidence": 0.84
+        },
+        {
+          "summary": "There has been a long gap since last contact.",
+          "evidence": [
+            {
+              "source": "SLACK | #cs-orion-telecom",
+              "quote": "23d since last contact"
+            }
+          ],
+          "confidence": 0.8
+        }
+      ],
+      "commitments": [
+        {
+          "summary": "CSM proposed a refresher and a review of key use cases.",
+          "evidence": [
+            {
+              "source": "EMAIL",
+              "quote": "Let us schedule a refresher and revisit your key use cases"
+            }
+          ],
+          "confidence": 0.9
+        }
+      ],
+      "blockers": [],
+      "open_asks": [],
+      "competitor_mentions": [],
+      "stakeholder_changes": [],
+      "overall_confidence": 0.84
+    },
+    "brief": {
+      "brief_type": "STANDARD",
+      "headline": "Orion Telecom is stable but drifting: only 50% module adoption and no contact in 23 days are keeping the account amber.",
+      "situation": "Health is AMBER at 53/100, up just 1 point from last week, so this is not a crisis but it is not improving materially. Adoption is still partial at 50.0% of licensed modules active, and engagement has been uneven, with the last contact 23 days ago. Sentiment is neutral, which suggests the main issue is usage consistency and cadence, not dissatisfaction.",
+      "risks": [
+        "Engagement has been inconsistent lately, per the verified analyst read, and the account has gone 23 days since last contact.",
+        "Adoption is only 50.0% of licensed modules active, so half of the purchased footprint is still not in use.",
+        "The health score moved only from 52 to 53 week over week, which suggests the account is stuck rather than recovering quickly."
+      ],
+      "action": "This week, Emma should send a proactive check-in and book a refresher call focused on Orion Telecom’s key use cases, with a clear goal of reviewing what is and is not being used and resetting the adoption plan.",
+      "draft": "Internal note for next check-in: Orion Telecom is still amber with 50% module adoption and 23 days since our last contact. I’m going to reach out to schedule a refresher and revisit your key use cases, then align on which modules should be activated next to improve consistency. This is a proactive reset, not a concern call — the goal is to tighten cadence and move the account beyond partial adoption."
+    },
+    "grounding": {
+      "total": 6,
+      "grounded": 6,
+      "unsupported": []
+    },
+    "usage": {
+      "input_tokens": 1511,
+      "output_tokens": 293,
+      "total_tokens": 1804
+    },
+    "latency_s": 2.08,
+    "attempts": 1
+  }
+}
+

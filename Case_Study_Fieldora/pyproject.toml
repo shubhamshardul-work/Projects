@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fieldora-cs-intelligence"
+version = "0.1.0"
+description = "Hybrid (deterministic + LLM) account-health engine and weekly-brief generator for Customer Success, orchestrated with LangGraph."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "langgraph",
+    "langchain-core",
+    "pydantic>=2",
+    "python-dotenv",
+]
+
+[project.optional-dependencies]
+anthropic = ["langchain-anthropic"]
+openai = ["langchain-openai"]
+google = ["langchain-google-genai"]
+all = ["langchain-anthropic", "langchain-openai", "langchain-google-genai"]
+dev = ["pytest"]
+# Optional: semantic LLM-as-judge evals. Heavy; install only to run the DeepEval faithfulness test.
+eval = ["deepeval"]
+# Optional: MCP data sources (SLACK_MODE=mcp / EMAIL_MODE=mcp). Also needs a running MCP server.
+mcp = ["langchain-mcp-adapters"]
+# Optional: the Streamlit dashboard (brings altair + pandas transitively).
+ui = ["streamlit"]
+
+[project.scripts]
+fieldora = "fieldora:main"
+
+# The installable code is the fieldora/ package (core · sources · agent · cli). app.py (Streamlit)
+# and tests.py are run directly, not installed as importable modules.
+[tool.setuptools]
+packages = ["fieldora"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests.py"]

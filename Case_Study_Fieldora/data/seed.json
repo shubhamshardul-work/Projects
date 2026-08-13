@@ -1,0 +1,672 @@
+{
+  "accounts": [
+    {
+      "account_id": "ACC-001",
+      "name": "Meridian Telecom",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1200000,
+      "account_age_months": 7,
+      "modules_licensed": 8,
+      "modules_active": 3,
+      "logins_last_30d": 2,
+      "days_since_csm_contact": 35,
+      "open_tickets": 4,
+      "days_to_renewal": 68,
+      "milestone_status": "Advanced workflows: DELAYED | Reporting module: NOT STARTED",
+      "recent_comms": [
+        "Customer IT Lead: 'We are struggling to get the team on board with new modules'",
+        "CSM: 'Happy to schedule a training session, let me know your availability'",
+        "Customer IT Lead: 'Will circle back after Q3 planning' — sent 3 weeks ago, no follow-up since"
+      ]
+    },
+    {
+      "account_id": "ACC-002",
+      "name": "Apex Utilities",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 900000,
+      "account_age_months": 14,
+      "modules_licensed": 6,
+      "modules_active": 5,
+      "logins_last_30d": 45,
+      "days_since_csm_contact": 8,
+      "open_tickets": 1,
+      "days_to_renewal": 210,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer CTO: 'Great QBR last week, the team is excited about the roadmap'",
+        "CSM: 'Sending over the expansion proposal for the Compliance module'",
+        "Customer CTO: 'Looping in our procurement team on the expansion'"
+      ]
+    },
+    {
+      "account_id": "ACC-003",
+      "name": "NovaPower Grid",
+      "csm": "Sarah Chen",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 600000,
+      "account_age_months": 8,
+      "modules_licensed": 5,
+      "modules_active": 2,
+      "logins_last_30d": 8,
+      "days_since_csm_contact": 22,
+      "open_tickets": 3,
+      "days_to_renewal": 45,
+      "milestone_status": "Compliance reporting: DELAYED | Core scheduling: COMPLETE",
+      "recent_comms": [
+        "Customer Ops Manager: 'The scheduling module went down twice this month, this is unacceptable'",
+        "Support ticket #847: Platform performance issues — open for 12 days",
+        "CSM: 'Escalated to engineering, will provide update by end of week'",
+        "Customer Ops Manager: 'Still waiting on the update from last week'"
+      ]
+    },
+    {
+      "account_id": "ACC-004",
+      "name": "Vantage Energy",
+      "csm": "Marcus Webb",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 450000,
+      "account_age_months": 10,
+      "modules_licensed": 4,
+      "modules_active": 4,
+      "logins_last_30d": 30,
+      "days_since_csm_contact": 5,
+      "open_tickets": 0,
+      "days_to_renewal": 155,
+      "milestone_status": "All milestones: COMPLETE — ahead of schedule",
+      "recent_comms": [
+        "Customer VP Operations: 'Can we discuss adding the AI scheduling module? Our team loves the platform'",
+        "CSM: 'Absolutely, I will set up a demo for next week'",
+        "Customer VP Operations: 'Also referring you to our sister company Vantage West'"
+      ]
+    },
+    {
+      "account_id": "ACC-005",
+      "name": "Summit Wireless",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 800000,
+      "account_age_months": 9,
+      "modules_licensed": 7,
+      "modules_active": 2,
+      "logins_last_30d": 3,
+      "days_since_csm_contact": 31,
+      "open_tickets": 4,
+      "days_to_renewal": 80,
+      "milestone_status": "Analytics: DELAYED | Integrations: NOT STARTED",
+      "recent_comms": [
+        "Customer VP: 'Honestly we expected more value by now, the rollout has stalled'",
+        "Customer VP: 'Leadership is asking whether we should re-evaluate options at renewal'",
+        "CSM: 'I understand the concern, let me put together a recovery plan'"
+      ]
+    },
+    {
+      "account_id": "ACC-006",
+      "name": "Riverbend Utilities",
+      "csm": "Sarah Chen",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 650000,
+      "account_age_months": 11,
+      "modules_licensed": 5,
+      "modules_active": 3,
+      "logins_last_30d": 12,
+      "days_since_csm_contact": 18,
+      "open_tickets": 2,
+      "days_to_renewal": 140,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'Adoption on the reporting module has been slower than we hoped'",
+        "CSM: 'Let us line up a short enablement session for that team'",
+        "Customer Manager: 'That works, we want to get more out of it'"
+      ]
+    },
+    {
+      "account_id": "ACC-007",
+      "name": "Helios Energy",
+      "csm": "Sarah Chen",
+      "industry": "energy",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 1100000,
+      "account_age_months": 13,
+      "modules_licensed": 8,
+      "modules_active": 4,
+      "logins_last_30d": 10,
+      "days_since_csm_contact": 20,
+      "open_tickets": 3,
+      "days_to_renewal": 110,
+      "milestone_status": "Reporting: DELAYED | Core modules: COMPLETE",
+      "recent_comms": [
+        "Customer Lead: 'The delayed reporting rollout is a bit frustrating but manageable'",
+        "CSM: 'We have a fix planned for next sprint, I will keep you posted'",
+        "Customer Lead: 'Appreciated, keep us in the loop'"
+      ]
+    },
+    {
+      "account_id": "ACC-008",
+      "name": "Pinnacle Telecom",
+      "csm": "Sarah Chen",
+      "industry": "telecom",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1400000,
+      "account_age_months": 16,
+      "modules_licensed": 8,
+      "modules_active": 7,
+      "logins_last_30d": 40,
+      "days_since_csm_contact": 6,
+      "open_tickets": 1,
+      "days_to_renewal": 190,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Director: 'The team is getting real value from the platform'",
+        "CSM: 'Great to hear, let us keep building on that momentum'",
+        "Customer Director: 'Looking forward to the next roadmap review'"
+      ]
+    },
+    {
+      "account_id": "ACC-009",
+      "name": "Terra Energy",
+      "csm": "Sarah Chen",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 950000,
+      "account_age_months": 12,
+      "modules_licensed": 6,
+      "modules_active": 5,
+      "logins_last_30d": 33,
+      "days_since_csm_contact": 9,
+      "open_tickets": 0,
+      "days_to_renewal": 160,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer VP: 'We would like to explore the predictive maintenance module'",
+        "CSM: 'Happy to scope that with you next week'",
+        "Customer VP: 'Perfect, the team is very happy with results so far'"
+      ]
+    },
+    {
+      "account_id": "ACC-010",
+      "name": "Beacon Utilities",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 720000,
+      "account_age_months": 15,
+      "modules_licensed": 7,
+      "modules_active": 6,
+      "logins_last_30d": 28,
+      "days_since_csm_contact": 7,
+      "open_tickets": 1,
+      "days_to_renewal": 220,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'Solid quarter, the field teams are onboard'",
+        "CSM: 'Glad to hear it, adoption looks strong on our side too'"
+      ]
+    },
+    {
+      "account_id": "ACC-011",
+      "name": "Northwind Energy",
+      "csm": "Marcus Webb",
+      "industry": "energy",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 1300000,
+      "account_age_months": 18,
+      "modules_licensed": 5,
+      "modules_active": 5,
+      "logins_last_30d": 48,
+      "days_since_csm_contact": 4,
+      "open_tickets": 0,
+      "days_to_renewal": 250,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer CTO: 'Fieldora is now core to our field operations'",
+        "Customer CTO: 'Happy to be a reference, and we may refer a partner utility'",
+        "CSM: 'That means a lot, thank you — let us set up a reference call'"
+      ]
+    },
+    {
+      "account_id": "ACC-012",
+      "name": "Cascade Communications",
+      "csm": "Marcus Webb",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 600000,
+      "account_age_months": 10,
+      "modules_licensed": 5,
+      "modules_active": 4,
+      "logins_last_30d": 24,
+      "days_since_csm_contact": 11,
+      "open_tickets": 1,
+      "days_to_renewal": 175,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Lead: 'Things are running smoothly, no complaints'",
+        "CSM: 'Great — I will share a couple of tips to push adoption even higher'"
+      ]
+    },
+    {
+      "account_id": "ACC-013",
+      "name": "Cardinal Power",
+      "csm": "Marcus Webb",
+      "industry": "utilities",
+      "region": "APAC",
+      "stage": "deployment",
+      "acv_usd": 500000,
+      "account_age_months": 5,
+      "modules_licensed": 4,
+      "modules_active": 2,
+      "logins_last_30d": 14,
+      "days_since_csm_contact": 16,
+      "open_tickets": 2,
+      "days_to_renewal": 300,
+      "milestone_status": "Go-live: COMPLETE | Advanced workflows: IN PROGRESS",
+      "recent_comms": [
+        "Customer PM: 'Onboarding went well, we are ramping the second team now'",
+        "CSM: 'Nice progress for month five, let us keep the momentum'",
+        "Customer PM: 'Agreed, a couple of open tickets to close out though'"
+      ]
+    },
+    {
+      "account_id": "ACC-014",
+      "name": "Ironclad Water",
+      "csm": "Priya Nair",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 900000,
+      "account_age_months": 14,
+      "modules_licensed": 6,
+      "modules_active": 1,
+      "logins_last_30d": 2,
+      "days_since_csm_contact": 40,
+      "open_tickets": 5,
+      "days_to_renewal": 75,
+      "milestone_status": "Workflow automation: DELAYED | Compliance: NOT STARTED",
+      "recent_comms": [
+        "Customer VP: 'This has not delivered what we were promised, we are extremely disappointed'",
+        "Customer VP: 'We are actively evaluating alternatives ahead of renewal'",
+        "CSM: 'I want to make this right — can we get executives together this week?'"
+      ]
+    },
+    {
+      "account_id": "ACC-015",
+      "name": "Vertex Mobile",
+      "csm": "Priya Nair",
+      "industry": "telecom",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 780000,
+      "account_age_months": 8,
+      "modules_licensed": 6,
+      "modules_active": 3,
+      "logins_last_30d": 11,
+      "days_since_csm_contact": 22,
+      "open_tickets": 2,
+      "days_to_renewal": 130,
+      "milestone_status": "Analytics: DELAYED | Core modules: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'Usage is okay but we have not rolled out to all regions yet'",
+        "CSM: 'Let us build a rollout plan for the remaining regions'",
+        "Customer Manager: 'Sounds good, send over a proposed timeline'"
+      ]
+    },
+    {
+      "account_id": "ACC-016",
+      "name": "BlueRock Energy",
+      "csm": "Priya Nair",
+      "industry": "energy",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 1000000,
+      "account_age_months": 12,
+      "modules_licensed": 7,
+      "modules_active": 4,
+      "logins_last_30d": 13,
+      "days_since_csm_contact": 17,
+      "open_tickets": 3,
+      "days_to_renewal": 120,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Lead: 'A few open support tickets are slowing the team down'",
+        "CSM: 'I will prioritise those with support and report back'",
+        "Customer Lead: 'Thanks, otherwise the platform is working for us'"
+      ]
+    },
+    {
+      "account_id": "ACC-017",
+      "name": "Granite Utilities",
+      "csm": "Priya Nair",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 550000,
+      "account_age_months": 9,
+      "modules_licensed": 5,
+      "modules_active": 3,
+      "logins_last_30d": 9,
+      "days_since_csm_contact": 25,
+      "open_tickets": 2,
+      "days_to_renewal": 145,
+      "milestone_status": "Reporting: DELAYED | Core modules: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'We have been heads-down, engagement dipped a little this month'",
+        "CSM: 'No problem, let us reconnect and refocus on key workflows'"
+      ]
+    },
+    {
+      "account_id": "ACC-018",
+      "name": "Horizon Telecom",
+      "csm": "Priya Nair",
+      "industry": "telecom",
+      "region": "APAC",
+      "stage": "live",
+      "acv_usd": 1200000,
+      "account_age_months": 17,
+      "modules_licensed": 7,
+      "modules_active": 6,
+      "logins_last_30d": 35,
+      "days_since_csm_contact": 8,
+      "open_tickets": 1,
+      "days_to_renewal": 200,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Director: 'Strong adoption across our field teams, very pleased'",
+        "CSM: 'Excellent — let us review advanced modules at the next QBR'"
+      ]
+    },
+    {
+      "account_id": "ACC-019",
+      "name": "Solstice Power",
+      "csm": "Priya Nair",
+      "industry": "energy",
+      "region": "LATAM",
+      "stage": "live",
+      "acv_usd": 700000,
+      "account_age_months": 13,
+      "modules_licensed": 5,
+      "modules_active": 4,
+      "logins_last_30d": 26,
+      "days_since_csm_contact": 10,
+      "open_tickets": 0,
+      "days_to_renewal": 165,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer VP: 'We are interested in expanding to the analytics suite'",
+        "CSM: 'Great, I will prepare an expansion proposal'",
+        "Customer VP: 'The team has been very satisfied overall'"
+      ]
+    },
+    {
+      "account_id": "ACC-020",
+      "name": "Atlas Networks",
+      "csm": "Diego Alvarez",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "deployment",
+      "acv_usd": 850000,
+      "account_age_months": 4,
+      "modules_licensed": 6,
+      "modules_active": 1,
+      "logins_last_30d": 5,
+      "days_since_csm_contact": 20,
+      "open_tickets": 3,
+      "days_to_renewal": 330,
+      "milestone_status": "Go-live: COMPLETE | First workflow adoption: DELAYED (past 90-day TTV) | Training: NOT STARTED",
+      "recent_comms": [
+        "Customer Sponsor: 'We went live months ago but the team still is not really using it'",
+        "Customer Sponsor: 'I need to see adoption pick up soon to justify this internally'",
+        "CSM: 'Let us reset the enablement plan and get training scheduled this week'"
+      ]
+    },
+    {
+      "account_id": "ACC-021",
+      "name": "Delta Water Authority",
+      "csm": "Diego Alvarez",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "live",
+      "acv_usd": 600000,
+      "account_age_months": 10,
+      "modules_licensed": 6,
+      "modules_active": 3,
+      "logins_last_30d": 10,
+      "days_since_csm_contact": 19,
+      "open_tickets": 3,
+      "days_to_renewal": 115,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'A couple of tickets are open but nothing critical'",
+        "CSM: 'I will chase those down and confirm resolution timelines'",
+        "Customer Manager: 'Appreciated'"
+      ]
+    },
+    {
+      "account_id": "ACC-022",
+      "name": "Pioneer Energy",
+      "csm": "Diego Alvarez",
+      "industry": "energy",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 1000000,
+      "account_age_months": 11,
+      "modules_licensed": 8,
+      "modules_active": 4,
+      "logins_last_30d": 12,
+      "days_since_csm_contact": 21,
+      "open_tickets": 2,
+      "days_to_renewal": 135,
+      "milestone_status": "Advanced analytics: DELAYED | Core modules: COMPLETE",
+      "recent_comms": [
+        "Customer Lead: 'Good progress, still want to activate the analytics piece'",
+        "CSM: 'Let us prioritise the analytics rollout next month'"
+      ]
+    },
+    {
+      "account_id": "ACC-023",
+      "name": "Keystone Energy",
+      "csm": "Diego Alvarez",
+      "industry": "energy",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 1500000,
+      "account_age_months": 20,
+      "modules_licensed": 8,
+      "modules_active": 7,
+      "logins_last_30d": 44,
+      "days_since_csm_contact": 5,
+      "open_tickets": 0,
+      "days_to_renewal": 240,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer CTO: 'This is one of our best vendor relationships'",
+        "Customer CTO: 'We want to discuss a multi-year expansion'",
+        "CSM: 'Fantastic — I will bring options to the next QBR'"
+      ]
+    },
+    {
+      "account_id": "ACC-024",
+      "name": "Sable Telecom",
+      "csm": "Diego Alvarez",
+      "industry": "telecom",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 500000,
+      "account_age_months": 14,
+      "modules_licensed": 5,
+      "modules_active": 4,
+      "logins_last_30d": 27,
+      "days_since_csm_contact": 9,
+      "open_tickets": 1,
+      "days_to_renewal": 180,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'Steady usage, team is comfortable with the platform'",
+        "CSM: 'Great, let us look at one more workflow to automate'"
+      ]
+    },
+    {
+      "account_id": "ACC-025",
+      "name": "Copperline Utilities",
+      "csm": "Diego Alvarez",
+      "industry": "utilities",
+      "region": "LATAM",
+      "stage": "live",
+      "acv_usd": 650000,
+      "account_age_months": 12,
+      "modules_licensed": 6,
+      "modules_active": 5,
+      "logins_last_30d": 30,
+      "days_since_csm_contact": 7,
+      "open_tickets": 0,
+      "days_to_renewal": 210,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer VP: 'Renewal should be straightforward, we are happy'",
+        "CSM: 'Wonderful, I will start the renewal paperwork early'"
+      ]
+    },
+    {
+      "account_id": "ACC-026",
+      "name": "Lumen Grid",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-Central",
+      "stage": "deployment",
+      "acv_usd": 700000,
+      "account_age_months": 3,
+      "modules_licensed": 4,
+      "modules_active": 2,
+      "logins_last_30d": 20,
+      "days_since_csm_contact": 6,
+      "open_tickets": 1,
+      "days_to_renewal": 340,
+      "milestone_status": "Go-live: COMPLETE | First workflow adoption: ON TRACK",
+      "recent_comms": [
+        "Customer PM: 'Onboarding has been smooth and the team is engaged'",
+        "CSM: 'Excellent start — right on track for your 90-day value target'",
+        "Customer PM: 'We are optimistic about scaling this up'"
+      ]
+    },
+    {
+      "account_id": "ACC-027",
+      "name": "Everest Energy",
+      "csm": "Emma Thompson",
+      "industry": "energy",
+      "region": "APAC",
+      "stage": "live",
+      "acv_usd": 1100000,
+      "account_age_months": 16,
+      "modules_licensed": 7,
+      "modules_active": 6,
+      "logins_last_30d": 38,
+      "days_since_csm_contact": 8,
+      "open_tickets": 1,
+      "days_to_renewal": 195,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Director: 'Reliable platform, our operations depend on it now'",
+        "CSM: 'Glad to hear — let us plan the next phase of adoption'"
+      ]
+    },
+    {
+      "account_id": "ACC-028",
+      "name": "Coastal Power",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-East",
+      "stage": "live",
+      "acv_usd": 800000,
+      "account_age_months": 13,
+      "modules_licensed": 6,
+      "modules_active": 5,
+      "logins_last_30d": 29,
+      "days_since_csm_contact": 10,
+      "open_tickets": 0,
+      "days_to_renewal": 205,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'No issues, the field teams like it'",
+        "CSM: 'Perfect, I will share some advanced tips at our next sync'"
+      ]
+    },
+    {
+      "account_id": "ACC-029",
+      "name": "Redwood Utilities",
+      "csm": "Emma Thompson",
+      "industry": "utilities",
+      "region": "US-West",
+      "stage": "live",
+      "acv_usd": 950000,
+      "account_age_months": 15,
+      "modules_licensed": 8,
+      "modules_active": 7,
+      "logins_last_30d": 41,
+      "days_since_csm_contact": 6,
+      "open_tickets": 0,
+      "days_to_renewal": 230,
+      "milestone_status": "All milestones: COMPLETE",
+      "recent_comms": [
+        "Customer VP: 'We are ready to expand into two more business units'",
+        "Customer VP: 'Also happy to refer a peer utility your way'",
+        "CSM: 'Amazing — let us scope the expansion and the referral together'"
+      ]
+    },
+    {
+      "account_id": "ACC-030",
+      "name": "Orion Telecom",
+      "csm": "Emma Thompson",
+      "industry": "telecom",
+      "region": "EMEA",
+      "stage": "live",
+      "acv_usd": 600000,
+      "account_age_months": 9,
+      "modules_licensed": 6,
+      "modules_active": 3,
+      "logins_last_30d": 11,
+      "days_since_csm_contact": 23,
+      "open_tickets": 2,
+      "days_to_renewal": 125,
+      "milestone_status": "Reporting: DELAYED | Core modules: COMPLETE",
+      "recent_comms": [
+        "Customer Manager: 'Engagement has been a bit inconsistent lately'",
+        "CSM: 'Let us schedule a refresher and revisit your key use cases'",
+        "Customer Manager: 'Good idea, the team could use a reset'"
+      ]
+    }
+  ],
+  "comms": {
+    "ACC-003": "<!--\nRaw communications corpus for ACC-003 (NovaPower Grid).\nDeliberately messy and multi-source: long email threads with quoted history and\nsignatures, internal Slack, support tickets, and a rambling CRM call note. It\ncontains noise (an out-of-office), one contradiction (an old chirpy note vs. the\ncurrent escalation), and a hearsay competitor mention — so the extraction has to\nactually reason, not pattern-match. Do not \"clean this up\"; the mess is the point.\n-->\n\n### [EMAIL | 2026-08-05 | dana.ruiz@novapower.example → sarah.chen@fieldora.com]\nSubject: Re: Re: scheduling outage — AGAIN\n\nSarah,\n\nFrankly, this is unacceptable. The scheduling module went down twice this month,\nand this morning it happened again during our 6am dispatch window. My crews were\nstanding around for forty minutes. I am still waiting on the update you promised\nlast week.\n\nI have leadership asking me why we are paying for something that keeps failing. I\nneed a real answer this time, not another \"we've escalated it.\"\n\n> On Aug 1, Sarah Chen wrote:\n> Hi Dana — thanks for flagging, we've escalated this to engineering and I'll get\n> you an update by end of week.\n>\n> > On Jul 31, Dana Ruiz wrote:\n> > The platform went down again. This is the second time. Please advise.\n\nDana Ruiz\nDirector of Grid Operations, NovaPower\n—\nThis message and any attachments are confidential and intended solely for the\naddressee. If you have received this in error, please delete it.\n\n### [EMAIL | 2026-08-05 | sarah.chen@fieldora.com → dana.ruiz@novapower.example]\nSubject: Re: Re: scheduling outage — AGAIN\n\nDana — I completely understand the frustration and I'm sorry. I've escalated this\nto our engineering lead as a P1 and I'm pushing for a root-cause by Thursday. I'd\nlike to get our VP of Engineering on a call with you this week. Are you free\nWednesday afternoon?\n\nSarah\n\n### [EMAIL | 2026-08-06 | noreply@novapower.example → sarah.chen@fieldora.com]\nSubject: Automatic reply: Re: scheduling outage — AGAIN\n\nI am out of the office until August 11 with limited access to email. For urgent\ngrid-operations matters, contact the NOC duty desk. For all other matters I will\nrespond on my return.\n\n### [SLACK | #cs-novapower | 2026-08-06]\n@here heads-up on NovaPower — renewal is in 45 days and this is not in a good spot.\nAdoption is stuck around 40% (2 of 5 modules), compliance reporting is still not\nworking, and Dana is escalating outages to her leadership. I'm setting up an exec\ncall. Flagging as at-risk for the Monday review.\n\n### [SLACK | #cs-team | 2026-07-30]\nbtw on NovaPower — heard secondhand from the AE that their team has started looking\nat what else is out there for scheduling. Not confirmed, but worth taking seriously\ngiven the renewal timing.\n\n### [SUPPORT | TKT-847 | open 12d | priority: high]\nSubject: Platform performance degradation during peak scheduling\nCustomer reports the scheduling module becomes unresponsive during the 6am dispatch\nwindow. Reproduced intermittently. Two related outages logged this month. Awaiting\nroot-cause from engineering. Customer has asked for status twice.\n\n### [SUPPORT | TKT-851 | open 5d]\nSubject: Compliance report export failing\nThe monthly compliance report export returns an error for this account. Customer\nnotes they have a regulatory filing due and \"the compliance reporting is still not\nworking.\" Escalated to the reporting team.\n\n### [CRM_NOTE | QBR call log | 2026-07-17 | attendees: D.Ruiz, new VP Ops M.Feld, S.Chen]\nQBR recap. Tone was tense. Dana was direct: \"we need to see this stabilize before we\ncommit to the renewal.\" A new VP of Operations, Marcus Feld, has joined on their\nside and is reviewing all vendor contracts. Core scheduling is live but the crews\ndon't trust it after the outages; compliance reporting has been delayed for two\nmonths. Action items: root-cause the outages, get compliance export working, and\nschedule an exec-to-exec call before renewal.\n(For contrast: my Q1 note on this account read \"relationship is healthy, champion\nvery engaged\" — that has clearly changed since the outages started.)\n"
+  },
+  "gold": {
+    "_comment": "Hand-labelled extraction expectations per hero account. 'expect_present' = signal categories a CS analyst says should surface from that account's comms; the quality eval measures coverage (how many are found) + faithfulness (all citations grounded). Add accounts here as their data/comms/*.md corpora are authored.",
+    "ACC-003": {
+      "expect_sentiment": "NEGATIVE",
+      "expect_present": [
+        "risks",
+        "churn_signals",
+        "competitor_mentions",
+        "blockers",
+        "stakeholder_changes"
+      ]
+    }
+  }
+}

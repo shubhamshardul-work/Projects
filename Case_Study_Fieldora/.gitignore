@@ -1,0 +1,25 @@
+# Secrets — never commit real keys
+.env
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+.venv/
+venv/
+
+
+# Generated reports (the .gitkeep keeps the folder)
+reports/*.md
+
+
+# Generated / rebuildable data (the shipped source is just data/seed.json + data/snapshots.json).
+data/live/          # cred-free fixtures; rebuild with `python fieldora.py --build-fixtures`
+data/trend.json     # week-over-week score memory; recreated on the next scored run
+
+
+

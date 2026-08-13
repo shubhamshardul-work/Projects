@@ -1,0 +1,31 @@
+account_id,name,csm,industry,region,stage,acv_usd,account_age_months,days_to_renewal,days_since_csm_contact
+ACC-001,Meridian Telecom,Sarah Chen,telecom,US-East,live,1200000,7,68,35
+ACC-002,Apex Utilities,Marcus Webb,utilities,US-West,live,900000,14,210,8
+ACC-003,NovaPower Grid,Sarah Chen,utilities,US-Central,live,600000,8,45,22
+ACC-004,Vantage Energy,Marcus Webb,energy,US-West,live,450000,10,155,5
+ACC-005,Summit Wireless,Sarah Chen,telecom,US-West,live,800000,9,80,31
+ACC-006,Riverbend Utilities,Sarah Chen,utilities,US-Central,live,650000,11,140,18
+ACC-007,Helios Energy,Sarah Chen,energy,EMEA,live,1100000,13,110,20
+ACC-008,Pinnacle Telecom,Sarah Chen,telecom,US-East,live,1400000,16,190,6
+ACC-009,Terra Energy,Sarah Chen,energy,US-West,live,950000,12,160,9
+ACC-010,Beacon Utilities,Marcus Webb,utilities,US-East,live,720000,15,220,7
+ACC-011,Northwind Energy,Marcus Webb,energy,US-Central,live,1300000,18,250,4
+ACC-012,Cascade Communications,Marcus Webb,telecom,US-West,live,600000,10,175,11
+ACC-013,Cardinal Power,Marcus Webb,utilities,APAC,deployment,500000,5,300,16
+ACC-014,Ironclad Water,Priya Nair,utilities,US-Central,live,900000,14,75,40
+ACC-015,Vertex Mobile,Priya Nair,telecom,EMEA,live,780000,8,130,22
+ACC-016,BlueRock Energy,Priya Nair,energy,US-West,live,1000000,12,120,17
+ACC-017,Granite Utilities,Priya Nair,utilities,US-East,live,550000,9,145,25
+ACC-018,Horizon Telecom,Priya Nair,telecom,APAC,live,1200000,17,200,8
+ACC-019,Solstice Power,Priya Nair,energy,LATAM,live,700000,13,165,10
+ACC-020,Atlas Networks,Diego Alvarez,telecom,US-West,deployment,850000,4,330,20
+ACC-021,Delta Water Authority,Diego Alvarez,utilities,US-Central,live,600000,10,115,19
+ACC-022,Pioneer Energy,Diego Alvarez,energy,EMEA,live,1000000,11,135,21
+ACC-023,Keystone Energy,Diego Alvarez,energy,US-East,live,1500000,20,240,5
+ACC-024,Sable Telecom,Diego Alvarez,telecom,US-West,live,500000,14,180,9
+ACC-025,Copperline Utilities,Diego Alvarez,utilities,LATAM,live,650000,12,210,7
+ACC-026,Lumen Grid,Emma Thompson,utilities,US-Central,deployment,700000,3,340,6
+ACC-027,Everest Energy,Emma Thompson,energy,APAC,live,1100000,16,195,8
+ACC-028,Coastal Power,Emma Thompson,utilities,US-East,live,800000,13,205,10
+ACC-029,Redwood Utilities,Emma Thompson,utilities,US-West,live,950000,15,230,6
+ACC-030,Orion Telecom,Emma Thompson,telecom,EMEA,live,600000,9,125,23
