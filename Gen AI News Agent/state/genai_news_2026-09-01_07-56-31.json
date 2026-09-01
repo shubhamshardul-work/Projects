@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Researchers at the University of Kansas developed PP-VAE, an AI model that improves electrocardiogram analysis while protecting patient privacy by reducing exposure of biometric information like age and sex. The system uses advanced neural architectures to separate clinically relevant signals from identifiable personal characteristics while maintaining diagnostic accuracy for heart disease and mortality risk prediction. Published in Scientific Reports, the model demonstrates",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About - Medium",
+      "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+      "summary": "Read here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.\n\nThe past few months also brought advances in robotics, computer vision, video generation, and AI efficiency.\n\nHere are 17 releases worth knowing about. [...] Sign up\n\nSign in\n\nSign up\n\nSign in\n\nUnknown user\n\n## No Time\n\nNo Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nMember-only story\n\n## Latest AI breakthroughs 2026 | New AI tools and robotics | Innovation | Automation\n\n# 17 Recent AI Breakthroughs Everyone Should Know About\n\n## From frontier models, robotics, and generative AI tools to a model trained with zero Nvidia chips\n\nPranit naik\n\n--\n\n8\n\nListen\n\nShare\n\nRead here for FREE [...] ## 1. MuSViT reads sheet music the way BERT reads text\n\nSheet music is the printed notation musicians read: staves, noteheads, clefs and rests encoding pitch and duration through position on the page. General purpose vision models handle\u2026\n\n--\n\n--\n\n8\n\nNo Time\nNo Time\n\n## Published in No Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nPranit naik\nPranit naik\n\n## Written by Pranit naik",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business ...",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource\n\nDecember 11, 2025\n\n# On-Demand Webinar: From Complexity to Clarity: AI + Agility Layer for Intelligent Insurance\n\n[](\n\nResource",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI supports California\u2019s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Context-Aware Interleaved Batching for WhisperX",
+      "url": "http://arxiv.org/abs/2608.31170v1",
+      "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Constant Individual Regret in General Games",
+      "url": "http://arxiv.org/abs/2608.31166v1",
+      "summary": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "url": "http://arxiv.org/abs/2608.31167v1",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+      "url": "http://arxiv.org/abs/2608.31157v1",
+      "summary": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $\u03a6$ with $P_\u03a6$ parameter slots, we write $\\boldsy...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues",
+      "url": "http://arxiv.org/abs/2601.12868v2",
+      "summary": "Large language models (LLMs) increasingly operate in high-stakes settings where demographic attributes such as race and ethnicity may be explicitly stated or implicitly suggested through textual cues....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "url": "http://arxiv.org/abs/2608.31142v1",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, sup...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+      "url": "http://arxiv.org/abs/2608.31139v1",
+      "summary": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+      "url": "http://arxiv.org/abs/2608.31137v1",
+      "summary": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+      "url": "http://arxiv.org/abs/2608.31133v1",
+      "summary": "Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+      "url": "http://arxiv.org/abs/2608.31128v1",
+      "summary": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other. Downloads: 158598",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm5_next, image-text-to-text, conversational, en. Downloads: 379271",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 66195",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "summary": "HN Score: 387. Comments: 50",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "HN Score: 389. Comments: 436",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "summary": "HN Score: 203. Comments: 56",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "summary": "HN Score: 214. Comments: 52",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "summary": "HN Score: 72. Comments: 79",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Researchers at the University of Kansas developed PP-VAE, an AI model that improves electrocardiogram analysis while protecting patient privacy by reducing exposure of biometric information like age and sex. The system uses advanced neural architectures to separate clinically relevant signals from identifiable personal characteristics while maintaining diagnostic accuracy for heart disease and mortality risk prediction. Published in Scientific Reports, the model demonstrates",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About - Medium",
+      "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+      "summary": "Read here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.\n\nThe past few months also brought advances in robotics, computer vision, video generation, and AI efficiency.\n\nHere are 17 releases worth knowing about. [...] Sign up\n\nSign in\n\nSign up\n\nSign in\n\nUnknown user\n\n## No Time\n\nNo Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nMember-only story\n\n## Latest AI breakthroughs 2026 | New AI tools and robotics | Innovation | Automation\n\n# 17 Recent AI Breakthroughs Everyone Should Know About\n\n## From frontier models, robotics, and generative AI tools to a model trained with zero Nvidia chips\n\nPranit naik\n\n--\n\n8\n\nListen\n\nShare\n\nRead here for FREE [...] ## 1. MuSViT reads sheet music the way BERT reads text\n\nSheet music is the printed notation musicians read: staves, noteheads, clefs and rests encoding pitch and duration through position on the page. General purpose vision models handle\u2026\n\n--\n\n--\n\n8\n\nNo Time\nNo Time\n\n## Published in No Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nPranit naik\nPranit naik\n\n## Written by Pranit naik",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business ...",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource\n\nDecember 11, 2025\n\n# On-Demand Webinar: From Complexity to Clarity: AI + Agility Layer for Intelligent Insurance\n\n[](\n\nResource",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI supports California\u2019s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Context-Aware Interleaved Batching for WhisperX",
+      "url": "http://arxiv.org/abs/2608.31170v1",
+      "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Constant Individual Regret in General Games",
+      "url": "http://arxiv.org/abs/2608.31166v1",
+      "summary": "Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but prior guarantees for individual regret retain a polylogarithmic dependence on the horizon. We remove this dependence for ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "url": "http://arxiv.org/abs/2608.31167v1",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations",
+      "url": "http://arxiv.org/abs/2608.31157v1",
+      "summary": "Many parameter-efficient methods generate the parameters of a large neural network from a low-dimensional latent representation. Given an architecture $\u03a6$ with $P_\u03a6$ parameter slots, we write $\\boldsy...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues",
+      "url": "http://arxiv.org/abs/2601.12868v2",
+      "summary": "Large language models (LLMs) increasingly operate in high-stakes settings where demographic attributes such as race and ethnicity may be explicitly stated or implicitly suggested through textual cues....",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "url": "http://arxiv.org/abs/2608.31142v1",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, sup...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+      "url": "http://arxiv.org/abs/2608.31139v1",
+      "summary": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. W...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques",
+      "url": "http://arxiv.org/abs/2608.31137v1",
+      "summary": "Ontology alignment (OA) has evolved through several methodological paradigms, ranging from lexical and structural aligners to knowledge graph embedding (KGE) models and, more recently, Large Language ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+      "url": "http://arxiv.org/abs/2608.31133v1",
+      "summary": "Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+      "url": "http://arxiv.org/abs/2608.31128v1",
+      "summary": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-Flash-Next",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen4_exp, image-text-to-text, conversational, license:other. Downloads: 158598",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.3-Flash",
+      "url": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm5_next, image-text-to-text, conversational, en. Downloads: 379271",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] zai-org/GLM-5.3",
+      "url": "https://huggingface.co/zai-org/GLM-5.3",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation, conversational, en. Downloads: 66195",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "summary": "HN Score: 387. Comments: 50",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "HN Score: 389. Comments: 436",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "summary": "HN Score: 203. Comments: 56",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ChatGPT Work Tool and Skill Reference",
+      "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+      "summary": "HN Score: 214. Comments: 52",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "summary": "HN Score: 72. Comments: 79",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=KL9_1GbmCic",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] A milestone in expanding access to AI",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+      },
+      {
+        "title": "[RSS] The Pentagon now has its own version of ChatGPT and Grok",
+        "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+        "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+      },
+      {
+        "title": "[RSS] Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+        "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+        "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+      },
+      {
+        "title": "[HackerNews] Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+        "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+        "summary": "HN Score: 389. Comments: 436"
+      },
+      {
+        "title": "[RSS] Polimill builds Japan's next-generation public AI infrastructure",
+        "url": "https://openai.com/index/polimill",
+        "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] Context-Aware Interleaved Batching for WhisperX",
+        "url": "http://arxiv.org/abs/2608.31170v1",
+        "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve..."
+      },
+      {
+        "title": "[ArXiv] Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+        "url": "http://arxiv.org/abs/2608.31139v1",
+        "summary": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. W..."
+      },
+      {
+        "title": "[HackerNews] Smartphone LED detects hidden cameras with AI",
+        "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+        "summary": "HN Score: 203. Comments: 56"
+      },
+      {
+        "title": "[ArXiv] Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+        "url": "http://arxiv.org/abs/2608.31133v1",
+        "summary": "Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to..."
+      }
+    ],
+    "research": [
+      {
+        "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+        "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+        "summary": "Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Researchers at the University of Kansas developed PP-VAE, an AI model that improves electrocardiogram analysis while protecting patient privacy by reducing exposure of biometric information like age and sex. The system uses advanced neural architectures to separate clinically relevant signals from identifiable personal characteristics while maintaining diagnostic accuracy for heart disease and mortality risk prediction. Published in Scientific Reports, the model demonstrates"
+      },
+      {
+        "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About - Medium",
+        "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+        "summary": "Read here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.\n\nThe past few months also brought advances in robotics, computer vision, video generation, and AI efficiency.\n\nHere are 17 releases worth knowing about. [...] ## Latest AI breakthroughs 2026 | New AI tools and robotics | Innovation | Automation\n\n# 17 Recent AI Breakthroughs Everyone Should Know About\n\n## From frontier models, robotics, and generative AI tools to a model trained with zero Nvidia chips\n\nPranit naik\n\n--\n\n8\n\nListen\n\nShare\n\nRead here for FREE [...] ## 1. MuSViT reads sheet music the way BERT reads text\n\nSheet music is the printed notation musicians read: staves, noteheads, clefs and rests encoding pitch and duration through position on the page. General purpose vision models handle\u2026\n\n--\n\n--\n\n8\n\nNo Time\nNo Time\n\n## Published in No Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nPranit naik\nPranit naik\n\n## Written by Pranit naik"
+      },
+      {
+        "title": "[ArXiv] Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+        "url": "http://arxiv.org/abs/2608.31142v1",
+        "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, sup..."
+      },
+      {
+        "title": "[ArXiv] DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+        "url": "http://arxiv.org/abs/2608.31128v1",
+        "summary": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on..."
+      },
+      {
+        "title": "[ArXiv] SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+        "url": "http://arxiv.org/abs/2608.31167v1",
+        "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    },
+    {
+      "title": "[RSS] The Pentagon now has its own version of ChatGPT and Grok",
+      "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools."
+    },
+    {
+      "title": "[RSS] Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI",
+      "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation."
+    },
+    {
+      "title": "[HackerNews] Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+      "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+      "summary": "HN Score: 389. Comments: 436"
+    },
+    {
+      "title": "[RSS] Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
+    },
+    {
+      "title": "[ArXiv] Context-Aware Interleaved Batching for WhisperX",
+      "url": "http://arxiv.org/abs/2608.31170v1",
+      "summary": "While WhisperX accelerates speech transcription via intra-audio batching, it isolates audio segments, losing the historical context needed for coherent punctuation and terminology transcription. Conve..."
+    },
+    {
+      "title": "[ArXiv] Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation",
+      "url": "http://arxiv.org/abs/2608.31139v1",
+      "summary": "BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer for biomedical information extraction. However, it relies on fixed-size chunking which can fragment semantic evidence. W..."
+    },
+    {
+      "title": "[HackerNews] Smartphone LED detects hidden cameras with AI",
+      "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+      "summary": "HN Score: 203. Comments: 56"
+    },
+    {
+      "title": "[ArXiv] Implementing neural network mixed-effects models in Template Model Builder (TMB)",
+      "url": "http://arxiv.org/abs/2608.31133v1",
+      "summary": "Neural network mixed-effects models (NMMs) have gained traction by combining the strong representation and predictive power of artificial neural networks with the capacity of mixed-effects modeling to..."
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Researchers at the University of Kansas developed PP-VAE, an AI model that improves electrocardiogram analysis while protecting patient privacy by reducing exposure of biometric information like age and sex. The system uses advanced neural architectures to separate clinically relevant signals from identifiable personal characteristics while maintaining diagnostic accuracy for heart disease and mortality risk prediction. Published in Scientific Reports, the model demonstrates"
+    },
+    {
+      "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About - Medium",
+      "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+      "summary": "Read here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.\n\nThe past few months also brought advances in robotics, computer vision, video generation, and AI efficiency.\n\nHere are 17 releases worth knowing about. [...] ## Latest AI breakthroughs 2026 | New AI tools and robotics | Innovation | Automation\n\n# 17 Recent AI Breakthroughs Everyone Should Know About\n\n## From frontier models, robotics, and generative AI tools to a model trained with zero Nvidia chips\n\nPranit naik\n\n--\n\n8\n\nListen\n\nShare\n\nRead here for FREE [...] ## 1. MuSViT reads sheet music the way BERT reads text\n\nSheet music is the printed notation musicians read: staves, noteheads, clefs and rests encoding pitch and duration through position on the page. General purpose vision models handle\u2026\n\n--\n\n--\n\n8\n\nNo Time\nNo Time\n\n## Published in No Time\n\nA place to share stories about life, ideas, experiences, and the little things that matter.\n\nPranit naik\nPranit naik\n\n## Written by Pranit naik"
+    },
+    {
+      "title": "[ArXiv] Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification",
+      "url": "http://arxiv.org/abs/2608.31142v1",
+      "summary": "The 2025--2026 AI market has seen a wave of stealth releases: frontier models launched anonymously on developer platforms under codenames. For their users, identity determines data-handling terms, sup..."
+    },
+    {
+      "title": "[ArXiv] DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+      "url": "http://arxiv.org/abs/2608.31128v1",
+      "summary": "Large language models (LLMs) offer promising clinical decision support but remain vulnerable to hallucinated facts, unsupported recommendations, and citation errors. We present DIASENTINEL, a fully on..."
+    },
+    {
+      "title": "[ArXiv] SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies",
+      "url": "http://arxiv.org/abs/2608.31167v1",
+      "summary": "Bridging model-based control and learned policies in long-horizon manipulation has harbored a silent disagreement: control executes specified objectives, learning amortizes that behavior into a reacti..."
+    }
+  ],
+  "final_report": "# AI's Accelerating Impact: From Billion-Dollar Milestones to Frontier Discoveries\n\nToday's intelligence report highlights AI's deepening integration across commercial, governmental, and scientific sectors, marked by significant financial achievements, strategic adoptions, and groundbreaking research. We're witnessing a rapid expansion of AI's capabilities and its profound influence on global industries and national strategies.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads)**\nOpenAI's ChatGPT Ads reaching a $1 billion annualized revenue run rate is a monumental achievement, underscoring the immense commercial viability and widespread adoption of conversational AI. This milestone not only validates OpenAI's monetization strategy but also signals a robust market for AI-as-a-service, driving further investment and innovation in accessible AI solutions globally.\n\n### **[The Pentagon now has its own version of ChatGPT and Grok](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/)**\nThe integration of specialized versions of ChatGPT, Grok, and Gemini into the Pentagon's central AI portal marks a critical step in national security's embrace of advanced AI. This move highlights the strategic imperative for governments to leverage cutting-edge AI for intelligence, operations, and decision-making, while also intensifying the competition among leading AI developers for high-stakes enterprise and governmental contracts.\n\n### **[Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/)**\nThis high-profile legal battle between Apple and a former employee accused of data theft for OpenAI underscores the intense competition and immense value placed on intellectual property within the AI industry. Such disputes highlight the critical need for robust data security protocols and the legal complexities arising from the rapid movement of talent and proprietary information in the fast-paced AI landscape.\n\n### **[Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/)**\nApple's unexpected surge in demand for its Mac Mini and Mac Studio, driven by AI workloads, reveals a significant market trend towards powerful local AI processing. This indicates a growing preference among developers and users for on-device AI capabilities, potentially shifting hardware strategies for tech giants and emphasizing the importance of robust, accessible computing power for AI development.\n\n### **[Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill)**\nPolimill's initiative to construct Japan's public AI infrastructure using OpenAI's GPT models and Codex demonstrates a national commitment to leveraging AI for administrative efficiency and knowledge management. This strategic partnership showcases how advanced AI can be tailored for public sector applications, accelerating development and improving citizen services on a national scale.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Context-Aware Interleaved Batching for WhisperX](http://arxiv.org/abs/2608.31170v1)**\nThis research introduces a significant improvement for WhisperX, addressing the common challenge of lost historical context during speech transcription batching. By enabling context-aware interleaved batching, developers can achieve more coherent punctuation and accurate terminology, making it a crucial enhancement for high-quality automated speech recognition applications.\n\n### **[Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation](http://arxiv.org/abs/2608.31139v1)**\nAdvancing Retrieval-Augmented Generation (RAG), this paper proposes configurable semantic chunking to overcome the limitations of fixed-size chunking, particularly in complex domains like biomedicine. Developers working on RAG systems for specialized information extraction should watch this for improved accuracy and more robust retrieval of semantic evidence.\n\n### **[Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/)**\nA novel application of AI and computer vision, this breakthrough allows smartphones to detect hidden cameras using their built-in LED. This practical innovation offers a readily accessible security tool, demonstrating how existing hardware can be repurposed with AI for enhanced privacy and safety in everyday environments.\n\n### **[Implementing neural network mixed-effects models in Template Model Builder (TMB)](http://arxiv.org/abs/2608.31133v1)**\nThis paper explores the implementation of neural network mixed-effects models (NMMs) within the Template Model Builder (TMB) framework, combining the predictive power of NNs with the robustness of mixed-effects modeling. Data scientists and statisticians can leverage this for more sophisticated analysis of complex, hierarchical data, offering a powerful tool for diverse applications.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[The Latest AI News and Breakthroughs That Matter Most](https://www.crescendo.ai/news/latest-ai-news-and-updates)**\nThis report highlights several transformative AI breakthroughs, including Microsoft's BioEmu and BindCraft revolutionizing structural biology with generative diffusion and AI-guided protein design. Furthermore, Anthropic's Claude Opus 4.7 achieved a twenty-fold acceleration in robodog programming, showcasing rapid advancements in autonomous systems, while the University of Kansas's PP-VAE offers a privacy-preserving AI model for electrocardiogram analysis, balancing diagnostic accuracy with patient data protection.\n\n### **[17 Recent AI Breakthroughs Everyone Should Know About - Medium](https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31)**\nThis comprehensive overview reveals a 1.6 trillion parameter language model trained entirely on Chinese-made accelerators without Nvidia silicon, signaling a significant shift in the global AI hardware landscape. It also covers advances in robotics, computer vision, video generation, and AI efficiency, alongside the innovative MuSViT model that interprets sheet music akin to how BERT processes text, expanding AI's reach into new domains.\n\n### **[Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification](http://arxiv.org/abs/2608.31142v1)**\nAddressing the challenge of \"stealth releases\" in the AI market, this paper proposes a four-stage protocol for black-box identity verification of anonymous AI models. This research is crucial for establishing trust, ensuring compliance, and understanding data-handling terms for users interacting with models whose origins are obscured.\n\n### **[DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening](http://arxiv.org/abs/2608.31128v1)**\nDIASENTINEL presents an auditable multi-agent system designed to provide guideline-grounded clinical decision support for diabetes risk screening, directly tackling LLM vulnerabilities like hallucinations and unsupported recommendations. This work is vital for developing trustworthy and explainable AI applications in critical healthcare settings.\n\n### **[SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies](http://arxiv.org/abs/2608.31167v1)**\nThis research explores SUN, a framework for persistent programs that bridge model-based control and learned policies in long-horizon manipulation tasks. It aims to resolve the inherent tension between specified objectives and amortized behavior, paving the way for more robust and adaptable robotic systems capable of complex, real-world interactions.\n\n---\n**Today's Signal:** AI's commercial maturity is rapidly accelerating, driving both unprecedented revenue streams and strategic national adoptions, while research continues to push the boundaries of what's possible in privacy, robotics, and fundamental scientific discovery.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Summary: Structural biology is experiencing transformative advances beyond Alpha... |\n| [17 Recent AI Breakthroughs Everyone Should Know About - Medium ](https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31) | Read here for FREE\n\nA 1.6 trillion parameter language model finished pretraining... |\n| [AI News | Latest News | Insights Powering AI-Driven Business ... ](https://www.artificialintelligence-news.com) | April 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI supports California\u2019s bill to advance youth AI safety ](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) | OpenAI supports California SB 1119, advancing strong, age-appropriate AI safegua... |\n| [Polimill builds Japan's next-generation public AI infrastructure ](https://openai.com/index/polimill) | Polimill uses OpenAI GPT models and Codex to help municipalities search and use ... |\n| [A milestone in expanding access to AI ](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) | ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands global... |\n| [Apple shares \u2018shocking evidence\u2019 against former employee accused of stealing company data for OpenAI ](https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/) | Apple says it has evidence that a former employee destroyed evidence of data the... |\n| [The Pentagon now has its own version of ChatGPT and Grok ](https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/) | Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on th... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Context-Aware Interleaved Batching for WhisperX ](http://arxiv.org/abs/2608.31170v1) | While WhisperX accelerates speech transcription via intra-audio batching, it iso... |\n| [Constant Individual Regret in General Games ](http://arxiv.org/abs/2608.31166v1) | Uncoupled no-regret dynamics provide a decentralized route to equilibrium, but p... |\n| [SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies ](http://arxiv.org/abs/2608.31167v1) | Bridging model-based control and learned policies in long-horizon manipulation h... |\n| [Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations ](http://arxiv.org/abs/2608.31157v1) | Many parameter-efficient methods generate the parameters of a large neural netwo... |\n| [Tracing the Latent Threads: A Mechanistic Study of How LLMs Represent and Operationalize Race and Ethnicity Cues ](http://arxiv.org/abs/2601.12868v2) | Large language models (LLMs) increasingly operate in high-stakes settings where ... |\n| [Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification ](http://arxiv.org/abs/2608.31142v1) | The 2025--2026 AI market has seen a wave of stealth releases: frontier models la... |\n| [Configurable Semantic Chunking for Biomedical Information Extraction in Retrieval-Augmented Generation ](http://arxiv.org/abs/2608.31139v1) | BioMedRAG introduced retrieval-augmented generation with a learned chunk scorer ... |\n| [OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques ](http://arxiv.org/abs/2608.31137v1) | Ontology alignment (OA) has evolved through several methodological paradigms, ra... |\n| [Implementing neural network mixed-effects models in Template Model Builder (TMB) ](http://arxiv.org/abs/2608.31133v1) | Neural network mixed-effects models (NMMs) have gained traction by combining the... |\n| [DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening ](http://arxiv.org/abs/2608.31128v1) | Large language models (LLMs) offer promising clinical decision support but remai... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Qwen/Qwen3.8-Flash-Next ](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | Trending HF Model. Tags: transformers, safetensors, qwen4_exp, image-text-to-tex... |\n| [zai-org/GLM-5.3-Flash ](https://huggingface.co/zai-org/GLM-5.3-Flash) | Trending HF Model. Tags: transformers, safetensors, glm5_next, image-text-to-tex... |\n| [zai-org/GLM-5.3 ](https://huggingface.co/zai-org/GLM-5.3) | Trending HF Model. Tags: transformers, safetensors, glm_moe_dsa, text-generation... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) | HN Score: 387. Comments: 50 |\n| [[HackerNews] Apple caught off guard by AI demand for Mac Mini and Mac Studio](https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/) | HN Score: 389. Comments: 436 |\n| [[HackerNews] Smartphone LED detects hidden cameras with AI](https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/) | HN Score: 203. Comments: 56 |\n| [[HackerNews] ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/) | HN Score: 214. Comments: 52 |\n| [[HackerNews] AI Can Make You Suck Faster Too](https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too) | HN Score: 72. Comments: 79 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=KL9_1GbmCic) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
