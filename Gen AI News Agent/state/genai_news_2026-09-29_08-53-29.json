@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "September 23, 2026\n\n# U.S. TRANSCOM deploys randomised AI to secure military logistics\n\nBoxes on racks as AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.\n\nRetail & Logistics AI\n\nSeptember 22, 2026\n\n# AutoScheduler launches warehouse app builder for logistics teams\n\nToyota\u2019s $6.4bn robotics estimate puts physical AI in focus\n\nAI in Action\n\nSeptember 22, 2026 [...] September 17, 2026\n\n# Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries\n\nLidl deploys driverless truck for store deliveries in Germany\n\nAI in Action\n\nSeptember 17, 2026\n\n# Lidl deploys driverless truck for store deliveries in Germany\n\nPhoto of Microsoft AI CEO Mustafa Suleyman as he warns that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights.\n\nHuman-AI Relationships\n\nSeptember 16, 2026 [...] July 24, 2026\n\n# On-Demand Webinar Recording | Out of the Shadows: A Step-by-Step Approach to AI Governance\n\n[](\n\nAI and Us, Interviews\n\nApril 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI developments over the last 24 hours, based on\u2026 | by Vignesh E | Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2, featuring improvements in general intelligence, coding, spreadsheet functions, and long-context comprehension, aimed at competing with Google Gemini 3\n Runway released Gen 4.5, a world model for text-to-video that outperforms competitors OpenAI\u2019s Sora 2 and Google\u2019s Veo 3, along with a native audio upgrade\n Google unveiled Gemini 3 Deep Think, now available to all Google AI Ultra subscribers, offering enhanced AI agent capabilities [...] The AI landscape over the last 24 hours emphasizes enterprise integration, generative AI expansion, AI agents performing cognitive tasks, and global infrastructure deployment. Ethics, regulation, and cybersecurity continue to shape public and corporate responses. [...] OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities. It targets integration with enterprise tools for office automation and creative work.\n Google Gemini & Disco: Google launched Disco, a Gemini-powered tool that converts browser tabs into usable web apps. Gemini 3 Deep Think is now accessible to all Google AI Ultra subscribers.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "url": "http://arxiv.org/abs/2609.35770v1",
+      "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Telescopic Language Models",
+      "url": "http://arxiv.org/abs/2609.35769v1",
+      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2609.35768v1",
+      "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.35767v1",
+      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+      "url": "http://arxiv.org/abs/2609.35765v1",
+      "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unifying Distributional Training for One-Step Visual Generation",
+      "url": "http://arxiv.org/abs/2609.35763v1",
+      "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scaling Long-Form Story Generation via Narrative State Tracking",
+      "url": "http://arxiv.org/abs/2609.35759v1",
+      "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+      "url": "http://arxiv.org/abs/2609.35760v1",
+      "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+      "url": "http://arxiv.org/abs/2609.35758v1",
+      "summary": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Neural Harmonic Measure Operator",
+      "url": "http://arxiv.org/abs/2609.35752v1",
+      "summary": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated-decisions, rlcd. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 19963",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image. Downloads: 1062921",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "summary": "HN Score: 231. Comments: 82",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "HN Score: 95. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "summary": "HN Score: 490. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "summary": "HN Score: 52. Comments: 37",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "summary": "HN Score: 130. Comments: 30",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com",
+      "summary": "September 23, 2026\n\n# U.S. TRANSCOM deploys randomised AI to secure military logistics\n\nBoxes on racks as AutoScheduler has launched its warehouse app builder to let logistics teams build custom tools directly from live facility data.\n\nRetail & Logistics AI\n\nSeptember 22, 2026\n\n# AutoScheduler launches warehouse app builder for logistics teams\n\nToyota\u2019s $6.4bn robotics estimate puts physical AI in focus\n\nAI in Action\n\nSeptember 22, 2026 [...] September 17, 2026\n\n# Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries\n\nLidl deploys driverless truck for store deliveries in Germany\n\nAI in Action\n\nSeptember 17, 2026\n\n# Lidl deploys driverless truck for store deliveries in Germany\n\nPhoto of Microsoft AI CEO Mustafa Suleyman as he warns that Anthropic risks AI alignment failures by training Claude to view itself as a conscious entity deserving of legal rights.\n\nHuman-AI Relationships\n\nSeptember 16, 2026 [...] July 24, 2026\n\n# On-Demand Webinar Recording | Out of the Shadows: A Step-by-Step Approach to AI Governance\n\n[](\n\nAI and Us, Interviews\n\nApril 21, 2026\n\n# Uniquely Wired podcast with Microsoft\u2019s Agnes Heftberger\n\n[](\n\nResource\n\nJanuary 8, 2026\n\n# On-Demand Webinar: AI Combined with Automation is the Perfect Marriage for Scalable, Intelligent Operations\n\n[](\n\nResource\n\nJanuary 6, 2026\n\n# On-Demand Webinar: DataOps Can Build the Foundation For Your Generative AI Ambitions\n\n[](\n\nResource",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI developments over the last 24 hours, based on\u2026 | by Vignesh E | Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2, featuring improvements in general intelligence, coding, spreadsheet functions, and long-context comprehension, aimed at competing with Google Gemini 3\n Runway released Gen 4.5, a world model for text-to-video that outperforms competitors OpenAI\u2019s Sora 2 and Google\u2019s Veo 3, along with a native audio upgrade\n Google unveiled Gemini 3 Deep Think, now available to all Google AI Ultra subscribers, offering enhanced AI agent capabilities [...] The AI landscape over the last 24 hours emphasizes enterprise integration, generative AI expansion, AI agents performing cognitive tasks, and global infrastructure deployment. Ethics, regulation, and cybersecurity continue to shape public and corporate responses. [...] OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities. It targets integration with enterprise tools for office automation and creative work.\n Google Gemini & Disco: Google launched Disco, a Gemini-powered tool that converts browser tabs into usable web apps. Gemini 3 Deep Think is now accessible to all Google AI Ultra subscribers.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Are you a Codex Original?",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We\u2019re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "url": "http://arxiv.org/abs/2609.35770v1",
+      "summary": "Realistic and editable animal fur reconstruction from multi-view images is challenging due to fine-scale detail, self-occlusion and obfuscation, and, unlike human hair, the lack of animal-fur datasets...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Telescopic Language Models",
+      "url": "http://arxiv.org/abs/2609.35769v1",
+      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2609.35768v1",
+      "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.35767v1",
+      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales",
+      "url": "http://arxiv.org/abs/2609.35765v1",
+      "summary": "Identifying intertextual references is central to literary scholarship, but computationally difficult when source material is transformed through paraphrase, allusion, historical language, and transla...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Unifying Distributional Training for One-Step Visual Generation",
+      "url": "http://arxiv.org/abs/2609.35763v1",
+      "summary": "\\emph{Distributional training} provides collective supervision for one-step visual generation by matching real and generated features in frozen representation spaces. We introduce \\emph{a unified theo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scaling Long-Form Story Generation via Narrative State Tracking",
+      "url": "http://arxiv.org/abs/2609.35759v1",
+      "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TokenCast: Forecasting Token Consumption During LLM Agent Execution",
+      "url": "http://arxiv.org/abs/2609.35760v1",
+      "summary": "When a large language model (LLM) agent executes the same task, token consumption can vary by over an order of magnitude across runs. The agent chooses its next steps based on tool feedback and interm...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control",
+      "url": "http://arxiv.org/abs/2609.35758v1",
+      "summary": "We present a representation-learning framework for composite adaptive tracking control under dynamically coupled disturbances. The framework connects classical disturbance-accommodating control (DAC) ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Neural Harmonic Measure Operator",
+      "url": "http://arxiv.org/abs/2609.35752v1",
+      "summary": "We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for elliptic PDE problems on variable-shape domains. The harmonic measure of a domain is the boundary probability distribution tha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated-decisions, rlcd. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 19963",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image. Downloads: 1062921",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "summary": "HN Score: 231. Comments: 82",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "HN Score: 95. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "summary": "HN Score: 490. Comments: 184",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?",
+      "url": "https://jonclegg.github.io/pacman-bakeoff/",
+      "summary": "HN Score: 52. Comments: 37",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "summary": "HN Score: 130. Comments: 30",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Here is a comprehensive summary of the most recent AI developments over the last 24 hours, based on\u2026 | by Vignesh E | Medium",
+        "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+        "summary": "OpenAI launched GPT-5.2, featuring improvements in general intelligence, coding, spreadsheet functions, and long-context comprehension, aimed at competing with Google Gemini 3\n Runway released Gen 4.5, a world model for text-to-video that outperforms competitors OpenAI\u2019s Sora 2 and Google\u2019s Veo 3, along with a native audio upgrade\n Google unveiled Gemini 3 Deep Think, now available to all Google AI Ultra subscribers, offering enhanced AI agent capabilities [...] The AI landscape over the last 24 hours emphasizes enterprise integration, generative AI expansion, AI agents performing cognitive tasks, and global infrastructure deployment. Ethics, regulation, and cybersecurity continue to shape public and corporate responses. [...] OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities. It targets integration with enterprise tools for office automation and creative work.\n Google Gemini & Disco: Google launched Disco, a Gemini-powered tool that converts browser tabs into usable web apps. Gemini 3 Deep Think is now accessible to all Google AI Ultra subscribers."
+      },
+      {
+        "title": "[RSS] Basis completes a tax workbook 2x faster with GPT-6 Astra",
+        "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+        "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+      },
+      {
+        "title": "[RSS] How we will do better for Australia",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+        "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
+      },
+      {
+        "title": "[RSS] The Lenfest Institute grows landmark program with expanded OpenAI support",
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+        "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+        "summary": "Trending HF Model. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image. Downloads: 1062921"
+      },
+      {
+        "title": "[HackerNews] ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+        "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+        "summary": "HN Score: 95. Comments: 18"
+      },
+      {
+        "title": "[HackerNews] Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+        "url": "https://github.com/firelex/jeff",
+        "summary": "HN Score: 490. Comments: 184"
+      },
+      {
+        "title": "[HackerNews] MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+        "url": "https://stateofutopia.com/experiments/microllmlab/",
+        "summary": "HN Score: 231. Comments: 82"
+      },
+      {
+        "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+        "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 19963"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Towards safety cases for frontier AI training",
+        "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+        "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+      },
+      {
+        "title": "[ArXiv] Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2609.35767v1",
+        "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai..."
+      },
+      {
+        "title": "[ArXiv] Scaling Long-Form Story Generation via Narrative State Tracking",
+        "url": "http://arxiv.org/abs/2609.35759v1",
+        "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex..."
+      },
+      {
+        "title": "[ArXiv] Telescopic Language Models",
+        "url": "http://arxiv.org/abs/2609.35769v1",
+        "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b..."
+      },
+      {
+        "title": "[ArXiv] PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+        "url": "http://arxiv.org/abs/2609.35768v1",
+        "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Here is a comprehensive summary of the most recent AI developments over the last 24 hours, based on\u2026 | by Vignesh E | Medium",
+      "url": "https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8",
+      "summary": "OpenAI launched GPT-5.2, featuring improvements in general intelligence, coding, spreadsheet functions, and long-context comprehension, aimed at competing with Google Gemini 3\n Runway released Gen 4.5, a world model for text-to-video that outperforms competitors OpenAI\u2019s Sora 2 and Google\u2019s Veo 3, along with a native audio upgrade\n Google unveiled Gemini 3 Deep Think, now available to all Google AI Ultra subscribers, offering enhanced AI agent capabilities [...] The AI landscape over the last 24 hours emphasizes enterprise integration, generative AI expansion, AI agents performing cognitive tasks, and global infrastructure deployment. Ethics, regulation, and cybersecurity continue to shape public and corporate responses. [...] OpenAI GPT-5.2: OpenAI has released GPT-5.2, boosting workplace AI performance and improving multi-turn reasoning and agentic capabilities. It targets integration with enterprise tools for office automation and creative work.\n Google Gemini & Disco: Google launched Disco, a Gemini-powered tool that converts browser tabs into usable web apps. Gemini 3 Deep Think is now accessible to all Google AI Ultra subscribers."
+    },
+    {
+      "title": "[RSS] Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+    },
+    {
+      "title": "[RSS] How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia\u2019s cyber defences."
+    },
+    {
+      "title": "[RSS] The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+    },
+    {
+      "title": "[HuggingFace] abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "url": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, text-to-image. Downloads: 1062921"
+    },
+    {
+      "title": "[HackerNews] ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+      "url": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
+      "summary": "HN Score: 95. Comments: 18"
+    },
+    {
+      "title": "[HackerNews] Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "url": "https://github.com/firelex/jeff",
+      "summary": "HN Score: 490. Comments: 184"
+    },
+    {
+      "title": "[HackerNews] MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "summary": "HN Score: 231. Comments: 82"
+    },
+    {
+      "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 19963"
+    },
+    {
+      "title": "[RSS] Towards safety cases for frontier AI training",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents"
+    },
+    {
+      "title": "[ArXiv] Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2609.35767v1",
+      "summary": "Unified multimodal models can both look at and render images, so in principle they can repair their own generations: diagnose what an image gets wrong, revise it, observe the result, and diagnose agai..."
+    },
+    {
+      "title": "[ArXiv] Scaling Long-Form Story Generation via Narrative State Tracking",
+      "url": "http://arxiv.org/abs/2609.35759v1",
+      "summary": "LLMs have demonstrated strong capabilities in creative writing. However, scaling them to full-length novels remains challenging, as maintaining narrative consistency becomes increasingly difficult. Ex..."
+    },
+    {
+      "title": "[ArXiv] Telescopic Language Models",
+      "url": "http://arxiv.org/abs/2609.35769v1",
+      "summary": "One deployed language model must often serve many compute budgets, yet serving each budget still means a separate training or compression run per point. We train a Telescopic Language Model (TLM) to b..."
+    },
+    {
+      "title": "[ArXiv] PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "url": "http://arxiv.org/abs/2609.35768v1",
+      "summary": "Modern video diffusion models require tens of denoising evaluations over long spatiotemporal token sequences. Distribution Matching Distillation (DMD) reduces the number of function evaluations (NFE) ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Dawn of Agentic AI and Hyper-Efficient Models\n\nToday's AI landscape is marked by a rapid acceleration in model capabilities, pushing towards more autonomous and efficient systems across enterprise, developer, and research domains. We're witnessing a strategic pivot towards practical, high-impact applications, alongside a critical focus on safety and resource optimization.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI GPT-5.2, Google Gemini 3 Deep Think, and Runway Gen 4.5 Lead Generative AI Advancements](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8)**\nOpenAI's GPT-5.2 and Google's Gemini 3 Deep Think are setting new benchmarks for general intelligence, coding, and long-context comprehension, with a clear focus on enterprise integration and agentic capabilities. Concurrently, Runway's Gen 4.5 is redefining text-to-video generation, outperforming competitors with a world model and native audio, signaling a significant leap for creative industries. These advancements underscore a strategic push towards AI systems that can handle more complex, multi-turn reasoning and automate sophisticated tasks across various business functions.\n\n### **[GPT-6 Astra Accelerates Tax Workbook Completion by 2x for Basis](https://openai.com/index/basis-tax-workbook-with-astra)**\nOpenAI's GPT-6 Astra has demonstrated remarkable efficiency, completing a 50-tab tax workbook twice as fast as its predecessor, GPT-5.6 Sol. This quantifiable performance gain, coupled with a stronger understanding of user intent, instills greater confidence in AI's reliability for critical, real-world business applications like financial processing. The focus on speed and accuracy in complex data tasks highlights AI's growing maturity in delivering tangible operational improvements.\n\n### **[OpenAI Addresses Australian Incidents, Enhances Cyber Defenses](https://openai.com/index/how-we-will-do-better-for-australia)**\nOpenAI has issued an apology for incidents involving Australian government websites and outlined robust measures to strengthen cybersecurity safeguards and support. This proactive response underscores the increasing importance of responsible AI deployment, especially when integrating with sensitive national infrastructure. It reflects a maturing industry grappling with the ethical and security implications of widespread AI adoption.\n\n### **[Lenfest Institute Expands Journalism Program with $10M OpenAI Support](https://openai.com/index/lenfest-ai-collaborative-expansion)**\nOpenAI is significantly expanding its support for the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering assistance. This investment highlights a strategic commitment to leveraging AI for public good, specifically in the journalism sector. It signals the potential for AI to transform information dissemination and support critical industries through targeted partnerships.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Qwen-Image-2.1-Uncensored-GGUF Trends on HuggingFace](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF)**\nThe `abenzerps/Qwen-Image-2.1-Uncensored-GGUF` model is trending, indicating strong developer interest in efficient, locally deployable image generation models, particularly for creative workflows like ComfyUI. The high download count reflects a community demand for flexible and powerful tools that can run on consumer hardware, democratizing access to advanced generative AI.\n\n### **[ESP32S3 Cluster Runs 1.58-bit (BitNet) Language Model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster)**\nA groundbreaking project demonstrates an ESP32S3 cluster running a highly quantized 1.58-bit BitNet Language Model. This development is a significant step for edge AI, showcasing the potential to deploy sophisticated LLMs on resource-constrained microcontrollers, opening doors for embedded AI applications in IoT and specialized hardware.\n\n### **[Jeff: Jev-Compatible 0.8B Decision Models Trained at Home](https://github.com/firelex/jeff)**\n\"Jeff\" introduces Jev-compatible 0.8B decision models, notable for being home-trained and achieving inference speeds of approximately 30 ms. This project highlights the increasing accessibility of training smaller, specialized models for specific tasks, empowering individual developers and fostering rapid prototyping in the AI community.\n\n### **[MicroLLM Lab: Try 7 Tiny LLMs in Your Browser](https://stateofutopia.com/experiments/microllmlab/)**\nMicroLLM Lab offers an accessible platform to experiment with seven tiny language models directly in the browser. This tool simplifies the developer experience by removing complex setup requirements, making it easier to explore and integrate client-side AI, and accelerating innovation in browser-based applications.\n\n### **[Edge0/Audio8-ASR-Infinite: Trending Real-time ASR Model](https://huggingface.co/Edge0/Audio8-ASR-Infinite)**\nThe `Edge0/Audio8-ASR-Infinite` model is gaining traction for its real-time, streaming Automatic Speech Recognition (ASR) capabilities. This is a crucial development for applications requiring continuous, low-latency audio processing, such as live transcription, voice assistants, and interactive communication systems.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Towards Safety Cases for Frontier AI Training](https://openai.com/index/towards-safety-cases-for-frontier-ai-training)**\nOpenAI has released early guidelines for developing safety cases in frontier AI training, covering technical safeguards, operational practices, and incident investigation. This proactive research is critical for responsible AI development, signaling a commitment to addressing potential risks and ensuring the safe deployment of increasingly powerful AI systems.\n\n### **[Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning](http://arxiv.org/abs/2609.35767v1)**\nThis arXiv paper explores how unified multimodal models can achieve \"native reflection\" \u2013 the ability to diagnose and repair their own generations through interleaved reinforcement learning. This research pushes towards more autonomous and reliable AI systems, where models can self-correct errors in their outputs, particularly in creative and interactive contexts.\n\n### **[Scaling Long-Form Story Generation via Narrative State Tracking](http://arxiv.org/abs/2609.35759v1)**\nResearchers are tackling the challenge of maintaining narrative consistency in long-form story generation using Large Language Models (LLMs) through \"Narrative State Tracking.\" This work is vital for enabling LLMs to produce full-length novels or complex narratives, overcoming a significant hurdle in creative AI and expanding the scope of generative writing.\n\n### **[Telescopic Language Models: Serving Multiple Compute Budgets with One Model](http://arxiv.org/abs/2609.35769v1)**\nThe concept of \"Telescopic Language Models (TLM)\" introduces a single model capable of serving various compute budgets, eliminating the need for separate training or compression runs per point. This highly practical innovation promises to revolutionize efficiency and deployment strategies, allowing dynamic scaling of model complexity based on available resources.\n\n### **[PDMD: Projected Distribution Matching Distillation for Video Diffusion Models](http://arxiv.org/abs/2609.35768v1)**\nThis paper introduces Projected Distribution Matching Distillation (PDMD) to significantly reduce the number of function evaluations (NFE) required by modern video diffusion models. This research is crucial for making high-quality video generation more accessible and faster, accelerating both research and practical applications in this computationally intensive domain.\n\n---\n**Today's Signal:** The AI ecosystem is rapidly maturing, with a clear trend towards agentic capabilities, hyper-efficient model deployment, and a proactive stance on safety and responsible innovation.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI News | Latest News | Insights Powering AI-Driven Business Growth ](https://www.artificialintelligence-news.com) | September 23, 2026\n\n# U.S. TRANSCOM deploys randomised AI to secure military log... |\n| [Here is a comprehensive summary of the most recent AI developments over the last 24 hours, based on\u2026 | by Vignesh E | Medium ](https://medium.com/@ehsengiv/here-is-a-comprehensive-summary-of-the-most-recent-ai-developments-over-the-last-24-hours-based-on-2d4c426c1cc8) | OpenAI launched GPT-5.2, featuring improvements in general intelligence, coding,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How we will do better for Australia ](https://openai.com/index/how-we-will-do-better-for-australia) | OpenAI apologises for incidents involving Australian government websites and out... |\n| [Towards safety cases for frontier AI training ](https://openai.com/index/towards-safety-cases-for-frontier-ai-training) | Our early guidelines for safety cases in frontier AI training cover technical sa... |\n| [The Lenfest Institute grows landmark program with expanded OpenAI support ](https://openai.com/index/lenfest-ai-collaborative-expansion) | OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 ... |\n| [Are you a Codex Original? ](https://openai.com/form/codex-originals) | We\u2019re collecting real stories of builders, tinkerers, researchers, and creators ... |\n| [Basis completes a tax workbook 2x faster with GPT-6 Astra ](https://openai.com/index/basis-tax-workbook-with-astra) | GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and it... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets ](http://arxiv.org/abs/2609.35770v1) | Realistic and editable animal fur reconstruction from multi-view images is chall... |\n| [Telescopic Language Models ](http://arxiv.org/abs/2609.35769v1) | One deployed language model must often serve many compute budgets, yet serving e... |\n| [PDMD: Projected Distribution Matching Distillation for Video Diffusion Models ](http://arxiv.org/abs/2609.35768v1) | Modern video diffusion models require tens of denoising evaluations over long sp... |\n| [Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning ](http://arxiv.org/abs/2609.35767v1) | Unified multimodal models can both look at and render images, so in principle th... |\n| [Retrieving Biblical Intertextual References in Karen Blixen's Seven Gothic Tales ](http://arxiv.org/abs/2609.35765v1) | Identifying intertextual references is central to literary scholarship, but comp... |\n| [Unifying Distributional Training for One-Step Visual Generation ](http://arxiv.org/abs/2609.35763v1) | \\emph{Distributional training} provides collective supervision for one-step visu... |\n| [Scaling Long-Form Story Generation via Narrative State Tracking ](http://arxiv.org/abs/2609.35759v1) | LLMs have demonstrated strong capabilities in creative writing. However, scaling... |\n| [TokenCast: Forecasting Token Consumption During LLM Agent Execution ](http://arxiv.org/abs/2609.35760v1) | When a large language model (LLM) agent executes the same task, token consumptio... |\n| [Statistical Learning of Contractive Dynamical Representations for Composite Adaptive Control ](http://arxiv.org/abs/2609.35758v1) | We present a representation-learning framework for composite adaptive tracking c... |\n| [Neural Harmonic Measure Operator ](http://arxiv.org/abs/2609.35752v1) | We introduce Neural Harmonic Measure Operator (NHMO), a neural solver for ellipt... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [convaiinnovations/laya ](https://huggingface.co/convaiinnovations/laya) | Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated... |\n| [Edge0/Audio8-ASR-Infinite ](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-ge... |\n| [abenzerps/Qwen-Image-2.1-Uncensored-GGUF ](https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF) | Trending HF Model. Tags: gguf, qwen, image-generation, comfyui, comfyui-gguf, te... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | HN Score: 231. Comments: 82 |\n| [[HackerNews] ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) | HN Score: 95. Comments: 18 |\n| [[HackerNews] Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | HN Score: 490. Comments: 184 |\n| [[HackerNews] Show HN: Pac-Bench \u2013 How well can models one-shot a Pac-Man game?](https://jonclegg.github.io/pacman-bakeoff/) | HN Score: 52. Comments: 37 |\n| [[HackerNews] 12,000-year-old G\u00f6beklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) | HN Score: 130. Comments: 30 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=R9momwXV9w4) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
