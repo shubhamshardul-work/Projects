@@ -1,0 +1,473 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "byScarlett Evans\n\nSep 9, 2026\n\n2 Min Read\n\nPhoto of Qualcomm logo\n\nData Centers\n\nQualcomm Forges AI Chip Deal with Amazon\n\nQualcomm Forges AI Chip Deal with Amazon\n\nSep 9, 2026\n\n|\n\n1 Min Read\n\nPicture of Graham Hope\n\nbyGraham Hope,Contributing Writer\n\nMistral logo\n\nGenerative AI\n\nHow Mistral\u2019s New Funding is a Bridge to Sovereign AI\n\nHow Mistral\u2019s New Funding is a Bridge to Sovereign AI\n\nSep 8, 2026\n\n|\n\n3 Min Read\n\nPicture of Esther Shittu\n\nbyEsther Shittu,News Writer, AI Business [...] Generative AI\n\nMistral Bets Enterprise AI Will Be About Control, Not Just IntelligenceMistral Bets Enterprise AI Will Be About Control, Not Just Intelligence\n\nSep 11, 2026\n\n5 Min Read\n\nWarning sign of digital riskAI Policy\n\nThe AI Safety Crunch and How Enterprises Should Deal With ItThe AI Safety Crunch and How Enterprises Should Deal With It\n\nbyEsther Shittu\n\nSep 10, 2026\n\n5 Min Read\n\nCognition logo.png?width=1400&auto=webp&quality=80&disable=upscale \"Cognition logo\")Generative AI [...] byEsther Shittu,News Writer, AI Business\n\nAnthropic symbol\n\nGenerative AI\n\nAnthropic Releases Interface to Help AI Agents Operate Machines\n\nAnthropic Releases Interface to Help AI Agents Operate Machines\n\nAug 31, 2026\n\n|\n\n2 Min Read\n\nPicture of Scarlett Evans\n\nbyScarlett Evans,Contributing Writer\n\n\n\nSponsored Content\n\nUse Knowledge Assistants to Turn Data into Productivity\n\nUse Knowledge Assistants to Turn Data into Productivity\n\nAug 31, 2026\n\n|\n\n4 Min Read\n\nIllustration of cybersecurity",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "url": "http://arxiv.org/abs/2609.40361v1",
+      "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Semifactual Credit-Augmented Policy Optimization",
+      "url": "http://arxiv.org/abs/2609.40360v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "url": "http://arxiv.org/abs/2609.40359v1",
+      "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "url": "http://arxiv.org/abs/2609.40356v1",
+      "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+      "url": "http://arxiv.org/abs/2609.40347v1",
+      "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "url": "http://arxiv.org/abs/2609.40340v1",
+      "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+      "url": "http://arxiv.org/abs/2609.40335v1",
+      "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+      "url": "http://arxiv.org/abs/2604.07709v6",
+      "summary": "We introduce IatroBench, a benchmark with two axes of harm (commission and omission), comprising 60 pre-registered clinical scenarios, tested on 6 models. Matched scenarios are framed as a patient que...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "url": "http://arxiv.org/abs/2609.28470v2",
+      "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Turbo Harness: Instance-Adaptive Harness Optimization",
+      "url": "http://arxiv.org/abs/2609.40330v1",
+      "summary": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is ...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 26749",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated-decisions, rlcd. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XingChen-AGI/TeleOCR",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen2_5_vl, image-text-to-text, ocr, document-parsing. Downloads: 30383",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "HN Score: 182. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "HN Score: 130. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "summary": "HN Score: 94. Comments: 34",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "summary": "HN Score: 93. Comments: 118",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "HN Score: 641. Comments: 351",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI recent news | AI Business",
+      "url": "https://aibusiness.com/generative-ai",
+      "summary": "byScarlett Evans\n\nSep 9, 2026\n\n2 Min Read\n\nPhoto of Qualcomm logo\n\nData Centers\n\nQualcomm Forges AI Chip Deal with Amazon\n\nQualcomm Forges AI Chip Deal with Amazon\n\nSep 9, 2026\n\n|\n\n1 Min Read\n\nPicture of Graham Hope\n\nbyGraham Hope,Contributing Writer\n\nMistral logo\n\nGenerative AI\n\nHow Mistral\u2019s New Funding is a Bridge to Sovereign AI\n\nHow Mistral\u2019s New Funding is a Bridge to Sovereign AI\n\nSep 8, 2026\n\n|\n\n3 Min Read\n\nPicture of Esther Shittu\n\nbyEsther Shittu,News Writer, AI Business [...] Generative AI\n\nMistral Bets Enterprise AI Will Be About Control, Not Just IntelligenceMistral Bets Enterprise AI Will Be About Control, Not Just Intelligence\n\nSep 11, 2026\n\n5 Min Read\n\nWarning sign of digital riskAI Policy\n\nThe AI Safety Crunch and How Enterprises Should Deal With ItThe AI Safety Crunch and How Enterprises Should Deal With It\n\nbyEsther Shittu\n\nSep 10, 2026\n\n5 Min Read\n\nCognition logo.png?width=1400&auto=webp&quality=80&disable=upscale \"Cognition logo\")Generative AI [...] byEsther Shittu,News Writer, AI Business\n\nAnthropic symbol\n\nGenerative AI\n\nAnthropic Releases Interface to Help AI Agents Operate Machines\n\nAnthropic Releases Interface to Help AI Agents Operate Machines\n\nAug 31, 2026\n\n|\n\n2 Min Read\n\nPicture of Scarlett Evans\n\nbyScarlett Evans,Contributing Writer\n\n\n\nSponsored Content\n\nUse Knowledge Assistants to Turn Data into Productivity\n\nUse Knowledge Assistants to Turn Data into Productivity\n\nAug 31, 2026\n\n|\n\n4 Min Read\n\nIllustration of cybersecurity",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "url": "http://arxiv.org/abs/2609.40361v1",
+      "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Semifactual Credit-Augmented Policy Optimization",
+      "url": "http://arxiv.org/abs/2609.40360v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "url": "http://arxiv.org/abs/2609.40359v1",
+      "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "url": "http://arxiv.org/abs/2609.40356v1",
+      "summary": "Recent video generation is increasingly realistic and controllable, yet video editing remains less developed, particularly for precise local edits that must preserve the original scene dynamics. Video...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Image Classifiers are Efficient Self-Supervised Video Representation Learners",
+      "url": "http://arxiv.org/abs/2609.40347v1",
+      "summary": "We introduce VideoMSN, a Masked Siamese Network framework for efficient self-supervised spatio-temporal representation learning in videos. Instead of relying on heavy 3D architectures or reconstructio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "url": "http://arxiv.org/abs/2609.40340v1",
+      "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+      "url": "http://arxiv.org/abs/2609.40335v1",
+      "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models",
+      "url": "http://arxiv.org/abs/2604.07709v6",
+      "summary": "We introduce IatroBench, a benchmark with two axes of harm (commission and omission), comprising 60 pre-registered clinical scenarios, tested on 6 models. Matched scenarios are framed as a patient que...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] StudentBench: AI and human tutoring yield equivalent GRE learning gains",
+      "url": "http://arxiv.org/abs/2609.28470v2",
+      "summary": "Artificial intelligence offers an unprecedented opportunity to augment human capabilities, yet progress at the frontier has focused primarily on advancing model capabilities. We introduce StudentBench...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Turbo Harness: Instance-Adaptive Harness Optimization",
+      "url": "http://arxiv.org/abs/2609.40330v1",
+      "summary": "Automating the search for effective harnesses is an important step toward enabling agents to recursively self-improve. Existing harness optimizations typically produce a single global harness that is ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] Edge0/Audio8-ASR-Infinite",
+      "url": "https://huggingface.co/Edge0/Audio8-ASR-Infinite",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-generation, streaming, realtime. Downloads: 26749",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] convaiinnovations/laya",
+      "url": "https://huggingface.co/convaiinnovations/laya",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated-decisions, rlcd. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] XingChen-AGI/TeleOCR",
+      "url": "https://huggingface.co/XingChen-AGI/TeleOCR",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen2_5_vl, image-text-to-text, ocr, document-parsing. Downloads: 30383",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "summary": "HN Score: 182. Comments: 61",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Halfspace experimental IDE for solid modeling with distance fields",
+      "url": "https://www.mattkeeter.com/projects/halfspace/",
+      "summary": "HN Score: 130. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "summary": "HN Score: 94. Comments: 34",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "summary": "HN Score: 93. Comments: 118",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "summary": "HN Score: 641. Comments: 351",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=R9momwXV9w4",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] DevDay 2026 Recap",
+        "url": "https://openai.com/index/devday-2026-recap",
+        "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+      },
+      {
+        "title": "[RSS] Google releases Gemini 4 Argon, called its most powerful model yet",
+        "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+      },
+      {
+        "title": "[RSS] Introducing GPT-6.1 Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+        "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
+      },
+      {
+        "title": "[RSS] Helping small businesses put AI to work",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+        "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] Disrupting a coordinated model-distillation campaign",
+        "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+        "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+        "url": "http://arxiv.org/abs/2609.40340v1",
+        "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee..."
+      },
+      {
+        "title": "[ArXiv] Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+        "url": "http://arxiv.org/abs/2609.40361v1",
+        "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc..."
+      },
+      {
+        "title": "[ArXiv] Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+        "url": "http://arxiv.org/abs/2609.40335v1",
+        "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between..."
+      },
+      {
+        "title": "[HackerNews] Responsible Release of AI-Generated Mathematics",
+        "url": "https://agmai.org/general-sep29/",
+        "summary": "HN Score: 93. Comments: 118"
+      },
+      {
+        "title": "[ArXiv] Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+        "url": "http://arxiv.org/abs/2609.40359v1",
+        "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+    },
+    {
+      "title": "[RSS] Google releases Gemini 4 Argon, called its most powerful model yet",
+      "url": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work."
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API input and output token prices."
+    },
+    {
+      "title": "[RSS] Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+    },
+    {
+      "title": "[RSS] Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+    },
+    {
+      "title": "[ArXiv] EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery",
+      "url": "http://arxiv.org/abs/2609.40340v1",
+      "summary": "Evolutionary search with large language models (LLMs) can stall when progress requires external knowledge the model lacks. Supplying relevant documents helps, but simply adding web search tool can kee..."
+    },
+    {
+      "title": "[ArXiv] Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "url": "http://arxiv.org/abs/2609.40361v1",
+      "summary": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanc..."
+    },
+    {
+      "title": "[ArXiv] Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?",
+      "url": "http://arxiv.org/abs/2609.40335v1",
+      "summary": "Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approach for privacy-preserving fine-tuning of large language models (LLMs). Many decoder-only LLMs employ weight tying between..."
+    },
+    {
+      "title": "[HackerNews] Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "summary": "HN Score: 93. Comments: 118"
+    },
+    {
+      "title": "[ArXiv] Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text",
+      "url": "http://arxiv.org/abs/2609.40359v1",
+      "summary": "We find that major reported improvements in decoding words from non-invasive brain recordings are largely reproducible without any brain data. In the influential work of d'Ascoli et al. (2025), time s..."
+    }
+  ],
+  "final_report": "# AI's Accelerated Ascent: OpenAI Unveils Next-Gen Models as Google Counters, While Security and Research Push Boundaries\n\nToday's intelligence report highlights a furious pace of innovation, with OpenAI's DevDay 2026 showcasing a suite of powerful new models and strategic initiatives. Meanwhile, Google intensifies the model race, and the industry grapples with critical security challenges and groundbreaking research.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[DevDay 2026 Recap](https://openai.com/index/devday-2026-recap)**\nOpenAI's DevDay 2026 was a strategic tour de force, unveiling over 20 announcements including the flagship GPT-6 Astra, new ChatGPT capabilities, Codex, and expanded APIs. This comprehensive platform play signals OpenAI's intent to solidify its market leadership across the entire AI ecosystem, from advanced reasoning to secure enterprise deployment, aiming to capture developers and businesses alike. The breadth of offerings underscores a mature product strategy designed to drive widespread adoption and maintain competitive advantage.\n\n### **[Google releases Gemini 4 Argon, called its most powerful model yet](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/)**\nGoogle's release of Gemini 4 Argon directly challenges OpenAI's latest offerings, positioning itself as a formidable workhorse for critical enterprise segments like coding and cybersecurity. This move highlights the escalating competition at the frontier of AI, where tech giants are vying for dominance by targeting specific, high-value applications with increasingly powerful and specialized models. Executives should note the intensifying arms race for enterprise-grade AI capabilities and the strategic importance of specialized model performance.\n\n### **[Introducing GPT-6.1 Sol](https://openai.com/index/introducing-gpt-6-1-sol)**\nThe introduction of GPT-6.1 Sol is a shrewd strategic move, democratizing access to near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra\u2019s standard API token prices. This makes advanced AI significantly more accessible and cost-effective for a wider range of businesses and use cases, potentially expanding OpenAI's market share beyond early adopters. For business leaders, this signals a shift towards more economically viable, high-performance AI, enabling broader integration into existing workflows and driving new efficiency gains across organizations.\n\n### **[Helping small businesses put AI to work](https://openai.com/index/helping-small-businesses-put-ai-to-work)**\nOpenAI's partnership with America\u2019s SBDC to expand hands-on AI training and local support for small businesses demonstrates a strategic focus on broadening AI adoption beyond large enterprises. By lowering the barrier to entry for AI, this initiative aims to foster a new wave of users and applications within the vast small business market. This move could unlock significant long-term growth by embedding AI into the foundational economy and creating a broader, more resilient ecosystem of AI-powered businesses.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Disrupting a coordinated model-distillation campaign](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign)**\nThis report is crucial for developers and security architects, highlighting the ongoing threat of adversarial model distillation where bad actors attempt to extract proprietary model reasoning. Practitioners should pay close attention to OpenAI's strengthened defenses and consider implementing similar safeguards to protect their own intellectual property and ensure the integrity of their AI deployments. This underscores the critical need for robust security practices and continuous vigilance in AI development and deployment pipelines.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery](http://arxiv.org/abs/2609.40340v1)**\nThis paper explores a novel approach to enhance LLM capabilities by co-evolving web searching and task-solving, addressing the fundamental limitation of LLMs' knowledge cutoff. By proposing a dynamic, adaptive mechanism for external information retrieval, EvoDuet offers a pathway to building more autonomous and knowledge-aware AI systems. Researchers should consider the implications for complex scientific discovery and problem-solving, moving beyond static knowledge bases.\n\n### **[Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis](http://arxiv.org/abs/2609.40361v1)**\nThis research tackles the critical challenge of applying Multimodal Large Language Models (MLLMs) to clinical diagnosis, particularly in the context of heavily imbalanced datasets. By focusing on ranking-aware prompt optimization, the authors propose a method to improve the clinical utility and reliability of MLLMs beyond simple accuracy metrics. This has significant implications for the responsible and effective deployment of AI in healthcare, urging researchers to prioritize real-world clinical impact over purely statistical performance.\n\n### **[Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD?](http://arxiv.org/abs/2609.40335v1)**\nThis paper delves into the interaction between weight tying and Differentially Private Stochastic Gradient Descent (DP-SGD) in LLMs, a crucial area for privacy-preserving AI. The findings could influence architectural choices for privacy-aware model development, suggesting that traditional optimizations like weight tying might need re-evaluation under strict privacy constraints. Researchers working on secure and private AI should pay close attention to these architectural implications for future model design.\n\n### **[Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/)**\nThe discussion around the responsible release of AI-generated mathematics highlights a growing ethical and philosophical frontier in AI research. As AI systems become capable of generating complex, novel intellectual content, urgent questions arise about authorship, verification, and potential misuse. This signals a critical need for interdisciplinary collaboration between AI researchers, mathematicians, ethicists, and policymakers to establish guidelines for the responsible development and dissemination of such powerful tools.\n\n### **[Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text](http://arxiv.org/abs/2609.40359v1)**\nThis research presents a critical re-evaluation of previous findings in non-invasive brain-to-text decoding, suggesting that some reported improvements might be artifacts of \"timing shortcuts\" rather than true neural signal decoding. This serves as an important cautionary tale for the field, emphasizing the need for rigorous experimental design and careful control for confounding variables in neuro-AI research. It pushes researchers to develop more robust and truly brain-data-driven decoding methods.\n\n---\n**Today's Signal:** The AI landscape is characterized by an accelerating pace of model innovation and strategic market expansion, while simultaneously grappling with critical challenges in security, privacy, and the responsible application of increasingly powerful systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI recent news | AI Business ](https://aibusiness.com/generative-ai) | byScarlett Evans\n\nSep 9, 2026\n\n2 Min Read\n\nPhoto of Qualcomm logo\n\nData Centers\n... |\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, R... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Disrupting a coordinated model-distillation campaign ](https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign) | Learn how OpenAI disrupted a campaign to extract protected model reasoning and i... |\n| [Helping small businesses put AI to work ](https://openai.com/index/helping-small-businesses-put-ai-to-work) | OpenAI is partnering with America\u2019s SBDC to expand hands-on AI training and loca... |\n| [Introducing GPT-6.1 Sol ](https://openai.com/index/introducing-gpt-6-1-sol) | Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professi... |\n| [DevDay 2026 Recap ](https://openai.com/index/devday-2026-recap) | Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astr... |\n| [Google releases Gemini 4 Argon, called its most powerful model yet ](https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/) | Google has released its latest Gemini model, marketing it as a workhorse for cod... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis ](http://arxiv.org/abs/2609.40361v1) | Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosi... |\n| [Semifactual Credit-Augmented Policy Optimization ](http://arxiv.org/abs/2609.40360v1) | Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning... |\n| [Removing Timing Shortcuts Improves Non-Invasive Brain-to-Text ](http://arxiv.org/abs/2609.40359v1) | We find that major reported improvements in decoding words from non-invasive bra... |\n| [ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing ](http://arxiv.org/abs/2609.40356v1) | Recent video generation is increasingly realistic and controllable, yet video ed... |\n| [Image Classifiers are Efficient Self-Supervised Video Representation Learners ](http://arxiv.org/abs/2609.40347v1) | We introduce VideoMSN, a Masked Siamese Network framework for efficient self-sup... |\n| [EvoDuet: Bilevel Co-Evolution of Web Searching and Task Solving for Scientific Discovery ](http://arxiv.org/abs/2609.40340v1) | Evolutionary search with large language models (LLMs) can stall when progress re... |\n| [Is Weight Tying Still Beneficial for Decoder-Only LLMs in Private Settings Under DP-SGD? ](http://arxiv.org/abs/2609.40335v1) | Differentially Private Stochastic Gradient Descent (DP-SGD) is a leading approac... |\n| [IatroBench: A Pre-Registered Benchmark of Clinical Omission in Language Models ](http://arxiv.org/abs/2604.07709v6) | We introduce IatroBench, a benchmark with two axes of harm (commission and omiss... |\n| [StudentBench: AI and human tutoring yield equivalent GRE learning gains ](http://arxiv.org/abs/2609.28470v2) | Artificial intelligence offers an unprecedented opportunity to augment human cap... |\n| [Turbo Harness: Instance-Adaptive Harness Optimization ](http://arxiv.org/abs/2609.40330v1) | Automating the search for effective harnesses is an important step toward enabli... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Edge0/Audio8-ASR-Infinite ](https://huggingface.co/Edge0/Audio8-ASR-Infinite) | Trending HF Model. Tags: transformers, safetensors, audio8_asr_infinite, text-ge... |\n| [convaiinnovations/laya ](https://huggingface.co/convaiinnovations/laya) | Trending HF Model. Tags: transformers, safetensors, laya, system-one, calibrated... |\n| [XingChen-AGI/TeleOCR ](https://huggingface.co/XingChen-AGI/TeleOCR) | Trending HF Model. Tags: transformers, safetensors, qwen2_5_vl, image-text-to-te... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | HN Score: 182. Comments: 61 |\n| [[HackerNews] Halfspace experimental IDE for solid modeling with distance fields](https://www.mattkeeter.com/projects/halfspace/) | HN Score: 130. Comments: 9 |\n| [[HackerNews] Doing a Machine Learning PhD While Working in Japan](https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan) | HN Score: 94. Comments: 34 |\n| [[HackerNews] Responsible Release of AI-Generated Mathematics](https://agmai.org/general-sep29/) | HN Score: 93. Comments: 118 |\n| [[HackerNews] You said no MCP](https://earendil.com/posts/you-said-no-mcp/) | HN Score: 641. Comments: 351 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=R9momwXV9w4) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
