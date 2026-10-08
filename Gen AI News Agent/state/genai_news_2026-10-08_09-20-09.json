@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases [...] [10:55] thing. They're editing images by giving them products and things like that and then converting it into videos using things like V3. So, a feature that's\n[11:04] available in Higsfield if you want to try it there as well. I don't know exactly which model they're using. If I had to guess, it's probably the QuinnEdit model, but I'm not 100% sure",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Updates Today (October 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "Krea\nSync\nAmazon\nStability AI\nSao10K\nRime\nReve AI\nRunway\nFireworks AI\nPlayAI\nGenmo\nNous Research\nDeepgram\nRecraft AI\nInworld\nAI21 Labs\nAssemblyAI\nGryphe\nOpenAI [...] OpenAI\nAnthropic\nXiaomi\nxAI\nMoonshot AI\nShanghai AI Laboratory\nDeepSeek\nInclusionAI\nGoogle\nMeta\nAlibaba\nHiggsfield\nPixVerse\nTencent\nCartesia\nCohere\nAlibaba Cloud / Qwen Team\nZhipu AI\nIBM\nWAN Video\nLiquid AI\nMicrosoft\nNVIDIA\nLightricks\nUpstage\nMistral AI\nBlack Forest Labs\nSakana AI\nByteDance\nMiniMax\nThinking Machines Lab\nPoolside\nTopaz Labs\nBria AI\nClarity AI\nStepFun\nUnisound\nLG AI Research\nSarvam AI\nInception\nOpenBMB\nMeituan\nKling AI\nSourceful\nBaidu\nElevenLabs\nLuma Labs\nKrea\nSync\nAmazon [...] ### GPT-6.1 Sol\n\nAnthropic\n\n### Claude Sonnet 5.5\n\nAnthropic\n\n### Claude Opus 5.5\n\nOpenAI\n\n### GPT-6 Luna\n\nOpenAI\n\n### GPT-6 Sol\n\nXiaomi\n\n### MiMo-V2.6-Flash\n\nXiaomi\n\n### MiMo-V2.6-Pro\n\nxAI\n\n### Grok 4.7\n\n## Models that got worse\n\nSigma-normalized vs. each model's baseline\n\nNo notable regressions this period.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "url": "http://arxiv.org/abs/2610.10538v1",
+      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Decoupling Exploration from Optimization in RLVR",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+      "url": "http://arxiv.org/abs/2609.35965v2",
+      "summary": "Vision-and-Language Navigation (VLN) has largely focused on a single agent following a single instruction, yet many real-world applications require teams of robots to tackle tasks beyond the capabilit...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] More than 83.69% of the zeros of the Riemann zeta function are distinct",
+      "url": "http://arxiv.org/abs/2609.33043v2",
+      "summary": "The lower asymptotic proportion of distinct nontrivial zeros of the Riemann zeta function, relative to the total number counted with multiplicity, is at least $0.8369928814\\ldots$. Earlier work proves...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Dataset for Modeling Iterative Problem-Solving",
+      "url": "http://arxiv.org/abs/2609.00940v2",
+      "summary": "Solving problems through repeated attempts is a sequential modeling task: at each step, the solver receives feedback and decides how to revise their solutions. Predicting whether performance improves,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Long-WAM: Scaling the Context of World-Action Models",
+      "url": "http://arxiv.org/abs/2610.10528v1",
+      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+      "url": "http://arxiv.org/abs/2610.10527v1",
+      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "url": "http://arxiv.org/abs/2610.10526v1",
+      "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+      "url": "http://arxiv.org/abs/2610.10520v1",
+      "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1529210",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, clef, cloudflare. Downloads: 9513",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 895867",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "HN Score: 870. Comments: 418",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "summary": "HN Score: 621. Comments: 345",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "HN Score: 41. Comments: 30",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "HN Score: 1280. Comments: 1450",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "summary": "HN Score: 54. Comments: 96",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need. [...] 00:00 Biggest AI Updates This Week\n00:25 Qwen Image Edit: The Photoshop Killer?\n02:39 Google\u2019s Mysterious \u201cNano Banana\u201d Model\n09:12 Sponsor: Lovable AI Builder\n10:41 Higgsfield AI: Product-to-Video Editing\n11:17 Runway Game Worlds Beta\n15:15 ElevenLabs Video-to-Music AI\n17:02 Google AI Search & Docs Updates\n19:21 Adobe Acrobat AI & PDF Spaces\n20:46 Google Pixel 10 & Gemini-Powered Devices\n26:39 Rapid-Fire AI Model Releases (DeepSeek, ByteDance, Nvidia)\n28:26 OpenAI GPT-5 Tweaks & GPT-6 Teases [...] [10:55] thing. They're editing images by giving them products and things like that and then converting it into videos using things like V3. So, a feature that's\n[11:04] available in Higsfield if you want to try it there as well. I don't know exactly which model they're using. If I had to guess, it's probably the QuinnEdit model, but I'm not 100% sure",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Updates Today (October 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "Krea\nSync\nAmazon\nStability AI\nSao10K\nRime\nReve AI\nRunway\nFireworks AI\nPlayAI\nGenmo\nNous Research\nDeepgram\nRecraft AI\nInworld\nAI21 Labs\nAssemblyAI\nGryphe\nOpenAI [...] OpenAI\nAnthropic\nXiaomi\nxAI\nMoonshot AI\nShanghai AI Laboratory\nDeepSeek\nInclusionAI\nGoogle\nMeta\nAlibaba\nHiggsfield\nPixVerse\nTencent\nCartesia\nCohere\nAlibaba Cloud / Qwen Team\nZhipu AI\nIBM\nWAN Video\nLiquid AI\nMicrosoft\nNVIDIA\nLightricks\nUpstage\nMistral AI\nBlack Forest Labs\nSakana AI\nByteDance\nMiniMax\nThinking Machines Lab\nPoolside\nTopaz Labs\nBria AI\nClarity AI\nStepFun\nUnisound\nLG AI Research\nSarvam AI\nInception\nOpenBMB\nMeituan\nKling AI\nSourceful\nBaidu\nElevenLabs\nLuma Labs\nKrea\nSync\nAmazon [...] ### GPT-6.1 Sol\n\nAnthropic\n\n### Claude Sonnet 5.5\n\nAnthropic\n\n### Claude Opus 5.5\n\nOpenAI\n\n### GPT-6 Luna\n\nOpenAI\n\n### GPT-6 Sol\n\nXiaomi\n\n### MiMo-V2.6-Flash\n\nXiaomi\n\n### MiMo-V2.6-Pro\n\nxAI\n\n### Grok 4.7\n\n## Models that got worse\n\nSigma-normalized vs. each model's baseline\n\nNo notable regressions this period.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "url": "http://arxiv.org/abs/2610.10538v1",
+      "summary": "As we move through the world and carry out everyday tasks, we encounter objects that may become relevant only later. We are capable of recalling where we left something or what was inside a container,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Decoupling Exploration from Optimization in RLVR",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "summary": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In princ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+      "url": "http://arxiv.org/abs/2609.35965v2",
+      "summary": "Vision-and-Language Navigation (VLN) has largely focused on a single agent following a single instruction, yet many real-world applications require teams of robots to tackle tasks beyond the capabilit...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] More than 83.69% of the zeros of the Riemann zeta function are distinct",
+      "url": "http://arxiv.org/abs/2609.33043v2",
+      "summary": "The lower asymptotic proportion of distinct nontrivial zeros of the Riemann zeta function, relative to the total number counted with multiplicity, is at least $0.8369928814\\ldots$. Earlier work proves...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "summary": "Conditional memory architectures such as DeepSeek Engram use input n-grams to look up learned embeddings, expanding the capacity of large language models (LLMs) with limited additional computation. Be...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Dataset for Modeling Iterative Problem-Solving",
+      "url": "http://arxiv.org/abs/2609.00940v2",
+      "summary": "Solving problems through repeated attempts is a sequential modeling task: at each step, the solver receives feedback and decides how to revise their solutions. Predicting whether performance improves,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Long-WAM: Scaling the Context of World-Action Models",
+      "url": "http://arxiv.org/abs/2610.10528v1",
+      "summary": "Real-time robot control demands enough visual history to infer motion and task progress, but processing that history can delay action. We present Long-WAM, a model-system framework for scaling the con...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping",
+      "url": "http://arxiv.org/abs/2610.10527v1",
+      "summary": "Heavy-tailed noise has been widely observed in modern machine learning, motivating the use of methods like gradient clipping and normalization. While these methods are well understood in centralized s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "url": "http://arxiv.org/abs/2610.10526v1",
+      "summary": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can mo...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+      "url": "http://arxiv.org/abs/2610.10520v1",
+      "summary": "GNN-to-MLP distillation aims to retain the predictive accuracy of a message-passing teacher while deploying a graph-free MLP at inference. Existing methods mainly transfer node-wise predictions or use...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1529210",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, clef, cloudflare. Downloads: 9513",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 895867",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "HN Score: 870. Comments: 418",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] GPT\u20116 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "summary": "HN Score: 621. Comments: 345",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "HN Score: 41. Comments: 30",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "summary": "HN Score: 1280. Comments: 1450",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "summary": "HN Score: 54. Comments: 96",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "GPT-6 and Intelligent UI for everyone",
+        "url": "https://openai.com/index/gpt-6-for-everyone",
+        "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+      },
+      {
+        "title": "AI Updates Today (October 2026) \u2013 Latest AI Model Releases",
+        "url": "https://llm-stats.com/llm-updates",
+        "summary": "A comprehensive list of the latest AI model releases in October 2026, featuring new models from major players like OpenAI (GPT-6.1 Sol, GPT-6 Luna), Anthropic (Claude Sonnet 5.5, Claude Opus 5.5), Xiaomi (MiMo-V2.6-Flash, MiMo-V2.6-Pro), and xAI (Grok 4.7)."
+      },
+      {
+        "title": "Claude Haiku 5.5",
+        "url": "https://www.anthropic.com/claude-haiku-5-5",
+        "summary": "Anthropic releases Claude Haiku 5.5, a new model, generating significant discussion on HackerNews."
+      },
+      {
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "url": "https://openai.com/index/jump-trading",
+        "summary": "Jump Trading uses OpenAI to expand quantitative research, demonstrating longer-running AI workflows combining multiple data sources with human review."
+      },
+      {
+        "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+        "url": "https://openai.com/index/radisson",
+        "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels."
+      }
+    ],
+    "technical": [
+      {
+        "title": "AI NEWS: 28 Releases and Updates You Missed This Week",
+        "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+        "summary": "A weekly roundup of 28 major AI updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, and Nvidia, covering new generative AI tools, Pixel 10 + Gemini AI upgrades, and breakthroughs in large language models including GPT-5 tweaks and GPT-6 teases."
+      },
+      {
+        "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+        "url": "https://github.com/pingdotgg/ts-rust",
+        "summary": "A project demonstrating an LLM-assisted port of the TypeScript compiler, checker, and LSP to Rust, showcasing practical AI application in development tools."
+      },
+      {
+        "title": "autotrust/JEV-27B-VL",
+        "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "summary": "A trending HuggingFace model, JEV-27B-VL, tagged for transformers, safetensors, qwen3_5, and image-text-to-text capabilities, with over 1.5 million downloads."
+      }
+    ],
+    "research": [
+      {
+        "title": "Sharing AI progress in mathematics",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model, sharing Lean proof formalizations and research details on GitHub."
+      },
+      {
+        "title": "OpenAI withdraws three mathematical results",
+        "url": "https://twitter.com/danintheory/status/2108065033070789090",
+        "summary": "Discussion on HackerNews regarding OpenAI withdrawing three mathematical results, highlighting the challenges and scrutiny in frontier AI research."
+      },
+      {
+        "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+        "url": "http://arxiv.org/abs/2610.10533v1",
+        "summary": "Introduces EngramEdit, a novel conditional memory architecture for LLMs that uses input n-grams to look up learned embeddings, expanding capacity with limited additional computation."
+      },
+      {
+        "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+        "url": "http://arxiv.org/abs/2610.10526v1",
+        "summary": "Research characterizing and mitigating the striking sensitivity of Vision-Language-Action models (VLAs) to instruction phrasing, crucial for AI robustness."
+      },
+      {
+        "title": "Decoupling Exploration from Optimization in RLVR",
+        "url": "http://arxiv.org/abs/2610.10536v1",
+        "summary": "Explores decoupling exploration from optimization in Reinforcement Learning with Verifiable Rewards (RLVR) for language models, aiming to discover new reasoning strategies."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
+    },
+    {
+      "title": "AI Updates Today (October 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "A comprehensive list of the latest AI model releases in October 2026, featuring new models from major players like OpenAI (GPT-6.1 Sol, GPT-6 Luna), Anthropic (Claude Sonnet 5.5, Claude Opus 5.5), Xiaomi (MiMo-V2.6-Flash, MiMo-V2.6-Pro), and xAI (Grok 4.7)."
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "summary": "Anthropic releases Claude Haiku 5.5, a new model, generating significant discussion on HackerNews."
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research, demonstrating longer-running AI workflows combining multiple data sources with human review."
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels."
+    },
+    {
+      "title": "AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk",
+      "summary": "A weekly roundup of 28 major AI updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, and Nvidia, covering new generative AI tools, Pixel 10 + Gemini AI upgrades, and breakthroughs in large language models including GPT-5 tweaks and GPT-6 teases."
+    },
+    {
+      "title": "Port of the TypeScript compiler, checker and lsp to Rust, by LLM",
+      "url": "https://github.com/pingdotgg/ts-rust",
+      "summary": "A project demonstrating an LLM-assisted port of the TypeScript compiler, checker, and LSP to Rust, showcasing practical AI application in development tools."
+    },
+    {
+      "title": "autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "A trending HuggingFace model, JEV-27B-VL, tagged for transformers, safetensors, qwen3_5, and image-text-to-text capabilities, with over 1.5 million downloads."
+    },
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model, sharing Lean proof formalizations and research details on GitHub."
+    },
+    {
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "Discussion on HackerNews regarding OpenAI withdrawing three mathematical results, highlighting the challenges and scrutiny in frontier AI research."
+    },
+    {
+      "title": "EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory",
+      "url": "http://arxiv.org/abs/2610.10533v1",
+      "summary": "Introduces EngramEdit, a novel conditional memory architecture for LLMs that uses input n-grams to look up learned embeddings, expanding capacity with limited additional computation."
+    },
+    {
+      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
+      "url": "http://arxiv.org/abs/2610.10526v1",
+      "summary": "Research characterizing and mitigating the striking sensitivity of Vision-Language-Action models (VLAs) to instruction phrasing, crucial for AI robustness."
+    },
+    {
+      "title": "Decoupling Exploration from Optimization in RLVR",
+      "url": "http://arxiv.org/abs/2610.10536v1",
+      "summary": "Explores decoupling exploration from optimization in Reinforcement Learning with Verifiable Rewards (RLVR) for language models, aiming to discover new reasoning strategies."
+    }
+  ],
+  "final_report": "# AI's New Era: Intelligent Interfaces, Enterprise Integration, and Frontier Challenges\n\nToday's intelligence report highlights a pivotal moment where advanced AI models like GPT-6 are not just evolving in capability but are fundamentally reshaping user interaction and enterprise operations, while researchers push the boundaries of AI reasoning and robustness.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[GPT-6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone)**\nThis marks a significant leap in user experience, making AI more accessible and interactive through visual and exploratory interfaces. Businesses must strategize how to leverage these intuitive capabilities to transform customer engagement and internal workflows, moving beyond text-only interactions.\n\n### **[AI Updates Today (October 2026) \u2013 Latest AI Model Releases](https://llm-stats.com/llm-updates)**\nThe rapid release cycle of new models like GPT-6.1 Sol, Claude Opus 5.5, and Grok 4.7 underscores an intensely competitive landscape. Business leaders need to continuously evaluate these advancements to identify strategic advantages, optimize operational efficiency, and maintain market relevance.\n\n### **[Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)**\nAnthropic's latest Haiku release signals continued innovation in specialized models, likely focusing on speed and cost-efficiency. This offers businesses more tailored options for integrating AI, allowing for optimized resource allocation for specific tasks where performance and budget are critical.\n\n### **[How Jump Trading is scaling quant research with ChatGPT](https://openai.com/index/jump-trading)**\nThis case study demonstrates AI's profound impact on high-stakes, data-intensive industries, enabling longer, more complex analytical workflows with human oversight. It highlights the strategic imperative for enterprises to integrate AI not just for automation, but for augmenting expert capabilities and accelerating innovation.\n\n### **[Radisson Hotel Group brings hotel discovery into ChatGPT](https://openai.com/index/radisson)**\nRadisson's partnership with Accenture to build a ChatGPT plugin exemplifies how businesses are leveraging existing AI platforms to create new customer touchpoints and streamline service delivery. This strategy allows for enhanced discoverability and booking experiences, directly impacting customer satisfaction and revenue.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[AI NEWS: 28 Releases and Updates You Missed This Week](https://www.youtube.com/watch?v=vpUk5OetUNk)**\nThe sheer volume of weekly updates from tech giants like Google, OpenAI, and Meta emphasizes the breakneck pace of AI development. Developers must prioritize continuous learning and experimentation to integrate the latest generative AI tools, model upgrades, and platform enhancements into their projects.\n\n### **[Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust)**\nThis project showcases a compelling practical application of LLMs in software engineering, demonstrating AI's capability to assist in complex code migration and tool development. It signals a future where AI becomes an an indispensable co-pilot for refactoring, porting, and optimizing foundational software infrastructure.\n\n### **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)**\nThe rapid ascent of models like JEV-27B-VL on HuggingFace highlights the vibrant open-source ecosystem and the community's demand for versatile, multi-modal capabilities. Developers should explore such trending models for their image-text-to-text applications, leveraging pre-trained intelligence to accelerate development of novel AI features.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics)**\nOpenAI's publication of new results in mathematics, complete with Lean proof formalizations, signifies a major step towards AI's ability to contribute to fundamental scientific discovery. This research pushes the boundaries of AI reasoning and formal verification, opening new avenues for automated theorem proving and scientific advancement.\n\n### **[OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)**\nThe subsequent withdrawal of some results underscores the inherent challenges and rigorous scrutiny in frontier AI research, particularly in fields requiring absolute precision like mathematics. It highlights the importance of transparency, reproducibility, and the scientific method as AI systems tackle increasingly complex intellectual tasks.\n\n### **[EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory](http://arxiv.org/abs/2610.10533v1)**\nThis novel architecture offers a promising approach to expanding LLM capacity and enabling more efficient knowledge updates without extensive retraining. Researchers should investigate conditional memory mechanisms as a path towards more adaptable, scalable, and resource-efficient large language models.\n\n### **[Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models](http://arxiv.org/abs/2610.10526v1)**\nThis research addresses a critical robustness issue in VLAs, revealing their sensitivity to instruction phrasing. Understanding and mitigating such sensitivities is crucial for developing reliable and safe AI systems that can operate effectively in real-world, ambiguous environments.\n\n### **[Decoupling Exploration from Optimization in RLVR](http://arxiv.org/abs/2610.10536v1)**\nExploring new strategies for Reinforcement Learning with Verifiable Rewards (RLVR) aims to enhance language models' ability to discover novel reasoning paths. This work is vital for advancing AI's capacity for complex problem-solving and creative thought, moving beyond mere pattern recognition to genuine strategic exploration.\n\nToday's signal is a clear acceleration in AI's practical deployment, driven by increasingly intelligent and interactive models, while the research community grapples with the profound implications and challenges of pushing cognitive boundaries.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk) | This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, R... |\n| [AI Updates Today (October 2026) \u2013 Latest AI Model Releases ](https://llm-stats.com/llm-updates) | Krea\nSync\nAmazon\nStability AI\nSao10K\nRime\nReve AI\nRunway\nFireworks AI\nPlayAI\nGen... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Helping teens learn, plan, and shape the future of AI ](https://openai.com/index/teens-learn-and-plan) | College Planner is coming to ChatGPT for Teens to help students manage college a... |\n| [Radisson Hotel Group brings hotel discovery into ChatGPT ](https://openai.com/index/radisson) | Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technol... |\n| [GPT-6 and Intelligent UI for everyone ](https://openai.com/index/gpt-6-for-everyone) | GPT\u20116 is rolling out globally in ChatGPT with Intelligent UI, delivering faster ... |\n| [How Jump Trading is scaling quant research with ChatGPT ](https://openai.com/index/jump-trading) | Jump Trading uses OpenAI to expand quantitative research. See how longer-running... |\n| [Sharing AI progress in mathematics ](https://openai.com/index/sharing-ai-progress-in-mathematics) | OpenAI publishes new results on open problems in mathematics from an internal fr... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos ](http://arxiv.org/abs/2610.10538v1) | As we move through the world and carry out everyday tasks, we encounter objects ... |\n| [Decoupling Exploration from Optimization in RLVR ](http://arxiv.org/abs/2610.10536v1) | Modern language models undergo reinforcement learning with verifiable rewards (R... |\n| [Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method ](http://arxiv.org/abs/2609.35965v2) | Vision-and-Language Navigation (VLN) has largely focused on a single agent follo... |\n| [More than 83.69% of the zeros of the Riemann zeta function are distinct ](http://arxiv.org/abs/2609.33043v2) | The lower asymptotic proportion of distinct nontrivial zeros of the Riemann zeta... |\n| [EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory ](http://arxiv.org/abs/2610.10533v1) | Conditional memory architectures such as DeepSeek Engram use input n-grams to lo... |\n| [A Dataset for Modeling Iterative Problem-Solving ](http://arxiv.org/abs/2609.00940v2) | Solving problems through repeated attempts is a sequential modeling task: at eac... |\n| [Long-WAM: Scaling the Context of World-Action Models ](http://arxiv.org/abs/2610.10528v1) | Real-time robot control demands enough visual history to infer motion and task p... |\n| [Decentralized SGD under Heavy-Tailed Noise: Optimal Convergence Rates and the Role of Gradient Clipping ](http://arxiv.org/abs/2610.10527v1) | Heavy-tailed noise has been widely observed in modern machine learning, motivati... |\n| [Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models ](http://arxiv.org/abs/2610.10526v1) | Vision-language-action models (VLAs) are strikingly sensitive to instruction phr... |\n| [Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs ](http://arxiv.org/abs/2610.10520v1) | GNN-to-MLP distillation aims to retain the predictive accuracy of a message-pass... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [autotrust/JEV-27B-VL ](https://huggingface.co/autotrust/JEV-27B-VL) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [Cloudflare/clef ](https://huggingface.co/Cloudflare/clef) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [autotrust/GEV-26B-Decide ](https://huggingface.co/autotrust/GEV-26B-Decide) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | HN Score: 870. Comments: 418 |\n| [[HackerNews] GPT\u20116 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | HN Score: 621. Comments: 345 |\n| [[HackerNews] OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090) | HN Score: 41. Comments: 30 |\n| [[HackerNews] Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/) | HN Score: 1280. Comments: 1450 |\n| [[HackerNews] Port of the TypeScript compiler, checker and lsp to Rust, by LLM](https://github.com/pingdotgg/ts-rust) | HN Score: 54. Comments: 96 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=_rtp1XzaP6Q) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
