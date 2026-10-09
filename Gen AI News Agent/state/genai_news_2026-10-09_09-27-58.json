@@ -1,0 +1,501 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Top GenAI Trends 2025 | Synoptek",
+      "url": "https://synoptek.com/insights/thought-leadership/data-insights/genai-trends-key-developments-to-watch-out-for",
+      "summary": "Synoptek Company Logo - Link to homepage\n\nSynoptek Company Logo - Link to homepage\n\n\ud83d\udd0d\n\n# GenAI Trends 2025: 5 Key Developments to Watch out for\n\nJanuary 16, 2025 - by Jay Cann\n\nGenerative AI (GenAI) advancements are happening at lightning-fast speed, moving far beyond chatbots like ChatGPT and image generators like Dall-E. Venture capital firms have invested over $1.7 billion in generative AI solutions in the last three years. In 2025, several new use cases will emerge. [...] Gen AI Boosts Customer Services\n\nAs we enter 2025, Generative AI will continue transforming industries, offering unprecedented opportunities for innovation and efficiency. From transforming customer experiences to driving automation in various sectors, GenAI\u2019s scope is expanding rapidly. As this technology matures, businesses are moving past early-stage prototypes. They are now looking for real-world applications that can deliver measurable impact. [...] Artificial Intelligence undeniably drives the future, and 2025 will set the stage for the next wave of transformation. The coming year will be a turning point for businesses embracing GenAI, reshaping how they operate, compete, and innovate.\n\nWith breakthroughs in agentic AI, retrieval-augmented generation, self-training models, inference scaling, and ethical AI shaping the future of business, these trends will enhance operational efficiencies like never before.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Biggest AI Announcements Right Now : r/AISEOInsider",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Instead of humans coordinating everything manually, AI agents could exchange information and complete tasks automatically.\n\n# Nvidia Nemo Claw Signals AI Agent Expansion\n\nAnother major development appearing in the latest AI news comes from Nvidia.\n\nThe company is developing an AI agent platform called Nemo Claw.\n\nThis system is designed as an enterprise alternative to platforms similar to OpenClaw.\n\nOpenClaw became popular because it allows AI agents to operate computers directly. [...] Nvidia also designed the system so companies can run it across different hardware environments.\n\n# Gemini Workspace Integration Appears In Latest AI News\n\nOne of the most impactful product launches in the latest AI news comes from Google.\n\nGoogle integrated its Gemini AI system deeply into Google Workspace.\n\nGemini now works inside Docs, Sheets, Slides, and Drive.\n\nUsers can describe what they want and Gemini generates the result automatically. [...] People experimenting with tools like Gemini, Claude, Hermes, and OpenClaw are already sharing automation workflows inside the AI Profit Boardroom, where builders collaborate on practical AI systems and automation strategies.\n\n# Pomelli Marketing AI Appears In Latest AI News\n\nAnother development in the latest AI news involves Google\u2019s AI marketing tool called Pomelli.\n\nPomelli analyzes a company\u2019s website to understand the brand and messaging.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] CSF: Contextual Safety Filtering for Motion Generators",
+      "url": "http://arxiv.org/abs/2610.12467v1",
+      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BrickBench: Evaluating Agentic Brick Design",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "url": "http://arxiv.org/abs/2610.12449v1",
+      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech",
+      "url": "http://arxiv.org/abs/2609.32396v2",
+      "summary": "Forced alignment estimates the timestamps of each word, phone or character in speech given its transcript. Published comparisons normalize transcripts, split the data and match boundaries differently,...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1533034",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 903866",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, clef, cloudflare. Downloads: 10874",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "summary": "HN Score: 116. Comments: 166",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "HN Score: 123. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "HN Score: 309. Comments: 574",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "summary": "HN Score: 173. Comments: 70",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Top GenAI Trends 2025 | Synoptek",
+      "url": "https://synoptek.com/insights/thought-leadership/data-insights/genai-trends-key-developments-to-watch-out-for",
+      "summary": "Synoptek Company Logo - Link to homepage\n\nSynoptek Company Logo - Link to homepage\n\n\ud83d\udd0d\n\n# GenAI Trends 2025: 5 Key Developments to Watch out for\n\nJanuary 16, 2025 - by Jay Cann\n\nGenerative AI (GenAI) advancements are happening at lightning-fast speed, moving far beyond chatbots like ChatGPT and image generators like Dall-E. Venture capital firms have invested over $1.7 billion in generative AI solutions in the last three years. In 2025, several new use cases will emerge. [...] Gen AI Boosts Customer Services\n\nAs we enter 2025, Generative AI will continue transforming industries, offering unprecedented opportunities for innovation and efficiency. From transforming customer experiences to driving automation in various sectors, GenAI\u2019s scope is expanding rapidly. As this technology matures, businesses are moving past early-stage prototypes. They are now looking for real-world applications that can deliver measurable impact. [...] Artificial Intelligence undeniably drives the future, and 2025 will set the stage for the next wave of transformation. The coming year will be a turning point for businesses embracing GenAI, reshaping how they operate, compete, and innovate.\n\nWith breakthroughs in agentic AI, retrieval-augmented generation, self-training models, inference scaling, and ethical AI shaping the future of business, these trends will enhance operational efficiencies like never before.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Biggest AI Announcements Right Now : r/AISEOInsider",
+      "url": "https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right",
+      "summary": "Instead of humans coordinating everything manually, AI agents could exchange information and complete tasks automatically.\n\n# Nvidia Nemo Claw Signals AI Agent Expansion\n\nAnother major development appearing in the latest AI news comes from Nvidia.\n\nThe company is developing an AI agent platform called Nemo Claw.\n\nThis system is designed as an enterprise alternative to platforms similar to OpenClaw.\n\nOpenClaw became popular because it allows AI agents to operate computers directly. [...] Nvidia also designed the system so companies can run it across different hardware environments.\n\n# Gemini Workspace Integration Appears In Latest AI News\n\nOne of the most impactful product launches in the latest AI news comes from Google.\n\nGoogle integrated its Gemini AI system deeply into Google Workspace.\n\nGemini now works inside Docs, Sheets, Slides, and Drive.\n\nUsers can describe what they want and Gemini generates the result automatically. [...] People experimenting with tools like Gemini, Claude, Hermes, and OpenClaw are already sharing automation workflows inside the AI Profit Boardroom, where builders collaborate on practical AI systems and automation strategies.\n\n# Pomelli Marketing AI Appears In Latest AI News\n\nAnother development in the latest AI news involves Google\u2019s AI marketing tool called Pomelli.\n\nPomelli analyzes a company\u2019s website to understand the brand and messaging.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] CSF: Contextual Safety Filtering for Motion Generators",
+      "url": "http://arxiv.org/abs/2610.12467v1",
+      "summary": "Text-conditioned motion generators produce trackable whole-body motion, but they have no notion of scene-dependent safety: the same action may target an object or a person. Existing safeguards either ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BrickBench: Evaluating Agentic Brick Design",
+      "url": "http://arxiv.org/abs/2610.12452v1",
+      "summary": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts",
+      "url": "http://arxiv.org/abs/2610.12448v1",
+      "summary": "In this work, we show that a single Transformer block, applied recurrently, can match the accuracy of a full-depth vision encoder at comparable inference FLOPs without intermediate feature distillatio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+      "url": "http://arxiv.org/abs/2610.12449v1",
+      "summary": "Bifurcations are ubiquitous in physical systems, from structural buckling to fluid and climate dynamics, yet they remain largely unexplored in deep learning. At a symmetry-breaking bifurcation, a sing...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech",
+      "url": "http://arxiv.org/abs/2609.32396v2",
+      "summary": "Forced alignment estimates the timestamps of each word, phone or character in speech given its transcript. Published comparisons normalize transcripts, split the data and match boundaries differently,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1533034",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 903866",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Cloudflare/clef",
+      "url": "https://huggingface.co/Cloudflare/clef",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, clef, cloudflare. Downloads: 10874",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] OpenAI, the Partition Principle, and Mathematics",
+      "url": "https://karagila.org/2026/openai-pp/",
+      "summary": "HN Score: 116. Comments: 166",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "HN Score: 123. Comments: 18",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "HN Score: 309. Comments: 574",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "summary": "HN Score: 173. Comments: 70",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=_rtp1XzaP6Q",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+        "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+      },
+      {
+        "title": "AI-ready biological data: $1.8B global commitment",
+        "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+        "summary": "HN Score: 123. Comments: 18"
+      },
+      {
+        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+        "url": "https://openai.com/index/sophos",
+        "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+      },
+      {
+        "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+        "url": "https://openai.com/index/pollo-ai",
+        "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+      },
+      {
+        "title": "LegalOn halves Codex costs while maintaining development speed",
+        "url": "https://openai.com/index/legalon-halves-codex-costs",
+        "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+        "url": "http://arxiv.org/abs/2610.12444v1",
+        "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st..."
+      },
+      {
+        "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+        "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+        "summary": "HN Score: 173. Comments: 70"
+      },
+      {
+        "title": "autotrust/JEV-27B-VL",
+        "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1533034"
+      },
+      {
+        "title": "autotrust/GEV-26B-Decide",
+        "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 903866"
+      }
+    ],
+    "research": [
+      {
+        "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+        "url": "http://arxiv.org/abs/2610.12463v1",
+        "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i..."
+      },
+      {
+        "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+        "url": "http://arxiv.org/abs/2610.12445v1",
+        "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m..."
+      },
+      {
+        "title": "OpenAI withdraws three mathematical results",
+        "url": "https://twitter.com/danintheory/status/2108065033070789090",
+        "summary": "HN Score: 309. Comments: 574"
+      },
+      {
+        "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+        "url": "http://arxiv.org/abs/2610.12466v1",
+        "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and..."
+      },
+      {
+        "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+        "url": "http://arxiv.org/abs/2610.12465v1",
+        "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Disrupting AI-enabled \u201cfalse front\u201d operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+    },
+    {
+      "title": "AI-ready biological data: $1.8B global commitment",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "summary": "HN Score: 123. Comments: 18"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+    },
+    {
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically."
+    },
+    {
+      "title": "Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization",
+      "url": "http://arxiv.org/abs/2610.12444v1",
+      "summary": "Quantizing AdamW's optimizer states reduces persistent storage, but quantization errors propagate through the moment recurrences and perturb subsequent adaptive updates. We redesign 4-bit optimizer-st..."
+    },
+    {
+      "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
+      "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
+      "summary": "HN Score: 173. Comments: 70"
+    },
+    {
+      "title": "autotrust/JEV-27B-VL",
+      "url": "https://huggingface.co/autotrust/JEV-27B-VL",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, jev, system-one. Downloads: 1533034"
+    },
+    {
+      "title": "autotrust/GEV-26B-Decide",
+      "url": "https://huggingface.co/autotrust/GEV-26B-Decide",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, system-one, system-two. Downloads: 903866"
+    },
+    {
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "http://arxiv.org/abs/2610.12463v1",
+      "summary": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research i..."
+    },
+    {
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "http://arxiv.org/abs/2610.12445v1",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m..."
+    },
+    {
+      "title": "OpenAI withdraws three mathematical results",
+      "url": "https://twitter.com/danintheory/status/2108065033070789090",
+      "summary": "HN Score: 309. Comments: 574"
+    },
+    {
+      "title": "On the estimation and validity of AI time horizons---a statistical look at the METR plot",
+      "url": "http://arxiv.org/abs/2610.12466v1",
+      "summary": "METR's 50\\% time horizon measures the human completion time of software tasks that an AI solves with 50\\% probability, allowing AI capabilities to be expressed in interpretable units. On 228 tasks and..."
+    },
+    {
+      "title": "A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control",
+      "url": "http://arxiv.org/abs/2610.12465v1",
+      "summary": "General-purpose robots must perform a wide range of tasks from agile locomotion to dexterous manipulation. While sim-to-real reinforcement learning (RL) has proven to be a useful tool for this goal, c..."
+    }
+  ],
+  "final_report": "# AI's Strategic Ascent: Efficiency, Discovery, and the Urgent Call for Safety\n\nToday's intelligence report reveals a dynamic landscape where AI is simultaneously driving unprecedented operational efficiencies and pushing the boundaries of scientific discovery, while also confronting critical challenges in security and ethical deployment. From disrupting sophisticated influence operations to optimizing development costs, AI's impact is both profound and complex.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Disrupting AI-enabled \u201cfalse front\u201d operations](https://openai.com/index/disrupting-ai-enabled-false-front-operations)**\nOpenAI's proactive disruption of AI-enabled influence operations underscores the escalating threat of sophisticated disinformation campaigns. For business leaders, this highlights the critical need for robust cybersecurity defenses and vigilance against AI-powered reputational attacks, emphasizing the strategic importance of trust and information integrity.\n\n### **[AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/)**\nA massive $1.8 billion global commitment to AI-ready biological data signals a pivotal moment for the life sciences and healthcare sectors. This foundational investment will accelerate drug discovery, personalized medicine, and biotech innovation, positioning early adopters for significant competitive advantage in a rapidly evolving market.\n\n### **[Sophos cuts threat investigation time by 96% with OpenAI Daybreak](https://openai.com/index/sophos)**\nSophos's dramatic 96% reduction in cyber-threat investigation time using OpenAI's Daybreak showcases AI's transformative power in operational efficiency and security. This demonstrates a clear ROI for AI adoption, allowing organizations to enhance their security posture, reduce operational costs, and free up human experts for more complex strategic tasks.\n\n### **[Pollo AI turns creative ideas into campaigns with OpenAI](https://openai.com/index/pollo-ai)**\nPollo AI's ability to rapidly transform creative concepts into detailed images and cinematic video ads with advanced OpenAI models illustrates AI's growing role in the creative and marketing industries. This empowers businesses to accelerate content production, experiment with campaigns more efficiently, and achieve greater agility in their marketing strategies.\n\n### **[LegalOn halves Codex costs while maintaining development speed](https://openai.com/index/legalon-halves-codex-costs)**\nLegalOn's success in cutting AI development costs by 65% while maintaining speed, through strategic model matching, offers a crucial lesson in AI resource optimization. This highlights that effective AI integration isn't just about capability, but also about intelligent budget management and strategic deployment to maximize efficiency and profitability.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization](http://arxiv.org/abs/2610.12444v1)**\nThis research delves into optimizing AdamW's optimizer states through 4-bit quantization, a critical step for reducing memory footprint and improving training efficiency of large models. Developers should watch this space for advancements that enable more efficient deployment and training of sophisticated AI on resource-constrained hardware.\n\n### **[I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9)**\nA Reddit user's discovery of a potential new planet using Claude Code highlights the practical power of AI as a data analysis and discovery tool, even for non-experts. This demonstrates how AI can democratize complex scientific tasks, empowering developers to leverage large language models for novel problem-solving and hypothesis generation.\n\n### **[autotrust/JEV-27B-VL](https://huggingface.co/autotrust/JEV-27B-VL)**\nThe trending JEV-27B-VL model on Hugging Face, tagged for image-text-to-text tasks, presents a significant opportunity for developers working with multimodal data. Practitioners should explore this model for applications requiring advanced vision-language understanding, such as automated content generation, image captioning, or complex data interpretation.\n\n### **[autotrust/GEV-26B-Decide](https://huggingface.co/autotrust/GEV-26B-Decide)**\nAnother trending multimodal model, GEV-26B-Decide, with its \"system-one, system-two\" tags, suggests a focus on reasoning and decision-making from visual and textual inputs. Developers should investigate this model for building agents or systems that require more sophisticated cognitive capabilities, moving beyond simple pattern recognition to informed decision processes.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents](http://arxiv.org/abs/2610.12463v1)**\nThis paper critically examines real-world security incidents involving advanced AI agents, emphasizing the urgent shift from reactive containment to proactive assurance. Researchers must prioritize developing robust safety protocols and understanding emergent behaviors to prevent future exploits as AI agents gain more autonomy in real-world systems.\n\n### **[Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception](http://arxiv.org/abs/2610.12445v1)**\nAddressing the critical challenge of monitoring LLM agents, this research demonstrates that white-box deception detection via probes can scale to frontier models. This offers a promising avenue for enhancing AI safety and interpretability, providing crucial tools for researchers to ensure the trustworthiness and control of increasingly powerful AI systems.\n\n### **[OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090)**\nOpenAI's withdrawal of mathematical results underscores the iterative and sometimes fallible nature of scientific progress, even at leading research institutions. This incident highlights the paramount importance of rigorous peer review, reproducibility, and transparency within the AI research community to maintain scientific integrity and build collective knowledge.\n\n### **[On the estimation and validity of AI time horizons---a statistical look at the METR plot](http://arxiv.org/abs/2610.12466v1)**\nThis statistical analysis of METR's 50% time horizon provides a methodological framework for estimating and validating AI capabilities in interpretable units. For researchers, this offers a more robust approach to measuring AI progress, informing future research directions, and providing clearer benchmarks for advanced AI development.\n\n### **[A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control](http://arxiv.org/abs/2610.12465v1)**\nThis paper tackles a fundamental challenge in large-scale reinforcement learning for robotics: the exploration bottleneck. Researchers in robotics and RL should note these insights, as overcoming this limitation is crucial for developing general-purpose robots capable of performing a wide range of tasks efficiently and effectively in complex environments.\n\n---\n\n**Today's Signal:** The accelerating pace of AI adoption is met with an equally urgent focus on security, safety, and robust evaluation, signaling a maturing industry grappling with its own power.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Top GenAI Trends 2025 | Synoptek ](https://synoptek.com/insights/thought-leadership/data-insights/genai-trends-key-developments-to-watch-out-for) | Synoptek Company Logo - Link to homepage\n\nSynoptek Company Logo - Link to homepa... |\n| [The Biggest AI Announcements Right Now : r/AISEOInsider ](https://www.reddit.com/r/AISEOInsider/comments/1rs1o1v/latest_ai_news_the_biggest_ai_announcements_right) | Instead of humans coordinating everything manually, AI agents could exchange inf... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Sophos cuts threat investigation time by 96% with OpenAI Daybreak ](https://openai.com/index/sophos) | Discover how Sophos uses OpenAI\u2019s Daybreak to cut cyber-threat investigation tim... |\n| [How Oracle turns days of work into minutes with ChatGPT and Codex ](https://openai.com/index/oracle) | Across recruiting, engineering, and operations, Oracle turns specialist knowledg... |\n| [Pollo AI turns creative ideas into campaigns with OpenAI ](https://openai.com/index/pollo-ai) | With GPT-5.6, GPT-6 Astra, and GPT\u2011Image\u20112.5, Pollo AI helps creators turn bold ... |\n| [LegalOn halves Codex costs while maintaining development speed ](https://openai.com/index/legalon-halves-codex-costs) | LegalOn cut estimated daily Codex costs by 65% while maintaining development spe... |\n| [Disrupting AI-enabled \u201cfalse front\u201d operations ](https://openai.com/index/disrupting-ai-enabled-false-front-operations) | OpenAI disrupted two AI-enabled influence operations that used false-front journ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [CSF: Contextual Safety Filtering for Motion Generators ](http://arxiv.org/abs/2610.12467v1) | Text-conditioned motion generators produce trackable whole-body motion, but they... |\n| [On the estimation and validity of AI time horizons---a statistical look at the METR plot ](http://arxiv.org/abs/2610.12466v1) | METR's 50\\% time horizon measures the human completion time of software tasks th... |\n| [A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for Robot Control ](http://arxiv.org/abs/2610.12465v1) | General-purpose robots must perform a wide range of tasks from agile locomotion ... |\n| [From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents ](http://arxiv.org/abs/2610.12463v1) | In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agent... |\n| [BrickBench: Evaluating Agentic Brick Design ](http://arxiv.org/abs/2610.12452v1) | We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design.... |\n| [One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts ](http://arxiv.org/abs/2610.12448v1) | In this work, we show that a single Transformer block, applied recurrently, can ... |\n| [Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems ](http://arxiv.org/abs/2610.12449v1) | Bifurcations are ubiquitous in physical systems, from structural buckling to flu... |\n| [Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception ](http://arxiv.org/abs/2610.12445v1) | Recent incidents have highlighted the challenge of monitoring LLM agents and the... |\n| [Rounding in Preconditioner Space: Redesigning 4-bit AdamW Optimizer-State Quantization ](http://arxiv.org/abs/2610.12444v1) | Quantizing AdamW's optimizer states reduces persistent storage, but quantization... |\n| [FA-Bench: A Benchmark for Phone- and Word-Level Timestamp Accuracy in Forced Alignment and ASR on Clean and Noisy Speech ](http://arxiv.org/abs/2609.32396v2) | Forced alignment estimates the timestamps of each word, phone or character in sp... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [autotrust/JEV-27B-VL ](https://huggingface.co/autotrust/JEV-27B-VL) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [autotrust/GEV-26B-Decide ](https://huggingface.co/autotrust/GEV-26B-Decide) | Trending HF Model. Tags: transformers, safetensors, gemma4, image-text-to-text, ... |\n| [Cloudflare/clef ](https://huggingface.co/Cloudflare/clef) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] OpenAI, the Partition Principle, and Mathematics](https://karagila.org/2026/openai-pp/) | HN Score: 116. Comments: 166 |\n| [[HackerNews] AI-ready biological data: $1.8B global commitment](https://biohub.org/news/virtual-biology-initiative-expansion/) | HN Score: 123. Comments: 18 |\n| [[HackerNews] OpenAI withdraws three mathematical results](https://twitter.com/danintheory/status/2108065033070789090) | HN Score: 309. Comments: 574 |\n| [[HackerNews] I think I found a planet nobody knew existed. I used Claude Code to find it](https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9) | HN Score: 173. Comments: 70 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=_rtp1XzaP6Q) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
