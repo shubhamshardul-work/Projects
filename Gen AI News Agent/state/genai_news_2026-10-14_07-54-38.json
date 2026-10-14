@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: The AI Launch That Crashed The Market",
+      "url": "https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US",
+      "summary": "In this video I dive into the biggest AI news stories, product launches, and model updates from the past week. OpenAI dropped a new Codex app and GPT-5.3-Codex, Anthropic shipped upgrades to Claude and Cowork, and AI video tools like Grok Imagine and Kling 3.0 are getting better and better. We also get into the latest AI drama and rapid-fire launches.\n\n#ainews #ai #openai #anthropic #claude #grok #kling #perplexity [...] [12:56] lip-s syncing is even a little bit better. So, it doesn't look like it's fully rolled out on their website yet, but from what I understand, it is\n[13:04] available via the API. So, I think there are some other sites where you can use it. So, I jumped over to Korea.ai here.\n[13:10] I flipped it to video mode. And when I click on the settings here and click on model, I actually see Cling 3.0. So, it [...] [11:02] see what I'm seeing and understand the page and context. Comet is free to use.\n[11:06] So, if you're interested, check out the link in the description. And thank you so much to Perplexity Comet for sponsoring this portion of today's video. All right, moving along. We\n[11:14] actually got a new video model out of XAI this week with Grom Imagine 1.0. So,\n[11:20] you can do 10second videos now at 720p resolution with dramatically better audio. Now, in my last week news video,",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "http://arxiv.org/abs/2610.18874v1",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+      "url": "http://arxiv.org/abs/2610.18871v1",
+      "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "http://arxiv.org/abs/2610.18869v1",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "url": "http://arxiv.org/abs/2610.18868v1",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Free Training of Diffusion Models for Lattice Field Theories",
+      "url": "http://arxiv.org/abs/2610.18863v1",
+      "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2610.18862v1",
+      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+      "url": "http://arxiv.org/abs/2610.18860v1",
+      "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hybrid Reasoning Agents",
+      "url": "http://arxiv.org/abs/2610.18861v1",
+      "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+      "url": "http://arxiv.org/abs/2610.18856v1",
+      "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "http://arxiv.org/abs/2610.12445v2",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 124930",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 54039",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image. Downloads: 9665",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "HN Score: 734. Comments: 721",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "summary": "HN Score: 89. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "summary": "HN Score: 261. Comments: 428",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "summary": "HN Score: 548. Comments: 460",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: The AI Launch That Crashed The Market",
+      "url": "https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US",
+      "summary": "In this video I dive into the biggest AI news stories, product launches, and model updates from the past week. OpenAI dropped a new Codex app and GPT-5.3-Codex, Anthropic shipped upgrades to Claude and Cowork, and AI video tools like Grok Imagine and Kling 3.0 are getting better and better. We also get into the latest AI drama and rapid-fire launches.\n\n#ainews #ai #openai #anthropic #claude #grok #kling #perplexity [...] [12:56] lip-s syncing is even a little bit better. So, it doesn't look like it's fully rolled out on their website yet, but from what I understand, it is\n[13:04] available via the API. So, I think there are some other sites where you can use it. So, I jumped over to Korea.ai here.\n[13:10] I flipped it to video mode. And when I click on the settings here and click on model, I actually see Cling 3.0. So, it [...] [11:02] see what I'm seeing and understand the page and context. Comet is free to use.\n[11:06] So, if you're interested, check out the link in the description. And thank you so much to Perplexity Comet for sponsoring this portion of today's video. All right, moving along. We\n[11:14] actually got a new video model out of XAI this week with Grom Imagine 1.0. So,\n[11:20] you can do 10second videos now at 720p resolution with dramatically better audio. Now, in my last week news video,",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+      "url": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+      "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Cerebras CEO pushes back on AI doomsday warnings",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "summary": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "http://arxiv.org/abs/2610.18874v1",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion",
+      "url": "http://arxiv.org/abs/2610.18871v1",
+      "summary": "Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex displacements. Residual priors trained on one geometry family frequently fail to beat parameter-free harmonic extension ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "http://arxiv.org/abs/2610.18869v1",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "url": "http://arxiv.org/abs/2610.18868v1",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Data Free Training of Diffusion Models for Lattice Field Theories",
+      "url": "http://arxiv.org/abs/2610.18863v1",
+      "summary": "Sampling equilibrium field configurations remains a major computational bottleneck in lattice field theory, motivating the development of generative samplers that can produce independent configuration...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2610.18862v1",
+      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
+      "url": "http://arxiv.org/abs/2610.18860v1",
+      "summary": "Generating information-rich visual artifacts such as slides, posters, and dashboards as code is appealing because the outputs are structured, editable, and verifiable. Yet code models cannot see how t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hybrid Reasoning Agents",
+      "url": "http://arxiv.org/abs/2610.18861v1",
+      "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Exact Topological Compliance: Generating Persistence-Equivalent Graphs",
+      "url": "http://arxiv.org/abs/2610.18856v1",
+      "summary": "Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). Generating graphs whose topology matches a target descriptor is increasingly important, yet existing ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "http://arxiv.org/abs/2610.12445v2",
+      "summary": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 124930",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 54039",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image. Downloads: 9665",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "HN Score: 734. Comments: 721",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "summary": "HN Score: 89. Comments: 55",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+      "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+      "summary": "HN Score: 261. Comments: 428",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI engineer arrested in bugging of executive conference room",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "summary": "HN Score: 548. Comments: 460",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+      "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+      "summary": "HN Score: 1. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+        "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+        "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with"
+      },
+      {
+        "title": "[Tavily] AI News: The AI Launch That Crashed The Market",
+        "url": "https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US",
+        "summary": "In this video I dive into the biggest AI news stories, product launches, and model updates from the past week. OpenAI dropped a new Codex app and GPT-5.3-Codex, Anthropic shipped upgrades to Claude and Cowork, and AI video tools like Grok Imagine and Kling 3.0 are getting better and better. We also get into the latest AI drama and rapid-fire launches.\n\n#ainews #ai #openai #anthropic #claude #grok #kling #perplexity [...] [12:56] lip-s syncing is even a little bit better. So, it doesn't look like it's fully rolled out on their website yet, but from what I understand, it is\n[13:04] available via the API. So, I think there are some other sites where you can use it. So, I jumped over to Korea.ai here.\n[13:10] I flipped it to video mode. And when I click on the settings here and click on model, I actually see Cling 3.0. So, it [...] [11:02] see what I'm seeing and understand the page and context. Comet is free to use.\n[11:06] So, if you're interested, check out the link in the description. And thank you so much to Perplexity Comet for sponsoring this portion of today's video. All right, moving along. We\n[11:14] actually got a new video model out of XAI this week with Grom Imagine 1.0. So,\n[11:20] you can do 10second videos now at 720p resolution with dramatically better audio. Now, in my last week news video,"
+      },
+      {
+        "title": "[RSS] Higgsfield takes AI video from 1 minute to over 10",
+        "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+        "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+      },
+      {
+        "title": "[RSS] Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+      },
+      {
+        "title": "[RSS] Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+        "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HuggingFace] google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 124930"
+      },
+      {
+        "title": "[HackerNews] Redesigning source control at Anthropic",
+        "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+        "summary": "HN Score: 734. Comments: 721"
+      },
+      {
+        "title": "[HackerNews] I built a tool to track what AI leaders say and how their views change on video",
+        "url": "https://blumify.io/people",
+        "summary": "HN Score: 89. Comments: 55"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] ChunkAct: Action Chunking for Agentic Robotics",
+        "url": "http://arxiv.org/abs/2610.18874v1",
+        "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th..."
+      },
+      {
+        "title": "[ArXiv] What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+        "url": "http://arxiv.org/abs/2610.18869v1",
+        "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ..."
+      },
+      {
+        "title": "[ArXiv] Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+        "url": "http://arxiv.org/abs/2610.18868v1",
+        "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur..."
+      },
+      {
+        "title": "[ArXiv] DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+        "url": "http://arxiv.org/abs/2610.18862v1",
+        "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini..."
+      },
+      {
+        "title": "[ArXiv] Hybrid Reasoning Agents",
+        "url": "http://arxiv.org/abs/2610.18861v1",
+        "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with"
+    },
+    {
+      "title": "[Tavily] AI News: The AI Launch That Crashed The Market",
+      "url": "https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US",
+      "summary": "In this video I dive into the biggest AI news stories, product launches, and model updates from the past week. OpenAI dropped a new Codex app and GPT-5.3-Codex, Anthropic shipped upgrades to Claude and Cowork, and AI video tools like Grok Imagine and Kling 3.0 are getting better and better. We also get into the latest AI drama and rapid-fire launches.\n\n#ainews #ai #openai #anthropic #claude #grok #kling #perplexity [...] [12:56] lip-s syncing is even a little bit better. So, it doesn't look like it's fully rolled out on their website yet, but from what I understand, it is\n[13:04] available via the API. So, I think there are some other sites where you can use it. So, I jumped over to Korea.ai here.\n[13:10] I flipped it to video mode. And when I click on the settings here and click on model, I actually see Cling 3.0. So, it [...] [11:02] see what I'm seeing and understand the page and context. Comet is free to use.\n[11:06] So, if you're interested, check out the link in the description. And thank you so much to Perplexity Comet for sponsoring this portion of today's video. All right, moving along. We\n[11:14] actually got a new video model out of XAI this week with Grom Imagine 1.0. So,\n[11:20] you can do 10second videos now at 720p resolution with dramatically better audio. Now, in my last week news video,"
+    },
+    {
+      "title": "[RSS] Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    },
+    {
+      "title": "[RSS] Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI)."
+    },
+    {
+      "title": "[RSS] Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home",
+      "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud."
+    },
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 124930"
+    },
+    {
+      "title": "[HackerNews] Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "summary": "HN Score: 734. Comments: 721"
+    },
+    {
+      "title": "[HackerNews] I built a tool to track what AI leaders say and how their views change on video",
+      "url": "https://blumify.io/people",
+      "summary": "HN Score: 89. Comments: 55"
+    },
+    {
+      "title": "[ArXiv] ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "http://arxiv.org/abs/2610.18874v1",
+      "summary": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and th..."
+    },
+    {
+      "title": "[ArXiv] What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "http://arxiv.org/abs/2610.18869v1",
+      "summary": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across ..."
+    },
+    {
+      "title": "[ArXiv] Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards",
+      "url": "http://arxiv.org/abs/2610.18868v1",
+      "summary": "Long-horizon agents have drawn growing attention for their ability to work autonomously -- from hours to days -- on economically valuable tasks, a capability essential to automated discovery and recur..."
+    },
+    {
+      "title": "[ArXiv] DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "url": "http://arxiv.org/abs/2610.18862v1",
+      "summary": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional traini..."
+    },
+    {
+      "title": "[ArXiv] Hybrid Reasoning Agents",
+      "url": "http://arxiv.org/abs/2610.18861v1",
+      "summary": "How can we build an agent that thinks beyond human language, yet still acts through it in the external environment? Modern LLM agents still reason and interact through text, while latent reasoning off..."
+    }
+  ],
+  "final_report": "# AI's Rapid Ascent: From Ubiquitous Models to Visionary Robotics\n\nToday's intelligence report highlights a dynamic week in AI, showcasing a dual push towards making advanced models more accessible while simultaneously breaking new ground in multimodal capabilities and agentic systems. We're witnessing a future where AI is not just powerful, but also deeply integrated into our daily lives and physical world.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The Best New AI Products and the Key Trends They Represent](https://www.youtube.com/watch?v=thO4Y5RYfHo)**\nOpenAI is democratizing advanced intelligence by bringing its next-generation GPT-6 models to over 1.2 billion free ChatGPT users, signaling a strategic move to broaden AI adoption and impact. This comes as generative UI emerges as a key frontier, with the challenge shifting from mere generation to seamless integration within existing user experiences. Meanwhile, Anthropic is diversifying its model offerings beyond high-end competition, and Elon Musk's Grokbot emphasizes model agnosticism, highlighting a future where flexibility and accessibility drive AI product strategy.\n\n### **[AI News: The AI Launch That Crashed The Market](https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US)**\nThe past week saw a flurry of significant AI product launches and model updates, underscoring the relentless pace of innovation across the industry. OpenAI introduced a new Codex app and GPT-5.3-Codex, while Anthropic rolled out upgrades to Claude and Cowork, enhancing their respective AI ecosystems. Furthermore, AI video generation tools like XAI's Grok Imagine 1.0 and Kling 3.0 are rapidly advancing, offering improved resolution, longer durations, and dramatically better audio and lip-syncing capabilities, pushing the boundaries of creative content generation.\n\n### **[Higgsfield takes AI video from 1 minute to over 10](https://openai.com/index/higgsfield-longer-videos-voice)**\nHiggsfield is making significant strides in AI video generation, extending video lengths from one minute to over ten minutes, a crucial leap for creators. This advancement is powered by OpenAI's GPT-6 Astra for longer narratives, GPT-Image-2.5 for precise visuals, and GPT-Live, paving the way for sophisticated voice filmmaking. The ability to generate extended, high-quality video content with integrated voice promises to revolutionize digital storytelling and content creation workflows.\n\n### **[Science Corporation implants its vision-restoring chip in its first Stargardt disease patient](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)**\nMax Hodak, co-founder of Neuralink, is making significant progress with Science Corporation's vision-restoring chip, successfully implanting it in a Stargardt disease patient. This milestone, leveraging PRIMA technology, marks a critical step towards a novel brain-computer interface (BCI) that could revolutionize treatment for degenerative eye conditions. The development signals a broader trend of advanced neurotechnology moving from research to clinical application, with profound implications for human augmentation and healthcare.\n\n### **[Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)**\nCerebras CEO Andrew Feldman predicts a near future where personal AI assistants become as ubiquitous as household appliances, deeply integrated into daily life. This vision anticipates a hybrid operational model, with AI processing distributed between local devices and cloud infrastructure to ensure both responsiveness and scalability. Such a pervasive presence of AI assistants would fundamentally reshape human-computer interaction and personal productivity, making advanced AI capabilities a standard feature of every home.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**\nGoogle's `embeddinggemma-2` is rapidly gaining traction on Hugging Face, becoming a trending model for feature extraction and embedding tasks. With over 124,000 downloads, this model is proving to be a valuable tool for developers working with transformers and sentence embeddings. Its popularity underscores the ongoing demand for high-quality, accessible embedding models that can power a wide range of AI applications, from semantic search to recommendation systems.\n\n### **[Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control)**\nAnthropic's deep dive into redesigning its source control system offers valuable insights for engineers tackling complex infrastructure challenges in AI development. With significant engagement on Hacker News, this article highlights the critical importance of robust and scalable version control for large-scale AI projects. The discussion provides practical lessons and architectural considerations for managing rapidly evolving codebases and collaborative development environments in the fast-paced AI landscape.\n\n### **[I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people)**\nA new tool, Blumify.io, has emerged to help developers and enthusiasts track the evolving perspectives of AI leaders through video content. This platform addresses a growing need to monitor the dynamic discourse within the AI community, offering a unique way to observe shifts in opinions and predictions over time. For practitioners, it's a valuable resource for staying abreast of strategic directions and emerging trends directly from the industry's most influential voices.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[ChunkAct: Action Chunking for Agentic Robotics](http://arxiv.org/abs/2610.18874v1)**\nThe \"ChunkAct\" paper introduces a novel approach to agentic robotics, integrating large language model (LLM) agents directly into the robot control loop. By enabling LLMs to compose perception, motion, and vision-language-action (VLA) tools under memory guidance, this research pushes the boundaries of autonomous robotic systems. This method promises more sophisticated and adaptable robot behaviors, moving towards truly intelligent physical agents capable of complex task execution.\n\n### **[What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study](http://arxiv.org/abs/2610.18869v1)**\nThis study investigates the crucial role of demonstration quality in vision-language-action (VLA) pretraining for improving performance in target-task fine-tuning. By comparing weighting, filtering, and conditioning techniques, researchers aim to optimize how VLA models learn from diverse data. The findings will guide future pretraining strategies, ensuring more efficient and effective learning for multimodal agents operating in real-world environments.\n\n### **[Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards](http://arxiv.org/abs/2610.18868v1)**\n\"Tev\" addresses the challenge of scaling long-horizon agents, which are essential for autonomous work spanning hours to days in economically valuable tasks. This research focuses on dense progress rewards to enable agents to operate autonomously, a capability critical for automated discovery and recurrent processes. The work contributes significantly to developing agents that can sustain complex operations over extended periods, unlocking new possibilities for automation.\n\n### **[DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning](http://arxiv.org/abs/2610.18862v1)**\nThe \"DoubtLess\" paper introduces a training-free contrastive decoding method designed to enhance the efficiency of reasoning models. While long chains of thought (CoT) achieve strong performance, they often consume excessive tokens; this approach aims to shorten CoT without additional training. This innovation offers a practical solution for optimizing resource usage in LLM reasoning, making complex problem-solving more accessible and cost-effective.\n\n### **[Hybrid Reasoning Agents](http://arxiv.org/abs/2610.18861v1)**\nThis research explores the concept of \"Hybrid Reasoning Agents\" that can think beyond human language while still interacting with the external environment through it. Moving past the limitations of modern LLM agents that primarily reason and interact via text, this work delves into latent reasoning mechanisms. The development of such agents could lead to more profound and nuanced understanding, bridging the gap between abstract thought and linguistic expression.\n\n---\n\n**Today's Signal:** The AI landscape is rapidly accelerating towards a future of ubiquitous, multimodal, and highly agentic intelligence, pushing both accessibility and advanced capabilities to new frontiers.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [The Best New AI Products and the Key Trends They Represent ](https://www.youtube.com/watch?v=thO4Y5RYfHo) | ### Transcript\n[0:00] Once again, this week we got some awesome new AI products ... |\n| [AI News: The AI Launch That Crashed The Market ](https://www.youtube.com/watch?v=xdp8bulnidY&vl=en-US) | In this video I dive into the biggest AI news stories, product launches, and mod... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Higgsfield takes AI video from 1 minute to over 10 ](https://openai.com/index/higgsfield-longer-videos-voice) | Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with ... |\n| [Science Corporation implants its vision-restoring chip in its first Stargardt disease patient ](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/) | Max Hodak, the former president and co-founder of Neuralink, detailed onstage at... |\n| [Cerebras CEO says we\u2019re nearing a future where everyone has a personal AI assistant at home ](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/) | Cerebras CEO Andrew Feldman predicts a future where personal AI assistants becom... |\n| [Industrial Next wants factory robots to switch tasks in minutes, not weeks ](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/) | Industrial Next helps manufacturers automate complex, delicate tasks that have t... |\n| [Cerebras CEO pushes back on AI doomsday warnings ](https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/) | Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warn... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [ChunkAct: Action Chunking for Agentic Robotics ](http://arxiv.org/abs/2610.18874v1) | Agentic robotics places a large language model (LLM) agent in the robot control ... |\n| [Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion ](http://arxiv.org/abs/2610.18871v1) | Sparse-to-dense motion completion recovers dense mesh motion from sparse vertex ... |\n| [What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study ](http://arxiv.org/abs/2610.18869v1) | How should demonstration quality be used during vision-language-action (VLA) pre... |\n| [Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards ](http://arxiv.org/abs/2610.18868v1) | Long-horizon agents have drawn growing attention for their ability to work auton... |\n| [Data Free Training of Diffusion Models for Lattice Field Theories ](http://arxiv.org/abs/2610.18863v1) | Sampling equilibrium field configurations remains a major computational bottlene... |\n| [DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning ](http://arxiv.org/abs/2610.18862v1) | Reasoning models achieve strong performance through long chains of thought (CoT)... |\n| [AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards ](http://arxiv.org/abs/2610.18860v1) | Generating information-rich visual artifacts such as slides, posters, and dashbo... |\n| [Hybrid Reasoning Agents ](http://arxiv.org/abs/2610.18861v1) | How can we build an agent that thinks beyond human language, yet still acts thro... |\n| [Exact Topological Compliance: Generating Persistence-Equivalent Graphs ](http://arxiv.org/abs/2610.18856v1) | Persistent homology summarizes the topological evolution of a graph as persisten... |\n| [Telling FIBS: Probes Effectively Detect Sabotage and Catch Unverbalized Deception ](http://arxiv.org/abs/2610.12445v2) | Recent incidents have highlighted the challenge of monitoring LLM agents and the... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/embeddinggemma-2 ](https://huggingface.co/google/embeddinggemma-2) | Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-ex... |\n| [jialinyyzz/humanizer ](https://huggingface.co/jialinyyzz/humanizer) | Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, ... |\n| [Qwen/Qwen-Image-2.1-Turbo ](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-e... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | HN Score: 734. Comments: 721 |\n| [[HackerNews] I built a tool to track what AI leaders say and how their views change on video](https://blumify.io/people) | HN Score: 89. Comments: 55 |\n| [[HackerNews] Apple's new 'Switch to Safari' campaign details why you should ditch Chrome](https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/) | HN Score: 261. Comments: 428 |\n| [[HackerNews] OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/) | HN Score: 548. Comments: 460 |\n| [[HackerNews] PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery](https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0) | HN Score: 1. Comments: 0 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
