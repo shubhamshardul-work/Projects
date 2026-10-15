@@ -1,0 +1,491 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce \n### Amex introduces a framework to prevent AI agents from making unauthorized purchases\n\n       Sarah Perez\n\n 2 days ago\n\n   \nImage 30: Character.AI screenshot\n\nApps \n### Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy\n\n       Ivan Mehta\n\n 2 days ago\n\n   \nImage 31\n\nAI \n### Meta releases its first frontier model, Muse Wonder\n\n       Russell Brandom\n\n 3 days ago [...] Ram Iyer\n\n 2 days ago\n\n   \nImage 21\n\nApps \n### Facebook is giving users more control over their algorithm\n\n       Lauren Forristal\n\n 2 days ago\n\n   \nImage 22\n\nRobotics \n### Laplace Intelligence red-teams robots and self-driving cars before they hit the real world\n\n       Rebecca Bellan\n\n 2 days ago\n\n   \nImage 23\n\nAI \n### Pluto Security raises $42M as AI gives enterprise security teams a new headache\n\n       Ram Iyer\n\n 2 days ago\n\n   \nImage 24 [...] Contact Us\n\n# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\n  \n\n Headlines Only \n\n Load More \n\n   \nImage 3\n\nApps \n### Figma announces new features to define how agents work on its platform\n\n       Ivan Mehta\n\n 2 hours ago\n\n   \nImage 4",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The EU\u2019s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Co-Evolving Acting and Forecasting for Language Agents",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Does Pretraining Teach Chemical Language Models Chemistry?",
+      "url": "http://arxiv.org/abs/2610.18651v2",
+      "summary": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "http://arxiv.org/abs/2610.13928v2",
+      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Your Transformer Is Secretly Elastic",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "url": "http://arxiv.org/abs/2610.20587v1",
+      "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continuum Attention",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates",
+      "url": "http://arxiv.org/abs/2607.05381v2",
+      "summary": "What does a discrete diffusion model actually learn? The literature trains denoisers, bridge plug-ins, and concrete scores, each deriving its own ELBO objective under different conventions. This fragm...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "url": "http://arxiv.org/abs/2610.20585v1",
+      "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that par...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 135175",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 65616",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image. Downloads: 12704",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "HN Score: 882. Comments: 516",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "summary": "HN Score: 66. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "HN Score: 116. Comments: 100",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "summary": "HN Score: 358. Comments: 132",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource: TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource: MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce \n### Amex introduces a framework to prevent AI agents from making unauthorized purchases\n\n       Sarah Perez\n\n 2 days ago\n\n   \nImage 30: Character.AI screenshot\n\nApps \n### Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy\n\n       Ivan Mehta\n\n 2 days ago\n\n   \nImage 31\n\nAI \n### Meta releases its first frontier model, Muse Wonder\n\n       Russell Brandom\n\n 3 days ago [...] Ram Iyer\n\n 2 days ago\n\n   \nImage 21\n\nApps \n### Facebook is giving users more control over their algorithm\n\n       Lauren Forristal\n\n 2 days ago\n\n   \nImage 22\n\nRobotics \n### Laplace Intelligence red-teams robots and self-driving cars before they hit the real world\n\n       Rebecca Bellan\n\n 2 days ago\n\n   \nImage 23\n\nAI \n### Pluto Security raises $42M as AI gives enterprise security teams a new headache\n\n       Ram Iyer\n\n 2 days ago\n\n   \nImage 24 [...] Contact Us\n\n# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\n  \n\n Headlines Only \n\n Load More \n\n   \nImage 3\n\nApps \n### Figma announces new features to define how agents work on its platform\n\n       Ivan Mehta\n\n 2 hours ago\n\n   \nImage 4",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The EU\u2019s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance",
+      "url": "http://arxiv.org/abs/2610.20607v1",
+      "summary": "Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet real-world fine-tuning remains a formidable challenge because of high-dimensional action spaces and intricate coupling be...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Co-Evolving Acting and Forecasting for Language Agents",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Does Pretraining Teach Chemical Language Models Chemistry?",
+      "url": "http://arxiv.org/abs/2610.18651v2",
+      "summary": "Chemical language models (CLMs) are pretrained on large corpora of molecules with the aim of learning representations that transfer to diverse downstream tasks. Here, we systematically study the effec...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "http://arxiv.org/abs/2610.13928v2",
+      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Your Transformer Is Secretly Elastic",
+      "url": "http://arxiv.org/abs/2610.20588v1",
+      "summary": "Scaling up transformers has produced models with broad capabilities, deployed across heterogeneous hardware and fluctuating workloads. Yet, model families offer only a few fixed sizes (e.g., S, B, L),...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Price of Anarchy of First-Price Auctions in Agentic Markets",
+      "url": "http://arxiv.org/abs/2610.20587v1",
+      "summary": "An agentic market is a decentralized serving-time market where AI agents bid to claim each user prompt. An agent's bid is based on its expected value for the prompt, which is the expectation of the re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continuum Attention",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates",
+      "url": "http://arxiv.org/abs/2607.05381v2",
+      "summary": "What does a discrete diffusion model actually learn? The literature trains denoisers, bridge plug-ins, and concrete scores, each deriving its own ELBO objective under different conventions. This fragm...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes",
+      "url": "http://arxiv.org/abs/2610.20585v1",
+      "summary": "Current approaches for steady partial differential equations surrogate models on unstructured meshes apply a single mixing mechanism to the whole solution. This paper proposes an architecture that par...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 135175",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 65616",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen-Image-2.1-Turbo",
+      "url": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
+      "summary": "Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-editing, text-to-image. Downloads: 12704",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "HN Score: 882. Comments: 516",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: CAD for wood working with LLM support?",
+      "url": "https://news.ycombinator.com/item?id=50067325",
+      "summary": "HN Score: 66. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Has AI tells",
+      "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+      "summary": "HN Score: 116. Comments: 100",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic's Scion is heavily inspired by Mononoke",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "summary": "HN Score: 358. Comments: 132",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+        "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+        "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need."
+      },
+      {
+        "title": "The EU\u2019s next chapter in AI is agentic",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
+      },
+      {
+        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Pluto Security raises $42M as AI gives enterprise security teams a new headache (2 days ago)"
+      },
+      {
+        "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy (2 days ago)"
+      },
+      {
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Figma announces new features to define how agents work on its platform",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Figma announces new features to define how agents work on its platform (2 hours ago)"
+      },
+      {
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world (2 days ago)"
+      },
+      {
+        "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+        "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+        "summary": "HN Score: 882. Comments: 516"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] AI Models Can Provably Hide Arbitrary Capabilities",
+        "url": "http://arxiv.org/abs/2610.13928v2",
+        "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe..."
+      },
+      {
+        "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+        "url": "https://openai.com/index/third-moment-research",
+        "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+      },
+      {
+        "title": "[ArXiv] Continuum Attention",
+        "url": "http://arxiv.org/abs/2610.20586v1",
+        "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query..."
+      },
+      {
+        "title": "[ArXiv] Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+        "url": "http://arxiv.org/abs/2610.20606v1",
+        "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr..."
+      },
+      {
+        "title": "[ArXiv] Co-Evolving Acting and Forecasting for Language Agents",
+        "url": "http://arxiv.org/abs/2610.20597v1",
+        "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week",
+      "url": "https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US",
+      "summary": "This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, Runway, ElevenLabs, Adobe, Nvidia, and more \u2014 including Google\u2019s Pixel 10 + Gemini AI upgrades, new generative AI tools for editing, soundtracks, and productivity, plus fresh breakthroughs in large language models and creative AI. If you\u2019re looking to stay ahead on the latest in AI tools, generative AI, and the future of artificial intelligence, this unscripted weekly roundup has everything you need."
+    },
+    {
+      "title": "The EU\u2019s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses\u2014and where deeper use could unlock more value."
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Pluto Security raises $42M as AI gives enterprise security teams a new headache (2 days ago)"
+    },
+    {
+      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy (2 days ago)"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT."
+    },
+    {
+      "title": "Figma announces new features to define how agents work on its platform",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Figma announces new features to define how agents work on its platform (2 hours ago)"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world (2 days ago)"
+    },
+    {
+      "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "summary": "HN Score: 882. Comments: 516"
+    },
+    {
+      "title": "[ArXiv] AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "http://arxiv.org/abs/2610.13928v2",
+      "summary": "Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this assumption doe..."
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
+    },
+    {
+      "title": "[ArXiv] Continuum Attention",
+      "url": "http://arxiv.org/abs/2610.20586v1",
+      "summary": "We introduce Continuum Attention (CA), a causal Transformer attention operator that replaces discrete key and value lookup with integration over a continuous, piecewise linear memory curve. Each query..."
+    },
+    {
+      "title": "[ArXiv] Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion",
+      "url": "http://arxiv.org/abs/2610.20606v1",
+      "summary": "Recent advances in robot learning have driven rapid progress in humanoid control, enabling increasingly agile behaviors in the real world. However, humanoid control networks are typically obtained thr..."
+    },
+    {
+      "title": "[ArXiv] Co-Evolving Acting and Forecasting for Language Agents",
+      "url": "http://arxiv.org/abs/2610.20597v1",
+      "summary": "Training language agents is bottlenecked by the high cost of long-horizon rollouts, yet standard agentic reinforcement learning (RL) learns only from a terminal scalar reward, leaving the supervision ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Agentic Revolution and Its Unfolding Challenges\n\nToday's AI landscape is defined by the accelerating march of agentic AI, pushing boundaries from enterprise adoption to cutting-edge research, while simultaneously spotlighting critical needs in security, safety, and robust development. From new architectural paradigms to the practicalities of deployment, the intelligence frontier is buzzing with both opportunity and caution.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Tavily] AI NEWS: 28 Releases and Updates You Missed This Week**\nThe sheer volume of weekly AI updates from giants like Google, OpenAI, Meta, and Nvidia underscores the relentless pace of innovation across generative AI, LLMs, and productivity tools. Business leaders must recognize this rapid evolution as a constant imperative to evaluate new technologies and adapt strategies, lest they fall behind competitors leveraging these advancements. Staying agile and informed is no longer optional but a strategic necessity for maintaining market relevance.\n\n### **[The EU\u2019s next chapter in AI is agentic](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic)**\nNew analysis reveals a significant surge in agentic AI adoption across EU enterprises and small businesses, signaling a strategic shift towards autonomous systems for unlocking deeper value. For executives, this highlights the growing maturity and practical application of AI agents beyond initial hype, presenting a clear opportunity to explore how these intelligent systems can drive efficiency, automate complex workflows, and create new business models within their own organizations.\n\n### **[Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/category/artificial-intelligence)**\nThe substantial $42 million funding round for Pluto Security underscores a critical strategic challenge emerging alongside widespread AI adoption: new enterprise security vulnerabilities. Business leaders must proactively invest in AI-native security solutions and robust frameworks, recognizing that the very tools driving innovation can also introduce novel attack vectors that traditional security measures may not adequately address. Protecting data and systems in an AI-driven world is paramount.\n\n### **[Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy](https://techcrunch.com/category/artificial-intelligence)**\nThe bankruptcy filing of Character.AI, a prominent interactive chatbot platform, serves as a stark reminder that even in a booming AI market, sustainable business models and strong product-market fit are crucial. Investors and executives should view this as a cautionary tale, emphasizing the need for rigorous due diligence on monetization strategies, competitive differentiation, and long-term viability beyond initial technological novelty when evaluating AI ventures.\n\n### **[Amp puts AI agents to work beyond code with OpenAI models](https://openai.com/index/amp-beyond-coding)**\nAmp's innovative use of OpenAI models to deploy AI agents beyond traditional coding tasks signals a significant expansion of agentic AI's strategic utility. For business leaders, this suggests that AI agents are maturing into versatile tools capable of transforming a wider array of operational workflows, from creative processes to complex data analysis, offering new avenues for automation and efficiency across the enterprise.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Figma announces new features to define how agents work on its platform](https://techcrunch.com/category/artificial-intelligence)**\nFigma's introduction of new features for defining agent behavior on its platform is a crucial development for designers and developers integrating AI into creative workflows. Practitioners should pay close attention to how these tools enable more controlled and predictable agentic automation within design processes, potentially streamlining complex tasks and fostering new collaborative paradigms between human designers and AI agents.\n\n### **[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/category/artificial-intelligence)**\nLaplace Intelligence's focus on \"red-teaming\" robots and self-driving cars before real-world deployment highlights an essential practice for engineers building physical AI systems. Developers in robotics and autonomous vehicles must prioritize rigorous safety testing, adversarial simulations, and comprehensive validation to mitigate risks and ensure the reliability and ethical operation of their creations in complex, unpredictable environments.\n\n### **[Containment and monitoring failures are to blame for AI hacking reports: experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html)**\nExperts are attributing reports of \"AI hacking\" to fundamental failures in containment and monitoring, rather than rogue AI agents, offering a critical lesson for developers. This underscores the imperative for practitioners to implement robust security engineering practices, including strict access controls, comprehensive logging, and continuous monitoring, to prevent unintended behaviors and secure AI systems against exploitation.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[[ArXiv] AI Models Can Provably Hide Arbitrary Capabilities](http://arxiv.org/abs/2610.13928v2)**\nThis ArXiv paper presents a profound challenge to current AI safety evaluations, demonstrating that models can provably conceal arbitrary capabilities, making them difficult to elicit. Researchers must grapple with the implications for alignment and safety, necessitating the development of entirely new methodologies to reliably assess and control AI behaviors before deployment.\n\n### **[How Third Moment Research runs 10,000 agents for 36+ hours](https://openai.com/index/third-moment-research)**\nThird Moment Research's ability to orchestrate 10,000 agents for over 36 hours, leveraging advanced OpenAI models, showcases a significant leap in large-scale agentic experimentation. Academics and deep-tech thinkers should study these methodologies for insights into building persistent, focused AI agents and scaling multi-agent systems, particularly for complex, long-duration tasks like cybersecurity.\n\n### **[[ArXiv] Continuum Attention](http://arxiv.org/abs/2610.20586v1)**\nThe introduction of Continuum Attention (CA) as a novel causal Transformer attention operator, replacing discrete lookups with continuous integration, offers a fascinating new direction for neural network architecture. Researchers in deep learning should explore the theoretical and practical implications of this continuous memory curve approach, which could lead to more efficient, expressive, or robust attention mechanisms in future models.\n\n### **[[ArXiv] Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion](http://arxiv.org/abs/2610.20606v1)**\nThis ArXiv paper explores using diffusion models to understand and potentially generate neural weights for humanoid control policies, bridging a critical gap in robot learning. Researchers in robotics and AI should investigate how this approach can enhance the interpretability of complex robot behaviors and facilitate the synthesis of more agile and robust humanoid control systems.\n\n### **[[ArXiv] Co-Evolving Acting and Forecasting for Language Agents](http://arxiv.org/abs/2610.20597v1)**\nAddressing the high cost of long-horizon rollouts in language agent training, this paper proposes co-evolving acting and forecasting, leveraging richer intermediate supervision signals beyond terminal rewards. Researchers in reinforcement learning and language agents should consider this novel approach to improve training efficiency and develop more sophisticated, foresightful AI agents.\n\n---\n**Today's Signal:** The AI landscape is rapidly maturing with agentic systems driving both unprecedented opportunities and critical demands for enhanced security, safety, and robust development practices across all frontiers.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI NEWS: 28 Releases and Updates You Missed This Week ](https://www.youtube.com/watch?v=vpUk5OetUNk&vl=en-US) | This week\u2019s AI News is packed with 28 major updates from Google, OpenAI, Meta, R... |\n| [AI News & Artificial Intelligence | TechCrunch ](https://techcrunch.com/category/artificial-intelligence) | 2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Amp puts AI agents to work beyond code with OpenAI models ](https://openai.com/index/amp-beyond-coding) | See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafas... |\n| [SentinelOne cuts malware analysis from weeks to hours ](https://openai.com/index/sentinelone) | With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creat... |\n| [How Third Moment Research runs 10,000 agents for 36+ hours ](https://openai.com/index/third-moment-research) | With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI... |\n| [How Block is building AI-powered security with OpenAI technology ](https://openai.com/index/block-ai-powered-security) | Block is building AI-powered security with OpenAI. Its security team investigate... |\n| [The EU\u2019s next chapter in AI is agentic ](https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic) | New analysis shows how agentic AI adoption is growing across EU enterprises and ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Modeling and Understanding Neural Weights of Humanoid Policies with Diffusion ](http://arxiv.org/abs/2610.20606v1) | Recent advances in robot learning have driven rapid progress in humanoid control... |\n| [Hierarchical Residual Policy Learning for Real-World Mobile Manipulation with Sparse Human Guidance ](http://arxiv.org/abs/2610.20607v1) | Mobile Manipulation (MoMa) is a cornerstone of autonomous robotic systems, yet r... |\n| [Co-Evolving Acting and Forecasting for Language Agents ](http://arxiv.org/abs/2610.20597v1) | Training language agents is bottlenecked by the high cost of long-horizon rollou... |\n| [Does Pretraining Teach Chemical Language Models Chemistry? ](http://arxiv.org/abs/2610.18651v2) | Chemical language models (CLMs) are pretrained on large corpora of molecules wit... |\n| [AI Models Can Provably Hide Arbitrary Capabilities ](http://arxiv.org/abs/2610.13928v2) | Capability evaluations aim to surface dangerous model behaviors before deploymen... |\n| [Your Transformer Is Secretly Elastic ](http://arxiv.org/abs/2610.20588v1) | Scaling up transformers has produced models with broad capabilities, deployed ac... |\n| [Price of Anarchy of First-Price Auctions in Agentic Markets ](http://arxiv.org/abs/2610.20587v1) | An agentic market is a decentralized serving-time market where AI agents bid to ... |\n| [Continuum Attention ](http://arxiv.org/abs/2610.20586v1) | We introduce Continuum Attention (CA), a causal Transformer attention operator t... |\n| [What Does a Discrete Diffusion Model Learn? One Reverse Process in Three Coordinates ](http://arxiv.org/abs/2607.05381v2) | What does a discrete diffusion model actually learn? The literature trains denoi... |\n| [Learnable Hodge-Laplacian Driven Mixture of Experts for Steady-PDE Surrogates on Coarse Unstructured Meshes ](http://arxiv.org/abs/2610.20585v1) | Current approaches for steady partial differential equations surrogate models on... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [google/embeddinggemma-2 ](https://huggingface.co/google/embeddinggemma-2) | Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-ex... |\n| [jialinyyzz/humanizer ](https://huggingface.co/jialinyyzz/humanizer) | Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, ... |\n| [Qwen/Qwen-Image-2.1-Turbo ](https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo) | Trending HF Model. Tags: diffusers, safetensors, qwen, image-generation, image-e... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Containment and monitoring failures are to blame for AI hacking reports:\u00a0experts](https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html) | HN Score: 882. Comments: 516 |\n| [[HackerNews] Ask HN: CAD for wood working with LLM support?](https://news.ycombinator.com/item?id=50067325) | HN Score: 66. Comments: 57 |\n| [[HackerNews] Has AI tells](https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1) | HN Score: 116. Comments: 100 |\n| [[HackerNews] Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/) | HN Score: 358. Comments: 132 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
