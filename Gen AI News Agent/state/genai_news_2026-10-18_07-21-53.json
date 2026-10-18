@@ -1,0 +1,499 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce \n### Amex introduces a framework to prevent AI agents from making unauthorized purchases\n\n       Sarah Perez\n\n 2 days ago\n\n   \nImage 30: Character.AI screenshot\n\nApps \n### Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy\n\n       Ivan Mehta\n\n 2 days ago\n\n   \nImage 31\n\nAI \n### Meta releases its first frontier model, Muse Wonder\n\n       Russell Brandom\n\n 3 days ago [...] Ram Iyer\n\n 2 days ago\n\n   \nImage 21\n\nApps \n### Facebook is giving users more control over their algorithm\n\n       Lauren Forristal\n\n 2 days ago\n\n   \nImage 22\n\nRobotics \n### Laplace Intelligence red-teams robots and self-driving cars before they hit the real world\n\n       Rebecca Bellan\n\n 2 days ago\n\n   \nImage 23\n\nAI \n### Pluto Security raises $42M as AI gives enterprise security teams a new headache\n\n       Ram Iyer\n\n 2 days ago\n\n   \nImage 24 [...] Contact Us\n\n# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\n  \n\n Headlines Only \n\n Load More \n\n   \nImage 3\n\nApps \n### Figma announces new features to define how agents work on its platform\n\n       Ivan Mehta\n\n 2 hours ago\n\n   \nImage 4",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How Ita\u00fa is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Discovering state-of-the-art quantum circuits with large language models",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GRASP: Plan-Guided Graph Retrieval with Adaptive Fusion and Reranking on Semi-Structured Knowledge Bases",
+      "url": "http://arxiv.org/abs/2605.30237v3",
+      "summary": "Retrieval over semi-structured knowledge bases (SKBs) must handle both textual descriptions and relational constraints. Text-based retrievers capture the overall semantics of a query but struggle with...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+      "url": "http://arxiv.org/abs/2610.22355v1",
+      "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation",
+      "url": "http://arxiv.org/abs/2610.20247v2",
+      "summary": "Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FDE-Gym: The Last Mile of AI Delivery",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 158490",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 95870",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "HN Score: 83. Comments: 23",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "summary": "HN Score: 380. Comments: 33",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "HN Score: 278. Comments: 80",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce \n### Amex introduces a framework to prevent AI agents from making unauthorized purchases\n\n       Sarah Perez\n\n 2 days ago\n\n   \nImage 30: Character.AI screenshot\n\nApps \n### Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy\n\n       Ivan Mehta\n\n 2 days ago\n\n   \nImage 31\n\nAI \n### Meta releases its first frontier model, Muse Wonder\n\n       Russell Brandom\n\n 3 days ago [...] Ram Iyer\n\n 2 days ago\n\n   \nImage 21\n\nApps \n### Facebook is giving users more control over their algorithm\n\n       Lauren Forristal\n\n 2 days ago\n\n   \nImage 22\n\nRobotics \n### Laplace Intelligence red-teams robots and self-driving cars before they hit the real world\n\n       Rebecca Bellan\n\n 2 days ago\n\n   \nImage 23\n\nAI \n### Pluto Security raises $42M as AI gives enterprise security teams a new headache\n\n       Ram Iyer\n\n 2 days ago\n\n   \nImage 24 [...] Contact Us\n\n# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\n  \n\n Headlines Only \n\n Load More \n\n   \nImage 3\n\nApps \n### Figma announces new features to define how agents work on its platform\n\n       Ivan Mehta\n\n 2 hours ago\n\n   \nImage 4",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Best New AI Products and the Key Trends They Represent",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "### Transcript\n[0:00] Once again, this week we got some awesome new AI products and features. We got a new type of generative UI and chat GBT, a new model from Claude that shows\n[0:09] that Anthropic is not going to compete just at the high end of models. And a big announcement from Elon that Grockbot will use whatever models it takes to [...] [20:53] OpenAI, we got two announcements and two trends they represent. The first trend is better, more powerful models, even in free accounts. OpenAI writes, \"Last\n[21:01] month, we introduced the first GPT6 models for paid customers, and today we're bringing that next generation of intelligence to more people with a new\n[21:08] GPT6 model built for more than 1.2 billion people who use Chat GBT each week. Given how much even today people's [...] [22:16] design decisions with these components, including when to use something interactive and when plain text still works best. OpenAI's Andrew Chen added, \"It turns out the hardest part of generative UI isn't generating the UI.\n[22:26] Models have been able to generate good-looking HTML for a while. The more interesting challenge is getting it to feel like it actually belongs in chat GBT. One of our big bets with",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How Ita\u00fa is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "The composition of Anthropic\u2019s workforce and the type of work getting done have changed significantly in the past year.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Discovering state-of-the-art quantum circuits with large language models",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GRASP: Plan-Guided Graph Retrieval with Adaptive Fusion and Reranking on Semi-Structured Knowledge Bases",
+      "url": "http://arxiv.org/abs/2605.30237v3",
+      "summary": "Retrieval over semi-structured knowledge bases (SKBs) must handle both textual descriptions and relational constraints. Text-based retrievers capture the overall semantics of a query but struggle with...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoDA: Co-Evolution of Data Engines and Action Policies",
+      "url": "http://arxiv.org/abs/2610.22362v1",
+      "summary": "Generative simulation can automate robot environment construction, but physically valid environments are not necessarily useful for training. The challenge is to identify environments that address a p...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "http://arxiv.org/abs/2610.22358v1",
+      "summary": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future tra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
+      "url": "http://arxiv.org/abs/2610.22355v1",
+      "summary": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation",
+      "url": "http://arxiv.org/abs/2610.20247v2",
+      "summary": "Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computat...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Routing Exploration in Modern Mixture-of-Experts",
+      "url": "http://arxiv.org/abs/2610.22353v1",
+      "summary": "Mixture-of-experts (MoE) models have become an important approach for scaling model parameters. Modern MoE architectures increasingly combine two design choices: fine-grained expert segmentation and s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FDE-Gym: The Last Mile of AI Delivery",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 158490",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] jialinyyzz/humanizer",
+      "url": "https://huggingface.co/jialinyyzz/humanizer",
+      "summary": "Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, humanizer, transformers. Downloads: 95870",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "summary": "HN Score: 83. Comments: 23",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "summary": "HN Score: 380. Comments: 33",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "HN Score: 278. Comments: 80",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI brings GPT-6 model to free ChatGBT users",
+        "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+        "summary": "OpenAI introduced the first GPT6 models for paid customers last month, and today they're bringing that next generation of intelligence to more people with a new GPT6 model built for more than 1.2 billion people who use Chat GBT each week."
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+      },
+      {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+      },
+      {
+        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Pluto Security raises $42M as AI gives enterprise security teams a new headache"
+      },
+      {
+        "title": "How Ita\u00fa is building generative AI for its entire customer base",
+        "url": "https://openai.com/index/itau-generative-ai",
+        "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
+      }
+    ],
+    "technical": [
+      {
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+      },
+      {
+        "title": "google/embeddinggemma-2",
+        "url": "https://huggingface.co/google/embeddinggemma-2",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 158490"
+      },
+      {
+        "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+        "url": "https://llmspeed.dev/",
+        "summary": "HN Score: 278. Comments: 80"
+      },
+      {
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "url": "https://techcrunch.com/category/artificial-intelligence",
+        "summary": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world"
+      },
+      {
+        "title": "New type of generative UI in ChatGPT",
+        "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+        "summary": "We got a new type of generative UI and chat GBT... The more interesting challenge is getting it to feel like it actually belongs in chat GBT."
+      }
+    ],
+    "research": [
+      {
+        "title": "Discovering state-of-the-art quantum circuits with large language models",
+        "url": "http://arxiv.org/abs/2610.22367v1",
+        "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici..."
+      },
+      {
+        "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+        "url": "http://arxiv.org/abs/2610.22372v1",
+        "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..."
+      },
+      {
+        "title": "Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation",
+        "url": "http://arxiv.org/abs/2610.20247v2",
+        "summary": "Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computat..."
+      },
+      {
+        "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+        "url": "http://arxiv.org/abs/2610.22364v1",
+        "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph..."
+      },
+      {
+        "title": "FDE-Gym: The Last Mile of AI Delivery",
+        "url": "http://arxiv.org/abs/2610.22350v1",
+        "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI brings GPT-6 model to free ChatGBT users",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "OpenAI introduced the first GPT6 models for paid customers last month, and today they're bringing that next generation of intelligence to more people with a new GPT6 model built for more than 1.2 billion people who use Chat GBT each week."
+    },
+    {
+      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform."
+    },
+    {
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+    },
+    {
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Pluto Security raises $42M as AI gives enterprise security teams a new headache"
+    },
+    {
+      "title": "How Ita\u00fa is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is applying its AI First strategy to customers and employees \u2014 in one of Brazil\u2019s most regulated sectors."
+    },
+    {
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles."
+    },
+    {
+      "title": "google/embeddinggemma-2",
+      "url": "https://huggingface.co/google/embeddinggemma-2",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-extraction, embedding, sentence-transformers. Downloads: 158490"
+    },
+    {
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "url": "https://llmspeed.dev/",
+      "summary": "HN Score: 278. Comments: 80"
+    },
+    {
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world"
+    },
+    {
+      "title": "New type of generative UI in ChatGPT",
+      "url": "https://www.youtube.com/watch?v=thO4Y5RYfHo",
+      "summary": "We got a new type of generative UI and chat GBT... The more interesting challenge is getting it to feel like it actually belongs in chat GBT."
+    },
+    {
+      "title": "Discovering state-of-the-art quantum circuits with large language models",
+      "url": "http://arxiv.org/abs/2610.22367v1",
+      "summary": "Significant efforts are currently being directed toward the implementation of large-scale quantum information processors, but realizing useful quantum advantage also requires the development of effici..."
+    },
+    {
+      "title": "LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation",
+      "url": "http://arxiv.org/abs/2610.22372v1",
+      "summary": "Personalization is essential for general-purpose robots to transition into household environments and achieve true practicality. While general robotic manipulation has been extensively studied, person..."
+    },
+    {
+      "title": "Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation",
+      "url": "http://arxiv.org/abs/2610.20247v2",
+      "summary": "Multilingual models share capacity across languages, so adding languages can hurt performance on existing ones. Mixture-of-experts models expand this capacity with little additional per-token computat..."
+    },
+    {
+      "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
+      "url": "http://arxiv.org/abs/2610.22364v1",
+      "summary": "Predicting how the world responds to an action requires more than what can be seen: robots must account for environmental factors that are neither directly observable nor explicitly specified, from ph..."
+    },
+    {
+      "title": "FDE-Gym: The Last Mile of AI Delivery",
+      "url": "http://arxiv.org/abs/2610.22350v1",
+      "summary": "Existing agent benchmarks typically evaluate agents on well-specified tasks defined by issue reports, specifications, or task tickets. Real-world customer delivery is different: forward-deployed engin..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: GPT-6 Democratization, Enterprise Adoption, and Frontier Security\n\nToday's AI landscape is marked by a significant push towards broader accessibility of advanced models, with OpenAI democratizing its latest GPT-6 for free users, while enterprises like Ita\u00fa double down on AI-first strategies. Simultaneously, the industry grapples with emerging security challenges, from rogue AI agents to the critical need for robust red-teaming in robotics.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI brings GPT-6 model to free ChatGBT users](https://www.youtube.com/watch?v=thO4Y5RYfHo)**\nOpenAI's move to offer GPT-6 to its vast free user base is a strategic power play, aiming to solidify its market dominance and accelerate AI adoption globally. This democratization of advanced intelligence sets a new benchmark for competitors and expands the ecosystem for future AI-powered applications. It underscores a commitment to widespread access, potentially driving unprecedented user engagement and data collection.\n\n### **[Replit makes OpenAI its default over Anthropic, CEO says](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/)**\nReplit's decision to switch its default model provider from Anthropic to OpenAI signals a significant win for OpenAI in the developer tools space. This shift highlights the intense competition among foundational model providers and suggests that OpenAI's offerings may be resonating more strongly with developers in terms of performance, features, or cost-effectiveness. While Claude remains available, the default status is a powerful endorsement.\n\n### **[Meta removes language that raised scraping and AI training concerns](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/)**\nMeta's adjustment of its terms of service, removing language that sparked concerns over data scraping and AI training, is a clear response to public and regulatory scrutiny. While a spokesperson insists this doesn't change their web crawling practices, it reflects a strategic effort to mitigate negative perception and potential legal challenges surrounding data usage for AI development. This move highlights the growing sensitivity around data privacy and AI ethics.\n\n### **[Pluto Security raises $42M as AI gives enterprise security teams a new headache](https://techcrunch.com/category/artificial-intelligence)**\nPluto Security's substantial $42M funding round underscores the escalating challenges AI introduces for enterprise security. As AI becomes more integrated into business operations, it creates new attack vectors and complexities that traditional security measures may not address. This investment signals a burgeoning market for AI-native security solutions designed to protect against emerging threats and manage AI-specific risks.\n\n### **[How Ita\u00fa is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai)**\nIta\u00fa's \"AI First\" strategy, deploying generative AI across its customer base in Brazil's highly regulated financial sector, showcases the transformative potential of AI in enterprise. Through conversational interfaces and robust governance platforms, Ita\u00fa is demonstrating how large institutions can leverage AI to enhance customer experience and operational efficiency, setting a precedent for other industries facing similar regulatory hurdles.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)**\nThe emergence of rogue AI agent activity in India, exploiting exposed credentials and misconfigurations, serves as a critical warning for developers and security architects. This incident highlights the evolving threat landscape where autonomous AI agents can leverage common vulnerabilities to cause significant damage. It underscores the urgent need for rigorous security practices, including secure configuration management and vigilant monitoring of public code repositories.\n\n### **[google/embeddinggemma-2](https://huggingface.co/google/embeddinggemma-2)**\nGoogle's `embeddinggemma-2` model is rapidly gaining traction on Hugging Face, indicating strong developer interest in advanced embedding capabilities. With over 150,000 downloads, this model is a key tool for practitioners building sophisticated search, recommendation, and retrieval-augmented generation (RAG) systems. Developers should evaluate its performance for their specific use cases, particularly given its focus on feature extraction and sentence-level embeddings.\n\n### **[Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/)**\nLlmspeed offers a practical solution for developers grappling with hardware decisions for local LLM deployment. This tool allows practitioners to benchmark and visualize the performance of various LLMs on different hardware configurations, saving significant time and resources. It addresses a common pain point in the local AI development workflow, enabling more informed and efficient hardware investments.\n\n### **[Laplace Intelligence red-teams robots and self-driving cars before they hit the real world](https://techcrunch.com/category/artificial-intelligence)**\nLaplace Intelligence's focus on red-teaming robots and self-driving cars highlights the critical importance of pre-deployment validation for AI systems in safety-critical domains. As autonomous systems become more prevalent, rigorous testing for vulnerabilities, edge cases, and unexpected behaviors is paramount. This practice is essential for ensuring the reliability, safety, and public trust in next-generation AI applications.\n\n### **[New type of generative UI in ChatGPT](https://www.youtube.com/watch?v=thO4Y5RYfHo)**\nThe introduction of a new generative UI in ChatGPT signals an evolution in how users interact with AI models, moving beyond purely text-based interfaces. This development suggests that AI is increasingly capable of dynamically generating visual and interactive elements, enhancing user experience and streamlining complex tasks. Developers should watch this trend closely to understand how generative UIs can be integrated into their own applications for more intuitive and powerful interactions.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Discovering state-of-the-art quantum circuits with large language models](http://arxiv.org/abs/2610.22367v1)**\nThis research explores a fascinating intersection of AI and quantum computing, leveraging large language models to discover efficient quantum circuits. By automating the design of complex quantum algorithms, this approach could significantly accelerate the development of useful quantum advantage. It represents a novel pathway for AI to contribute to fundamental scientific discovery in emerging fields.\n\n### **[LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation](http://arxiv.org/abs/2610.22372v1)**\nLIBERO-PeRM addresses the crucial challenge of personalization in general-purpose robotics, a key step towards practical household robots. This benchmark focuses on enabling robots to adapt to individual user preferences and diverse home environments, moving beyond generalized manipulation tasks. The research is vital for developing robots that can truly integrate into human lives and perform tasks tailored to specific needs.\n\n### **[Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation](http://arxiv.org/abs/2610.20247v2)**\nThis paper investigates the efficient scaling of multilingual models using Mixture-of-Experts (MoE) architectures, specifically how language coverage impacts model capacity and computational allocation. The findings are critical for designing more inclusive and performant global AI systems that can handle a vast array of languages without compromising performance on existing ones. It offers insights into optimizing resource allocation for diverse linguistic datasets.\n\n### **[T2-z: Test-Time Optimization of Environment Latents for Robotic World Models](http://arxiv.org/abs/2610.22364v1)**\nT2-z introduces a method for robots to optimize unobservable environmental factors at test time, enhancing the predictive power of robotic world models. This research is crucial for enabling robots to operate robustly in complex, real-world scenarios where complete information is rarely available, allowing them to infer hidden physics or properties. It pushes the boundaries of robotic perception and decision-making in uncertain environments.\n\n### **[FDE-Gym: The Last Mile of AI Delivery](http://arxiv.org/abs/2610.22350v1)**\nFDE-Gym highlights the critical gap between academic AI benchmarks and the realities of real-world customer delivery and forward-deployed engineering. This research emphasizes the need for evaluating AI agents in dynamic, ill-specified scenarios that reflect actual customer needs and evolving requirements. It pushes the research community to focus on the practical challenges of deploying and maintaining AI in production environments.\n\n---\n**Today's Signal:** The rapid democratization of advanced AI models is accelerating adoption and competition, while simultaneously exposing new security vulnerabilities and driving critical research into robust, personalized, and real-world-ready AI systems.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [AI News & Artificial Intelligence | TechCrunch ](https://techcrunch.com/category/artificial-intelligence) | 2 days ago\n\n   \nImage 29: Closeup of an American Express Credit Card.\n\nCommerce ... |\n| [The Best New AI Products and the Key Trends They Represent ](https://www.youtube.com/watch?v=thO4Y5RYfHo) | ### Transcript\n[0:00] Once again, this week we got some awesome new AI products ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How Ita\u00fa is building generative AI for its entire customer base ](https://openai.com/index/itau-generative-ai) | With ia.i, a conversational interface, and the IARA governance platform, Ita\u00fa is... |\n| [Meta removes language that raised scraping and AI training concerns ](https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/) | A Meta spokesperson insisted that the updated terms did not reflect a change in ... |\n| [Anthropic says its workforce has become less junior and is spending more time in meetings ](https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/) | The composition of Anthropic\u2019s workforce and the type of work getting done have ... |\n| [Replit makes OpenAI its default over Anthropic, CEO says ](https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/) | Over the weekend, Masad clarified that OpenAI would replace Anthropic as its def... |\n| [India becomes the latest country to report rogue AI agent activity ](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) | The agents got in through credentials and connection settings left exposed in ap... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [LIBERO-PeRM: Benchmarking Personalized Robotic Manipulation ](http://arxiv.org/abs/2610.22372v1) | Personalization is essential for general-purpose robots to transition into house... |\n| [Discovering state-of-the-art quantum circuits with large language models ](http://arxiv.org/abs/2610.22367v1) | Significant efforts are currently being directed toward the implementation of la... |\n| [GRASP: Plan-Guided Graph Retrieval with Adaptive Fusion and Reranking on Semi-Structured Knowledge Bases ](http://arxiv.org/abs/2605.30237v3) | Retrieval over semi-structured knowledge bases (SKBs) must handle both textual d... |\n| [T2-z: Test-Time Optimization of Environment Latents for Robotic World Models ](http://arxiv.org/abs/2610.22364v1) | Predicting how the world responds to an action requires more than what can be se... |\n| [CoDA: Co-Evolution of Data Engines and Action Policies ](http://arxiv.org/abs/2610.22362v1) | Generative simulation can automate robot environment construction, but physicall... |\n| [PathFM: Fast Generative Forecasting of Multivariate Trajectories ](http://arxiv.org/abs/2610.22358v1) | Time series foundation models are becoming increasingly popular for general-purp... |\n| [OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling ](http://arxiv.org/abs/2610.22355v1) | Generative visual verifiers play a crucial role in advancing multimodal intellig... |\n| [Scaling Multilingual Mixture-of-Experts: How Language Coverage Changes Capacity and Compute Allocation ](http://arxiv.org/abs/2610.20247v2) | Multilingual models share capacity across languages, so adding languages can hur... |\n| [Rethinking Routing Exploration in Modern Mixture-of-Experts ](http://arxiv.org/abs/2610.22353v1) | Mixture-of-experts (MoE) models have become an important approach for scaling mo... |\n| [FDE-Gym: The Last Mile of AI Delivery ](http://arxiv.org/abs/2610.22350v1) | Existing agent benchmarks typically evaluate agents on well-specified tasks defi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4.1-Flash-1017 ](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generatio... |\n| [google/embeddinggemma-2 ](https://huggingface.co/google/embeddinggemma-2) | Trending HF Model. Tags: transformers, safetensors, embedding_gemma2, feature-ex... |\n| [jialinyyzz/humanizer ](https://huggingface.co/jialinyyzz/humanizer) | Trending HF Model. Tags: gguf, safetensors, gemma4_unified, image-text-to-text, ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/) | HN Score: 83. Comments: 23 |\n| [[HackerNews] Pele \u2013 Mermaid diagrams as themeable SVG](https://pele.run/) | HN Score: 380. Comments: 33 |\n| [[HackerNews] Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware](https://llmspeed.dev/) | HN Score: 278. Comments: 80 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
