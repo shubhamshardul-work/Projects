@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News - Everything You Need to Know",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content Creation\n\nGoogle released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation.\n\nTakeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale.\n\nSource: AI News\n\n8. Agentic AI and Open Source Trends Emerge [...] In the first half of 2025, generative AI apps doubled their in-app revenues and surpassed 1.7 billion global downloads.\n\nTakeaway: More people are using and paying for generative AI apps than ever before, showing huge mainstream adoption.\n\nSource: TechCrunch\n\n5. NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform\n\nNVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks. [...] Skip to content \n\nBusiness Management Blog\n\nBusiness Management Blog\n\n# generative ai news from trusted publications\n\nWe bring to you the latest generative AI news and trends from trusted and verified sources. Generative AI breakthroughs, challenges, applications, and ethical issues.\n\nGenerative AI News Slideshow.\n\n## Latest 10 news and developments about Generative AI\n\n1. OpenAI to Launch GPT-5 in August 2025",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Block\u2019s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] The Language of Instruction: Genre and Generative AI",
+      "url": "http://arxiv.org/abs/2610.32982v1",
+      "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+      "url": "http://arxiv.org/abs/2605.06474v3",
+      "summary": "We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, one for each data point, such that the reweighted rewards appro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+      "url": "http://arxiv.org/abs/2610.32969v1",
+      "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Dueling Bandits to Episodic MDPs: Learning with Adversarial Preference Feedback",
+      "url": "http://arxiv.org/abs/2507.11706v2",
+      "summary": "In dueling bandits, the learner compares two arms in each round and observes only which one is preferred. This paper asks what changes when the compared pair also affects the next state, as in a recom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+      "url": "http://arxiv.org/abs/2610.32964v1",
+      "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "http://arxiv.org/abs/2610.32955v1",
+      "summary": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Driving Video Retrieval for Complex Queries with Structured Grounding",
+      "url": "http://arxiv.org/abs/2606.09109v3",
+      "summary": "Video retrieval at scale is central to data curation and safety validation in autonomous driving, where users want to find not only scenes but also dynamic events such as cut-ins and hard braking. Exi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
+      "url": "http://arxiv.org/abs/2607.05369v2",
+      "summary": "For robots to work reliably in commercial and industrial applications, recent advances in agentic coding systems have potential to combine interpretable robot programming with the open-world adaptabil...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 85275",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 6444",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Trending HF Model. Tags: diffusion-single-file, comfyui, image-generation, image-editing, flux, flux-3. Downloads: 660874",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "HN Score: 199. Comments: 103",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "HN Score: 36. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "summary": "HN Score: 59. Comments: 54",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "summary": "HN Score: 37. Comments: 20",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "HN Score: 531. Comments: 234",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News - Everything You Need to Know",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content Creation\n\nGoogle released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation.\n\nTakeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale.\n\nSource: AI News\n\n8. Agentic AI and Open Source Trends Emerge [...] In the first half of 2025, generative AI apps doubled their in-app revenues and surpassed 1.7 billion global downloads.\n\nTakeaway: More people are using and paying for generative AI apps than ever before, showing huge mainstream adoption.\n\nSource: TechCrunch\n\n5. NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform\n\nNVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks. [...] Skip to content \n\nBusiness Management Blog\n\nBusiness Management Blog\n\n# generative ai news from trusted publications\n\nWe bring to you the latest generative AI news and trends from trusted and verified sources. Generative AI breakthroughs, challenges, applications, and ethical issues.\n\nGenerative AI News Slideshow.\n\n## Latest 10 news and developments about Generative AI\n\n1. OpenAI to Launch GPT-5 in August 2025",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The hottest AI wearables and gadgets you should know about",
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more. ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Block\u2019s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] The Language of Instruction: Genre and Generative AI",
+      "url": "http://arxiv.org/abs/2610.32982v1",
+      "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching",
+      "url": "http://arxiv.org/abs/2605.06474v3",
+      "summary": "We present a novel theoretical framework, Q-MMR, for off-policy evaluation in finite-horizon MDPs. Q-MMR learns a set of scalar weights, one for each data point, such that the reweighted rewards appro...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection",
+      "url": "http://arxiv.org/abs/2610.32969v1",
+      "summary": "Collecting high-quality demonstrations remains a central bottleneck for learning dexterous manipulation. Teleoperation records executable robot actions, but it requires a complete robot setup and plac...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Dueling Bandits to Episodic MDPs: Learning with Adversarial Preference Feedback",
+      "url": "http://arxiv.org/abs/2507.11706v2",
+      "summary": "In dueling bandits, the learner compares two arms in each round and observes only which one is preferred. This paper asks what changes when the compared pair also affects the next state, as in a recom...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+      "url": "http://arxiv.org/abs/2610.32964v1",
+      "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox",
+      "url": "http://arxiv.org/abs/2610.32955v1",
+      "summary": "Personal email agents decide, for every message, what it is, whether it is urgent, whether to draft a reply, create a task, or ignore it. Their error rate is rarely measured: the stored labels were wr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Driving Video Retrieval for Complex Queries with Structured Grounding",
+      "url": "http://arxiv.org/abs/2606.09109v3",
+      "summary": "Video retrieval at scale is central to data curation and safety validation in autonomous driving, where users want to find not only scenes but also dynamic events such as cut-ins and hard braking. Exi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks",
+      "url": "http://arxiv.org/abs/2607.05369v2",
+      "summary": "For robots to work reliably in commercial and industrial applications, recent advances in agentic coding systems have potential to combine interpretable robot programming with the open-world adaptabil...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 85275",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 6444",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Trending HF Model. Tags: diffusion-single-file, comfyui, image-generation, image-editing, flux, flux-3. Downloads: 660874",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] IBM CEO says open weight models are now good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "summary": "HN Score: 199. Comments: 103",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "HN Score: 36. Comments: 15",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+      "summary": "HN Score: 59. Comments: 54",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "summary": "HN Score: 37. Comments: 20",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "HN Score: 531. Comments: 234",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Google Launches Veo and Imagen 3 for Enterprise AI Content Creation",
+        "url": "https://businessmanagementblog.com/generative-ai-news",
+        "summary": "Google released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation. Takeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale."
+      },
+      {
+        "title": "NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform",
+        "url": "https://businessmanagementblog.com/generative-ai-news",
+        "summary": "NVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks."
+      },
+      {
+        "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+        "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      },
+      {
+        "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+        "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+        "summary": "HN Score: 36. Comments: 15"
+      }
+    ],
+    "technical": [
+      {
+        "title": "Block\u2019s new voice model sounds eerily human",
+        "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+      },
+      {
+        "title": "black-forest-labs/flux-3-image-klein-comfy",
+        "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+        "summary": "Trending HF Model. Tags: diffusion-single-file, comfyui, image-generation, image-editing, flux, flux-3. Downloads: 660874"
+      },
+      {
+        "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+        "url": "https://adrs.systems",
+        "summary": "HN Score: 37. Comments: 20"
+      }
+    ],
+    "research": [
+      {
+        "title": "The Language of Instruction: Genre and Generative AI",
+        "url": "http://arxiv.org/abs/2610.32982v1",
+        "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ..."
+      },
+      {
+        "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+        "url": "http://arxiv.org/abs/2610.32978v1",
+        "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s..."
+      },
+      {
+        "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+        "url": "http://arxiv.org/abs/2610.32971v1",
+        "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha..."
+      },
+      {
+        "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+        "url": "http://arxiv.org/abs/2610.32964v1",
+        "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ..."
+      },
+      {
+        "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+        "url": "https://lynchlab.net/llm-skin-cancer",
+        "summary": "HN Score: 531. Comments: 234"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Google Launches Veo and Imagen 3 for Enterprise AI Content Creation",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "Google released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation. Takeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale."
+    },
+    {
+      "title": "NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "NVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks."
+    },
+    {
+      "title": "AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "Microsoft Decision-1: 9B Qwen Model Launch Explained",
+      "url": "https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/",
+      "summary": "HN Score: 36. Comments: 15"
+    },
+    {
+      "title": "Block\u2019s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max"
+    },
+    {
+      "title": "black-forest-labs/flux-3-image-klein-comfy",
+      "url": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "summary": "Trending HF Model. Tags: diffusion-single-file, comfyui, image-generation, image-editing, flux, flux-3. Downloads: 660874"
+    },
+    {
+      "title": "Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git",
+      "url": "https://adrs.systems",
+      "summary": "HN Score: 37. Comments: 20"
+    },
+    {
+      "title": "The Language of Instruction: Genre and Generative AI",
+      "url": "http://arxiv.org/abs/2610.32982v1",
+      "summary": "This article argues that instruction-fine-tuned language models should be understood as implementing a genre, what is proposed as the instructional-conversational genre. This genre is an amalgamation ..."
+    },
+    {
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "url": "http://arxiv.org/abs/2610.32978v1",
+      "summary": "Training generalizable embodied agents requires realistic, varied, and simulation-ready indoor environments. Language-guided methods support semantic planning and object-level reasoning, but precise s..."
+    },
+    {
+      "title": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms",
+      "url": "http://arxiv.org/abs/2610.32971v1",
+      "summary": "Robust reinforcement learning (RL) is critical for reliable real-world deployment, where policies may fail under diverse shifts and disruptions. Existing robust RL algorithms offer a rich set of mecha..."
+    },
+    {
+      "title": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection",
+      "url": "http://arxiv.org/abs/2610.32964v1",
+      "summary": "Few-shot industrial anomaly detection requires modeling category-specific normality from only a handful of defect-free images. Common approaches tie inference to stored exemplars, impose rigid linear ..."
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "HN Score: 531. Comments: 234"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Navigating AI's Dual Reality \u2013 Innovation vs. ROI Scrutiny\n\nToday's AI landscape presents a fascinating dichotomy: relentless innovation from tech giants and researchers, juxtaposed with a growing skepticism about tangible financial returns for most businesses. While new models and platforms push the boundaries of what's possible, the market is increasingly scrutinizing the practical payoff of massive AI investments.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Google Launches Veo and Imagen 3 for Enterprise AI Content Creation](https://businessmanagementblog.com/generative-ai-news)**\nGoogle is aggressively expanding its enterprise generative AI offerings, providing businesses with powerful new tools for scalable video and image creation. This move positions Google as a critical enabler for companies looking to integrate advanced AI into their content pipelines, promising faster and more efficient media production.\n\n### **[NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform](https://businessmanagementblog.com/generative-ai-news)**\nNVIDIA continues to solidify its dominance in AI hardware, extending its reach beyond data centers with new GPUs and the Cosmos platform for robotics and autonomous systems. This strategic push signals a significant expansion of AI's application into physical-world tasks, opening vast new markets for intelligent automation.\n\n### **[AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)**\nDespite widespread hype and substantial investment, a stark reality check emerges: AI is failing to deliver significant financial returns for the majority of corporate America outside the tech sector. This highlights a critical gap between AI's perceived potential and its practical, profitable implementation in diverse industries.\n\n### **[The AI graveyard: a running list of projects and startups that didn\u2019t make it](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**\nThis sobering list serves as a powerful reminder that not all AI ventures, even those from major players, achieve sustained success or meet expectations. It underscores the challenges of product-market fit, technical execution, and the high-stakes nature of innovation in the rapidly evolving AI space.\n\n### **[Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/)**\nMicrosoft's continued investment in new foundational models like the 9B Qwen demonstrates its commitment to expanding its AI capabilities and cloud offerings. This strategic move aims to strengthen its competitive position in the generative AI market, providing more options for developers and enterprises leveraging its ecosystem.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Block\u2019s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/)**\nBlock has achieved a significant breakthrough in synthetic speech, developing a voice model that delivers remarkably human-like audio, even capable of running locally on high-end consumer hardware. This advancement opens new possibilities for developers to integrate highly realistic, on-device voice interfaces, enhancing user experience and privacy in applications.\n\n### **[black-forest-labs/flux-3-image-klein-comfy](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy)**\nThis trending Hugging Face model indicates strong community interest in advanced image generation and editing tools, particularly within the ComfyUI ecosystem. Developers should explore this for high-performance, flexible solutions in creative AI workflows, leveraging its popularity and active development.\n\n### **[Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git](https://adrs.systems)**\nAddressing a crucial need for governance and transparency, this project introduces Architecture Decision Records (ADRs) specifically tailored for AI projects, versioned in Git. Developers and architects can adopt this methodology to document critical decisions, track changes, and ensure accountability in complex AI system development, fostering better collaboration and auditability.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[The Language of Instruction: Genre and Generative AI](http://arxiv.org/abs/2610.32982v1)**\nThis research proposes a novel framework for understanding instruction-fine-tuned language models as implementing an \"instructional-conversational genre.\" This theoretical perspective offers researchers a deeper understanding of how to design more effective prompts and models, leading to more predictable and nuanced AI interactions.\n\n### **[SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning](http://arxiv.org/abs/2610.32978v1)**\nSceneBloom tackles the critical challenge of generating realistic and diverse indoor environments for training embodied AI agents. This work is vital for developing more generalizable and robust AI systems that can navigate and interact effectively within complex physical spaces, accelerating progress in robotics and simulation.\n\n### **[RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms](http://arxiv.org/abs/2610.32971v1)**\nRobustness is paramount for deploying AI in real-world scenarios, and this library provides a unified platform for developing and benchmarking robust reinforcement learning algorithms. Researchers can leverage RobustRLlib to accelerate the creation of reliable AI policies capable of performing consistently under diverse shifts and disruptions.\n\n### **[Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection](http://arxiv.org/abs/2610.32964v1)**\nThis paper introduces an innovative approach to few-shot anomaly detection, a crucial capability for industrial applications with limited defect data. Flownomaly's method for single-step conditional-mean recovery promises more efficient and accurate identification of anomalies with minimal training examples, enhancing quality control and predictive maintenance.\n\n### **[A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)**\nIn a provocative finding, a decade-old Convolutional Neural Network (CNN) has demonstrated superior performance over frontier Large Language Models (LLMs) in skin cancer diagnosis. This highlights that specialized, domain-specific models can still outperform generalist AI in critical applications, emphasizing the importance of selecting the right tool for the job.\n\n---\n**Today's Signal:** The AI industry is at a crossroads, with rapid technological advancements pushing new frontiers while the business world increasingly demands concrete, measurable returns on its substantial AI investments.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Guides: Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Privatized air traffic control would mean safer skies This link opens in a new w... |\n| [Generative AI News - Everything You Need to Know ](https://businessmanagementblog.com/generative-ai-news) | Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content C... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Grok releases the first seven minutes of its AI-generated \u2018Odyssey\u2019 ](https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/) | The footage looks okay, as long as you're not seeking artistry, inspiration, or ... |\n| [AI delivers \u2018zero financial payoff\u2019 to most companies, Apollo economist says ](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/) | \"Despite massive investments and widespread hype around artificial intelligence,... |\n| [The hottest AI wearables and gadgets you should know about ](https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/) | We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, F... |\n| [The AI graveyard: a running list of projects and startups that didn\u2019t make it ](https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) | From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, he... |\n| [[RSS] Block\u2019s new voice model sounds eerily human](https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/) | Block said that the voice model can run locally on a MacBook M4 Max |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Language of Instruction: Genre and Generative AI ](http://arxiv.org/abs/2610.32982v1) | This article argues that instruction-fine-tuned language models should be unders... |\n| [SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning ](http://arxiv.org/abs/2610.32978v1) | Training generalizable embodied agents requires realistic, varied, and simulatio... |\n| [Q-MMR: Off-Policy Evaluation via Recursive Reweighting and Moment Matching ](http://arxiv.org/abs/2605.06474v3) | We present a novel theoretical framework, Q-MMR, for off-policy evaluation in fi... |\n| [RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning Algorithms ](http://arxiv.org/abs/2610.32971v1) | Robust reinforcement learning (RL) is critical for reliable real-world deploymen... |\n| [DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection ](http://arxiv.org/abs/2610.32969v1) | Collecting high-quality demonstrations remains a central bottleneck for learning... |\n| [From Dueling Bandits to Episodic MDPs: Learning with Adversarial Preference Feedback ](http://arxiv.org/abs/2507.11706v2) | In dueling bandits, the learner compares two arms in each round and observes onl... |\n| [Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection ](http://arxiv.org/abs/2610.32964v1) | Few-shot industrial anomaly detection requires modeling category-specific normal... |\n| [Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a Generative LLM for Routing a Personal Multilingual Inbox ](http://arxiv.org/abs/2610.32955v1) | Personal email agents decide, for every message, what it is, whether it is urgen... |\n| [Driving Video Retrieval for Complex Queries with Structured Grounding ](http://arxiv.org/abs/2606.09109v3) | Video retrieval at scale is central to data curation and safety validation in au... |\n| [GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks ](http://arxiv.org/abs/2607.05369v2) | For robots to work reliably in commercial and industrial applications, recent ad... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4.1-Flash-1017 ](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generatio... |\n| [RecursiveSI/flint ](https://huggingface.co/RecursiveSI/flint) | Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conv... |\n| [black-forest-labs/flux-3-image-klein-comfy ](https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy) | Trending HF Model. Tags: diffusion-single-file, comfyui, image-generation, image... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] IBM CEO says open weight models are now good and cheap on-prem](https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640) | HN Score: 199. Comments: 103 |\n| [[HackerNews] Microsoft Decision-1: 9B Qwen Model Launch Explained](https://shattered.io/microsoft-decision-1-qwen3-5-9b-model-2026/) | HN Score: 36. Comments: 15 |\n| [[HackerNews] Cognitive Mercantilism: AI panic resembles fears of early capitalism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism) | HN Score: 59. Comments: 54 |\n| [[HackerNews] Show HN: ADRs for AI \u2013 Deliberation records for human\u2013AI work, versioned in Git](https://adrs.systems) | HN Score: 37. Comments: 20 |\n| [[HackerNews] A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | HN Score: 531. Comments: 234 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
