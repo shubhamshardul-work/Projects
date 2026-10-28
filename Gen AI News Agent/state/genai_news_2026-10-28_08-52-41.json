@@ -1,0 +1,310 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About | by Pranit naik | No Time | Medium",
+      "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+      "summary": "Pranit naik\n\nPranit naik\n\n11 min read\n\n\u00b7\n\nJul 25, 2026\n\nPress enter or click to view image in full size\n\nAI Updates \u2014 July 2026 (Image Edited by Author)\n\nRead here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 10574",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 105667",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 4785",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "HN Score: 329. Comments: 138",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "HN Score: 273. Comments: 144",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "HN Score: 218. Comments: 200",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "summary": "HN Score: 159. Comments: 84",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 17 Recent AI Breakthroughs Everyone Should Know About | by Pranit naik | No Time | Medium",
+      "url": "https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31",
+      "summary": "Pranit naik\n\nPranit naik\n\n11 min read\n\n\u00b7\n\nJul 25, 2026\n\nPress enter or click to view image in full size\n\nAI Updates \u2014 July 2026 (Image Edited by Author)\n\nRead here for FREE\n\nA 1.6 trillion parameter language model finished pretraining this year on roughly 50,000 Chinese-made accelerators, with no Nvidia silicon anywhere in the run. The weights are on Hugging Face under an MIT license. The FP8 build alone runs past two terabytes, so almost nobody will load it on their own machine.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 10574",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 105667",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 4785",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "HN Score: 329. Comments: 138",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "summary": "HN Score: 273. Comments: 144",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "HN Score: 218. Comments: 200",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "summary": "HN Score: 159. Comments: 84",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+        "url": "https://openai.com/index/retell-ai",
+        "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      },
+      {
+        "title": "[RSS] OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+        "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[RSS] How Check Point accelerates vulnerability research with Daybreak",
+        "url": "https://openai.com/index/check-point-daybreak",
+        "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+      },
+      {
+        "title": "[RSS] Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      },
+      {
+        "title": "[HackerNews] Survival LLM: AI assistant and emergency library that runs on your own computer",
+        "url": "https://www.brangus.io/survival-llm",
+        "summary": "HN Score: 329. Comments: 138"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Working with academic communities to build scientific understanding",
+        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+      },
+      {
+        "title": "[HackerNews] Early progress on accelerating drug development with Claude",
+        "url": "https://www.anthropic.com/research/early-progress-drug-development",
+        "summary": "HN Score: 218. Comments: 200"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    },
+    {
+      "title": "[RSS] OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    },
+    {
+      "title": "[RSS] How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+    },
+    {
+      "title": "[RSS] Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    },
+    {
+      "title": "[HackerNews] Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "summary": "HN Score: 329. Comments: 138"
+    },
+    {
+      "title": "[RSS] Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics\u2014and how researchers can verify and build on them."
+    },
+    {
+      "title": "[HackerNews] Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "summary": "HN Score: 218. Comments: 200"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: OpenAI's Pervasive Influence & Practical AI Applications\n\nToday's intelligence report highlights OpenAI's deepening integration across various sectors, from powering massive business operations to accelerating scientific discovery. We're seeing a clear trend of advanced AI models moving beyond theoretical potential into tangible, high-impact applications that redefine productivity and innovation.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)**\nThis news underscores the immense scalability and real-world impact of OpenAI's models, particularly GPT-6 Astra and Codex, in driving significant business value. Retell's impressive $1.6M annual revenue run rate per employee demonstrates how AI-powered solutions can create highly efficient and profitable ventures, setting a new benchmark for AI-driven productivity.\n\n### **[OpenAI expands partnership with Oracle to bring its apps to ChatGPT](https://openai.com/index/oracle-apps-in-chatgpt)**\nThis strategic partnership signifies a major push towards integrating AI directly into enterprise workflows and business applications. By bringing Oracle's vast suite of business tools into ChatGPT, OpenAI is positioning itself as a foundational layer for enterprise AI, enabling new levels of automation and intelligent interaction for businesses globally.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[How Check Point accelerates vulnerability research with Daybreak](https://openai.com/index/check-point-daybreak)**\nDaybreak is emerging as a critical tool for security professionals, demonstrating its capability to significantly accelerate complex vulnerability research. Developers should watch Daybreak for its potential to enhance security analysis workflows, enabling analysts to turn raw intelligence into actionable defenses much faster than traditional methods.\n\n### **[Greptile takes bug detection beyond code review with GPT-6 Astra](https://openai.com/index/greptile-code-review-codex-astra)**\nGreptile's innovative use of GPT-6 Astra for workflow testing, Daybreak for strengthening security, and Codex for rework reduction showcases a powerful multi-model approach to software quality. This illustrates how advanced AI can be integrated across the development lifecycle, moving beyond basic code review to comprehensive bug detection and efficiency gains.\n\n### **[Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)**\nThis project highlights the growing trend of local-first AI solutions, offering an offline, self-contained LLM for critical information and assistance. Developers should note the demand for accessible, resilient AI tools that prioritize user control and privacy, especially for scenarios where internet connectivity is unreliable.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities)**\nOpenAI is actively engaging with the academic community to push the boundaries of scientific discovery, sharing model results on complex mathematical and physics conjectures. This collaborative approach emphasizes the potential of AI to accelerate fundamental research, inviting researchers to verify and expand upon these AI-generated insights.\n\n### **[Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development)**\nAnthropic's early successes with Claude in drug development underscore the transformative potential of large language models in scientific domains. This research suggests that AI can significantly shorten the discovery phase for new therapeutics, opening new avenues for interdisciplinary collaboration between AI and life sciences.\n\n---\n**Today's Signal:** The pervasive integration of advanced AI models across business operations, developer toolchains, and fundamental scientific research signals a new era of AI-driven productivity and discovery.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Guides: Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Privatized air traffic control would mean safer skies This link opens in a new w... |\n| [17 Recent AI Breakthroughs Everyone Should Know About | by Pranit naik | No Time | Medium ](https://medium.com/no-time/17-recent-ai-breakthroughs-everyone-should-know-about-e6a3a2f15d31) | Pranit naik\n\nPranit naik\n\n11 min read\n\n\u00b7\n\nJul 25, 2026\n\nPress enter or click to ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Retell uses OpenAI models to help power 100M monthly calls ](https://openai.com/index/retell-ai) | GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1... |\n| [OpenAI expands partnership with Oracle to bring its apps to ChatGPT ](https://openai.com/index/oracle-apps-in-chatgpt) | OpenAI and Oracle are expanding their partnership to bring business applications... |\n| [How Check Point accelerates vulnerability research with Daybreak ](https://openai.com/index/check-point-daybreak) | With OpenAI Daybreak, Check Point speeds up the research behind new security pro... |\n| [Greptile takes bug detection beyond code review with GPT-6 Astra ](https://openai.com/index/greptile-code-review-codex-astra) | How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen sec... |\n| [Working with academic communities to build scientific understanding ](https://openai.com/index/building-scientific-understanding-with-academic-communities) | OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesi... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [RecursiveSI/flint ](https://huggingface.co/RecursiveSI/flint) | Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conv... |\n| [deepseek-ai/DeepSeek-V4.1-Flash-1017 ](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generatio... |\n| [Nanbeige/Nanbeige4.3-33B ](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | HN Score: 329. Comments: 138 |\n| [[HackerNews] Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) | HN Score: 273. Comments: 144 |\n| [[HackerNews] Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) | HN Score: 218. Comments: 200 |\n| [[HackerNews] Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) | HN Score: 159. Comments: 84 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
