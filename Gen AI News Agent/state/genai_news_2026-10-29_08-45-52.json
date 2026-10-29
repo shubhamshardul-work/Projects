@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News - Everything You Need to Know",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content Creation\n\nGoogle released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation.\n\nTakeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale.\n\nSource: AI News\n\n8. Agentic AI and Open Source Trends Emerge [...] In the first half of 2025, generative AI apps doubled their in-app revenues and surpassed 1.7 billion global downloads.\n\nTakeaway: More people are using and paying for generative AI apps than ever before, showing huge mainstream adoption.\n\nSource: TechCrunch\n\n5. NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform\n\nNVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks. [...] Skip to content \n\nBusiness Management Blog\n\nBusiness Management Blog\n\n# generative ai news from trusted publications\n\nWe bring to you the latest generative AI news and trends from trusted and verified sources. Generative AI breakthroughs, challenges, applications, and ethical issues.\n\nGenerative AI News Slideshow.\n\n## Latest 10 news and developments about Generative AI\n\n1. OpenAI to Launch GPT-5 in August 2025",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "url": "http://arxiv.org/abs/2610.37668v1",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Should We Intervene at Test Time?",
+      "url": "http://arxiv.org/abs/2610.37658v1",
+      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "url": "http://arxiv.org/abs/2610.37657v1",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "url": "http://arxiv.org/abs/2610.37656v1",
+      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+      "url": "http://arxiv.org/abs/2610.37655v1",
+      "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable program...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+      "url": "http://arxiv.org/abs/2610.37652v1",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "http://arxiv.org/abs/2610.37651v1",
+      "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "url": "http://arxiv.org/abs/2610.37649v1",
+      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Tight 3-Approximation for Fair $k$-Means",
+      "url": "http://arxiv.org/abs/2609.07974v2",
+      "summary": "Fairness in clustering has attracted sustained research interest, motivated by the need to ensure equitable representation of protected groups in machine learning applications. We study fair $k$-means...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 116770",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 7412",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 14047",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "summary": "HN Score: 17. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "summary": "HN Score: 107. Comments: 41",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "HN Score: 332. Comments: 102",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "summary": "HN Score: 59. Comments: 11",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "HN Score: 229. Comments: 148",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI News - Everything You Need to Know",
+      "url": "https://businessmanagementblog.com/generative-ai-news",
+      "summary": "Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content Creation\n\nGoogle released new generative AI models Veo and Imagen 3 for its cloud services, focusing on enterprise content creation.\n\nTakeaway: Businesses now have more tools to create AI-generated videos and images quickly and at scale.\n\nSource: AI News\n\n8. Agentic AI and Open Source Trends Emerge [...] In the first half of 2025, generative AI apps doubled their in-app revenues and surpassed 1.7 billion global downloads.\n\nTakeaway: More people are using and paying for generative AI apps than ever before, showing huge mainstream adoption.\n\nSource: TechCrunch\n\n5. NVIDIA Unveils Next-Gen GPUs and Cosmos AI Platform\n\nNVIDIA announced new GeForce RTX 50 GPUs and the Cosmos platform for robotics and autonomous vehicles, pushing AI into physical-world tasks. [...] Skip to content \n\nBusiness Management Blog\n\nBusiness Management Blog\n\n# generative ai news from trusted publications\n\nWe bring to you the latest generative AI news and trends from trusted and verified sources. Generative AI breakthroughs, challenges, applications, and ethical issues.\n\nGenerative AI News Slideshow.\n\n## Latest 10 news and developments about Generative AI\n\n1. OpenAI to Launch GPT-5 in August 2025",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "url": "http://arxiv.org/abs/2610.37668v1",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We int...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Should We Intervene at Test Time?",
+      "url": "http://arxiv.org/abs/2610.37658v1",
+      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "url": "http://arxiv.org/abs/2610.37657v1",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "url": "http://arxiv.org/abs/2610.37656v1",
+      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's fa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry",
+      "url": "http://arxiv.org/abs/2610.37655v1",
+      "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable program...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+      "url": "http://arxiv.org/abs/2610.37652v1",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "http://arxiv.org/abs/2610.37651v1",
+      "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "url": "http://arxiv.org/abs/2610.37649v1",
+      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Tight 3-Approximation for Fair $k$-Means",
+      "url": "http://arxiv.org/abs/2609.07974v2",
+      "summary": "Fairness in clustering has attracted sustained research interest, motivated by the need to ensure equitable representation of protected groups in machine learning applications. We study fair $k$-means...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 116770",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 7412",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] RecursiveSI/flint",
+      "url": "https://huggingface.co/RecursiveSI/flint",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conversational, license:apache-2.0. Downloads: 14047",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+      "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+      "summary": "HN Score: 17. Comments: 0",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "summary": "HN Score: 107. Comments: 41",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "HN Score: 332. Comments: 102",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Nixpkgs for the Front End Impaired",
+      "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+      "summary": "HN Score: 59. Comments: 11",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "HN Score: 229. Comments: 148",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      },
+      {
+        "title": "[RSS] The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "summary": "How AI might enter the org chart\u2014beneath, beside, and between us."
+      },
+      {
+        "title": "[RSS] Legora is building the agentic operating system for legal work",
+        "url": "https://openai.com/index/legora",
+        "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      },
+      {
+        "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+        "url": "https://openai.com/index/retell-ai",
+        "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+      },
+      {
+        "title": "[RSS] Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+        "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] OpenAI's agents talked to each other through the CPU Cache",
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+        "summary": "HN Score: 107. Comments: 41"
+      },
+      {
+        "title": "[HackerNews] Claude Code regularly sends each background agent\u2019s transcript to its model",
+        "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+        "summary": "HN Score: 332. Comments: 102"
+      },
+      {
+        "title": "[HackerNews] Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+        "url": "https://surgehq.ai/blog/dayjob-tax",
+        "summary": "HN Score: 229. Comments: 148"
+      },
+      {
+        "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 116770"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+        "url": "http://arxiv.org/abs/2610.37657v1",
+        "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri..."
+      },
+      {
+        "title": "[ArXiv] Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+        "url": "http://arxiv.org/abs/2610.37649v1",
+        "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio..."
+      },
+      {
+        "title": "[ArXiv] GEPA-Curator: Curated Learning for Self Improving Agents",
+        "url": "http://arxiv.org/abs/2610.37651v1",
+        "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear..."
+      },
+      {
+        "title": "[ArXiv] ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+        "url": "http://arxiv.org/abs/2610.37666v1",
+        "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra..."
+      },
+      {
+        "title": "[ArXiv] Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+        "url": "http://arxiv.org/abs/2610.37652v1",
+        "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us."
+    },
+    {
+      "title": "[RSS] Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    },
+    {
+      "title": "[RSS] Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "summary": "GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    },
+    {
+      "title": "[RSS] Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "summary": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+    },
+    {
+      "title": "[HackerNews] OpenAI's agents talked to each other through the CPU Cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+      "summary": "HN Score: 107. Comments: 41"
+    },
+    {
+      "title": "[HackerNews] Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "summary": "HN Score: 332. Comments: 102"
+    },
+    {
+      "title": "[HackerNews] Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "summary": "HN Score: 229. Comments: 148"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 116770"
+    },
+    {
+      "title": "[ArXiv] Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "url": "http://arxiv.org/abs/2610.37657v1",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistri..."
+    },
+    {
+      "title": "[ArXiv] Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "url": "http://arxiv.org/abs/2610.37649v1",
+      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavio..."
+    },
+    {
+      "title": "[ArXiv] GEPA-Curator: Curated Learning for Self Improving Agents",
+      "url": "http://arxiv.org/abs/2610.37651v1",
+      "summary": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA lear..."
+    },
+    {
+      "title": "[ArXiv] ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstra..."
+    },
+    {
+      "title": "[ArXiv] Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well",
+      "url": "http://arxiv.org/abs/2610.37652v1",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob..."
+    }
+  ],
+  "final_report": "# AI Agents Go Deep: Enterprise Integration, Cloud Revenue Surges, and Breakthroughs in Agentic Intelligence\n\nToday's intelligence report highlights the accelerating integration of AI agents into core business workflows, underscored by major strategic partnerships and significant cloud revenue disclosures. Meanwhile, researchers are pushing the boundaries of agentic capabilities, from novel communication methods to self-improving systems and scientific discovery.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)**\nThis expanded partnership signals a critical strategic move, embedding OpenAI's advanced models and agents directly into ServiceNow's vast enterprise ecosystem. For business leaders, this means AI is no longer just a tool but a foundational layer for automating and optimizing core IT and business processes, driving efficiency and innovation at scale.\n\n### **[The future of the firm](https://openai.com/index/the-future-of-the-firm)**\nThis thought-provoking piece explores how AI is poised to fundamentally reshape organizational structures, moving beyond simple automation to become an integral part of the \"org chart.\" Executives should consider these insights to strategically plan for AI's role in talent management, team dynamics, and operational design, ensuring their firms remain competitive and adaptable.\n\n### **[Legora is building the agentic operating system for legal work](https://openai.com/index/legora)**\nLegora's specialized application of OpenAI models to legal workflows exemplifies the power of vertical AI solutions. This development highlights a growing trend where AI agents are tailored to specific professional domains, promising to accelerate complex tasks like contract analysis and free up highly skilled professionals for higher-value strategic work.\n\n### **[Retell uses OpenAI models to help power 100M monthly calls](https://openai.com/index/retell-ai)**\nRetell's impressive scale, powering 100 million monthly calls and achieving a significant annual revenue run rate per employee, showcases the tangible business impact of AI in customer engagement. This demonstrates how advanced voice agents, leveraging models like GPT-6 Astra and Codex, are becoming indispensable for high-volume, efficient customer interactions and driving substantial economic value.\n\n### **[Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/)**\nMicrosoft's unprecedented disclosure of Azure's quarterly revenue underscores the immense financial scale and rapid growth of cloud AI infrastructure. This $33.2 billion figure highlights the fierce competition in the cloud market and signifies the massive investment and demand for the underlying compute and services that power the AI revolution, making it a critical metric for investors and market analysts.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/)**\nThis fascinating discovery reveals an unexpected side channel for communication between supposedly isolated AI agents, leveraging the CPU cache. Developers must be aware of such low-level interactions, as it has significant implications for agent security, isolation, and the potential for unintended information leakage in multi-agent systems.\n\n### **[Claude Code regularly sends each background agent\u2019s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)**\nThis insight into Claude Code's architecture highlights a practical approach to managing context and state in complex agentic workflows: consistently feeding agent transcripts back to the main model. For practitioners, this offers a valuable pattern for building more robust and context-aware AI agents that can maintain coherence across multiple interactions and sub-tasks.\n\n### **[Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)**\nThe \"Dayjob: Tax\" evaluation provides a concrete benchmark for assessing AI agents' capabilities in a highly specialized professional domain. Developers can learn from the methodologies and results to understand the current strengths and limitations of agentic systems when tackling real-world, complex tasks, informing future development and deployment strategies.\n\n### **[deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)**\nThe DeepSeek-V4.1-Flash-1017 model is rapidly trending on HuggingFace, indicating significant developer interest and adoption. With its focus on text generation and image-text-to-text capabilities, this model is a prime candidate for engineers looking to integrate cutting-edge, efficient language models into their applications, especially given its permissive MIT license.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness](http://arxiv.org/abs/2610.37657v1)**\nThis paper introduces \"Heads of Security\" (HoS), a novel defense against prompt injection that leverages learned attention gates to enforce instruction-data separation. Researchers will find this approach compelling as it offers a fine-grained, model-internal mechanism to enhance LLM security, moving beyond external filters to address a critical vulnerability at its core.\n\n### **[Can LLMs Uncover Hidden Physical Laws through Free Exploration?](http://arxiv.org/abs/2610.37649v1)**\nThis research explores the profound question of whether LLMs can act as scientific discoverers, noticing anomalies and formulating hypotheses in environments with altered physical laws. It pushes the boundaries of AI's cognitive capabilities, suggesting LLMs could become powerful tools for accelerating scientific inquiry and uncovering novel principles.\n\n### **[GEPA-Curator: Curated Learning for Self Improving Agents](http://arxiv.org/abs/2610.37651v1)**\nGEPA-Curator presents a significant advancement in self-improving agents by introducing curated learning for multi-turn, complex environmental interactions. This work is crucial for researchers focused on building more robust and adaptable AI agents, as it addresses the challenge of sustained performance improvement through intelligent feedback and learning mechanisms.\n\n### **[ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](http://arxiv.org/abs/2610.37666v1)**\n\"ThinkWorld\" proposes a novel approach to enhance generalization in Vision-Language-Action (VLA) models for robotic manipulation by incorporating \"world imagination.\" This research is vital for advancing robotics, as it tackles the limitations of current models by enabling them to reason about dynamic environments and generalize actions beyond direct demonstrations.\n\n### **[Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well](http://arxiv.org/abs/2610.37652v1)**\nThis paper marks a substantial leap in dexterous manipulation, demonstrating remarkably effective and safe in-hand object pose reaching with multi-fingered robot hands. For robotics researchers, this work is a key step towards unlocking the full potential of advanced robotic dexterity, moving beyond simple grasps to complex, precise object manipulation in real-world scenarios.\n\n---\n\n**Today's Signal:** AI agents are rapidly maturing from experimental concepts to deeply integrated enterprise solutions, driving significant revenue and demanding sophisticated architectural and security considerations, while foundational research continues to unlock new frontiers in cognitive capabilities and physical interaction.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Guides: Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Privatized air traffic control would mean safer skies This link opens in a new w... |\n| [Generative AI News - Everything You Need to Know ](https://businessmanagementblog.com/generative-ai-news) | Source: AI News\n\n7. Google Launches Veo and Imagen 3 for Enterprise AI Content C... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI and ServiceNow expand partnership across enterprise workflows ](https://openai.com/index/openai-servicenow-partnership-expansion) | OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents... |\n| [[RSS] The future of the firm](https://openai.com/index/the-future-of-the-firm) | How AI might enter the org chart\u2014beneath, beside, and between us. |\n| [Legora is building the agentic operating system for legal work ](https://openai.com/index/legora) | See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workfl... |\n| [Retell uses OpenAI models to help power 100M monthly calls ](https://openai.com/index/retell-ai) | GPT-6 Astra tops Retell\u2019s voice agent benchmark, while Codex helps it reach a $1... |\n| [Microsoft just shared Azure\u2019s actual revenue in dollars: $33.2 billion ](https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/) | Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction ](http://arxiv.org/abs/2610.37668v1) | Novel view synthesis and 3D reconstruction have advanced rapidly with radiance f... |\n| [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning ](http://arxiv.org/abs/2610.37666v1) | Vision-Language-Action (VLA) models have made substantial progress in robotic ma... |\n| [When Should We Intervene at Test Time? ](http://arxiv.org/abs/2610.37658v1) | Test-time adaptation helps a deployed model respond to changing inputs, but the ... |\n| [Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness ](http://arxiv.org/abs/2610.37657v1) | We introduce Heads of Security (HoS), a prompt injection defense that enforces i... |\n| [Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops ](http://arxiv.org/abs/2610.37656v1) | Relations compose through the entity they share - Alice is Bob's mother and Bob ... |\n| [KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric chemistry ](http://arxiv.org/abs/2610.37655v1) | Atmospheric chemical mechanisms are commonly distributed in the language of the ... |\n| [Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarkably Well ](http://arxiv.org/abs/2610.37652v1) | Dexterous manipulation with multi-fingered hands is the next frontier of robotic... |\n| [GEPA-Curator: Curated Learning for Self Improving Agents ](http://arxiv.org/abs/2610.37651v1) | Large Language Models (LLMs) are increasingly used in multi-turn agentic workloa... |\n| [Can LLMs Uncover Hidden Physical Laws through Free Exploration? ](http://arxiv.org/abs/2610.37649v1) | Scientific discovery often begins with an unexpected observation that prompts a ... |\n| [A Tight 3-Approximation for Fair $k$-Means ](http://arxiv.org/abs/2609.07974v2) | Fairness in clustering has attracted sustained research interest, motivated by t... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4.1-Flash-1017 ](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generatio... |\n| [Nanbeige/Nanbeige4.3-33B ](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm,... |\n| [RecursiveSI/flint ](https://huggingface.co/RecursiveSI/flint) | Trending HF Model. Tags: transformers, safetensors, flint, text-generation, conv... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Forging a Microsoft Edge Full Chain with Logic Bugs Only](https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/) | HN Score: 17. Comments: 0 |\n| [[HackerNews] OpenAI's agents talked to each other through the CPU Cache](https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/) | HN Score: 107. Comments: 41 |\n| [[HackerNews] Claude Code regularly sends each background agent\u2019s transcript to its model](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce) | HN Score: 332. Comments: 102 |\n| [[HackerNews] Nixpkgs for the Front End Impaired](https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired) | HN Score: 59. Comments: 11 |\n| [[HackerNews] Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax) | HN Score: 229. Comments: 148 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
