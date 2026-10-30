@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 4.1K views \u00b7 15 reactions | Artificial intelligence is increasingly building the next version of itself, according to two separate disclosures this week from the industry's leading labs, both of which are grappling publicly with just how much oversight their own technology still requires.\n\nAnd that's just one of the remarkable headlines about fast-developing AI capabilities that came out this week. | Scripps News",
+      "url": "https://www.facebook.com/scrippsnews/videos/artificial-intelligence-is-increasingly-building-the-next-version-of-itself-acco/1077656158294921",
+      "summary": "[](\n\nBefore heading to Corpus Christi to campaign on Tuesday, President Trump was asked whether he would respect the results of the midterm elections. Trump said he would if they are \u201chonest elections.\u201d\n\nScripps News\n\n1.4K views\n\n \u00b7 \n\n7h ago\n\nImage 23: Video thumbnail 1:29\n\n[]( [...] [](\n\nHow did Eva Benefield navigate life after her father was killed in what became known as the \u201cBlack Swan Murder?\u201d Follow her journey through grief, survival and ultimately success in the newest episode of \u201cConnected with Alisyn Camerota.\u201d It airs tonight at 7 p.m. on Scripps News and is also available on the Scripps News YouTube channel.\n\nScripps News\n\n466 views\n\n \u00b7 \n\n8h ago\n\nImage 24: Video thumbnail 0:52\n\n[]( [...] \u00b7 \n\n13h ago\n\nImage 25: Video thumbnail 0:47\n\n[](\n\nThink your storage unit will completely protect your stuff? Well, think again.\n\nScripps News\n\n1.6K views\n\n \u00b7 \n\n1d ago\n\nImage 26: Video thumbnail 1:00\n\n[](",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\nBuy One Pass, Get a Second Free  \nCover more ground at TechCrunch\u2019s ultimate founder bootcamp of the year by bringing your co-founder or partner for free  \nBook before the BOGO deal expires",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Elucidating the Design Space of LM Data Attribution",
+      "url": "http://arxiv.org/abs/2610.40655v1",
+      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "url": "http://arxiv.org/abs/2610.40654v1",
+      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Neural Thickets Without Weight Perturbations",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "url": "http://arxiv.org/abs/2610.40644v1",
+      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Luggage re-identification: A study of strategies towards a real-world application",
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From extreme weather to agricultural consequences with agentic AI",
+      "url": "http://arxiv.org/abs/2610.40641v1",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "http://arxiv.org/abs/2610.40637v1",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Probing Spatial State Representations in Visual Foundation Models",
+      "url": "http://arxiv.org/abs/2610.40636v1",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "url": "http://arxiv.org/abs/2610.40627v1",
+      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 131062",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 9655",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm3, text-generation, liquid, edge. Downloads: 15885",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "HN Score: 271. Comments: 91",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "summary": "HN Score: 200. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "HN Score: 462. Comments: 246",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "summary": "HN Score: 115. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "summary": "HN Score: 120. Comments: 48",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] ### (AI Update) US Government Partially Restores Claude Mythos 5 for Critical Infrastructure\n\nDate: June 26-27, 2026\n\nSummary: The US Commerce Department partially lifted export controls on Claude Mythos 5, allowing deployment to approximately one hundred organizations operating and defending critical infrastructure. The model remained fully suspended for general users. Restoration followed two weeks of government negotiations after the June twelfth emergency export-control ban. [...] Summary: Alteryx unveiled Agent Studio and an MCP Server at its Inspire 2026 conference, enabling business analysts to convert existing data workflows and business logic directly into autonomous agents without relying on centralized IT teams. Agent Studio transforms trusted datasets and rules into deployable AI agents, while the MCP Server extends those agents into tools like Slack, Microsoft Teams, and external AI models. The release also included new on-premises deployment options and",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 4.1K views \u00b7 15 reactions | Artificial intelligence is increasingly building the next version of itself, according to two separate disclosures this week from the industry's leading labs, both of which are grappling publicly with just how much oversight their own technology still requires.\n\nAnd that's just one of the remarkable headlines about fast-developing AI capabilities that came out this week. | Scripps News",
+      "url": "https://www.facebook.com/scrippsnews/videos/artificial-intelligence-is-increasingly-building-the-next-version-of-itself-acco/1077656158294921",
+      "summary": "[](\n\nBefore heading to Corpus Christi to campaign on Tuesday, President Trump was asked whether he would respect the results of the midterm elections. Trump said he would if they are \u201chonest elections.\u201d\n\nScripps News\n\n1.4K views\n\n \u00b7 \n\n7h ago\n\nImage 23: Video thumbnail 1:29\n\n[]( [...] [](\n\nHow did Eva Benefield navigate life after her father was killed in what became known as the \u201cBlack Swan Murder?\u201d Follow her journey through grief, survival and ultimately success in the newest episode of \u201cConnected with Alisyn Camerota.\u201d It airs tonight at 7 p.m. on Scripps News and is also available on the Scripps News YouTube channel.\n\nScripps News\n\n466 views\n\n \u00b7 \n\n8h ago\n\nImage 24: Video thumbnail 0:52\n\n[]( [...] \u00b7 \n\n13h ago\n\nImage 25: Video thumbnail 0:47\n\n[](\n\nThink your storage unit will completely protect your stuff? Well, think again.\n\nScripps News\n\n1.6K views\n\n \u00b7 \n\n1d ago\n\nImage 26: Video thumbnail 1:00\n\n[](",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News & Artificial Intelligence | TechCrunch",
+      "url": "https://techcrunch.com/category/artificial-intelligence",
+      "summary": "# AI\n\nNews coverage on artificial intelligence and machine learning tech, the companies building them, and the ethical issues AI raises today. This encompasses generative AI, including large language models, text-to-image and text-to-video models; speech recognition and generation; and predictive analytics.\n\nBuy One Pass, Get a Second Free  \nCover more ground at TechCrunch\u2019s ultimate founder bootcamp of the year by bringing your co-founder or partner for free  \nBook before the BOGO deal expires",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Elucidating the Design Space of LM Data Attribution",
+      "url": "http://arxiv.org/abs/2610.40655v1",
+      "summary": "Data attribution methods for Language Models (LMs) are typically evaluated using downstream tasks like fact retrieval. However, existing evaluations vary multiple dataset properties simultaneously, ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering",
+      "url": "http://arxiv.org/abs/2610.40654v1",
+      "summary": "An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. Differentially private mechanisms commonly scale their noise to the worst-case influence of a single r...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Rethinking Neural Thickets Without Weight Perturbations",
+      "url": "http://arxiv.org/abs/2610.40649v1",
+      "summary": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
+      "url": "http://arxiv.org/abs/2610.40647v1",
+      "summary": "Pixel-space generative Transformers typically use one token per image patch, so capturing finer detail requires more tokens and makes global attention increasingly expensive. We observe that finer det...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Adaptive Scenario Generation for KL-DRO Around a Learned Density Model",
+      "url": "http://arxiv.org/abs/2610.40644v1",
+      "summary": "Distributionally robust optimization (DRO) hedges data-driven two-stage stochastic programs against error in the distribution estimated from a finite record, and standard ambiguity sets differ in how ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Luggage re-identification: A study of strategies towards a real-world application",
+      "url": "http://arxiv.org/abs/2610.40643v1",
+      "summary": "Luggage re-identification (ReID) is a critical task in video surveillance for forensics, security or border management (suspicious or abandoned luggage recognition), as well as luggage management (los...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From extreme weather to agricultural consequences with agentic AI",
+      "url": "http://arxiv.org/abs/2610.40641v1",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "http://arxiv.org/abs/2610.40637v1",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Probing Spatial State Representations in Visual Foundation Models",
+      "url": "http://arxiv.org/abs/2610.40636v1",
+      "summary": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls f...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "url": "http://arxiv.org/abs/2610.40627v1",
+      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 131062",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Nanbeige/Nanbeige4.3-33B",
+      "url": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm, nanbeige. Downloads: 9655",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm3, text-generation, liquid, edge. Downloads: 15885",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "HN Score: 271. Comments: 91",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "summary": "HN Score: 200. Comments: 14",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "HN Score: 462. Comments: 246",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "url": "https://journal.animationstudies.org/article/id/66/",
+      "summary": "HN Score: 115. Comments: 28",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "summary": "HN Score: 120. Comments: 48",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=C4Sq3Rot8FU",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+        "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      },
+      {
+        "title": "[RSS] How Ropes & Gray is developing AI for transactional diligence",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence",
+        "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      },
+      {
+        "title": "[RSS] The future of the firm",
+        "url": "https://openai.com/index/the-future-of-the-firm",
+        "summary": "How AI might enter the org chart\u2014beneath, beside, and between us."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "url": "https://github.com/SheepSeb/tinyworldformer",
+        "summary": "HN Score: 200. Comments: 14"
+      },
+      {
+        "title": "[HackerNews] We ran AI agent swarms in Minecraft and Mindustry",
+        "url": "https://labs.ycombinator.com/projects/games/index.html",
+        "summary": "HN Score: 271. Comments: 91"
+      },
+      {
+        "title": "[HackerNews] LLM Voice",
+        "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+        "summary": "HN Score: 462. Comments: 246"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] How we detect frontier model misalignment",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+        "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+      },
+      {
+        "title": "[ArXiv] ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+        "url": "http://arxiv.org/abs/2610.40627v1",
+        "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br..."
+      },
+      {
+        "title": "[RSS] An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      },
+      {
+        "title": "[ArXiv] From extreme weather to agricultural consequences with agentic AI",
+        "url": "http://arxiv.org/abs/2610.40641v1",
+        "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ..."
+      },
+      {
+        "title": "[ArXiv] world2vec: Mechanistic world models through latent dynamics learning",
+        "url": "http://arxiv.org/abs/2610.40637v1",
+        "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    },
+    {
+      "title": "[RSS] How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    },
+    {
+      "title": "[RSS] The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "summary": "How AI might enter the org chart\u2014beneath, beside, and between us."
+    },
+    {
+      "title": "[HackerNews] A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "summary": "HN Score: 200. Comments: 14"
+    },
+    {
+      "title": "[HackerNews] We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "summary": "HN Score: 271. Comments: 91"
+    },
+    {
+      "title": "[HackerNews] LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "summary": "HN Score: 462. Comments: 246"
+    },
+    {
+      "title": "[RSS] How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    },
+    {
+      "title": "[ArXiv] ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender",
+      "url": "http://arxiv.org/abs/2610.40627v1",
+      "summary": "Safety alignment has enabled large language models to reliably refuse harmful requests directly, yet the same request distributed across a multi-turn conversation still succeeds far too often. This br..."
+    },
+    {
+      "title": "[RSS] An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "summary": "OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+    },
+    {
+      "title": "[ArXiv] From extreme weather to agricultural consequences with agentic AI",
+      "url": "http://arxiv.org/abs/2610.40641v1",
+      "summary": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and ..."
+    },
+    {
+      "title": "[ArXiv] world2vec: Mechanistic world models through latent dynamics learning",
+      "url": "http://arxiv.org/abs/2610.40637v1",
+      "summary": "World models can achieve strong control performance without faithfully capturing the dynamics of their environment, limiting their potential for mechanistic interpretability and scientific discovery. ..."
+    }
+  ],
+  "final_report": "# AI's Expanding Footprint: From Enterprise Integration to Frontier Safety and Tiny Models\n\nToday's intelligence report highlights the accelerating integration of AI across diverse sectors, showcasing its strategic importance in business, practical applications for developers, and critical advancements in research. We're seeing AI not just augment, but fundamentally reshape workflows and push the boundaries of what's possible, all while grappling with crucial safety considerations.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI and ServiceNow expand partnership across enterprise workflows](https://openai.com/index/openai-servicenow-partnership-expansion)**\nThis strategic expansion signifies a deeper embedding of advanced AI capabilities directly into the operational fabric of large organizations. Business leaders should recognize this as a blueprint for how AI will increasingly become an invisible, yet indispensable, layer within their existing enterprise software ecosystems, driving efficiency and innovation from within.\n\n### **[How Ropes & Gray is developing AI for transactional diligence](https://openai.com/index/ropes-gray-ai-diligence)**\nThis case study illustrates the tangible value AI brings to high-stakes professional services, specifically in automating and enhancing complex legal due diligence. It underscores a strategic imperative for firms across industries to identify and leverage AI for tasks requiring extensive data processing and pattern recognition, freeing human experts for higher-level strategic work.\n\n### **[The future of the firm](https://openai.com/index/the-future-of-the-firm)**\nThis piece offers a forward-looking perspective on how AI will fundamentally alter organizational structures and human-AI collaboration. Executives must consider these evolving models to strategically integrate AI into their workforce planning, fostering environments where AI acts as a co-worker, assistant, or even a new organizational layer, rather than just a tool.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer)**\nThis project demonstrates the incredible strides in AI efficiency, showcasing how complex \"world models\" can now operate on extremely resource-constrained hardware. Developers should watch this trend closely for opportunities to deploy sophisticated AI in edge computing, IoT devices, and embedded systems, opening new frontiers for intelligent applications beyond the cloud.\n\n### **[We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)**\nThis research highlights the practical application and testing of multi-agent AI systems in dynamic, open-ended environments. Engineers should pay attention to the methodologies for designing and evaluating agentic AI, as these systems promise to tackle complex, real-world problems by coordinating autonomous actions and exhibiting emergent intelligence.\n\n### **[LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html)**\nUnderstanding and controlling the \"voice\" or persona of Large Language Models is becoming paramount for creating consistent and trustworthy AI applications. Practitioners should delve into techniques for fine-tuning model outputs to align with specific brand guidelines, user expectations, and ethical considerations, ensuring that AI interactions are not just functional but also appropriate and engaging.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[How we detect frontier model misalignment](https://openai.com/index/how-we-detect-frontier-model-misalignment)**\nThis deep dive into OpenAI's layered monitoring system for advanced AI models is crucial for researchers focused on AI safety and governance. It outlines practical strategies for identifying and mitigating risks associated with increasingly capable AI, emphasizing the need for robust detection mechanisms to prevent unintended or harmful behaviors.\n\n### **[ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender](http://arxiv.org/abs/2610.40627v1)**\nThis arXiv paper addresses a critical vulnerability in current LLM safety \u2013 their susceptibility to multi-turn adversarial attacks. Researchers should explore this novel approach to \"shallow safety alignment\" as a promising direction for developing more resilient and robust AI systems capable of maintaining safety across extended, complex interactions.\n\n### **[An updated Model Spec for more capable and beneficial AI](https://openai.com/index/updated-model-spec)**\nOpenAI\u2019s revised Model Spec provides a foundational framework of core values for guiding the development of advanced AI towards beneficial outcomes. Academics and ethicists should engage with these principles to shape future research agendas, ensuring that technical progress is consistently aligned with human agency, sound judgment, and societal well-being.\n\n### **[From extreme weather to agricultural consequences with agentic AI](http://arxiv.org/abs/2610.40641v1)**\nThis research showcases the transformative potential of agentic AI in tackling complex, real-world challenges like predicting the agricultural impact of extreme weather. It offers a compelling vision for how AI can move beyond simple forecasting to provide actionable, granular insights, bridging the gap between scientific prediction and practical decision-making.\n\n### **[world2vec: Mechanistic world models through latent dynamics learning](http://arxiv.org/abs/2610.40637v1)**\nThis paper delves into the fundamental challenge of building world models that not only perform well but are also mechanistically interpretable. Researchers in deep learning and cognitive science should consider this approach for developing AI systems that offer genuine scientific discovery and a deeper understanding of learned dynamics, moving beyond black-box performance.\n\nToday's Signal: The AI landscape is rapidly maturing, characterized by strategic enterprise integrations, practical advancements in agentic and efficient AI, and a concerted research effort to ensure safety and interpretability as models grow more capable.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [4.1K views \u00b7 15 reactions | Artificial intelligence is increasingly building the next version of itself, according to two separate disclosures this week from the industry's leading labs, both of which are grappling publicly with just how much oversight their own technology still requires.\n\nAnd that's just one of the remarkable headlines about fast-developing AI capabilities that came out this week. | Scripps News ](https://www.facebook.com/scrippsnews/videos/artificial-intelligence-is-increasingly-building-the-next-version-of-itself-acco/1077656158294921) | [](\n\nBefore heading to Corpus Christi to campaign on Tuesday, President Trump wa... |\n| [AI News & Artificial Intelligence | TechCrunch ](https://techcrunch.com/category/artificial-intelligence) | # AI\n\nNews coverage on artificial intelligence and machine learning tech, the co... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [An updated Model Spec for more capable and beneficial AI ](https://openai.com/index/updated-model-spec) | OpenAI\u2019s updated Model Spec outlines five core values to guide more capable AI t... |\n| [How we detect frontier model misalignment ](https://openai.com/index/how-we-detect-frontier-model-misalignment) | OpenAI uses layered monitoring to detect frontier model misalignment and unautho... |\n| [How Ropes & Gray is developing AI for transactional diligence ](https://openai.com/index/ropes-gray-ai-diligence) | Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers r... |\n| [OpenAI and ServiceNow expand partnership across enterprise workflows ](https://openai.com/index/openai-servicenow-partnership-expansion) | OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents... |\n| [[RSS] The future of the firm](https://openai.com/index/the-future-of-the-firm) | How AI might enter the org chart\u2014beneath, beside, and between us. |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Elucidating the Design Space of LM Data Attribution ](http://arxiv.org/abs/2610.40655v1) | Data attribution methods for Language Models (LMs) are typically evaluated using... |\n| [Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering ](http://arxiv.org/abs/2610.40654v1) | An estimator can be accurate and stable on typical data, yet sensitive to a few ... |\n| [Rethinking Neural Thickets Without Weight Perturbations ](http://arxiv.org/abs/2610.40649v1) | The Neural Thickets hypothesis posits that pretrained language models lie in den... |\n| [Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers ](http://arxiv.org/abs/2610.40647v1) | Pixel-space generative Transformers typically use one token per image patch, so ... |\n| [Adaptive Scenario Generation for KL-DRO Around a Learned Density Model ](http://arxiv.org/abs/2610.40644v1) | Distributionally robust optimization (DRO) hedges data-driven two-stage stochast... |\n| [Luggage re-identification: A study of strategies towards a real-world application ](http://arxiv.org/abs/2610.40643v1) | Luggage re-identification (ReID) is a critical task in video surveillance for fo... |\n| [From extreme weather to agricultural consequences with agentic AI ](http://arxiv.org/abs/2610.40641v1) | Extreme weather is forecast days ahead, yet its consequences for agriculture rem... |\n| [world2vec: Mechanistic world models through latent dynamics learning ](http://arxiv.org/abs/2610.40637v1) | World models can achieve strong control performance without faithfully capturing... |\n| [Probing Spatial State Representations in Visual Foundation Models ](http://arxiv.org/abs/2610.40636v1) | An observer sees only part of the surrounding world, yet must keep track of what... |\n| [ShallowDefend: Harnessing Shallow Safety Alignment for Multi-Turn Defender ](http://arxiv.org/abs/2610.40627v1) | Safety alignment has enabled large language models to reliably refuse harmful re... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [deepseek-ai/DeepSeek-V4.1-Flash-1017 ](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017) | Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generatio... |\n| [Nanbeige/Nanbeige4.3-33B ](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) | Trending HF Model. Tags: transformers, safetensors, llama, text-generation, llm,... |\n| [LiquidAI/LFM3-1.7B ](https://huggingface.co/LiquidAI/LFM3-1.7B) | Trending HF Model. Tags: transformers, safetensors, lfm3, text-generation, liqui... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html) | HN Score: 271. Comments: 91 |\n| [[HackerNews] A tiny world model running games on a Raspberry Pi Pico 2 W](https://github.com/SheepSeb/tinyworldformer) | HN Score: 200. Comments: 14 |\n| [[HackerNews] LLM Voice](https://martinfowler.com/bliki/LLM-Voice.html) | HN Score: 462. Comments: 246 |\n| [[HackerNews] A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)](https://journal.animationstudies.org/article/id/66/) | HN Score: 115. Comments: 28 |\n| [[HackerNews] Pico CSS is no longer maintained](https://github.com/picocss/pico/discussions/754) | HN Score: 120. Comments: 48 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=C4Sq3Rot8FU) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
