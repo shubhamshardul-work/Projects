@@ -1,0 +1,369 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company\u2019s global communications and corporate positioning.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "url": "http://arxiv.org/abs/2611.05377v1",
+      "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "url": "http://arxiv.org/abs/2611.05376v1",
+      "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "url": "http://arxiv.org/abs/2611.05373v1",
+      "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.05372v1",
+      "summary": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Preci...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Dexterous In-Hand Object Pose Reaching with Learned Safety Filters",
+      "url": "http://arxiv.org/abs/2610.37652v2",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GUILD: Guided Iterative Data Collection for Imitation Learning",
+      "url": "http://arxiv.org/abs/2611.05368v1",
+      "summary": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuiti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+      "url": "http://arxiv.org/abs/2608.19490v2",
+      "summary": "State-of-the-art vision-language-action (VLA) models such as pi0.5 exhibit strong semantic understanding, instruction following and task behavior. However, when deployed on new robots, even minor mism...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Suppressing Misaligned Behaviors in Language Models, Durably",
+      "url": "http://arxiv.org/abs/2611.05358v1",
+      "summary": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+      "url": "http://arxiv.org/abs/2611.05355v1",
+      "summary": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Annotations Mitigate Post-Training Mode Collapse",
+      "url": "http://arxiv.org/abs/2605.09995v2",
+      "summary": "Post-training (via supervised fine-tuning) improves instruction-following, but often induces semantic mode collapse by biasing models toward low-entropy fine-tuning data at the expense of the high-ent...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "summary": "Trending HF Model. Tags: nemo, safetensors, nemo_speechlm, text2text-generation, nvidia, pytorch. Downloads: 44939",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm3, text-generation, liquid, edge. Downloads: 47817",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 221621",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "summary": "HN Score: 802. Comments: 316",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "summary": "HN Score: 60. Comments: 20",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "summary": "HN Score: 468. Comments: 194",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "summary": "HN Score: 617. Comments: 181",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "summary": "HN Score: 120. Comments: 50",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Privatized air traffic control would mean safer skies This link opens in a new window_by The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 \n   The U.S. and China need an arms control pact \u2014 for AI This link opens in a new window_by Asha Jadeja The Washington Post 20 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026 [...] The Generation Conflagration; Conflicts between young and old lead to protests in India and riots in France.This link opens in a new window_Walter Russell Mead Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI\u2019s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company\u2019s global communications and corporate positioning.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "url": "http://arxiv.org/abs/2611.05377v1",
+      "summary": "Learning a universal action representation from video requires modeling dynamics that are consistent across different executions of the same action yet invariant to changes in embodiment and appearanc...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence",
+      "url": "http://arxiv.org/abs/2611.05376v1",
+      "summary": "For a decade, progress in artificial intelligence has been measured by how much a machine can do on its own. Large foundation models now write code and run multistep tasks, and personal agents act on ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Aligning Language Models with General Preferences: An Empirical Study of Direct Nash Optimization",
+      "url": "http://arxiv.org/abs/2611.05373v1",
+      "summary": "Direct Nash Optimization (DNO) aligns a language model to a general preference function by approximating the Nash equilibrium of a two-player preference game. Its practical variant, DNO-Prct, iterates...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.05372v1",
+      "summary": "Inverse kinematics (IK) converts end-effector pose commands into joint motion, and many vision-language-action (VLA) policies rely on it to act on a given arm and to transfer across embodiments. Preci...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Dexterous In-Hand Object Pose Reaching with Learned Safety Filters",
+      "url": "http://arxiv.org/abs/2610.37652v2",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As rob...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GUILD: Guided Iterative Data Collection for Imitation Learning",
+      "url": "http://arxiv.org/abs/2611.05368v1",
+      "summary": "Imitation learning policies in robotics are trained on datasets collected through costly real-world teleoperation. Often, the data-collection process is unguided, relying on the teleoperator's intuiti...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+      "url": "http://arxiv.org/abs/2608.19490v2",
+      "summary": "State-of-the-art vision-language-action (VLA) models such as pi0.5 exhibit strong semantic understanding, instruction following and task behavior. However, when deployed on new robots, even minor mism...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Suppressing Misaligned Behaviors in Language Models, Durably",
+      "url": "http://arxiv.org/abs/2611.05358v1",
+      "summary": "Undesired model behaviors can emerge or re-emerge at any stage of training. Once observed, how effectively can we suppress them? To study this question, we first construct two model organisms--languag...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubits",
+      "url": "http://arxiv.org/abs/2611.05355v1",
+      "summary": "When a language model answers, we can usually only estimate why. We build a transformer in which every step is a Born measurement - attention $|\\langle q|k\\rangle|^4$ normalised over each row, a measu...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Annotations Mitigate Post-Training Mode Collapse",
+      "url": "http://arxiv.org/abs/2605.09995v2",
+      "summary": "Post-training (via supervised fine-tuning) improves instruction-following, but often induces semantic mode collapse by biasing models toward low-entropy fine-tuning data at the expense of the high-ent...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "summary": "Trending HF Model. Tags: nemo, safetensors, nemo_speechlm, text2text-generation, nvidia, pytorch. Downloads: 44939",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] LiquidAI/LFM3-1.7B",
+      "url": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, lfm3, text-generation, liquid, edge. Downloads: 47817",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, deepseek_v41, text-generation, image-text-to-text, license:mit. Downloads: 221621",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "summary": "HN Score: 802. Comments: 316",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "summary": "HN Score: 60. Comments: 20",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "summary": "HN Score: 468. Comments: 194",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "summary": "HN Score: 617. Comments: 181",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "summary": "HN Score: 120. Comments: 50",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
