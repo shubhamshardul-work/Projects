@@ -1,0 +1,503 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes. [...] ### The future of Generative AI in business\n\nLooking ahead, generative AI will evolve into a co-pilot for every professional function. Emerging trends include:\n\n Real-time AI collaboration in platforms like Microsoft 365 Copilot and Google Workspace.\n AI agents that can autonomously complete multi-step tasks, not just generate content.\n Verticalized models trained specifically for finance, manufacturing, legal, and other B2B domains. [...] Generative AI refers to a class of AI models that can create new content, text, images, audio, code, and more, based on learned patterns. These models use advanced deep learning architectures, particularly transformers, to generate data that closely mimics human output.\n\nNotable examples include:\n\n OpenAI\u2019s GPT-4 (language generation),\n Google DeepMind\u2019s Gemini (multimodal capabilities),\n Midjourney and DALL\u00b7E (image synthesis),\n Runway ML and Synthesia (video and media content generation).",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Nine Breakthroughs Made Possible by AI",
+      "url": "https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai",
+      "summary": "Image 4: Help us turn curiosity into progress: Support ResearchImage 5: Help us turn curiosity into progress: Support Research\n\nImage 6: A small boy sits in front of a screen displaying fantastical, glowing organic shapes. Explore the Winter 2025 Issue UC San Diego Magazine\n\n## Published Date\n\n November 21, 2025 \n\n## Story by:\n\n   Malinda Danziger - mdanziger@ucsd.edu\n\nImage 7: Help us turn curiosity into progress: Support ResearchImage 8: Help us turn curiosity into progress: Support Research",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "url": "http://arxiv.org/abs/2611.06914v1",
+      "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+      "url": "http://arxiv.org/abs/2611.06912v1",
+      "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "url": "http://arxiv.org/abs/2611.06911v1",
+      "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "http://arxiv.org/abs/2611.06910v1",
+      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Perceptive Humanoid Motion from Simulation",
+      "url": "http://arxiv.org/abs/2611.06908v1",
+      "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "url": "http://arxiv.org/abs/2611.06905v1",
+      "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Teaching Diffusion to Speculate Left-to-Right",
+      "url": "http://arxiv.org/abs/2606.11552v3",
+      "summary": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their autoregressive decoding process incurs substantial inference costs due to inherently sequential toke...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+      "url": "http://arxiv.org/abs/2611.06899v1",
+      "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Same Words, Different Judgments: How Preferences Vary Across Modalities",
+      "url": "http://arxiv.org/abs/2602.22710v4",
+      "summary": "Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences. However, evaluation protocols for such data were designed for text and have not b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "url": "http://arxiv.org/abs/2611.06888v1",
+      "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher e...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "summary": "Trending HF Model. Tags: nemo, safetensors, nemo_speechlm, text2text-generation, nvidia, pytorch. Downloads: 44939",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 797",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 14613",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "HN Score: 528. Comments: 147",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "summary": "HN Score: 40. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "summary": "HN Score: 324. Comments: 344",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "HN Score: 1180. Comments: 686",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "summary": "HN Score: 146. Comments: 57",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes. [...] ### The future of Generative AI in business\n\nLooking ahead, generative AI will evolve into a co-pilot for every professional function. Emerging trends include:\n\n Real-time AI collaboration in platforms like Microsoft 365 Copilot and Google Workspace.\n AI agents that can autonomously complete multi-step tasks, not just generate content.\n Verticalized models trained specifically for finance, manufacturing, legal, and other B2B domains. [...] Generative AI refers to a class of AI models that can create new content, text, images, audio, code, and more, based on learned patterns. These models use advanced deep learning architectures, particularly transformers, to generate data that closely mimics human output.\n\nNotable examples include:\n\n OpenAI\u2019s GPT-4 (language generation),\n Google DeepMind\u2019s Gemini (multimodal capabilities),\n Midjourney and DALL\u00b7E (image synthesis),\n Runway ML and Synthesia (video and media content generation).",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Nine Breakthroughs Made Possible by AI",
+      "url": "https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai",
+      "summary": "Image 4: Help us turn curiosity into progress: Support ResearchImage 5: Help us turn curiosity into progress: Support Research\n\nImage 6: A small boy sits in front of a screen displaying fantastical, glowing organic shapes. Explore the Winter 2025 Issue UC San Diego Magazine\n\n## Published Date\n\n November 21, 2025 \n\n## Story by:\n\n   Malinda Danziger - mdanziger@ucsd.edu\n\nImage 7: Help us turn curiosity into progress: Support ResearchImage 8: Help us turn curiosity into progress: Support Research",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "url": "http://arxiv.org/abs/2611.06914v1",
+      "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors",
+      "url": "http://arxiv.org/abs/2611.06912v1",
+      "summary": "Reconstructing full flow fields from sparse sensors requires prior assumptions about unmeasured regions and physical variables. Yet it remains unclear when learned models outperform classical estimato...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "url": "http://arxiv.org/abs/2611.06911v1",
+      "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "http://arxiv.org/abs/2611.06910v1",
+      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Perceptive Humanoid Motion from Simulation",
+      "url": "http://arxiv.org/abs/2611.06908v1",
+      "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "url": "http://arxiv.org/abs/2611.06905v1",
+      "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Teaching Diffusion to Speculate Left-to-Right",
+      "url": "http://arxiv.org/abs/2606.11552v3",
+      "summary": "Large language models (LLMs) achieve remarkable performance across a wide range of tasks, but their autoregressive decoding process incurs substantial inference costs due to inherently sequential toke...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+      "url": "http://arxiv.org/abs/2611.06899v1",
+      "summary": "Knowing that a pedestrian is occluded is useful to a robot even when the detector cannot recover the hidden pixels, but occlusion estimators are normally trained on occlusion annotations that deployme...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Same Words, Different Judgments: How Preferences Vary Across Modalities",
+      "url": "http://arxiv.org/abs/2602.22710v4",
+      "summary": "Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences. However, evaluation protocols for such data were designed for text and have not b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure",
+      "url": "http://arxiv.org/abs/2611.06888v1",
+      "summary": "Automation is often justified as relief from dull, dirty, and dangerous work. I examine how these conditions relate to occupational AI exposure using 21 O*NET items across 754 US occupations. Higher e...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "url": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "summary": "Trending HF Model. Tags: nemo, safetensors, nemo_speechlm, text2text-generation, nvidia, pytorch. Downloads: 44939",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 797",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 14613",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "HN Score: 528. Comments: 147",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Future Maintenance of Mbed TLS",
+      "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+      "summary": "HN Score: 40. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ask HN: What's your current AI agentic setup?",
+      "url": "https://news.ycombinator.com/item?id=50366117",
+      "summary": "HN Score: 324. Comments: 344",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "HN Score: 1180. Comments: 686",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "summary": "HN Score: 146. Comments: 57",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code."
+      },
+      {
+        "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+      },
+      {
+        "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+        "url": "https://openai.com/index/devrev-enterprise-self-service",
+        "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      }
+    ],
+    "technical": [
+      {
+        "title": "AI is forcing us to pay off 40 years of technical debt",
+        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+        "summary": "HN Score: 1180. Comments: 686"
+      },
+      {
+        "title": "A thousand fewer paths to root",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+        "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      },
+      {
+        "title": "Introducing Images 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+      },
+      {
+        "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "summary": "HN Score: 146. Comments: 57"
+      },
+      {
+        "title": "Kimi K3.1 Pro model weights are out",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "summary": "HN Score: 528. Comments: 147"
+      }
+    ],
+    "research": [
+      {
+        "title": "Perceptive Humanoid Motion from Simulation",
+        "url": "http://arxiv.org/abs/2611.06908v1",
+        "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-..."
+      },
+      {
+        "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+        "url": "http://arxiv.org/abs/2611.06905v1",
+        "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s..."
+      },
+      {
+        "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+        "url": "http://arxiv.org/abs/2611.06911v1",
+        "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und..."
+      },
+      {
+        "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+        "url": "http://arxiv.org/abs/2611.06910v1",
+        "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut..."
+      },
+      {
+        "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+        "url": "http://arxiv.org/abs/2611.06914v1",
+        "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for building, understanding, and reviewing code."
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "summary": "HN Score: 1180. Comments: 686"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+    },
+    {
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API."
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "summary": "HN Score: 146. Comments: 57"
+    },
+    {
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "HN Score: 528. Comments: 147"
+    },
+    {
+      "title": "Perceptive Humanoid Motion from Simulation",
+      "url": "http://arxiv.org/abs/2611.06908v1",
+      "summary": "Humanoid robots have the potential to automate a wide range of physical tasks. Progress toward generalist humanoid autonomy, however, remains constrained by a data bottleneck: mapping pixels and free-..."
+    },
+    {
+      "title": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement",
+      "url": "http://arxiv.org/abs/2611.06905v1",
+      "summary": "The introduction of generalist robot policies has enabled a single, large model to learn to perform a variety of tasks from a vast pre-training corpus. While these models often exhibit powerful zero-s..."
+    },
+    {
+      "title": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories",
+      "url": "http://arxiv.org/abs/2611.06911v1",
+      "summary": "Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation toward embodied automation, where machines must perceive laboratory scenes, reason about experimental states, and act und..."
+    },
+    {
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "http://arxiv.org/abs/2611.06910v1",
+      "summary": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solut..."
+    },
+    {
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "url": "http://arxiv.org/abs/2611.06914v1",
+      "summary": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been ..."
+    }
+  ],
+  "final_report": "# AI's Strategic Expansion: From Enterprise Acquisitions to Autonomous Discovery\n\nToday's AI landscape reveals a dynamic push towards both strategic market consolidation and groundbreaking technical advancements. We're seeing AI mature into a critical infrastructure layer, driving efficiency and opening new frontiers in scientific discovery.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[OpenAI to acquire Pierre Computer Company, Inc.](https://openai.com/index/openai-to-acquire-pierre)**\nOpenAI's acquisition of Pierre Computer Company signals a strategic move to deepen its capabilities in code generation and understanding, directly enhancing its Codex offering. This strengthens OpenAI's position in the burgeoning AI-assisted coding market, promising more integrated and robust tools for developers and enterprises alike.\n\n### **[Daybreak Red is now available in AWS GovCloud (US-East)](https://openai.com/index/daybreak-red-aws-govcloud)**\nThe expansion of Daybreak Red, featuring GPT-5.6 Cyber, into AWS GovCloud is a significant strategic play, opening doors to highly regulated government and defense sectors. This move underscores the growing demand for secure, specialized AI capabilities in critical infrastructure, positioning OpenAI as a key player in high-stakes, sensitive AI deployments.\n\n### **[DevRev delivers autonomous self-service with GPT-6.1 Sol](https://openai.com/index/devrev-enterprise-self-service)**\nDevRev's adoption of GPT-6.1 Sol for autonomous self-service highlights the accelerating trend of AI transforming customer and employee support, promising significant operational efficiencies and cost savings for enterprises. This demonstrates how advanced LLMs are moving beyond simple chatbots to power sophisticated, intelligent automation across business functions.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)**\nThis thought-provoking piece suggests that AI, particularly in cybersecurity, is exposing and forcing remediation of long-standing technical debt. For developers, this means a renewed focus on robust, clean architectures and secure coding practices, as AI tools become adept at identifying vulnerabilities that traditional methods might miss.\n\n### **[A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root)**\nOpenAI's autonomous pipeline for finding and patching 948 local privilege-escalation vulnerabilities in the Linux kernel is a monumental achievement for system security and developer productivity. This demonstrates the power of AI to proactively harden critical infrastructure, allowing developers to focus on innovation rather than reactive bug fixing.\n\n### **[Introducing Images 2.6](https://openai.com/index/introducing-images-2-6)**\nImages 2.6 brings substantial improvements to image generation, editing, and GIF creation, along with new API controls, making it a more versatile tool for developers integrating visual AI into their applications. The focus on speed and precision, coupled with expanded API capabilities, empowers creators to build more dynamic and interactive experiences.\n\n### **[Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra)**\nQualcomm's new Cloud AI 100 Ultra accelerator offers impressive specs for on-device and edge AI inference, providing developers with powerful hardware options for deploying demanding AI models with high efficiency. Its significant memory and bandwidth make it particularly appealing for large models and real-time processing in specialized applications.\n\n### **[Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)**\nThe release of Kimi K3.1 Pro model weights on Hugging Face is a boon for the open-source AI community, enabling developers to experiment, fine-tune, and deploy this advanced model in their own projects. This fosters innovation and accessibility, allowing practitioners to leverage cutting-edge LLM capabilities without proprietary constraints.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Perceptive Humanoid Motion from Simulation](http://arxiv.org/abs/2611.06908v1)**\nThis research addresses the critical data bottleneck in humanoid robot autonomy by leveraging simulation for perceptive motion, suggesting a promising path towards generalist humanoid robots capable of complex physical tasks. By bridging the sim-to-real gap, this work enables robots to interpret visual data for dynamic interaction in unstructured environments.\n\n### **[Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement](http://arxiv.org/abs/2611.06905v1)**\nThis paper explores how reinforcement learning can significantly enhance generalist robot policies, moving beyond zero-shot capabilities to continuous improvement from vast pre-training corpora. It points towards a future where robots can adapt and refine their skills across a wide array of tasks, accelerating the development of truly versatile robotic systems.\n\n### **[BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories](http://arxiv.org/abs/2611.06911v1)**\nBEAKER introduces a crucial benchmark for evaluating AI agents in self-driving chemical laboratories, pushing the boundaries of embodied automation in scientific discovery. This work is vital for developing AI that can perceive, reason, and act autonomously in complex experimental environments, accelerating chemical research and material science.\n\n### **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](http://arxiv.org/abs/2611.06910v1)**\nFrontierPhysics proposes a novel benchmark to assess AI agents' capabilities in end-to-end physics research, moving beyond isolated tasks to holistic scientific inquiry. This initiative is critical for fostering AI systems that can independently formulate hypotheses, design experiments, and interpret results, potentially revolutionizing the pace of scientific discovery.\n\n### **[A Framework for Context Enrichment and Selective Robustness in LLM Social Agents](http://arxiv.org/abs/2611.06914v1)**\nThis research tackles the challenge of LLM agents' susceptibility to context manipulation in social simulations, proposing a framework for context enrichment and selective robustness. It's a significant step towards creating more reliable and ethically sound AI agents for social modeling, ensuring their actions are grounded in intended parameters rather than unintended biases or vulnerabilities.\n\nToday's Signal: The signal is clear: AI is rapidly evolving from a powerful tool to an autonomous agent, fundamentally reshaping how we build, secure, and discover.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [Generative AI Advancements: Transforming innovation across industries ](https://www.koerber.com/en/insights-and-events/generative-ai-advancements) | Organizations that invest in generative AI responsibly and proactively will not ... |\n| [Nine Breakthroughs Made Possible by AI ](https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai) | Image 4: Help us turn curiosity into progress: Support ResearchImage 5: Help us ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [OpenAI to acquire Pierre Computer Company, Inc. ](https://openai.com/index/openai-to-acquire-pierre) | OpenAI will acquire Pierre Computer Company, expanding Codex\u2019s tools for buildin... |\n| [Daybreak Red is now available in AWS GovCloud (US-East) ](https://openai.com/index/daybreak-red-aws-govcloud) | Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East... |\n| [A thousand fewer paths to root ](https://openai.com/index/a-thousand-fewer-paths-to-root) | OpenAI built an autonomous pipeline that found, validated, and generated patches... |\n| [Introducing Images 2.6 ](https://openai.com/index/introducing-images-2-6) | Images 2.6 brings faster image generation, GIF creation, more precise editing, a... |\n| [DevRev delivers autonomous self-service with GPT-6.1 Sol ](https://openai.com/index/devrev-enterprise-self-service) | DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, spe... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [A Framework for Context Enrichment and Selective Robustness in LLM Social Agents ](http://arxiv.org/abs/2611.06914v1) | Researchers use large language models as agents in social simulations, where age... |\n| [FlowReconBench: Accuracy, calibration and cost of learned and classical flow reconstruction from sparse sensors ](http://arxiv.org/abs/2611.06912v1) | Reconstructing full flow fields from sparse sensors requires prior assumptions a... |\n| [BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical Laboratories ](http://arxiv.org/abs/2611.06911v1) | Self-Driving Chemical Laboratories (SDCLs) are moving chemical experimentation t... |\n| [FrontierPhysics: Evaluating Agents for End-to-End Physics Research ](http://arxiv.org/abs/2611.06910v1) | AI agents are playing an increasingly important role in physics research. Howeve... |\n| [Perceptive Humanoid Motion from Simulation ](http://arxiv.org/abs/2611.06908v1) | Humanoid robots have the potential to automate a wide range of physical tasks. P... |\n| [Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement ](http://arxiv.org/abs/2611.06905v1) | The introduction of generalist robot policies has enabled a single, large model ... |\n| [Teaching Diffusion to Speculate Left-to-Right ](http://arxiv.org/abs/2606.11552v3) | Large language models (LLMs) achieve remarkable performance across a wide range ... |\n| [Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues ](http://arxiv.org/abs/2611.06899v1) | Knowing that a pedestrian is occluded is useful to a robot even when the detecto... |\n| [Same Words, Different Judgments: How Preferences Vary Across Modalities ](http://arxiv.org/abs/2602.22710v4) | Preference-based reinforcement learning (PbRL) is the dominant framework for ali... |\n| [Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exposure ](http://arxiv.org/abs/2611.06888v1) | Automation is often justified as relief from dull, dirty, and dangerous work. I ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B ](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | Trending HF Model. Tags: nemo, safetensors, nemo_speechlm, text2text-generation,... |\n| [moonshotai/Kimi-K3.1-Pro ](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, c... |\n| [speridlabs/idol ](https://huggingface.co/speridlabs/idol) | Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apac... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Kimi K3.1 Pro model weights are out](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | HN Score: 528. Comments: 147 |\n| [[HackerNews] Future Maintenance of Mbed TLS](https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/) | HN Score: 40. Comments: 9 |\n| [[HackerNews] Ask HN: What's your current AI agentic setup?](https://news.ycombinator.com/item?id=50366117) | HN Score: 324. Comments: 344 |\n| [[HackerNews] AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability) | HN Score: 1180. Comments: 686 |\n| [[HackerNews] Qualcomm Cloud AI 100 Ultra \u2013 150W AI Accelerator Card with 128GB at 548GB/s](https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra) | HN Score: 146. Comments: 57 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=0Kw6_DTZPrY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
