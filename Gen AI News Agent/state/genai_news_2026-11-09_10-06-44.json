@@ -1,0 +1,501 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 30+ Generative AI Trends Reshaping Business in 2026-2027: Data, ROI, and What\u2019s Next",
+      "url": "https://masterofcode.com/blog/generative-ai-trends",
+      "summary": "Chatbots powered by Generative tech have moved beyond scripted flows to dynamic, context-aware conversations that continuously learn from interactions. Salesforce reports 30% of service cases are now resolved by AI, projected to reach 50% by 2027. Generative tech has jumped from #10 to #2 priority for service leaders in a single year. [...] But enterprise decision-making also reveals caution. BCG\u2019s AI Radar 2026 reports 60% of CEOs have intentionally slowed generative tech implementation due to error concerns. Accenture finds 77% of executives believe true AI benefits require a foundation of trust, and 81% say trust strategy must evolve in lockstep with technology. The organizations seeing results aren\u2019t moving faster \u2014 they\u2019re moving more deliberately with a clear generative AI business strategy. [...] Generative AI for marketing has moved from experimentation to standard practice. Salesforce\u2019s State of Marketing (4,450 marketers) finds 87% use GenAI in at least one workflow (Q1 2026), up from 51% in Q1 2024. Only 13% currently use agentic AI in marketing, but 82% of those who do expect major ROI improvement. McKinsey estimates 75% of GenAI\u2019s economic value concentrates in customer ops, marketing/sales, software engineering, and R&D \u2014 yet MIT NANDA found over half of enterprise generative",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes. [...] ### The future of Generative AI in business\n\nLooking ahead, generative AI will evolve into a co-pilot for every professional function. Emerging trends include:\n\n Real-time AI collaboration in platforms like Microsoft 365 Copilot and Google Workspace.\n AI agents that can autonomously complete multi-step tasks, not just generate content.\n Verticalized models trained specifically for finance, manufacturing, legal, and other B2B domains. [...] Generative AI refers to a class of AI models that can create new content, text, images, audio, code, and more, based on learned patterns. These models use advanced deep learning architectures, particularly transformers, to generate data that closely mimics human output.\n\nNotable examples include:\n\n OpenAI\u2019s GPT-4 (language generation),\n Google DeepMind\u2019s Gemini (multimodal capabilities),\n Midjourney and DALL\u00b7E (image synthesis),\n Runway ML and Synthesia (video and media content generation).",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.\n",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] On Agentic Manipulation Policies",
+      "url": "http://arxiv.org/abs/2611.09892v1",
+      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "url": "http://arxiv.org/abs/2611.09891v1",
+      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the (non-)closedness of the set of ReLU networks",
+      "url": "http://arxiv.org/abs/2611.09887v1",
+      "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(\u03a9)$, for a bounded connected open set $\u03a9\\subset\\mathbb R^d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "url": "http://arxiv.org/abs/2611.09882v1",
+      "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SimpliHuMoN: Simplifying Human Motion Prediction",
+      "url": "http://arxiv.org/abs/2603.04399v2",
+      "summary": "Human motion prediction combines the tasks of trajectory forecasting and human pose prediction. For each of the two tasks, specialized models have been developed. Combining these models for holistic h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+      "url": "http://arxiv.org/abs/2611.09878v1",
+      "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multiplies derivatives of order $k$ by $\u03bb^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.09872v1",
+      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+      "url": "http://arxiv.org/abs/2611.09868v1",
+      "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+      "url": "http://arxiv.org/abs/2611.09866v1",
+      "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "url": "http://arxiv.org/abs/2611.09864v1",
+      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 22854",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 7088",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 25569",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "summary": "HN Score: 73. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "HN Score: 288. Comments: 482",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "HN Score: 407. Comments: 288",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "HN Score: 680. Comments: 728",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "HN Score: 29. Comments: 2",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Structural biology is experiencing transformative advances beyond AlphaFold 2, with two major breakthroughs reshaping the field. Microsoft's BioEmu employs generative diffusion frameworks to predict full protein conformational landscapes from sequences, generating thousands of models that represent Boltzmann-weighted ensembles. Simultaneously, AI-guided design platforms like BindCraft are democratizing protein binder development, achieving high experimental success rates with nanomolar [...] ### (AI Innovation) Mississippi River Cities Deploy AI-Powered Parametric Disaster Insurance\n\nDate: July 2, 2026\n\nSummary: Mississippi River cities are adopting parametric insurance powered by artificial intelligence to accelerate disaster relief. The system uses satellites, sensors, and AI to automatically trigger payouts when specific flood thresholds are met, enabling immediate assistance within days. A pilot program launches next year covering the mid-Mississippi region.\n\nSource:MPR News",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] 30+ Generative AI Trends Reshaping Business in 2026-2027: Data, ROI, and What\u2019s Next",
+      "url": "https://masterofcode.com/blog/generative-ai-trends",
+      "summary": "Chatbots powered by Generative tech have moved beyond scripted flows to dynamic, context-aware conversations that continuously learn from interactions. Salesforce reports 30% of service cases are now resolved by AI, projected to reach 50% by 2027. Generative tech has jumped from #10 to #2 priority for service leaders in a single year. [...] But enterprise decision-making also reveals caution. BCG\u2019s AI Radar 2026 reports 60% of CEOs have intentionally slowed generative tech implementation due to error concerns. Accenture finds 77% of executives believe true AI benefits require a foundation of trust, and 81% say trust strategy must evolve in lockstep with technology. The organizations seeing results aren\u2019t moving faster \u2014 they\u2019re moving more deliberately with a clear generative AI business strategy. [...] Generative AI for marketing has moved from experimentation to standard practice. Salesforce\u2019s State of Marketing (4,450 marketers) finds 87% use GenAI in at least one workflow (Q1 2026), up from 51% in Q1 2024. Only 13% currently use agentic AI in marketing, but 82% of those who do expect major ROI improvement. McKinsey estimates 75% of GenAI\u2019s economic value concentrates in customer ops, marketing/sales, software engineering, and R&D \u2014 yet MIT NANDA found over half of enterprise generative",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI Advancements: Transforming innovation across industries",
+      "url": "https://www.koerber.com/en/insights-and-events/generative-ai-advancements",
+      "summary": "Organizations that invest in generative AI responsibly and proactively will not only boost efficiency but unlock entirely new business models.\n\n## Related articles\n\n Doctors in an operating room.\n\n  Pharma & life sciences insights\n\n  3 min read\n\n  10/14/25\n\n  ### AI in Healthcare: Revolutionizing patient care, diagnosis, and treatment\n\n  From AI-driven diagnostics and predictive analytics to personalized treatment, optimized workflows, and improved patient outcomes. [...] ### The future of Generative AI in business\n\nLooking ahead, generative AI will evolve into a co-pilot for every professional function. Emerging trends include:\n\n Real-time AI collaboration in platforms like Microsoft 365 Copilot and Google Workspace.\n AI agents that can autonomously complete multi-step tasks, not just generate content.\n Verticalized models trained specifically for finance, manufacturing, legal, and other B2B domains. [...] Generative AI refers to a class of AI models that can create new content, text, images, audio, code, and more, based on learned patterns. These models use advanced deep learning architectures, particularly transformers, to generate data that closely mimics human output.\n\nNotable examples include:\n\n OpenAI\u2019s GPT-4 (language generation),\n Google DeepMind\u2019s Gemini (multimodal capabilities),\n Midjourney and DALL\u00b7E (image synthesis),\n Runway ML and Synthesia (video and media content generation).",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.\n",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] On Agentic Manipulation Policies",
+      "url": "http://arxiv.org/abs/2611.09892v1",
+      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "url": "http://arxiv.org/abs/2611.09891v1",
+      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the (non-)closedness of the set of ReLU networks",
+      "url": "http://arxiv.org/abs/2611.09887v1",
+      "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(\u03a9)$, for a bounded connected open set $\u03a9\\subset\\mathbb R^d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "url": "http://arxiv.org/abs/2611.09882v1",
+      "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SimpliHuMoN: Simplifying Human Motion Prediction",
+      "url": "http://arxiv.org/abs/2603.04399v2",
+      "summary": "Human motion prediction combines the tasks of trajectory forecasting and human pose prediction. For each of the two tasks, specialized models have been developed. Combining these models for holistic h...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+      "url": "http://arxiv.org/abs/2611.09878v1",
+      "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multiplies derivatives of order $k$ by $\u03bb^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.09872v1",
+      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+      "url": "http://arxiv.org/abs/2611.09868v1",
+      "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+      "url": "http://arxiv.org/abs/2611.09866v1",
+      "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensiv...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "url": "http://arxiv.org/abs/2611.09864v1",
+      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 22854",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 7088",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 25569",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "summary": "HN Score: 73. Comments: 8",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "HN Score: 288. Comments: 482",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Outlook.com is rejecting email from domains without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "summary": "HN Score: 407. Comments: 288",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "summary": "HN Score: 680. Comments: 728",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Ur-Nammu Founder of the Sumerian Renaissance",
+      "url": "https://www.worldhistory.org/Ur-Nammu/",
+      "summary": "HN Score: 29. Comments: 2",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+        "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+        "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.\n"
+      },
+      {
+        "title": "[RSS] Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+        "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "summary": "In a memo to the company, Huang admitted that he had an affair."
+      },
+      {
+        "title": "[RSS] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+        "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+        "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+      },
+      {
+        "title": "[Tavily] 30+ Generative AI Trends Reshaping Business in 2026-2027: Data, ROI, and What\u2019s Next",
+        "url": "https://masterofcode.com/blog/generative-ai-trends",
+        "summary": "Chatbots powered by Generative tech have moved beyond scripted flows to dynamic, context-aware conversations that continuously learn from interactions. Salesforce reports 30% of service cases are now resolved by AI, projected to reach 50% by 2027. Generative tech has jumped from #10 to #2 priority for service leaders in a single year. [...] But enterprise decision-making also reveals caution. BCG\u2019s AI Radar 2026 reports 60% of CEOs have intentionally slowed generative tech implementation due to error concerns. Accenture finds 77% of executives believe true AI benefits require a foundation of trust, and 81% say trust strategy must evolve in lockstep with technology. The organizations seeing results aren\u2019t moving faster \u2014 they\u2019re moving more deliberately with a clear generative AI business strategy. [...] Generative AI for marketing has moved from experimentation to standard practice. Salesforce\u2019s State of Marketing (4,450 marketers) finds 87% use GenAI in at least one workflow (Q1 2026), up from 51% in Q1 2024. Only 13% currently use agentic AI in marketing, but 82% of those who do expect major ROI improvement. McKinsey estimates 75% of GenAI\u2019s economic value concentrates in customer ops, marketing/sales, software engineering, and R&D \u2014 yet MIT NANDA found over half of enterprise generative"
+      },
+      {
+        "title": "[HackerNews] I'm not convinced the AI bubble exists",
+        "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+        "summary": "HN Score: 288. Comments: 482"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[ArXiv] CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+        "url": "http://arxiv.org/abs/2611.09891v1",
+        "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h..."
+      },
+      {
+        "title": "[ArXiv] CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+        "url": "http://arxiv.org/abs/2611.09868v1",
+        "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas..."
+      },
+      {
+        "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+        "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 25569"
+      },
+      {
+        "title": "[HuggingFace] speridlabs/idol",
+        "url": "https://huggingface.co/speridlabs/idol",
+        "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 22854"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] On Agentic Manipulation Policies",
+        "url": "http://arxiv.org/abs/2611.09892v1",
+        "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a..."
+      },
+      {
+        "title": "[ArXiv] FlowMoP: Stochastic Multi-Person Motion Prediction",
+        "url": "http://arxiv.org/abs/2611.09882v1",
+        "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d..."
+      },
+      {
+        "title": "[ArXiv] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+        "url": "http://arxiv.org/abs/2611.09864v1",
+        "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r..."
+      },
+      {
+        "title": "[ArXiv] Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+        "url": "http://arxiv.org/abs/2611.09878v1",
+        "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multiplies derivatives of order $k$ by $\u03bb^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ..."
+      },
+      {
+        "title": "[ArXiv] On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+        "url": "http://arxiv.org/abs/2611.09872v1",
+        "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d",
+      "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale\u2019s Jeffrey Sonnenfeld thinks it\u2019s roughly a coin flip whether Huang stays on as CEO.\n"
+    },
+    {
+      "title": "[RSS] Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "In a memo to the company, Huang admitted that he had an affair."
+    },
+    {
+      "title": "[RSS] Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO."
+    },
+    {
+      "title": "[Tavily] 30+ Generative AI Trends Reshaping Business in 2026-2027: Data, ROI, and What\u2019s Next",
+      "url": "https://masterofcode.com/blog/generative-ai-trends",
+      "summary": "Chatbots powered by Generative tech have moved beyond scripted flows to dynamic, context-aware conversations that continuously learn from interactions. Salesforce reports 30% of service cases are now resolved by AI, projected to reach 50% by 2027. Generative tech has jumped from #10 to #2 priority for service leaders in a single year. [...] But enterprise decision-making also reveals caution. BCG\u2019s AI Radar 2026 reports 60% of CEOs have intentionally slowed generative tech implementation due to error concerns. Accenture finds 77% of executives believe true AI benefits require a foundation of trust, and 81% say trust strategy must evolve in lockstep with technology. The organizations seeing results aren\u2019t moving faster \u2014 they\u2019re moving more deliberately with a clear generative AI business strategy. [...] Generative AI for marketing has moved from experimentation to standard practice. Salesforce\u2019s State of Marketing (4,450 marketers) finds 87% use GenAI in at least one workflow (Q1 2026), up from 51% in Q1 2024. Only 13% currently use agentic AI in marketing, but 82% of those who do expect major ROI improvement. McKinsey estimates 75% of GenAI\u2019s economic value concentrates in customer ops, marketing/sales, software engineering, and R&D \u2014 yet MIT NANDA found over half of enterprise generative"
+    },
+    {
+      "title": "[HackerNews] I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "summary": "HN Score: 288. Comments: 482"
+    },
+    {
+      "title": "[ArXiv] CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+      "url": "http://arxiv.org/abs/2611.09891v1",
+      "summary": "Large language models reinvent the wheel all the time. They conflate task-solving with the execution of the solutions, which forces them to solve every problem from scratch. We show that once a task h..."
+    },
+    {
+      "title": "[ArXiv] CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs",
+      "url": "http://arxiv.org/abs/2611.09868v1",
+      "summary": "Large reasoning models (LRMs) improve task performance by generating longer intermediate reasoning traces, but this substantially increases inference costs and makes low-precision quantization increas..."
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 25569"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 22854"
+    },
+    {
+      "title": "[ArXiv] On Agentic Manipulation Policies",
+      "url": "http://arxiv.org/abs/2611.09892v1",
+      "summary": "Recent work on robot manipulation has focused on specialist policies trained on demonstrations. We show that generalist AI models can control manipulators more reliably than specialist policies such a..."
+    },
+    {
+      "title": "[ArXiv] FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "url": "http://arxiv.org/abs/2611.09882v1",
+      "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the d..."
+    },
+    {
+      "title": "[ArXiv] Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation",
+      "url": "http://arxiv.org/abs/2611.09864v1",
+      "summary": "Loco-manipulation, which requires mobile manipulators to coordinate locomotion and manipulation over long horizons, is a key capability for large-object rearrangement in applications such as service r..."
+    },
+    {
+      "title": "[ArXiv] Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+      "url": "http://arxiv.org/abs/2611.09878v1",
+      "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multiplies derivatives of order $k$ by $\u03bb^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and ..."
+    },
+    {
+      "title": "[ArXiv] On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning",
+      "url": "http://arxiv.org/abs/2611.09872v1",
+      "summary": "Test-time reinforcement learning (TTRL) adapts pretrained language models to unlabeled target-domain data using self-generated pseudo-labels, whose reliability remains poorly understood. We analyze ma..."
+    }
+  ],
+  "final_report": "# AI Pulse: Nvidia's Leadership Under Scrutiny, GenAI Adoption Accelerates with Caution\n\nToday's intelligence report highlights a significant corporate governance challenge at Nvidia, a critical player in the AI ecosystem, alongside a nuanced picture of generative AI's enterprise adoption. While businesses are rapidly integrating GenAI into key functions, a strategic pause for trust and deliberate implementation is becoming a defining trend.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Nvidia CEO Jensen Huang under investigation for alleged affair with suspected Chinese spy; job security at 50-50](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)**\nNvidia's board is reportedly investigating CEO Jensen Huang over his relationship with a suspected Chinese spy, with experts estimating a 50-50 chance of his departure. This development introduces significant leadership uncertainty and geopolitical risk for the company at the forefront of the AI chip race, potentially impacting market confidence and strategic direction.\n\n### **[Generative AI trends show rapid adoption in marketing and customer service, but enterprises prioritize deliberate strategy over speed due to trust and error concerns](https://masterofcode.com/blog/generative-ai-trends)**\nGenerative AI is rapidly becoming standard practice in marketing and customer service, with Salesforce reporting 87% of marketers using GenAI in workflows. However, a significant portion of CEOs (60%) are intentionally slowing implementation due to error concerns, emphasizing that true AI benefits require a foundation of trust and a clear, deliberate business strategy.\n\n### **[The \"AI bubble\" debate continues, with some arguing against its existence](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists)**\nAmidst soaring valuations and intense investment in AI, the discussion around a potential \"AI bubble\" persists, with some analysts and commentators pushing back on the notion. This ongoing debate reflects the market's attempt to reconcile rapid technological advancement and massive capital influx with long-term sustainable value creation.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse](http://arxiv.org/abs/2611.09891v1)**\nThis research introduces CPU-ARC, a novel approach to improve the efficiency of large language models by caching and reusing reasoning steps, rather than solving every problem from scratch. This method promises to significantly reduce inference costs and computational load, making agentic workflows more practical on less powerful, CPU-based hardware.\n\n### **[CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs](http://arxiv.org/abs/2611.09868v1)**\nCodeQuant2 addresses the critical challenge of quantizing Large Reasoning Models (LRMs) to lower precision without sacrificing performance, which is essential for reducing inference costs. By enhancing outlier mitigation and employing adaptive clustering, this work aims to make powerful LRMs more deployable and cost-effective for real-world applications.\n\n### **[moonshotai/Kimi-K3.1-Pro](https://huggingface.co/moonshotai/Kimi-K3.1-Pro)**\nThe Kimi-K3.1-Pro model is trending on Hugging Face with over 25,000 downloads, signaling strong developer interest in its advanced text-generation and conversational capabilities. Its inclusion of \"compressed-tensors\" suggests an emphasis on efficient deployment, making it an attractive option for practitioners seeking powerful yet resource-conscious LLMs.\n\n### **[speridlabs/idol](https://huggingface.co/speridlabs/idol)**\nAnother trending model, speridlabs/idol, focuses on 3D generation using Gaussian Splatting, accumulating over 22,000 downloads. This popularity underscores the growing demand among developers for tools that can efficiently create high-quality 3D assets from images, pushing the boundaries of immersive content and digital twin development.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[On Agentic Manipulation Policies](http://arxiv.org/abs/2611.09892v1)**\nThis paper explores the efficacy of generalist AI models in controlling robotic manipulators, demonstrating that they can achieve more reliable performance than traditional specialist policies. This research suggests a promising shift towards more adaptable and broadly capable robotic systems, potentially simplifying deployment in complex, unstructured environments.\n\n### **[FlowMoP: Stochastic Multi-Person Motion Prediction](http://arxiv.org/abs/2611.09882v1)**\nFlowMoP tackles the inherently challenging problem of predicting the future motion of multiple interacting people, acknowledging the stochastic nature of human behavior. By modeling diverse plausible continuations, this work is crucial for advancing applications in autonomous systems, human-robot interaction, and comprehensive social scene understanding.\n\n### **[Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation](http://arxiv.org/abs/2611.09864v1)**\nGrasp-TAGS introduces an innovative method for mobile manipulators to select grasps that are not only stable but also optimized for the entire long-horizon task, rather than just the immediate object interaction. This advancement is key for improving the capabilities of robots in complex applications like service robotics and large-object rearrangement.\n\n### **[Graded convolutional networks: scale invariance without the scale and robustness to unknown blur](http://arxiv.org/abs/2611.09878v1)**\nThis research presents graded convolutional networks, a novel architecture that inherently achieves scale invariance and robustness to unknown blur without requiring explicit data augmentation or complex multi-scale processing. This fundamental improvement could lead to more robust and efficient computer vision models, particularly in real-world scenarios with varying image conditions.\n\n### **[On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning](http://arxiv.org/abs/2611.09872v1)**\nThis paper investigates the reliability of self-generated pseudo-labels, particularly those derived from majority voting, in Test-Time Reinforcement Learning (TTRL) for adapting pretrained language models. Understanding and improving the trustworthiness of these labels is critical for the practical and robust application of TTRL in diverse, unlabeled target domains.\n\n---\n**Today's Signal:** The AI industry is navigating a complex landscape of rapid innovation, geopolitical risks, and a growing emphasis on strategic, trustworthy deployment over sheer speed.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n| [30+ Generative AI Trends Reshaping Business in 2026-2027: Data, ROI, and What\u2019s Next ](https://masterofcode.com/blog/generative-ai-trends) | Chatbots powered by Generative tech have moved beyond scripted flows to dynamic,... |\n| [Generative AI Advancements: Transforming innovation across industries ](https://www.koerber.com/en/insights-and-events/generative-ai-advancements) | Organizations that invest in generative AI responsibly and proactively will not ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Is Jensen Huang\u2019s job on the line? Yale\u2019s Jeffrey Sonnenfeld estimates it\u2019s \u201cabout a 50-50\u201d ](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/) | Nvidia\u2019s board is investigating Jensen Huang over his relationship with a suspec... |\n| [[RSS] Nvidia will investigate CEO Jensen Huang\u2019s relationship with possible Chinese spy](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/) | In a memo to the company, Huang admitted that he had an affair. |\n| [[RSS] After the midterms, things are looking rocky for Elon Musk and data centers](https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/) | On Equity, we unpacked what the midterms mean for the tech industry. |\n| [Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo ](https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/) | A memo circulated earlier this year reportedly claimed that China\u2019s Ministry of ... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [On Agentic Manipulation Policies ](http://arxiv.org/abs/2611.09892v1) | Recent work on robot manipulation has focused on specialist policies trained on ... |\n| [CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse ](http://arxiv.org/abs/2611.09891v1) | Large language models reinvent the wheel all the time. They conflate task-solvin... |\n| [On the (non-)closedness of the set of ReLU networks ](http://arxiv.org/abs/2611.09887v1) | We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and... |\n| [FlowMoP: Stochastic Multi-Person Motion Prediction ](http://arxiv.org/abs/2611.09882v1) | Predicting the future motion of multiple people is inherently stochastic: the sa... |\n| [SimpliHuMoN: Simplifying Human Motion Prediction ](http://arxiv.org/abs/2603.04399v2) | Human motion prediction combines the tasks of trajectory forecasting and human p... |\n| [Graded convolutional networks: scale invariance without the scale and robustness to unknown blur ](http://arxiv.org/abs/2611.09878v1) | The Gaussian jet of an image is a graded vector space: a dilation by $\u03bb$ multipl... |\n| [On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Learning ](http://arxiv.org/abs/2611.09872v1) | Test-time reinforcement learning (TTRL) adapts pretrained language models to unl... |\n| [CodeQuant2: Enhanced Outlier Mitigation and Adaptive Clustering for Low-Precision LRMs ](http://arxiv.org/abs/2611.09868v1) | Large reasoning models (LRMs) improve task performance by generating longer inte... |\n| [GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description ](http://arxiv.org/abs/2611.09866v1) | Purpose: Surgical operative reports support procedural documentation, surgical t... |\n| [Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Loco-Manipulation ](http://arxiv.org/abs/2611.09864v1) | Loco-manipulation, which requires mobile manipulators to coordinate locomotion a... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [speridlabs/idol ](https://huggingface.co/speridlabs/idol) | Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apac... |\n| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [moonshotai/Kimi-K3.1-Pro ](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, c... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation](https://arxiv.org/abs/2610.14162) | HN Score: 73. Comments: 8 |\n| [[HackerNews] I'm not convinced the AI bubble exists](https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists) | HN Score: 288. Comments: 482 |\n| [[HackerNews] Outlook.com is rejecting email from domains without DMARC](https://mailroute.net/blog/outlook-rejecting-email-without-dmarc) | HN Score: 407. Comments: 288 |\n| [[HackerNews] Nvidia CEO Jensen Huang's letter to staff about affair](https://nvidianews.nvidia.com/news/a-message-to-our-company) | HN Score: 680. Comments: 728 |\n| [[HackerNews] Ur-Nammu Founder of the Sumerian Renaissance](https://www.worldhistory.org/Ur-Nammu/) | HN Score: 29. Comments: 2 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=0Kw6_DTZPrY) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
