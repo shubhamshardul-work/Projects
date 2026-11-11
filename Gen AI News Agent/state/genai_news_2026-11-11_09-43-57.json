@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Recent Developments in AI: What Shipped by November 2026",
+      "url": "https://kanerika.com/blogs/recent-developments-in-ai",
+      "summary": "As of November 2026, the biggest changes are tiered model families, open-weight releases and a dated EU AI Act calendar. Anthropic shipped Claude Opus 5.5 on September 22, OpenAI released GPT-6.1 Sol on September 29, and Google published the Gemini 4 Argon model card on October 13. AI agents also moved from pilots into production workflows.\n\n### What is the most advanced AI model as of November 2026? [...] | Oct 13, 2026 | Gemini 4 Argon model card | Published | $2 / $10 until Nov 30, then $4 / $20 |\n| Oct 17, 2026 | DeepSeek V4.1-Flash-1017 | Shipped | MIT license as well as 1M context |\n| Oct 23, 2026 | OpenAI retires gpt-4-turbo, o1, o3-mini, gpt-4o-2024-05-13 | Done | Pinned apps had to migrate |\n| Oct 2026 | Gemini 4 Carbon | Announced | No price, model id or availability |\n| Due by Nov 4, 2026 | Kimi K3.1 Pro weights | Announced | Still unpublished as of Nov 2 | [...] ### Google: Gemini 4 Argon, Gemini 3.8 Flash and the Announced Carbon\n\nGoogle published the Gemini 4 Argon model card on October 13, 2026. Argon costs $2 / $10 per million tokens through November 30 and then $4 / $20 from December 1, with context up to 1M tokens.\n\nGoogle\u2019s pages do not label Argon as GA or preview, so check its status in your own console before you commit. Gemini 3.8 Flash costs $0.75 / $3.75 through December 31, 2026, and then rises to $1.50 / $7.50.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better. [...] [17:05] weeks later. He's like, \"All right, well, I'm out of here. I'm going to Meta.\" Yang has been with Apple since 2019. And of course, Apple Meta and Yang\n[17:12] did not respond with any comments. This next piece of news here is Pinterest rolls out new tools to give users more control over generative AI content. And\n[17:20] this is really cool. Just bear with me for a second. You can actually choose which generative AI interest you want to see in your recommended pins. You can",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Yale's Chief Executive Leadership Institute (CELI) published a cross-industry governance framework for agentic AI, prompted in part by the capabilities of Anthropic's Claude Mythos Preview model and the autonomous risks it exposed. The framework identifies eight governance variables \u2014 transparency, accountability, bias, data privacy, decision reversibility, stakeholder impact scope, regulatory prescription, and structural governability \u2014 and applies them across four industry",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multimodal Model Diffing for Feature Discovery and Control",
+      "url": "http://arxiv.org/abs/2608.09928v2",
+      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion",
+      "url": "http://arxiv.org/abs/2608.07401v2",
+      "summary": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires modeling the relationships between elemental composition, cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 14378",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 26470",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 30721",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] OSS projects banning AI-generated contributions",
+      "url": "https://osssaysno.com",
+      "summary": "HN Score: 34. Comments: 30",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": "HN Score: 229. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "HN Score: 393. Comments: 227",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "HN Score: 398. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "summary": "HN Score: 224. Comments: 158",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Recent Developments in AI: What Shipped by November 2026",
+      "url": "https://kanerika.com/blogs/recent-developments-in-ai",
+      "summary": "As of November 2026, the biggest changes are tiered model families, open-weight releases and a dated EU AI Act calendar. Anthropic shipped Claude Opus 5.5 on September 22, OpenAI released GPT-6.1 Sol on September 29, and Google published the Gemini 4 Argon model card on October 13. AI agents also moved from pilots into production workflows.\n\n### What is the most advanced AI model as of November 2026? [...] | Oct 13, 2026 | Gemini 4 Argon model card | Published | $2 / $10 until Nov 30, then $4 / $20 |\n| Oct 17, 2026 | DeepSeek V4.1-Flash-1017 | Shipped | MIT license as well as 1M context |\n| Oct 23, 2026 | OpenAI retires gpt-4-turbo, o1, o3-mini, gpt-4o-2024-05-13 | Done | Pinned apps had to migrate |\n| Oct 2026 | Gemini 4 Carbon | Announced | No price, model id or availability |\n| Due by Nov 4, 2026 | Kimi K3.1 Pro weights | Announced | Still unpublished as of Nov 2 | [...] ### Google: Gemini 4 Argon, Gemini 3.8 Flash and the Announced Carbon\n\nGoogle published the Gemini 4 Argon model card on October 13, 2026. Argon costs $2 / $10 per million tokens through November 30 and then $4 / $20 from December 1, with context up to 1M tokens.\n\nGoogle\u2019s pages do not label Argon as GA or preview, so check its status in your own console before you commit. Gemini 3.8 Flash costs $0.75 / $3.75 through December 31, 2026, and then rises to $1.50 / $7.50.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better. [...] [17:05] weeks later. He's like, \"All right, well, I'm out of here. I'm going to Meta.\" Yang has been with Apple since 2019. And of course, Apple Meta and Yang\n[17:12] did not respond with any comments. This next piece of news here is Pinterest rolls out new tools to give users more control over generative AI content. And\n[17:20] this is really cool. Just bear with me for a second. You can actually choose which generative AI interest you want to see in your recommended pins. You can",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] The Latest AI News and Breakthroughs That Matter Most | News",
+      "url": "https://www.crescendo.ai/news/latest-ai-news-and-updates",
+      "summary": "Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, backed by $2.5 billion and six thousand engineers, to embed directly with enterprise clients designing, deploying, and scaling AI systems. The move follows Amazon's comparable $1 billion announcement two days earlier, marking a new competitive battleground where success depends on implementation expertise rather than model superiority alone.\n\nSource:TechCrunch [...] Summary: Anthropic's Claude Opus 4.7 achieved twenty times faster robodog programming compared to last year's best human team using Opus 4.1. The advanced AI model demonstrates substantially improved reasoning abilities for generating complex robotics control algorithms and sensor integration code. While physical implementation challenges like object retrieval still require refinement, the achievement highlights rapid gains in AI-assisted autonomous systems development. Industries focused on [...] Summary: Yale's Chief Executive Leadership Institute (CELI) published a cross-industry governance framework for agentic AI, prompted in part by the capabilities of Anthropic's Claude Mythos Preview model and the autonomous risks it exposed. The framework identifies eight governance variables \u2014 transparency, accountability, bias, data privacy, decision reversibility, stakeholder impact scope, regulatory prescription, and structural governability \u2014 and applies them across four industry",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "summary": "New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multimodal Model Diffing for Feature Discovery and Control",
+      "url": "http://arxiv.org/abs/2608.09928v2",
+      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion",
+      "url": "http://arxiv.org/abs/2608.07401v2",
+      "summary": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires modeling the relationships between elemental composition, cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 14378",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 26470",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] moonshotai/Kimi-K3.1-Pro",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, compressed-tensors, conversational. Downloads: 30721",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] OSS projects banning AI-generated contributions",
+      "url": "https://osssaysno.com",
+      "summary": "HN Score: 34. Comments: 30",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": "HN Score: 229. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "summary": "HN Score: 393. Comments: 227",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "HN Score: 398. Comments: 190",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "summary": "HN Score: 224. Comments: 158",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Recent Developments in AI: What Shipped by November 2026",
+        "url": "https://kanerika.com/blogs/recent-developments-in-ai",
+        "summary": "As of November 2026, the biggest changes are tiered model families, open-weight releases and a dated EU AI Act calendar. Anthropic shipped Claude Opus 5.5 on September 22, OpenAI released GPT-6.1 Sol on September 29, and Google published the Gemini 4 Argon model card on October 13. AI agents also moved from pilots into production workflows.\n\n### What is the most advanced AI model as of November 2026? [...] | Oct 13, 2026 | Gemini 4 Argon model card | Published | $2 / $10 until Nov 30, then $4 / $20 |\n| Oct 17, 2026 | DeepSeek V4.1-Flash-1017 | Shipped | MIT license as well as 1M context |\n| Oct 23, 2026 | OpenAI retires gpt-4-turbo, o1, o3-mini, gpt-4o-2024-05-13 | Done | Pinned apps had to migrate |\n| Oct 2026 | Gemini 4 Carbon | Announced | No price, model id or availability |\n| Due by Nov 4, 2026 | Kimi K3.1 Pro weights | Announced | Still unpublished as of Nov 2 | [...] ### Google: Gemini 4 Argon, Gemini 3.8 Flash and the Announced Carbon\n\nGoogle published the Gemini 4 Argon model card on October 13, 2026. Argon costs $2 / $10 per million tokens through November 30 and then $4 / $20 from December 1, with context up to 1M tokens.\n\nGoogle\u2019s pages do not label Argon as GA or preview, so check its status in your own console before you commit. Gemini 3.8 Flash costs $0.75 / $3.75 through December 31, 2026, and then rises to $1.50 / $7.50."
+      },
+      {
+        "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+        "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+        "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better. [...] [17:05] weeks later. He's like, \"All right, well, I'm out of here. I'm going to Meta.\" Yang has been with Apple since 2019. And of course, Apple Meta and Yang\n[17:12] did not respond with any comments. This next piece of news here is Pinterest rolls out new tools to give users more control over generative AI content. And\n[17:20] this is really cool. Just bear with me for a second. You can actually choose which generative AI interest you want to see in your recommended pins. You can"
+      },
+      {
+        "title": "[RSS] Introducing Businesses in ChatGPT",
+        "url": "https://openai.com/index/introducing-businesses-chatgpt",
+        "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+      },
+      {
+        "title": "[HackerNews] Claude Whiteboards, Claude Sheets, and Claude Data",
+        "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+        "summary": "HN Score: 224. Comments: 158"
+      },
+      {
+        "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Apple has new Mac app coming to make running local AI models easy",
+        "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+        "summary": "HN Score: 229. Comments: 190"
+      },
+      {
+        "title": "[HackerNews] Tracking Anthropic-discovered vulnerabilities",
+        "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+        "summary": "HN Score: 398. Comments: 190"
+      },
+      {
+        "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+        "url": "http://arxiv.org/abs/2611.14516v1",
+        "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-..."
+      },
+      {
+        "title": "[HackerNews] OSS projects banning AI-generated contributions",
+        "url": "https://osssaysno.com",
+        "summary": "HN Score: 34. Comments: 30"
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+        "url": "http://arxiv.org/abs/2611.14519v1",
+        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..."
+      },
+      {
+        "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+        "url": "http://arxiv.org/abs/2611.14518v1",
+        "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da..."
+      },
+      {
+        "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+        "url": "http://arxiv.org/abs/2611.14515v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-..."
+      },
+      {
+        "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+        "url": "http://arxiv.org/abs/2611.14514v1",
+        "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ..."
+      },
+      {
+        "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "url": "http://arxiv.org/abs/2611.14511v1",
+        "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Recent Developments in AI: What Shipped by November 2026",
+      "url": "https://kanerika.com/blogs/recent-developments-in-ai",
+      "summary": "As of November 2026, the biggest changes are tiered model families, open-weight releases and a dated EU AI Act calendar. Anthropic shipped Claude Opus 5.5 on September 22, OpenAI released GPT-6.1 Sol on September 29, and Google published the Gemini 4 Argon model card on October 13. AI agents also moved from pilots into production workflows.\n\n### What is the most advanced AI model as of November 2026? [...] | Oct 13, 2026 | Gemini 4 Argon model card | Published | $2 / $10 until Nov 30, then $4 / $20 |\n| Oct 17, 2026 | DeepSeek V4.1-Flash-1017 | Shipped | MIT license as well as 1M context |\n| Oct 23, 2026 | OpenAI retires gpt-4-turbo, o1, o3-mini, gpt-4o-2024-05-13 | Done | Pinned apps had to migrate |\n| Oct 2026 | Gemini 4 Carbon | Announced | No price, model id or availability |\n| Due by Nov 4, 2026 | Kimi K3.1 Pro weights | Announced | Still unpublished as of Nov 2 | [...] ### Google: Gemini 4 Argon, Gemini 3.8 Flash and the Announced Carbon\n\nGoogle published the Gemini 4 Argon model card on October 13, 2026. Argon costs $2 / $10 per million tokens through November 30 and then $4 / $20 from December 1, with context up to 1M tokens.\n\nGoogle\u2019s pages do not label Argon as GA or preview, so check its status in your own console before you commit. Gemini 3.8 Flash costs $0.75 / $3.75 through December 31, 2026, and then rises to $1.50 / $7.50."
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better. [...] [17:05] weeks later. He's like, \"All right, well, I'm out of here. I'm going to Meta.\" Yang has been with Apple since 2019. And of course, Apple Meta and Yang\n[17:12] did not respond with any comments. This next piece of news here is Pinterest rolls out new tools to give users more control over generative AI content. And\n[17:20] this is really cool. Just bear with me for a second. You can actually choose which generative AI interest you want to see in your recommended pins. You can"
+    },
+    {
+      "title": "[RSS] Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT."
+    },
+    {
+      "title": "[HackerNews] Claude Whiteboards, Claude Sheets, and Claude Data",
+      "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
+      "summary": "HN Score: 224. Comments: 158"
+    },
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+    },
+    {
+      "title": "[HackerNews] Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "summary": "HN Score: 229. Comments: 190"
+    },
+    {
+      "title": "[HackerNews] Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "summary": "HN Score: 398. Comments: 190"
+    },
+    {
+      "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-..."
+    },
+    {
+      "title": "[HackerNews] OSS projects banning AI-generated contributions",
+      "url": "https://osssaysno.com",
+      "summary": "HN Score: 34. Comments: 30"
+    },
+    {
+      "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..."
+    },
+    {
+      "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da..."
+    },
+    {
+      "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-..."
+    },
+    {
+      "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ..."
+    },
+    {
+      "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha..."
+    }
+  ],
+  "final_report": "# AI's Accelerated Evolution: New Models, Business Integrations, and Frontier Discoveries\n\nToday's intelligence report reveals a landscape of relentless innovation, with major AI players rapidly deploying advanced models and businesses integrating AI deeper into their core operations. Meanwhile, researchers are pushing the boundaries of what AI can achieve in specialized domains, from medicine to scientific discovery.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Recent Developments in AI: What Shipped by November 2026](https://kanerika.com/blogs/recent-developments-in-ai)**\nThis report highlights a hyper-accelerated AI development cycle, with major players like Anthropic, OpenAI, and Google pushing out new, more powerful models (Claude Opus 5.5, GPT-6.1 Sol, Gemini 4 Argon) at an unprecedented pace. The shift to tiered model families and open-weight releases signals a maturing market, while the EU AI Act's dated calendar underscores regulatory challenges in keeping up with innovation. Business leaders must strategize around rapid model obsolescence and the increasing cost-performance trade-offs of advanced APIs.\n\n### **[AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en)**\nThis comprehensive roundup emphasizes the sheer volume and speed of AI breakthroughs, from new multimodal capabilities (like Google's VO 3.1 vs. Sora 2) to critical legislative developments and shifts in talent (e.g., Apple's Yang moving to Meta). For executives, this underscores the imperative to stay constantly informed and agile, as competitive landscapes and regulatory environments can shift dramatically week-to-week, impacting product roadmaps and market positioning.\n\n### **[Introducing Businesses in ChatGPT](https://openai.com/index/introducing-businesses-chatgpt)**\nOpenAI's strategic pivot to integrate \"Businesses\" into ChatGPT signals a move towards enterprise-level utility, allowing companies to manage information, gain insights, and drive action directly within the platform. This positions ChatGPT not just as a consumer tool but as a potential central hub for business operations, offering new avenues for customer engagement and internal process optimization.\n\n### **[Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data)**\nAnthropic's introduction of \"Whiteboards,\" \"Sheets,\" and \"Data\" features for Claude demonstrates a clear focus on enhancing its utility for analytical and collaborative business tasks. This move directly challenges existing productivity tools and positions Claude as a powerful AI assistant capable of handling complex data manipulation and strategic planning, making it a compelling option for enterprises seeking to augment their workforce with advanced AI capabilities.\n\n### **[Gilbert + Tobin rethinks the business of law with AI](https://openai.com/index/gilbert-tobin-sam-nickless)**\nThe case study of Gilbert + Tobin leveraging AI to rethink legal business models highlights the transformative potential of AI in professional services. This demonstrates how strategic adoption of AI can lead to significant operational efficiencies, innovation in service delivery, and a competitive edge, urging other industries to explore similar deep integrations rather than superficial applications.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)**\nApple's rumored new Mac app for local AI model execution is a significant development for developers, promising to democratize access to powerful AI capabilities without reliance on cloud infrastructure. This could foster a new wave of on-device AI applications, emphasizing privacy and performance, and making local development and testing of models more accessible to a broader range of practitioners.\n\n### **[Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)**\nThe focus on tracking Anthropic-discovered vulnerabilities (like Glasswing) highlights the critical importance of security research and responsible disclosure in the AI development lifecycle. For architects and developers, this underscores the need to prioritize robust security practices, stay informed about potential model weaknesses, and integrate vulnerability management into their AI systems to ensure safe and reliable deployments.\n\n### **[TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)**\nTorchCurves introduces a novel PyTorch library that treats vector-valued parametric curves as learnable primitives, offering a powerful new tool for developers working on tasks requiring geometric modeling and optimization. This could unlock new possibilities in fields like computer graphics, robotics, and scientific simulations, providing a more intuitive and differentiable way to incorporate complex shapes into deep learning models.\n\n### **[OSS projects banning AI-generated contributions](https://osssaysno.com)**\nThe emergence of OSS projects banning AI-generated contributions signals a growing debate within the developer community regarding authorship, quality control, and the ethical implications of AI in open-source development. This trend requires developers to consider the provenance of their code, understand community guidelines, and potentially adapt their workflows to ensure human oversight and maintain trust in collaborative projects.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**\nThis paper delves into a critical question for medical AI: whether adapting large foundation models or training task-specific models is superior for medical image segmentation. The findings will have significant implications for resource allocation and methodological choices in developing AI for healthcare, guiding researchers on the most effective pathways to achieve robust and accurate diagnostic tools.\n\n### **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)**\nThis research explores the development of \"Foundation Detection Models\" for computer-aided diagnostics, aiming to reduce reliance on vast, perfectly annotated datasets. By leveraging example-based grounding, EM-DETR could significantly accelerate the deployment of AI in medical imaging, making advanced diagnostic tools more accessible and adaptable to real-world clinical scenarios with limited data.\n\n### **[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)**\nAutoScaffold proposes an innovative approach to reinforcement learning for language models by using AI-guided scaffolding, moving beyond simple outcome rewards to leverage richer training experiences. This method could lead to more efficient and effective training of complex language models, enabling them to learn nuanced behaviors and reasoning capabilities more rapidly and robustly.\n\n### **[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)**\nThis paper introduces \"Contrastive Discovery,\" a novel framework for LLM agents to conduct open-ended scientific discovery by evaluating hypotheses against competing explanations, rather than just their complements. This approach promises to enhance the rigor and depth of AI-driven scientific exploration, potentially leading to more robust theories and accelerating the pace of discovery across various scientific domains.\n\n### **[Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents](http://arxiv.org/abs/2611.14511v1)**\nPyrite addresses a crucial challenge in drug discovery: reliably ranking protein-ligand binding poses generated by cofolding models. By building and benchmarking specialized agents for this task, this research aims to improve the accuracy and efficiency of identifying promising drug candidates, potentially accelerating the development of new therapeutics and reducing the costs associated with early-stage drug design.\n\nToday's Signal: The AI ecosystem is rapidly maturing, characterized by a relentless pace of model innovation, deeper enterprise integration, and a growing focus on specialized applications and ethical considerations across all fronts.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Recent Developments in AI: What Shipped by November 2026 ](https://kanerika.com/blogs/recent-developments-in-ai) | As of November 2026, the biggest changes are tiered model families, open-weight ... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | Stop wasting time checking 10 different news sources! The future of work, creati... |\n| [The Latest AI News and Breakthroughs That Matter Most | News ](https://www.crescendo.ai/news/latest-ai-news-and-updates) | Date: July 2, 2026\n\nSummary: Microsoft announced Microsoft Frontier Company, bac... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Gilbert + Tobin rethinks the business of law with AI ](https://openai.com/index/gilbert-tobin-sam-nickless) | A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert... |\n| [ChatGPT Plus for veterans and servicemembers ](https://openai.com/index/chatgpt-plus-for-veterans) | More than 20,000 veterans and transitioning service members have claimed a free ... |\n| [Helping caregivers use AI in everyday life ](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) | OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in fiv... |\n| [Introducing Businesses in ChatGPT ](https://openai.com/index/introducing-businesses-chatgpt) | Manage your business information, get insights about how your business shows up,... |\n| [Closing the AI guidance gap in education ](https://openai.com/index/closing-ai-guidance-gap-education) | New ThinkYoung research and lessons from OpenAI\u2019s EMEA education partnerships on... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training ](http://arxiv.org/abs/2611.14519v1) | Foundation models pretrained on large natural-image collections are increasingly... |\n| [Multimodal Model Diffing for Feature Discovery and Control ](http://arxiv.org/abs/2608.09928v2) | Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, ye... |\n| [Toward Foundation Detection Models via Example-Based Grounding in EM-DETR ](http://arxiv.org/abs/2611.14518v1) | DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great... |\n| [DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion ](http://arxiv.org/abs/2608.07401v2) | The search for new crystalline materials spans an enormous compositional and str... |\n| [TorchCurves: Differentiable Parametric Curves ](http://arxiv.org/abs/2611.14516v1) | We present TorchCurves, a PyTorch library that treats vector-valued parametric c... |\n| [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models ](http://arxiv.org/abs/2611.14515v1) | Reinforcement learning with verifiable rewards (RLVR) produces rich training exp... |\n| [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations ](http://arxiv.org/abs/2611.14514v1) | LLM agents are increasingly used for open-ended, data-driven scientific discover... |\n| [Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents ](http://arxiv.org/abs/2611.14511v1) | Predicting how a ligand binds to its target is central to small-molecule drug di... |\n| [When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology ](http://arxiv.org/abs/2611.14508v1) | Connectome-constrained models are often used to argue that a measured wiring dia... |\n| [Continual-ARC: Measuring Skill Acquisition over a Working Lifetime ](http://arxiv.org/abs/2611.14505v1) | Agent harnesses have emerged as a promising mechanism for continual learning, al... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [speridlabs/idol ](https://huggingface.co/speridlabs/idol) | Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apac... |\n| [moonshotai/Kimi-K3.1-Pro ](https://huggingface.co/moonshotai/Kimi-K3.1-Pro) | Trending HF Model. Tags: transformers, safetensors, kimi_k31, text-generation, c... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] OSS projects banning AI-generated contributions](https://osssaysno.com) | HN Score: 34. Comments: 30 |\n| [[HackerNews] Apple has new Mac app coming to make running local AI models easy](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/) | HN Score: 229. Comments: 190 |\n| [[HackerNews] Synaptics patent claims stop work on DisplayLink drivers](https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/) | HN Score: 393. Comments: 227 |\n| [[HackerNews] Tracking Anthropic-discovered vulnerabilities](https://www.vulncheck.com/blog/anthropic-glasswing-november-update) | HN Score: 398. Comments: 190 |\n| [[HackerNews] Claude Whiteboards, Claude Sheets, and Claude Data](https://claude.com/resources/articles/sheets-whiteboards-data) | HN Score: 224. Comments: 158 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
