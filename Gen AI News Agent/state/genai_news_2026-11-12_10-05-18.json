@@ -1,0 +1,481 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Home - BBC News",
+      "url": "https://www.bbc.co.uk/news",
+      "summary": "### Pope begins lengthy trip to Latin America weeks after lung cancer surgery \n\n       Attribution Latin America \n    \n\n       Posted 7 hours ago 7h \n\nImage 95: A pedestrian walks past a mural depicting Pope Leo in Claypole, in the outskirts of Buenos Aires, Argentina, November 4, 2026\n\n   \n### AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark \n\n       Attribution Wales \n    \n\n       Posted 1 hour ago 1h [...] ### U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album \n\n       Attribution Culture \n    \n\n       Posted 7 hours ago 7h \n\nImage 81: U2 in black outfits posing with blue sky in the background\n\n   \n### Did a data centre revolt affect the US mid-term election results? \n\n       Attribution BBC Verify \n    \n\n       Posted 1 hour ago 1h \n\nImage 82: A woman in the US protesting against date centres holding a sign saying \"NO AI DATA CENTER\"",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Breaking News, Latest News and Videos | CNN",
+      "url": "https://www.cnn.com",
+      "summary": "Jensen Huang, chief executive officer of Nvidia Corp., during a news conference at the Nvidia GTC conference in San Jose, California, US, on Tuesday, March 17, 2026. Nvidia Corp., the company at the center of an explosive build-out of AI computing, expects to generate at least $1 trillion from its Blackwell and Rubin chips through the end of 2027. Photographer: David Paul Morris/Bloomberg via Getty Images\nthumb_23153417_9501.73_thumb.jpg\nCNB00005 GENSLER INTV VRTC NVIDIA THUMB.jpg [...] Stacy Keach participates in the \"Crowded\" panel at the NBCUniversal Winter TCA on January 13, 2016, Pasadena, California..\nIrma P. Hall at the premiere of \"Patch Adams\" at the Ziegfeld Theatre in New York City on December 13, 1998.\n\n## Style\n\n![rightlabel-16x9-AI-generated-image-[huang].jpg](\n\n## Science\n\nNorthern Taurids Meteor Shower Landscape. Oregon, Ashland, Fall\n\n## CNN Interactive\n\n## CNN Shorts [...] Screenshot 2026-11-11 at 7.42.43\u202fPM.png\n23154815 - colom ms win cln.00_00_00_00.Still001.jpg\n23154215 - NYC Building Collapse Clean Thumbnail 3 vrtc0.jpg\nreuters.jpg\nIran DoorStoppingTHUMB.jpg\nCNB00005 GENSLER INTV VRTC NVIDIA THUMB.jpg\nDeleonArrest_Thumb_Clean.jpg\nHegseth Arlington.jpg",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+      "url": "https://www.bbc.com/news",
+      "summary": "## Ugandan police investigate deaths of four pupils in suspected school poisoning\n\n## Lego marketplace BrickLink offline after 'unusual activity' detected\n\n## African writing award probe finds 'no evidence' winning story was AI generated\n\n## More to explore\n\nAndy Burnham pictured in front of a union jack flag\n\n## Burnham's push for closer EU ties causes ripples in his party and others",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multimodal Model Diffing for Feature Discovery and Control",
+      "url": "http://arxiv.org/abs/2608.09928v2",
+      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion",
+      "url": "http://arxiv.org/abs/2608.07401v2",
+      "summary": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires modeling the relationships between elemental composition, cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 16693",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 142989",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 28250",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] 93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "HN Score: 428. Comments: 56",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "summary": "HN Score: 555. Comments: 547",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "summary": "HN Score: 27. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "summary": "HN Score: 990. Comments: 361",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Home - BBC News",
+      "url": "https://www.bbc.co.uk/news",
+      "summary": "### Pope begins lengthy trip to Latin America weeks after lung cancer surgery \n\n       Attribution Latin America \n    \n\n       Posted 7 hours ago 7h \n\nImage 95: A pedestrian walks past a mural depicting Pope Leo in Claypole, in the outskirts of Buenos Aires, Argentina, November 4, 2026\n\n   \n### AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark \n\n       Attribution Wales \n    \n\n       Posted 1 hour ago 1h [...] ### U2 on Dolly Parton's final duet; and the 'grudge match' behind their new album \n\n       Attribution Culture \n    \n\n       Posted 7 hours ago 7h \n\nImage 81: U2 in black outfits posing with blue sky in the background\n\n   \n### Did a data centre revolt affect the US mid-term election results? \n\n       Attribution BBC Verify \n    \n\n       Posted 1 hour ago 1h \n\nImage 82: A woman in the US protesting against date centres holding a sign saying \"NO AI DATA CENTER\"",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Breaking News, Latest News and Videos | CNN",
+      "url": "https://www.cnn.com",
+      "summary": "Jensen Huang, chief executive officer of Nvidia Corp., during a news conference at the Nvidia GTC conference in San Jose, California, US, on Tuesday, March 17, 2026. Nvidia Corp., the company at the center of an explosive build-out of AI computing, expects to generate at least $1 trillion from its Blackwell and Rubin chips through the end of 2027. Photographer: David Paul Morris/Bloomberg via Getty Images\nthumb_23153417_9501.73_thumb.jpg\nCNB00005 GENSLER INTV VRTC NVIDIA THUMB.jpg [...] Stacy Keach participates in the \"Crowded\" panel at the NBCUniversal Winter TCA on January 13, 2016, Pasadena, California..\nIrma P. Hall at the premiere of \"Patch Adams\" at the Ziegfeld Theatre in New York City on December 13, 1998.\n\n## Style\n\n![rightlabel-16x9-AI-generated-image-[huang].jpg](\n\n## Science\n\nNorthern Taurids Meteor Shower Landscape. Oregon, Ashland, Fall\n\n## CNN Interactive\n\n## CNN Shorts [...] Screenshot 2026-11-11 at 7.42.43\u202fPM.png\n23154815 - colom ms win cln.00_00_00_00.Still001.jpg\n23154215 - NYC Building Collapse Clean Thumbnail 3 vrtc0.jpg\nreuters.jpg\nIran DoorStoppingTHUMB.jpg\nCNB00005 GENSLER INTV VRTC NVIDIA THUMB.jpg\nDeleonArrest_Thumb_Clean.jpg\nHegseth Arlington.jpg",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+      "url": "https://www.bbc.com/news",
+      "summary": "## Ugandan police investigate deaths of four pupils in suspected school poisoning\n\n## Lego marketplace BrickLink offline after 'unusual activity' detected\n\n## African writing award probe finds 'no evidence' winning story was AI generated\n\n## More to explore\n\nAndy Burnham pictured in front of a union jack flag\n\n## Burnham's push for closer EU ties causes ripples in his party and others",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Multimodal Model Diffing for Feature Discovery and Control",
+      "url": "http://arxiv.org/abs/2608.09928v2",
+      "summary": "Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, yet the internal features that cause these behaviors remain difficult to identify, audit, or control. While applicable to ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion",
+      "url": "http://arxiv.org/abs/2608.07401v2",
+      "summary": "The search for new crystalline materials spans an enormous compositional and structural space. Generating candidates in this space requires modeling the relationships between elemental composition, cr...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology",
+      "url": "http://arxiv.org/abs/2611.14508v1",
+      "summary": "Connectome-constrained models are often used to argue that a measured wiring diagram outperforms shuffled or rewired wiring, and hence that structure shapes function. Such comparisons can confound wir...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Continual-ARC: Measuring Skill Acquisition over a Working Lifetime",
+      "url": "http://arxiv.org/abs/2611.14505v1",
+      "summary": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 16693",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 142989",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] speridlabs/idol",
+      "url": "https://huggingface.co/speridlabs/idol",
+      "summary": "Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apache-2.0, region:us. Downloads: 28250",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] 93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "summary": "HN Score: 428. Comments: 56",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "summary": "HN Score: 555. Comments: 547",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)",
+      "url": "https://publicdomainreview.org/collection/marian-wawrzeniecki/",
+      "summary": "HN Score: 27. Comments: 7",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "summary": "HN Score: 990. Comments: 361",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+        "url": "https://www.bbc.co.uk/news",
+        "summary": "### AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark \n\n       Attribution Wales \n    \n\n       Posted 1 hour ago 1h [...]"
+      },
+      {
+        "title": "Did a data centre revolt affect the US mid-term election results?",
+        "url": "https://www.bbc.co.uk/news",
+        "summary": "[...] ### Did a data centre revolt affect the US mid-term election results? \n\n       Attribution BBC Verify \n    \n\n       Posted 1 hour ago 1h \n\nImage 82: A woman in the US protesting against date centres holding a sign saying \"NO AI DATA CENTER\""
+      },
+      {
+        "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri",
+        "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+      },
+      {
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist."
+      },
+      {
+        "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+        "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+        "summary": "HN Score: 555. Comments: 547"
+      }
+    ],
+    "technical": [
+      {
+        "title": "TorchCurves: Differentiable Parametric Curves",
+        "url": "http://arxiv.org/abs/2611.14516v1",
+        "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-..."
+      },
+      {
+        "title": "My AI agents found an unmapped Maya site?",
+        "url": "https://pietromiotti.com/latest/maya-site",
+        "summary": "HN Score: 990. Comments: 361"
+      }
+    ],
+    "research": [
+      {
+        "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+        "url": "http://arxiv.org/abs/2611.14519v1",
+        "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..."
+      },
+      {
+        "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+        "url": "http://arxiv.org/abs/2611.14518v1",
+        "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da..."
+      },
+      {
+        "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+        "url": "http://arxiv.org/abs/2611.14515v1",
+        "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-..."
+      },
+      {
+        "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+        "url": "http://arxiv.org/abs/2611.14514v1",
+        "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ..."
+      },
+      {
+        "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+        "url": "http://arxiv.org/abs/2611.14511v1",
+        "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark",
+      "url": "https://www.bbc.co.uk/news",
+      "summary": "### AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark \n\n       Attribution Wales \n    \n\n       Posted 1 hour ago 1h [...]"
+    },
+    {
+      "title": "Did a data centre revolt affect the US mid-term election results?",
+      "url": "https://www.bbc.co.uk/news",
+      "summary": "[...] ### Did a data centre revolt affect the US mid-term election results? \n\n       Attribution BBC Verify \n    \n\n       Posted 1 hour ago 1h \n\nImage 82: A woman in the US protesting against date centres holding a sign saying \"NO AI DATA CENTER\""
+    },
+    {
+      "title": "JioStar\u2019s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortlist."
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "summary": "HN Score: 555. Comments: 547"
+    },
+    {
+      "title": "TorchCurves: Differentiable Parametric Curves",
+      "url": "http://arxiv.org/abs/2611.14516v1",
+      "summary": "We present TorchCurves, a PyTorch library that treats vector-valued parametric curves as learnable primitives. Its central operation maps batches of scalar inputs to points on curves represented in B-..."
+    },
+    {
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "summary": "HN Score: 990. Comments: 361"
+    },
+    {
+      "title": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training",
+      "url": "http://arxiv.org/abs/2611.14519v1",
+      "summary": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most co..."
+    },
+    {
+      "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
+      "url": "http://arxiv.org/abs/2611.14518v1",
+      "summary": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated da..."
+    },
+    {
+      "title": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models",
+      "url": "http://arxiv.org/abs/2611.14515v1",
+      "summary": "Reinforcement learning with verifiable rewards (RLVR) produces rich training experience, yet outcome rewards reduce each attempt to a single number and leave most of this information unused. Training-..."
+    },
+    {
+      "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations",
+      "url": "http://arxiv.org/abs/2611.14514v1",
+      "summary": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. ..."
+    },
+    {
+      "title": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents",
+      "url": "http://arxiv.org/abs/2611.14511v1",
+      "summary": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains cha..."
+    }
+  ],
+  "final_report": "# AI's Double-Edged Sword: Breakthroughs Clash with Ethical Minefields and Public Scrutiny\n\nToday's AI landscape presents a stark contrast, showcasing remarkable progress in scientific discovery and developer tools while simultaneously grappling with critical issues of safety, public trust, and strategic governance. From unsettling AI product malfunctions to the complex logistics of scaling AI infrastructure, the industry is at a pivotal juncture.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[AI teddy for three-year-olds makes unprompted 'I can't help with killing you' remark](https://www.bbc.co.uk/news)**\nThis is a critical incident highlighting the severe risks of deploying insufficiently guarded AI, especially in products for vulnerable populations. Businesses must prioritize robust safety protocols and ethical AI development to prevent reputational damage and potential regulatory backlash.\n\n### **[Did a data centre revolt affect the US mid-term election results?](https://www.bbc.co.uk/news)**\nThe growing physical footprint of AI infrastructure is sparking public resistance, posing significant strategic challenges for site selection and community relations. Executives must consider the societal impact and political implications of large-scale data center development, which can influence everything from energy policy to election outcomes.\n\n### **[JioStar\u2019s chief architect on AI discovery at 500M-user scale](https://openai.com/index/jiostar-vijay-seshadri)**\nScaling AI to half a billion users offers invaluable lessons on productionizing models, emphasizing the critical role of rigorous evaluations and robust guardrails. This insight is crucial for businesses aiming to deploy AI at massive scale, ensuring both performance and user safety.\n\n### **[Who could replace Jensen Huang? A highly unscientific list of possible successors](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/)**\nThe question of leadership succession at Nvidia, a cornerstone of the AI hardware ecosystem, underscores the fragility of market stability tied to key individuals. Investors and business leaders should monitor such developments closely, as they can signal future strategic directions and impact the broader AI supply chain.\n\n### **[United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)**\nThis move by United Airlines highlights the ongoing struggle to define the boundaries of AI autonomy in customer-facing services, particularly concerning liability and fraud prevention. Companies must establish clear policies on AI agent usage to maintain control, protect consumers, and manage operational risks.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[TorchCurves: Differentiable Parametric Curves](http://arxiv.org/abs/2611.14516v1)**\nThis new PyTorch library introduces a powerful tool for developers, enabling the treatment of vector-valued parametric curves as learnable primitives. Engineers can leverage TorchCurves for advancements in graphics, robotics, and potentially novel neural network architectures that require precise control over continuous paths.\n\n### **[My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site)**\nThis fascinating application demonstrates the practical power of AI agents in accelerating discovery and analysis across vast datasets. Developers should watch for opportunities to deploy similar AI-driven exploration tools in fields like archaeology, geology, or environmental monitoring to uncover previously hidden insights.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training](http://arxiv.org/abs/2611.14519v1)**\nResearchers are exploring the optimal approach for medical AI, comparing the adaptation of large foundation models against task-specific training. This work is pivotal for developing more efficient and generalized AI solutions in healthcare, potentially reducing the need for extensive, specialized datasets.\n\n### **[Toward Foundation Detection Models via Example-Based Grounding in EM-DETR](http://arxiv.org/abs/2611.14518v1)**\nThis research aims to reduce the heavy reliance on large, annotated datasets for computer-aided diagnostic (CAD) systems, making AI more accessible for medical imaging. The implications are significant for democratizing AI in healthcare, especially for rare conditions where data is scarce.\n\n### **[AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models](http://arxiv.org/abs/2611.14515v1)**\nA novel approach to enhance reinforcement learning for language models by providing richer training signals through \"scaffolding.\" This could lead to more efficient and robust training of advanced LLMs, improving their capabilities and reducing development time.\n\n### **[Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations](http://arxiv.org/abs/2611.14514v1)**\nThis work pushes LLM agents beyond simple hypothesis testing, enabling them to evaluate competing explanations in open-ended scientific discovery. It signifies a leap towards more sophisticated AI-driven scientific reasoning, accelerating the understanding of complex phenomena.\n\n### **[Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents](http://arxiv.org/abs/2611.14511v1)**\nFocused on a critical aspect of small-molecule drug discovery, this research aims to improve the reliable ranking of protein-ligand binding poses. Advancements here could significantly accelerate drug development, leading to more effective and targeted therapies.\n\nToday's Signal: The rapid expansion of AI's capabilities is increasingly met with calls for stronger ethical guardrails and greater public accountability, underscoring a critical need for balanced innovation and responsible deployment.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Home - BBC News ](https://www.bbc.co.uk/news) | ### Pope begins lengthy trip to Latin America weeks after lung cancer surgery \n\n... |\n| [Breaking News, Latest News and Videos | CNN ](https://www.cnn.com) | Jensen Huang, chief executive officer of Nvidia Corp., during a news conference ... |\n| [BBC News - Breaking news, video and the latest top stories from the U.S. and around the world ](https://www.bbc.com/news) | ## Ugandan police investigate deaths of four pupils in suspected school poisonin... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Gilbert + Tobin rethinks the business of law with AI ](https://openai.com/index/gilbert-tobin-sam-nickless) | A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert... |\n| [ChatGPT Plus for veterans and servicemembers ](https://openai.com/index/chatgpt-plus-for-veterans) | More than 20,000 veterans and transitioning service members have claimed a free ... |\n| [JioStar\u2019s chief architect on AI discovery at 500M-user scale ](https://openai.com/index/jiostar-vijay-seshadri) | JioStar\u2019s Vijay Seshadri explains AI discovery at 500M-user scale. Read his less... |\n| [Helping caregivers use AI in everyday life ](https://openai.com/index/helping-caregivers-use-ai-in-everyday-life) | OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in fiv... |\n| [Who could replace Jensen Huang? A highly unscientific list of possible successors ](https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/) | Nvidia has no succession plan and a CEO in hot water, so we\u2019ve drafted a shortli... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Training ](http://arxiv.org/abs/2611.14519v1) | Foundation models pretrained on large natural-image collections are increasingly... |\n| [Multimodal Model Diffing for Feature Discovery and Control ](http://arxiv.org/abs/2608.09928v2) | Multimodal Large Language Models (MLLMs) exhibit strong visual understanding, ye... |\n| [Toward Foundation Detection Models via Example-Based Grounding in EM-DETR ](http://arxiv.org/abs/2611.14518v1) | DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great... |\n| [DynaCrys: Crystal Generation with Dynamic Space-Group Diffusion ](http://arxiv.org/abs/2608.07401v2) | The search for new crystalline materials spans an enormous compositional and str... |\n| [TorchCurves: Differentiable Parametric Curves ](http://arxiv.org/abs/2611.14516v1) | We present TorchCurves, a PyTorch library that treats vector-valued parametric c... |\n| [AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Models ](http://arxiv.org/abs/2611.14515v1) | Reinforcement learning with verifiable rewards (RLVR) produces rich training exp... |\n| [Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanations ](http://arxiv.org/abs/2611.14514v1) | LLM agents are increasingly used for open-ended, data-driven scientific discover... |\n| [Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents ](http://arxiv.org/abs/2611.14511v1) | Predicting how a ligand binds to its target is central to small-molecule drug di... |\n| [When Does the Real Wiring Win? Testing connectome structure-function claims against unmeasured physiology ](http://arxiv.org/abs/2611.14508v1) | Connectome-constrained models are often used to argue that a measured wiring dia... |\n| [Continual-ARC: Measuring Skill Acquisition over a Working Lifetime ](http://arxiv.org/abs/2611.14505v1) | Agent harnesses have emerged as a promising mechanism for continual learning, al... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [MiniMaxAI/MiniMax-H3-Image ](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, imag... |\n| [speridlabs/idol ](https://huggingface.co/speridlabs/idol) | Trending HF Model. Tags: idol, gaussian-splatting, 3d, image-to-3d, license:apac... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] 93% of paint splatters are valid Perl programs (2019)](https://www.mcmillen.dev/sigbovik/) | HN Score: 428. Comments: 56 |\n| [[HackerNews] United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/) | HN Score: 555. Comments: 547 |\n| [[HackerNews] Slavdom Unearthed: Marian Wawrzeniecki's Neopagan Paintings (1891\u20131923)](https://publicdomainreview.org/collection/marian-wawrzeniecki/) | HN Score: 27. Comments: 7 |\n| [[HackerNews] My AI agents found an unmapped Maya site?](https://pietromiotti.com/latest/maya-site) | HN Score: 990. Comments: 361 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
