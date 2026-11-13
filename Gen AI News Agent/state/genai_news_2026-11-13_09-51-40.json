@@ -1,0 +1,511 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? cover image\n\nArticle\n\n### Could AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [27:53] and audio. The company Runway introduced a new Runway media router. They claim it's the first preference optimized router for generative media. So instead\n[28:02] of handpicking a model for every request, you define what you're looking for in terms of the cost, quality, and\n[28:09] latency, and then the router is going to select the right video, image, or audio model automatically. And finally, Google's introducing a new feature",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Supporting research on AI and children\u2019s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "url": "http://arxiv.org/abs/2611.17329v1",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+      "url": "http://arxiv.org/abs/2605.24432v2",
+      "summary": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far wors...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sketching Language Models for Context Attribution",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 18933",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 306718",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] NousResearch/Arete-27B",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, nous-research, arete, supervised-fine-tuning, value-alignment. Downloads: 4669",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "HN Score: 241. Comments: 71",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "summary": "HN Score: 364. Comments: 131",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "HN Score: 210. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "summary": "HN Score: 925. Comments: 866",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? cover image\n\nArticle\n\n### Could AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [27:53] and audio. The company Runway introduced a new Runway media router. They claim it's the first preference optimized router for generative media. So instead\n[28:02] of handpicking a model for every request, you define what you're looking for in terms of the cost, quality, and\n[28:09] latency, and then the router is going to select the right video, image, or audio model automatically. And finally, Google's introducing a new feature",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] How Amplitude ships product improvements in 1\u20132 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer\u2019s output by 50% and ChatGPT simplifying daily work.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Supporting research on AI and children\u2019s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "url": "http://arxiv.org/abs/2611.17329v1",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+      "url": "http://arxiv.org/abs/2605.24432v2",
+      "summary": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far wors...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sketching Language Models for Context Attribution",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 18933",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 306718",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] NousResearch/Arete-27B",
+      "url": "https://huggingface.co/NousResearch/Arete-27B",
+      "summary": "Trending HF Model. Tags: safetensors, qwen3_5, nous-research, arete, supervised-fine-tuning, value-alignment. Downloads: 4669",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "HN Score: 241. Comments: 71",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "summary": "HN Score: 364. Comments: 131",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "HN Score: 210. Comments: 27",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "summary": "HN Score: 925. Comments: 866",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "Anthropic IPO",
+        "url": "https://ipo.anthropic.com/us/",
+        "summary": "HN Score: 925. Comments: 866"
+      },
+      {
+        "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+        "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+        "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes"
+      },
+      {
+        "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+        "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+        "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [27:53] and audio. The company Runway introduced a new Runway media router. They claim it's the first preference optimized router for generative media. So instead\n[28:02] of handpicking a model for every request, you define what you're looking for in terms of the cost, quality, and\n[28:09] latency, and then the router is going to select the right video, image, or audio model automatically. And finally, Google's introducing a new feature"
+      },
+      {
+        "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+        "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+        "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better."
+      },
+      {
+        "title": "[RSS] Supporting research on AI and children\u2019s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+      }
+    ],
+    "technical": [
+      {
+        "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+        "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "summary": "HN Score: 241. Comments: 71"
+      },
+      {
+        "title": "Foundation Models framework",
+        "url": "https://developer.apple.com/foundation-models-framework/",
+        "summary": "HN Score: 210. Comments: 27"
+      },
+      {
+        "title": "I'm making LLMs work on small and old devices",
+        "url": "https://github.com/hyperionaidev/smolmaxxing/",
+        "summary": "HN Score: 364. Comments: 131"
+      },
+      {
+        "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "url": "http://arxiv.org/abs/2611.17332v1",
+        "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe..."
+      },
+      {
+        "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+        "url": "http://arxiv.org/abs/2611.17316v1",
+        "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut..."
+      }
+    ],
+    "research": [
+      {
+        "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "url": "http://arxiv.org/abs/2611.17309v1",
+        "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai..."
+      },
+      {
+        "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+        "url": "http://arxiv.org/abs/2611.17334v1",
+        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..."
+      },
+      {
+        "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+        "url": "http://arxiv.org/abs/2611.17314v1",
+        "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra..."
+      },
+      {
+        "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+        "url": "http://arxiv.org/abs/2611.17323v1",
+        "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de..."
+      },
+      {
+        "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+        "url": "http://arxiv.org/abs/2611.17320v1",
+        "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "summary": "HN Score: 925. Comments: 866"
+    },
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [27:53] and audio. The company Runway introduced a new Runway media router. They claim it's the first preference optimized router for generative media. So instead\n[28:02] of handpicking a model for every request, you define what you're looking for in terms of the cost, quality, and\n[28:09] latency, and then the router is going to select the right video, image, or audio model automatically. And finally, Google's introducing a new feature"
+    },
+    {
+      "title": "[Tavily] AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)",
+      "url": "https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en",
+      "summary": "Stop wasting time checking 10 different news sources! The future of work, creativity, and tech just changed this week, and if you miss these 30 INSANE AI breakthroughs, you'll be left behind by next Monday. In this week's comprehensive AI news roundup, we dive into the revolutionary launch of GPT-5's secret feature (is it already here?), the stunning photorealistic video from the new Sora competitor, and the one piece of legislation that could quietly ban your favorite AI tool. We'll show you [...] ### Transcript\n[0:00] Are you feeling overwhelmed by AI news?\n[0:01] There is so much going on each and every day. Well, don't worry. I picked 30 of the top AI news stories. So, let's rapid fire through them. Let's start with\n[0:09] Google. So, we have VO 3.1, which was released. And instead of just talking about it, let me actually show you. I have a whole video of 3.1 versus Sora 2.\n[0:18] Truthfully, I think Sora 2 is better."
+    },
+    {
+      "title": "[RSS] Supporting research on AI and children\u2019s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children\u2019s safety. The work supports shared tools to measure risks and opportunities for young people."
+    },
+    {
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "summary": "HN Score: 241. Comments: 71"
+    },
+    {
+      "title": "Foundation Models framework",
+      "url": "https://developer.apple.com/foundation-models-framework/",
+      "summary": "HN Score: 210. Comments: 27"
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "summary": "HN Score: 364. Comments: 131"
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe..."
+    },
+    {
+      "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut..."
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai..."
+    },
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..."
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra..."
+    },
+    {
+      "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de..."
+    },
+    {
+      "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Race for AI Dominance Intensifies\n\nToday's AI landscape is a whirlwind of innovation and strategic maneuvering, from groundbreaking scientific discoveries to the relentless pursuit of accessible, powerful models. We're witnessing a pivotal moment where foundational research meets market-ready applications, reshaping industries and challenging established players.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Anthropic IPO](https://ipo.anthropic.com/us/)**\nAnthropic's rumored IPO signals a significant moment for the AI market, reflecting intense investor interest and high valuations for frontier AI developers. This move underscores the escalating competition among leading AI labs to secure capital and accelerate development, potentially setting a new benchmark for AI company valuations. It highlights the strategic importance of early market positioning and robust funding in the race for AI supremacy.\n\n### **[5 AI Breakthroughs This Week You Shouldn\u2019t Ignore](https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-should-n-t-ignore)**\nOpenAI's GPT-Live-1 introduces full-duplex voice conversations, enabling more natural human-AI interaction and opening doors for advanced customer service and reservation systems. Concurrently, Google DeepMind's Genie 4, capable of generating interactive worlds, hints at revolutionary shifts in gaming, simulation, and virtual content creation. These advancements signal a strategic pivot towards more immersive, real-time, and interactive AI applications that will redefine user experiences and operational efficiencies across sectors.\n\n### **[AI News: Kimi K3 Has Big AI Labs Panicking!](https://www.youtube.com/watch?v=Ww3EYbuHSfo)**\nThe emergence of models like Kimi K3 and Flux 3, a multimodal foundation model from Black Forest Labs, is intensifying the competitive pressure on established AI giants. Flux 3's ability to generate videos and images, coupled with innovations like Runway's preference-optimized media router, points to a future where generative media creation is highly automated and tailored. This rapid evolution in multimodal AI capabilities demands strategic agility from all players to avoid being outmaneuvered.\n\n### **[AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!)](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en)**\nThis week's deluge of AI news, including whispers of GPT-5's secret features and new Sora competitors, underscores the breakneck pace of innovation and the fierce rivalry between tech titans like Google and Anthropic (Claude). The mention of potential AI legislation also highlights the growing regulatory scrutiny that could impact product development and market access. Business leaders must closely monitor both technological breakthroughs and policy shifts to navigate this dynamic landscape effectively.\n\n### **[Supporting research on AI and children\u2019s safety](https://openai.com/index/children-first-declaration)**\nOpenAI's commitment of $2 million to research on AI and children's safety is a strategic move towards responsible AI development and building public trust. As AI becomes more pervasive, addressing ethical concerns and societal impacts, especially concerning vulnerable populations, is crucial for long-term adoption and regulatory acceptance. This initiative signals a proactive approach to shaping a safer AI future, which can also mitigate future legal and reputational risks.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)**\nEdge0-145B promises to bring powerful AI models directly to local machines, democratizing access to frontier capabilities and enhancing privacy by keeping data on-device. For developers, this means new opportunities to build applications that leverage high-performance AI without relying on cloud infrastructure, potentially reducing costs and latency. This trend towards local execution will be critical for edge computing and sensitive data processing.\n\n### **[Foundation Models framework](https://developer.apple.com/foundation-models-framework/)**\nApple's introduction of a Foundation Models framework signals a significant push into on-device AI, providing developers with tools to integrate powerful models directly into their applications within the Apple ecosystem. This move will empower developers to create more intelligent, responsive, and private user experiences on iPhones, iPads, and Macs. It's a clear indication that on-device AI is becoming a core component of Apple's platform strategy.\n\n### **[I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)**\nThe \"smolmaxxing\" initiative focuses on optimizing LLMs for resource-constrained and older hardware, a crucial effort for expanding AI accessibility beyond high-end systems. This work is vital for developers aiming to deploy AI in embedded systems, IoT devices, or regions with limited access to powerful computing resources. It highlights the ongoing drive to make AI more efficient and ubiquitous.\n\n### **[ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)**\nArchSpace addresses the critical need for better organization and referencing of LLM architecture research, a central focus for both industry and academia. For architects and developers, a structured framework to record and review model designs can significantly improve efficiency in selecting and adapting architectures. This tool could accelerate the development cycle by fostering better knowledge sharing and preventing redundant efforts in model design.\n\n### **[CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](http://arxiv.org/abs/2611.17316v1)**\nCoReMem introduces an innovative approach for coding agents to manage memory across successive tasks, optimizing for future unknown tasks by internalizing costs. This research is highly relevant for developers building autonomous coding agents, as it promises more efficient and context-aware code generation and refactoring. It offers a pathway to creating more intelligent and adaptable AI assistants for software development.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Classical Energies Learn to Reason 1,000x Faster than Looped Models](http://arxiv.org/abs/2611.17309v1)**\nThis research introduces a novel reasoning paradigm based on classical energies that achieves significantly faster training and greater stability compared to traditional looped models. For researchers, this opens up new avenues for developing more efficient and robust AI systems capable of tackling complex reasoning puzzles. It challenges existing assumptions about optimal reasoning architectures and could lead to breakthroughs in AI problem-solving capabilities.\n\n### **[Unbundling Multimodal Vision Encoding](http://arxiv.org/abs/2611.17334v1)**\nThe debate over how multimodal language models should encode visual input\u2014whether through pre-trained vision encoders or training from scratch\u2014is a critical area of research. This paper explores the implications of different encoding strategies, offering insights into optimizing multimodal AI architectures. Understanding these trade-offs is crucial for advancing the performance and efficiency of models that integrate visual and linguistic information.\n\n### **[Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces](http://arxiv.org/abs/2611.17314v1)**\nInvestigating how neural networks can achieve human-like rapid learning from limited experience, this research explores the role of compositional structure in meta-learned parameter spaces. For academics, this work sheds light on the fundamental mechanisms behind few-shot learning and generalization in AI. It pushes the boundaries of how we design networks to acquire new skills quickly and efficiently, moving closer to more human-like intelligence.\n\n### **[AgentSSL: Can MLE Agents Leverage Unlabeled Data?](http://arxiv.org/abs/2611.17323v1)**\nAgentSSL explores the potential for Machine Learning Engineering (MLE) agents to leverage unlabeled data, addressing key bottlenecks in data acquisition and pipeline engineering for new domains. This research is highly significant for automating the machine learning lifecycle, reducing the reliance on extensive labeled datasets and manual intervention. It promises to make AI deployment more scalable and adaptable across diverse applications.\n\n### **[Learning When Diffusion Language Models Should Regenerate](http://arxiv.org/abs/2611.17320v1)**\nThis paper delves into improving diffusion language models by learning when and what text to revise through \"remasking,\" addressing current gaps in effective correction strategies. For researchers, this work offers a pathway to developing more precise and efficient text generation models, enhancing their ability to produce high-quality, coherent outputs. It's a crucial step towards refining the generative capabilities of diffusion models in language tasks.\n\n---\n**Today's Signal:** The AI landscape is rapidly diversifying, with intense competition driving both foundational breakthroughs and practical applications, while simultaneously pushing for greater accessibility and responsible development.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [5 AI Breakthroughs This Week You Shouldn\u2019t Ignore ](https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore) | OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations ... |\n| [AI News: Kimi K3 Has Big AI Labs Panicking! ](https://www.youtube.com/watch?v=Ww3EYbuHSfo) | [27:01] Like we can just kind of generate everything and anything. And now we ha... |\n| [AI NEWS: The 30 Biggest AI Stories This Week (Google vs. Claude!) ](https://www.youtube.com/watch?v=WPNJgVL9TTM&vl=en) | Stop wasting time checking 10 different news sources! The future of work, creati... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [How Amplitude ships product improvements in 1\u20132 days with OpenAI ](https://openai.com/business/customer-stories/amplitude) | Built primarily on OpenAI models, Amplitude\u2019s proactive product agent, Wave, ide... |\n| [Gondola doubles revenue as its team builds more with Codex ](https://openai.com/business/customer-stories/gondola) | Gondola helps creatives get credit and get hired, with Codex raising its lead en... |\n| [Holiday Extras is rethinking what it can build with Codex ](https://openai.com/business/customer-stories/holidays-extras-codex) | With Codex, Holiday Extras is turning customer expertise into better apps, highe... |\n| [Supporting research on AI and children\u2019s safety ](https://openai.com/index/children-first-declaration) | OpenAI commits $2 million to research on AI and children\u2019s safety. The work supp... |\n| [Gilbert + Tobin rethinks the business of law with AI ](https://openai.com/index/gilbert-tobin-sam-nickless) | A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Unbundling Multimodal Vision Encoding ](http://arxiv.org/abs/2611.17334v1) | How multimodal language models should encode visual input remains up for debate.... |\n| [ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research ](http://arxiv.org/abs/2611.17332v1) | Model architecture shapes the scaling behavior, training efficiency, and inferen... |\n| [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation ](http://arxiv.org/abs/2611.17329v1) | Institutional portfolios operate under investment policy statements that specify... |\n| [Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap ](http://arxiv.org/abs/2605.24432v2) | Large Language Model (LLM) interactions are typically underspecified, with users... |\n| [AgentSSL: Can MLE Agents Leverage Unlabeled Data? ](http://arxiv.org/abs/2611.17323v1) | Applying machine learning systems to new domains introduces bottlenecks in both ... |\n| [Learning When Diffusion Language Models Should Regenerate ](http://arxiv.org/abs/2611.17320v1) | Remasking allows diffusion language models to revisit generated text, but effect... |\n| [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation ](http://arxiv.org/abs/2611.17316v1) | Coding agents tackle successive tasks on an evolving repository, carrying forwar... |\n| [Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces ](http://arxiv.org/abs/2611.17314v1) | Humans can learn rapidly from limited experience, while neural networks typicall... |\n| [Sketching Language Models for Context Attribution ](http://arxiv.org/abs/2611.17313v1) | Context attribution asks how removing parts of a prompt changes a language model... |\n| [Classical Energies Learn to Reason 1,000x Faster than Looped Models ](http://arxiv.org/abs/2611.17309v1) | Looped models have emerged as a prominent paradigm for reasoning, with successes... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [MiniMaxAI/MiniMax-H3-Image ](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, imag... |\n| [NousResearch/Arete-27B ](https://huggingface.co/NousResearch/Arete-27B) | Trending HF Model. Tags: safetensors, qwen3_5, nous-research, arete, supervised-... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (4 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Edge0-145B: Frontier AI Capabilities on Your Own Computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer) | HN Score: 241. Comments: 71 |\n| [[HackerNews] I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/) | HN Score: 364. Comments: 131 |\n| [[HackerNews] Foundation Models framework](https://developer.apple.com/foundation-models-framework/) | HN Score: 210. Comments: 27 |\n| [[HackerNews] Anthropic IPO](https://ipo.anthropic.com/us/) | HN Score: 925. Comments: 866 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
