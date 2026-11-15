@@ -1,0 +1,513 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? cover image\n\nArticle\n\n### Could AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Updates Today (November 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "Image 83: Google ### Google 62 models\u2022Updated 5d ago Recent Models 1 Gemini 4 Carbon 2 Gemini Nano Banana 2.1 3 Gemini 4 Argon 10 models in 6 mo J J A S O NImage 84: Particle AI ### Particle AI 1 models\u2022Updated 5d ago Recent Models 1 Particle-1 1 models in 6 mo J J A S O NImage 85: OpenAI ### OpenAI 72 models\u2022Updated 1w ago Recent Models 1 GPT-6.1 Terra 2 GPT-6.1 Sol 3 GPT-6 Luna 10 models in 6 mo J J A S O NImage 86: Moonshot AI ### Moonshot AI 12 models\u2022Updated 1w ago Recent Models 1 Kimi [...] The AI industry is releasing new models at an unprecedented rate. We track 434+ model releases across major organizations. Capabilities that seemed cutting-edge months ago are now baseline expectations.\n\nKey trends include reasoning models(OpenAI o1, DeepSeek-R1) trading speed for accuracy,multimodal capabilities becoming standard across frontier models, and efficiency improvements delivering GPT-4-level performance at dramatically lower costs.\n\n70+organizations\u00b715+providers\u00b7Updated daily [...] AI model versioning follows patterns that help developers understand capabilities and stability.Major versions(GPT-3 \u2192 GPT-4, Claude 2 \u2192 Claude 3) indicate significant capability improvements and may require prompt adjustments.Minor updates(GPT-4 \u2192 GPT-4 Turbo) offer performance optimizations, cost reductions, or context window expansions while maintaining compatibility.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Where was Nvidia\u2019s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "url": "http://arxiv.org/abs/2611.17329v1",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+      "url": "http://arxiv.org/abs/2605.24432v2",
+      "summary": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far wors...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sketching Language Models for Context Attribution",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 24470",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 517948",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6547772",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "summary": "HN Score: 807. Comments: 314",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "summary": "HN Score: 50. Comments: 24",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Kiri \u2013 The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "summary": "HN Score: 42. Comments: 22",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "summary": "HN Score: 55. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "HN Score: 208. Comments: 107",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? cover image\n\nArticle\n\n### Could AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI Updates Today (November 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "Image 83: Google ### Google 62 models\u2022Updated 5d ago Recent Models 1 Gemini 4 Carbon 2 Gemini Nano Banana 2.1 3 Gemini 4 Argon 10 models in 6 mo J J A S O NImage 84: Particle AI ### Particle AI 1 models\u2022Updated 5d ago Recent Models 1 Particle-1 1 models in 6 mo J J A S O NImage 85: OpenAI ### OpenAI 72 models\u2022Updated 1w ago Recent Models 1 GPT-6.1 Terra 2 GPT-6.1 Sol 3 GPT-6 Luna 10 models in 6 mo J J A S O NImage 86: Moonshot AI ### Moonshot AI 12 models\u2022Updated 1w ago Recent Models 1 Kimi [...] The AI industry is releasing new models at an unprecedented rate. We track 434+ model releases across major organizations. Capabilities that seemed cutting-edge months ago are now baseline expectations.\n\nKey trends include reasoning models(OpenAI o1, DeepSeek-R1) trading speed for accuracy,multimodal capabilities becoming standard across frontier models, and efficiency improvements delivering GPT-4-level performance at dramatically lower costs.\n\n70+organizations\u00b715+providers\u00b7Updated daily [...] AI model versioning follows patterns that help developers understand capabilities and stability.Major versions(GPT-3 \u2192 GPT-4, Claude 2 \u2192 Claude 3) indicate significant capability improvements and may require prompt adjustments.Minor updates(GPT-4 \u2192 GPT-4 Turbo) offer performance optimizations, cost reductions, or context window expansions while maintaining compatibility.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Where was Nvidia\u2019s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which ",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation",
+      "url": "http://arxiv.org/abs/2611.17329v1",
+      "summary": "Institutional portfolios operate under investment policy statements that specify asset allocation constraints, often conditioned on market regime information. Deep reinforcement learning has been show...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap",
+      "url": "http://arxiv.org/abs/2605.24432v2",
+      "summary": "Large Language Model (LLM) interactions are typically underspecified, with users clarifying all necessary details across multiple conversational turns. Yet recent work shows that LLMs perform far wors...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "url": "http://arxiv.org/abs/2611.17323v1",
+      "summary": "Applying machine learning systems to new domains introduces bottlenecks in both labeled data acquisition and manual pipeline engineering. While recent MLE agents show promise in automating pipeline de...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Learning When Diffusion Language Models Should Regenerate",
+      "url": "http://arxiv.org/abs/2611.17320v1",
+      "summary": "Remasking allows diffusion language models to revisit generated text, but effective correction requires knowing when and what to revise. Our diagnosis on Sudoku reveals two gaps. Hidden states contain...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation",
+      "url": "http://arxiv.org/abs/2611.17316v1",
+      "summary": "Coding agents tackle successive tasks on an evolving repository, carrying forward edits and writing memory before the next task is known. Selecting memory for unknown next tasks requires balancing fut...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Sketching Language Models for Context Attribution",
+      "url": "http://arxiv.org/abs/2611.17313v1",
+      "summary": "Context attribution asks how removing parts of a prompt changes a language model's output. We study leave-one-out (LOO) attribution for a prompt of $n$ tokens and a fixed measurement function. Computi...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 24470",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 517948",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6547772",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "summary": "HN Score: 807. Comments: 314",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: Gawain \u2013 Require type hints on all Python variables",
+      "url": "https://github.com/matheuzgomes/gawain",
+      "summary": "HN Score: 50. Comments: 24",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Kiri \u2013 The Modern Container Runtime",
+      "url": "https://runkiri.com/",
+      "summary": "HN Score: 42. Comments: 22",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] 500 Lines or Less A 3D Modeller",
+      "url": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "summary": "HN Score: 55. Comments: 9",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "HN Score: 208. Comments: 107",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] Where was Nvidia\u2019s security team?",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which "
+      },
+      {
+        "title": "[RSS] Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+        "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+        "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+      },
+      {
+        "title": "[RSS] Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+      },
+      {
+        "title": "[Tavily] AI Updates Today (November 2026) \u2013 Latest AI Model Releases",
+        "url": "https://llm-stats.com/llm-updates",
+        "summary": "Image 83: Google ### Google 62 models\u2022Updated 5d ago Recent Models 1 Gemini 4 Carbon 2 Gemini Nano Banana 2.1 3 Gemini 4 Argon 10 models in 6 mo J J A S O NImage 84: Particle AI ### Particle AI 1 models\u2022Updated 5d ago Recent Models 1 Particle-1 1 models in 6 mo J J A S O NImage 85: OpenAI ### OpenAI 72 models\u2022Updated 1w ago Recent Models 1 GPT-6.1 Terra 2 GPT-6.1 Sol 3 GPT-6 Luna 10 models in 6 mo J J A S O NImage 86: Moonshot AI ### Moonshot AI 12 models\u2022Updated 1w ago Recent Models 1 Kimi [...] The AI industry is releasing new models at an unprecedented rate. We track 434+ model releases across major organizations. Capabilities that seemed cutting-edge months ago are now baseline expectations.\n\nKey trends include reasoning models(OpenAI o1, DeepSeek-R1) trading speed for accuracy,multimodal capabilities becoming standard across frontier models, and efficiency improvements delivering GPT-4-level performance at dramatically lower costs.\n\n70+organizations\u00b715+providers\u00b7Updated daily [...] AI model versioning follows patterns that help developers understand capabilities and stability.Major versions(GPT-3 \u2192 GPT-4, Claude 2 \u2192 Claude 3) indicate significant capability improvements and may require prompt adjustments.Minor updates(GPT-4 \u2192 GPT-4 Turbo) offer performance optimizations, cost reductions, or context window expansions while maintaining compatibility."
+      },
+      {
+        "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+      }
+    ],
+    "technical": [
+      {
+        "title": "[HackerNews] Generative AI uses more energy on non-English text",
+        "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+        "summary": "HN Score: 208. Comments: 107"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6547772"
+      },
+      {
+        "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 517948"
+      },
+      {
+        "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 24470"
+      }
+    ],
+    "research": [
+      {
+        "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+        "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+        "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes"
+      },
+      {
+        "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+        "url": "http://arxiv.org/abs/2611.17309v1",
+        "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai..."
+      },
+      {
+        "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+        "url": "http://arxiv.org/abs/2611.17332v1",
+        "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe..."
+      },
+      {
+        "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+        "url": "http://arxiv.org/abs/2611.17314v1",
+        "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra..."
+      },
+      {
+        "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+        "url": "http://arxiv.org/abs/2611.17334v1",
+        "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] Where was Nvidia\u2019s security team?",
+      "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it\u2019s the kind of leak that runs everyday conversations, which "
+    },
+    {
+      "title": "[RSS] Asian governments react to Nvidia CEO Jensen Huang\u2019s exit",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations."
+    },
+    {
+      "title": "[RSS] Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections."
+    },
+    {
+      "title": "[Tavily] AI Updates Today (November 2026) \u2013 Latest AI Model Releases",
+      "url": "https://llm-stats.com/llm-updates",
+      "summary": "Image 83: Google ### Google 62 models\u2022Updated 5d ago Recent Models 1 Gemini 4 Carbon 2 Gemini Nano Banana 2.1 3 Gemini 4 Argon 10 models in 6 mo J J A S O NImage 84: Particle AI ### Particle AI 1 models\u2022Updated 5d ago Recent Models 1 Particle-1 1 models in 6 mo J J A S O NImage 85: OpenAI ### OpenAI 72 models\u2022Updated 1w ago Recent Models 1 GPT-6.1 Terra 2 GPT-6.1 Sol 3 GPT-6 Luna 10 models in 6 mo J J A S O NImage 86: Moonshot AI ### Moonshot AI 12 models\u2022Updated 1w ago Recent Models 1 Kimi [...] The AI industry is releasing new models at an unprecedented rate. We track 434+ model releases across major organizations. Capabilities that seemed cutting-edge months ago are now baseline expectations.\n\nKey trends include reasoning models(OpenAI o1, DeepSeek-R1) trading speed for accuracy,multimodal capabilities becoming standard across frontier models, and efficiency improvements delivering GPT-4-level performance at dramatically lower costs.\n\n70+organizations\u00b715+providers\u00b7Updated daily [...] AI model versioning follows patterns that help developers understand capabilities and stability.Major versions(GPT-3 \u2192 GPT-4, Claude 2 \u2192 Claude 3) indicate significant capability improvements and may require prompt adjustments.Minor updates(GPT-4 \u2192 GPT-4 Turbo) offer performance optimizations, cost reductions, or context window expansions while maintaining compatibility."
+    },
+    {
+      "title": "[RSS] The AI graveyard: a running list of projects and startups that didn\u2019t make it",
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+    },
+    {
+      "title": "[HackerNews] Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "summary": "HN Score: 208. Comments: 107"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6547772"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 517948"
+    },
+    {
+      "title": "[HuggingFace] xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "url": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, text-generation-inference, unsloth. Downloads: 24470"
+    },
+    {
+      "title": "[Tavily] 5 AI Breakthroughs This Week You Shouldn\u2019t Ignore",
+      "url": "https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore",
+      "summary": "OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations to developers. The model can listen and speak at the same time, handle interruptions more naturally, connect to tools, and support phone-based use cases such as reservations and customer service.\n\n## 4. AI Is Becoming Part of Everyday Desktop Work [...] Google Just Built an AI That Can Create Entire Interactive Worlds cover image\n\nArticle\n\n### Google Just Built an AI That Can Create Entire Interactive Worlds\n\nGoogle DeepMind\u2019s new Genie 4 can generate lifelike environments that you can change in real time with natural language.\n\nJoshua K. Bitter\u00b7\u00b72 min read\n\nCould AI Eventually Make \u201cEntry Level\u201d Work Disappear? [...] OpenAI shared an AI-generated solution to the Navier\u2013Stokes existence and smoothness problem, one of mathematics\u2019 Millennium Prize Problems, along with a formal proof in Lean. It is an important signal that advanced AI systems are moving beyond assisting research and beginning to contribute to difficult scientific problems directly.\n\n## 2. AI Mapped Billions of Possible DNA Changes"
+    },
+    {
+      "title": "[ArXiv] Classical Energies Learn to Reason 1,000x Faster than Looped Models",
+      "url": "http://arxiv.org/abs/2611.17309v1",
+      "summary": "Looped models have emerged as a prominent paradigm for reasoning, with successes on simple reasoning puzzles such as Sudoku-Extreme and Maze-Unique. However, these models can be unstable, slow to trai..."
+    },
+    {
+      "title": "[ArXiv] ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research",
+      "url": "http://arxiv.org/abs/2611.17332v1",
+      "summary": "Model architecture shapes the scaling behavior, training efficiency, and inference cost of LLMs, making it a central focus of both industry and academia. In industry, teams such as those behind DeepSe..."
+    },
+    {
+      "title": "[ArXiv] Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces",
+      "url": "http://arxiv.org/abs/2611.17314v1",
+      "summary": "Humans can learn rapidly from limited experience, while neural networks typically require extensive training. In this work, we investigate what properties of a neural network can enable it to learn ra..."
+    },
+    {
+      "title": "[ArXiv] Unbundling Multimodal Vision Encoding",
+      "url": "http://arxiv.org/abs/2611.17334v1",
+      "summary": "How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language..."
+    }
+  ],
+  "final_report": "# AI's Shifting Sands: Leadership Turmoil, Rapid Innovation, and Breakthrough Discoveries\n\nToday's AI landscape is marked by significant strategic shifts and an unrelenting pace of technological advancement. From leadership changes at industry giants to groundbreaking research solving complex scientific problems, the sector continues its dynamic evolution.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Nvidia's Leadership in Turmoil: Security Chief Exit and CEO's Departure Raise Questions](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/)**\nThe quiet departure of Nvidia's security chief in August, followed by CEO Jensen Huang's resignation amidst allegations of relationships tied to chip funneling to China, signals a major strategic and reputational crisis for the AI hardware giant. This incident highlights the critical importance of robust internal security and ethical governance in high-stakes technology sectors, with potential long-term impacts on trust and market position.\n\n### **[Asian Governments React to Nvidia CEO Jensen Huang\u2019s Exit](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/)**\nThe ripple effects of Jensen Huang's departure are already being felt globally, with Asian governments moving to confirm chip supply commitments and monitoring the impact on local AI projects. This reaction underscores Nvidia's pivotal role in global AI infrastructure and the geopolitical sensitivities surrounding advanced chip technology and supply chain stability.\n\n### **[Introducing ChatGPT Wallet: OpenAI's Foray into Transactional AI](https://openai.com/index/introducing-chatgpt-wallet)**\nOpenAI is expanding its ecosystem with the launch of ChatGPT Wallet, enabling secure purchases by AI agents within ChatGPT Work, Codex, and dots, with user approval. This move signifies OpenAI's strategic push into transactional capabilities, potentially transforming how users interact with AI for commerce and services, and deepening its integration into daily digital life.\n\n### **[The Relentless Pace of AI Model Releases: November 2026 Update](https://llm-stats.com/llm-updates)**\nThe AI industry continues its unprecedented release cadence, with Google, OpenAI, Particle AI, and Moonshot AI all updating their model portfolios, including OpenAI's GPT-6.1 Terra and Sol, and Google's Gemini 4 Carbon. This rapid iteration highlights intense competition and the continuous push for enhanced capabilities, making cutting-edge features quickly become baseline expectations for developers and businesses.\n\n### **[The AI Graveyard: A Sobering Look at Projects That Didn't Make It](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/)**\nFrom Apple's delayed Siri AI to OpenAI's \"super app\" missteps, a growing list of AI projects and startups have failed to meet expectations or shut down entirely. This \"AI graveyard\" serves as a crucial reminder of the significant challenges in productizing AI, emphasizing the need for clear market fit, robust execution, and realistic expectations beyond the hype.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Generative AI Consumes More Energy for Non-English Text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)**\nNew research indicates that generative AI models require significantly more energy to process and generate non-English text compared to English. This finding has critical implications for global AI deployment, highlighting potential disparities in operational costs and environmental impact, and urging developers to consider language-specific optimizations for efficiency.\n\n### **[Qwen/Qwen3.8-27B: A Trending Conversational AI Model on Hugging Face](https://huggingface.co/Qwen/Qwen3.8-27B)**\nThe Qwen/Qwen3.8-27B model is gaining significant traction on Hugging Face, boasting over 6.5 million downloads for its conversational and image-text-to-text capabilities. Developers looking for a robust, Apache-2.0 licensed model for general-purpose chat or multimodal interaction should consider integrating this trending transformer.\n\n### **[MiniMaxAI/MiniMax-H3-Image: A Versatile Model for Image Generation and Editing](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)**\nMiniMaxAI's MiniMax-H3-Image model is trending for its comprehensive text-to-image, image-to-image, and image-editing functionalities, built on the diffusers framework. This model offers practitioners powerful tools for creative applications, making it a valuable asset for projects requiring advanced visual content generation and manipulation.\n\n### **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic: A Specialized Text Generation Model](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic)**\nThis specialized DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic model is trending for its unique text generation capabilities, particularly for uncensored content. While niche, its popularity suggests a demand for models that push boundaries, offering developers specific tools for applications where traditional content filters might be restrictive.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[AI Breakthroughs This Week: From Full-Duplex Voice to Solving Millennium Problems](https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn%E2%80%99t-ignore)**\nThis week saw several significant AI breakthroughs, including OpenAI's GPT-Live-1 enabling full-duplex voice conversations and Google DeepMind's Genie 4 generating interactive virtual worlds. Most notably, OpenAI presented an AI-generated solution and formal proof for the Navier\u2013Stokes existence and smoothness problem, signaling AI's direct contribution to fundamental scientific challenges.\n\n### **[Classical Energies Learn to Reason 1,000x Faster than Looped Models](http://arxiv.org/abs/2611.17309v1)**\nNew research introduces a novel approach where \"classical energies\" enable reasoning capabilities 1,000 times faster than traditional looped models, which often suffer from instability and slow training. This breakthrough could revolutionize the efficiency and stability of AI systems tackling complex reasoning puzzles, opening doors for more robust and scalable AI problem-solvers.\n\n### **[ArchSpace: A Framework for Recording, Reviewing, and Referencing LLM Architecture Research](http://arxiv.org/abs/2611.17332v1)**\nThe ArchSpace framework proposes a systematic method for documenting and analyzing LLM architectures, a critical area influencing scaling behavior, training efficiency, and inference costs. This initiative is vital for academic and industrial researchers to better understand, compare, and innovate upon the foundational designs of large language models.\n\n### **[Linking Rapid Learning to Compositional Structure in Neural Networks](http://arxiv.org/abs/2611.17314v1)**\nThis work investigates how specific properties of neural networks can enable rapid learning from limited experience, akin to human cognitive abilities, by exploring additive analogies in meta-learned parameter spaces. Understanding these mechanisms is crucial for developing AI systems that can adapt quickly and efficiently, moving beyond the need for extensive training datasets.\n\n### **[Unbundling Multimodal Vision Encoding: A Debate on Optimal Visual Input Processing](http://arxiv.org/abs/2611.17334v1)**\nResearchers are re-evaluating how multimodal language models should encode visual input, debating between using pre-trained vision encoders versus training encoders from scratch alongside the language model. This fundamental architectural discussion is key to optimizing the performance, efficiency, and generalization capabilities of future multimodal AI systems.\n\n---\n**Today's Signal:** The AI industry is simultaneously experiencing strategic turbulence at the top and unprecedented innovation at its core, signaling both market maturation and accelerating technological progress.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [5 AI Breakthroughs This Week You Shouldn\u2019t Ignore ](https://sparkfire.us/blog/5-ai-breakthroughs-this-week-you-shouldn-t-ignore) | OpenAI released GPT-Live-1 in the API, bringing full-duplex voice conversations ... |\n| [AI Updates Today (November 2026) \u2013 Latest AI Model Releases ](https://llm-stats.com/llm-updates) | Image 83: Google ### Google 62 models\u2022Updated 5d ago Recent Models 1 Gemini 4 Ca... |\n| [Guides: Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The compa... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Introducing ChatGPT Wallet ](https://openai.com/index/introducing-chatgpt-wallet) | Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and ... |\n| [Where was Nvidia\u2019s security team? ](https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/) | Nvidia\u2019s security chief quietly left in August, and now that CEO Jensen Huang ha... |\n| [Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang ](https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/) | The petition had attracted more than 115,000 signatures as of Saturday afternoon... |\n| [The AI graveyard: a running list of projects and startups that didn\u2019t make it ](https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) | From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, he... |\n| [Asian governments react to Nvidia CEO Jensen Huang\u2019s exit ](https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/) | Some governments moved to confirm chip supply commitments, while others are moni... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Unbundling Multimodal Vision Encoding ](http://arxiv.org/abs/2611.17334v1) | How multimodal language models should encode visual input remains up for debate.... |\n| [ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research ](http://arxiv.org/abs/2611.17332v1) | Model architecture shapes the scaling behavior, training efficiency, and inferen... |\n| [Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allocation ](http://arxiv.org/abs/2611.17329v1) | Institutional portfolios operate under investment policy statements that specify... |\n| [Found in Conversation: LLMs Teach Themselves to Close the Multi-Turn Gap ](http://arxiv.org/abs/2605.24432v2) | Large Language Model (LLM) interactions are typically underspecified, with users... |\n| [AgentSSL: Can MLE Agents Leverage Unlabeled Data? ](http://arxiv.org/abs/2611.17323v1) | Applying machine learning systems to new domains introduces bottlenecks in both ... |\n| [Learning When Diffusion Language Models Should Regenerate ](http://arxiv.org/abs/2611.17320v1) | Remasking allows diffusion language models to revisit generated text, but effect... |\n| [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation ](http://arxiv.org/abs/2611.17316v1) | Coding agents tackle successive tasks on an evolving repository, carrying forwar... |\n| [Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence from Additive Analogies in Meta-Learned Parameter Spaces ](http://arxiv.org/abs/2611.17314v1) | Humans can learn rapidly from limited experience, while neural networks typicall... |\n| [Sketching Language Models for Context Attribution ](http://arxiv.org/abs/2611.17313v1) | Context attribution asks how removing parts of a prompt changes a language model... |\n| [Classical Energies Learn to Reason 1,000x Faster than Looped Models ](http://arxiv.org/abs/2611.17309v1) | Looped models have emerged as a prominent paradigm for reasoning, with successes... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic ](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [MiniMaxAI/MiniMax-H3-Image ](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, imag... |\n| [Qwen/Qwen3.8-27B ](https://huggingface.co/Qwen/Qwen3.8-27B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/) | HN Score: 807. Comments: 314 |\n| [[HackerNews] Show HN: Gawain \u2013 Require type hints on all Python variables](https://github.com/matheuzgomes/gawain) | HN Score: 50. Comments: 24 |\n| [[HackerNews] Kiri \u2013 The Modern Container Runtime](https://runkiri.com/) | HN Score: 42. Comments: 22 |\n| [[HackerNews] 500 Lines or Less A 3D Modeller](https://aosabook.org/en/500L/a-3d-modeller.html) | HN Score: 55. Comments: 9 |\n| [[HackerNews] Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/) | HN Score: 208. Comments: 107 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
