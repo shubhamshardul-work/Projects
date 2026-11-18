@@ -1,0 +1,483 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Major AI breakthroughs have occurred in the last two days. This is a must-read article.",
+      "url": "https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c",
+      "summary": "1. OpenAI revealed Sora, a text-to-video AI, currently limited to select creators.\n2. Brain Technologies and Deutsche Telekom develop an app-less phone using Brain.ai's Natural AI interface.\n3. Apple is expanding into generative AI, introducing an AI-based code completion tool in Xcode.\n4. Google is enhancing online security by launching an AI-powered open-source resource for malware detection.\n5. Google's new model, Gemini 1.5 Pro, focuses on understanding long-context content. [...] 6. A University of Michigan study raises concerns about the effectiveness of the Epic Sepsis Model, an AI tool predicting sepsis risk.\n7. Apple introduces Keyframer, an AI tool for animating static images with text prompts.\n8. Google Labs has enhanced Gemini Pro AI tool to process up to 1 million tokens.\n9. OpenAI unveiled Sora, a text-to-video model, and introduced Temporary Chats to address privacy concerns.\n10. Meta developed V-JEPA, a Video AI Model that learns from watching videos. [...] 15. Microsoft reports nation-state hackers are using large language models for hacking. Microsoft and OpenAI are taking action.\n16. Stability AI launches Stable Cascade, a new powerful image generation model, despite legal issues.\n17. Slack introduces AI features to boost productivity and plans to integrate with Salesforce's Einstein Copilot.\n18. OpenAI expands into web search, posing a challenge to Google.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs",
+      "url": "https://binaryverseai.com?p=1397",
+      "summary": "China\u2019s DeepSeek pushed a hefty patch to its flagship LLM, boosting reasoning accuracy from 70 to 87.5 percent on benchmark suites. The company also touts lower hallucination rates and upgraded \u201cvibe coding\u201d chops for generating idiomatic code snippets. Whether the numbers hold up under independent audits remains to be seen, yet the release underscores the shrinking gap between Chinese research labs and Silicon Valley.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI: Latest breakthroughs and developments | S&P Global",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-latest-breakthroughs-and-developments",
+      "summary": "The first chatbots approved under China's new regulatory framework were released in late August. Baidu Inc.'s ERNIE, ByteDance's Doubao, and chatbots from Baichuan and Zhipu AI are now available for general use. OpenAI's ChatGPT is not officially available in China, and channels that provide access have been clamped down upon by regulators. Tencent Holdings Ltd. announced the availability of its Hunyuan LLM, with Vice President Jiang Jie saying it will be competing with over 130 LLMs already [...] Google announced generative AI product enhancements at its Google Cloud Next conference. Prominent among them was its Duet AI assistant, which is generally available across its Workspace apps and is in an expanded preview release as part of the Google Cloud Platform, where it is used to generate code and in GCP's Security Cloud. Google also announced new models from Anthropic and Meta Platforms Inc. to its Vertex service and upgrades to Google's PaLM, Codey and Imagen models. Vertex AI Search",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "url": "http://arxiv.org/abs/2611.23228v1",
+      "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "url": "http://arxiv.org/abs/2611.23221v1",
+      "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+      "url": "http://arxiv.org/abs/2611.23218v1",
+      "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bidirectional Random Projections",
+      "url": "http://arxiv.org/abs/2606.10377v2",
+      "summary": "This paper analyzes bidirectional random projections for ordinary least squares (OLS) regression under the fixed design setting. Let $(X, Y) \\in \\mathbb{R}^{n\\times p}\\times\\mathbb{R}^{n}$ be a sample...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Higher-Scoring Coding Models Did Not Get More Work Done",
+      "url": "http://arxiv.org/abs/2611.23216v1",
+      "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "url": "http://arxiv.org/abs/2611.21479v2",
+      "summary": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] First-order methods for stochastic and finite-sum convex optimization with deterministic constraints",
+      "url": "http://arxiv.org/abs/2506.20630v2",
+      "summary": "In this paper, we study a class of stochastic and finite-sum convex optimization problems with deterministic constraints. Existing methods typically aim to find an $\u03b5$-$expected\\ feasible\\ stochastic\\...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 727110",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6942530",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 4445",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "HN Score: 406. Comments: 302",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "summary": "HN Score: 356. Comments: 323",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "HN Score: 363. Comments: 155",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "summary": "HN Score: 59. Comments: 25",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "HN Score: 188. Comments: 262",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Major AI breakthroughs have occurred in the last two days. This is a must-read article.",
+      "url": "https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c",
+      "summary": "1. OpenAI revealed Sora, a text-to-video AI, currently limited to select creators.\n2. Brain Technologies and Deutsche Telekom develop an app-less phone using Brain.ai's Natural AI interface.\n3. Apple is expanding into generative AI, introducing an AI-based code completion tool in Xcode.\n4. Google is enhancing online security by launching an AI-powered open-source resource for malware detection.\n5. Google's new model, Gemini 1.5 Pro, focuses on understanding long-context content. [...] 6. A University of Michigan study raises concerns about the effectiveness of the Epic Sepsis Model, an AI tool predicting sepsis risk.\n7. Apple introduces Keyframer, an AI tool for animating static images with text prompts.\n8. Google Labs has enhanced Gemini Pro AI tool to process up to 1 million tokens.\n9. OpenAI unveiled Sora, a text-to-video model, and introduced Temporary Chats to address privacy concerns.\n10. Meta developed V-JEPA, a Video AI Model that learns from watching videos. [...] 15. Microsoft reports nation-state hackers are using large language models for hacking. Microsoft and OpenAI are taking action.\n16. Stability AI launches Stable Cascade, a new powerful image generation model, despite legal issues.\n17. Slack introduces AI features to boost productivity and plans to integrate with Salesforce's Einstein Copilot.\n18. OpenAI expands into web search, posing a challenge to Google.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs",
+      "url": "https://binaryverseai.com?p=1397",
+      "summary": "China\u2019s DeepSeek pushed a hefty patch to its flagship LLM, boosting reasoning accuracy from 70 to 87.5 percent on benchmark suites. The company also touts lower hallucination rates and upgraded \u201cvibe coding\u201d chops for generating idiomatic code snippets. Whether the numbers hold up under independent audits remains to be seen, yet the release underscores the shrinking gap between Chinese research labs and Silicon Valley.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Generative AI: Latest breakthroughs and developments | S&P Global",
+      "url": "https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-latest-breakthroughs-and-developments",
+      "summary": "The first chatbots approved under China's new regulatory framework were released in late August. Baidu Inc.'s ERNIE, ByteDance's Doubao, and chatbots from Baichuan and Zhipu AI are now available for general use. OpenAI's ChatGPT is not officially available in China, and channels that provide access have been clamped down upon by regulators. Tencent Holdings Ltd. announced the availability of its Hunyuan LLM, with Vice President Jiang Jie saying it will be competing with over 130 LLMs already [...] Google announced generative AI product enhancements at its Google Cloud Next conference. Prominent among them was its Duet AI assistant, which is generally available across its Workspace apps and is in an expanded preview release as part of the Google Cloud Platform, where it is used to generate code and in GCP's Security Cloud. Google also announced new models from Anthropic and Meta Platforms Inc. to its Vertex service and upgrades to Google's PaLM, Codey and Imagen models. Vertex AI Search",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching",
+      "url": "http://arxiv.org/abs/2611.23229v1",
+      "summary": "Collecting large-scale, diverse, and high-quality post-training datasets for autoregressive language models is challenging. Consequently, Supervised Fine-Tuning (SFT) is typically applied to datasets ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "url": "http://arxiv.org/abs/2611.23228v1",
+      "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+      "url": "http://arxiv.org/abs/2611.23225v1",
+      "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapt...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization",
+      "url": "http://arxiv.org/abs/2611.23221v1",
+      "summary": "In this paper, we study a class of constrained convex finite-sum optimization problems. In many practical applications, all or some of the constraints are hard constraints that represent imperative re...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Do LLM Agents Still Need to Be Told How to Self-Improve?",
+      "url": "http://arxiv.org/abs/2611.23219v1",
+      "summary": "LLM agents increasingly drive their own learning. Self-improvement methods delegate various components of model optimization to the models themselves. As models become more capable, this motivates a b...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution",
+      "url": "http://arxiv.org/abs/2611.23218v1",
+      "summary": "Methods that localise social bias in large language models to individual attention heads and remove it by ablation are validated by their effect on a fairness metric, never by evidence that the statis...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bidirectional Random Projections",
+      "url": "http://arxiv.org/abs/2606.10377v2",
+      "summary": "This paper analyzes bidirectional random projections for ordinary least squares (OLS) regression under the fixed design setting. Let $(X, Y) \\in \\mathbb{R}^{n\\times p}\\times\\mathbb{R}^{n}$ be a sample...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Higher-Scoring Coding Models Did Not Get More Work Done",
+      "url": "http://arxiv.org/abs/2611.23216v1",
+      "summary": "New coding models advertise themselves on score improvements of coding benchmarks. Yet no study has tested if a model that scores higher on these benchmarks gets more real work done. On June 12, 2026,...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "url": "http://arxiv.org/abs/2611.21479v2",
+      "summary": "Interactive video world models enable exploration through text and camera controls, yet direct object interaction requires finer control. Hands provide a natural interface, but translating continuous ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] First-order methods for stochastic and finite-sum convex optimization with deterministic constraints",
+      "url": "http://arxiv.org/abs/2506.20630v2",
+      "summary": "In this paper, we study a class of stochastic and finite-sum convex optimization problems with deterministic constraints. Existing methods typically aim to find an $\u03b5$-$expected\\ feasible\\ stochastic\\...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 727110",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6942530",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 4445",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "HN Score: 406. Comments: 302",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] AI is killing All About Berlin",
+      "url": "https://nicolasbouliane.com/blog/death-by-ai",
+      "summary": "HN Score: 356. Comments: 323",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "HN Score: 363. Comments: 155",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "summary": "HN Score: 59. Comments: 25",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "HN Score: 188. Comments: 262",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[Tavily] Major AI breakthroughs have occurred in the last two days. This is a must-read article.",
+        "url": "https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c",
+        "summary": "1. OpenAI revealed Sora, a text-to-video AI, currently limited to select creators.\n2. Brain Technologies and Deutsche Telekom develop an app-less phone using Brain.ai's Natural AI interface.\n3. Apple is expanding into generative AI, introducing an AI-based code completion tool in Xcode.\n4. Google is enhancing online security by launching an AI-powered open-source resource for malware detection.\n5. Google's new model, Gemini 1.5 Pro, focuses on understanding long-context content. [...] 6. A University of Michigan study raises concerns about the effectiveness of the Epic Sepsis Model, an AI tool predicting sepsis risk.\n7. Apple introduces Keyframer, an AI tool for animating static images with text prompts.\n8. Google Labs has enhanced Gemini Pro AI tool to process up to 1 million tokens.\n9. OpenAI unveiled Sora, a text-to-video model, and introduced Temporary Chats to address privacy concerns.\n10. Meta developed V-JEPA, a Video AI Model that learns from watching videos. [...] 15. Microsoft reports nation-state hackers are using large language models for hacking. Microsoft and OpenAI are taking action.\n16. Stability AI launches Stable Cascade, a new powerful image generation model, despite legal issues.\n17. Slack introduces AI features to boost productivity and plans to integrate with Salesforce's Einstein Copilot.\n18. OpenAI expands into web search, posing a challenge to Google."
+      },
+      {
+        "title": "[RSS] Introducing GPT-6.2 Astra and Sol",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+      },
+      {
+        "title": "[RSS] Strengthening NATO and allied cyber defenses with AI",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+      },
+      {
+        "title": "[RSS] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+      },
+      {
+        "title": "[HackerNews] Google's AI answers reducing search traffic by 40%",
+        "url": "https://revscope.co/blog/search-seo-geo-2026/",
+        "summary": "HN Score: 406. Comments: 302"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[Tavily] Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs",
+        "url": "https://binaryverseai.com?p=1397",
+        "summary": "China\u2019s DeepSeek pushed a hefty patch to its flagship LLM, boosting reasoning accuracy from 70 to 87.5 percent on benchmark suites. The company also touts lower hallucination rates and upgraded \u201cvibe coding\u201d chops for generating idiomatic code snippets. Whether the numbers hold up under independent audits remains to be seen, yet the release underscores the shrinking gap between Chinese research labs and Silicon Valley."
+      },
+      {
+        "title": "[HackerNews] MAI Code 2 and Code 2 Flash",
+        "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+        "summary": "HN Score: 363. Comments: 155"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6942530"
+      },
+      {
+        "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+        "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+        "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 727110"
+      }
+    ],
+    "research": [
+      {
+        "title": "[HackerNews] Claude was trained on protein sequences at scale",
+        "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+        "summary": "HN Score: 59. Comments: 25"
+      },
+      {
+        "title": "[HackerNews] Harvard researchers find AI coding agents shifted the bottleneck to code review",
+        "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+        "summary": "HN Score: 188. Comments: 262"
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[Tavily] Major AI breakthroughs have occurred in the last two days. This is a must-read article.",
+      "url": "https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c",
+      "summary": "1. OpenAI revealed Sora, a text-to-video AI, currently limited to select creators.\n2. Brain Technologies and Deutsche Telekom develop an app-less phone using Brain.ai's Natural AI interface.\n3. Apple is expanding into generative AI, introducing an AI-based code completion tool in Xcode.\n4. Google is enhancing online security by launching an AI-powered open-source resource for malware detection.\n5. Google's new model, Gemini 1.5 Pro, focuses on understanding long-context content. [...] 6. A University of Michigan study raises concerns about the effectiveness of the Epic Sepsis Model, an AI tool predicting sepsis risk.\n7. Apple introduces Keyframer, an AI tool for animating static images with text prompts.\n8. Google Labs has enhanced Gemini Pro AI tool to process up to 1 million tokens.\n9. OpenAI unveiled Sora, a text-to-video model, and introduced Temporary Chats to address privacy concerns.\n10. Meta developed V-JEPA, a Video AI Model that learns from watching videos. [...] 15. Microsoft reports nation-state hackers are using large language models for hacking. Microsoft and OpenAI are taking action.\n16. Stability AI launches Stable Cascade, a new powerful image generation model, despite legal issues.\n17. Slack introduces AI features to boost productivity and plans to integrate with Salesforce's Einstein Copilot.\n18. OpenAI expands into web search, posing a challenge to Google."
+    },
+    {
+      "title": "[RSS] Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API."
+    },
+    {
+      "title": "[RSS] Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems."
+    },
+    {
+      "title": "[RSS] Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+    },
+    {
+      "title": "[HackerNews] Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "summary": "HN Score: 406. Comments: 302"
+    },
+    {
+      "title": "[Tavily] Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs",
+      "url": "https://binaryverseai.com?p=1397",
+      "summary": "China\u2019s DeepSeek pushed a hefty patch to its flagship LLM, boosting reasoning accuracy from 70 to 87.5 percent on benchmark suites. The company also touts lower hallucination rates and upgraded \u201cvibe coding\u201d chops for generating idiomatic code snippets. Whether the numbers hold up under independent audits remains to be seen, yet the release underscores the shrinking gap between Chinese research labs and Silicon Valley."
+    },
+    {
+      "title": "[HackerNews] MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "summary": "HN Score: 363. Comments: 155"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6942530"
+    },
+    {
+      "title": "[HuggingFace] MiniMaxAI/MiniMax-H3-Image",
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "summary": "Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, image-to-image, image-editing. Downloads: 727110"
+    },
+    {
+      "title": "[HackerNews] Claude was trained on protein sequences at scale",
+      "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+      "summary": "HN Score: 59. Comments: 25"
+    },
+    {
+      "title": "[HackerNews] Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "summary": "HN Score: 188. Comments: 262"
+    }
+  ],
+  "final_report": "# AI Intelligence Report: The Generative Surge Reshapes Industries and Development\n\nToday's AI landscape is marked by an unprecedented surge in generative capabilities, from text-to-video models to advanced coding agents, fundamentally reshaping business strategies and developer workflows. This rapid evolution is not only driving innovation but also creating new strategic challenges and research frontiers across the board.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[Major AI breakthroughs have occurred in the last two days. This is a must-read article.](https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c)**\nThe past 48 hours have seen an explosion of AI advancements, with OpenAI's Sora leading the charge in text-to-video generation, Apple quietly integrating generative AI into Xcode and Keyframer, and Google enhancing security and long-context understanding with Gemini 1.5 Pro. This flurry of activity underscores an intensifying competitive landscape, where tech giants are aggressively deploying AI across their product ecosystems and exploring new frontiers like app-less phone interfaces and AI-powered web search.\n\n### **[Introducing GPT-6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol)**\nOpenAI continues to push the envelope with the release of GPT-6.2 Astra and Sol, promising superior professional outputs, coding prowess, and overall efficiency at a lower cost across its enterprise offerings. This strategic move aims to solidify OpenAI's dominance in the professional and developer markets, making advanced AI more accessible and powerful for a broader range of business applications.\n\n### **[Strengthening NATO and allied cyber defenses with AI](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai)**\nIn a significant strategic development, OpenAI is collaborating with NATO and allied cyber agencies to leverage AI for identifying vulnerabilities, testing fixes, and safeguarding critical systems. This partnership highlights the increasing importance of AI in national security and defense, demonstrating a critical application of advanced models in protecting essential infrastructure against sophisticated cyber threats.\n\n### **[Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership)**\nThis partnership between Le Groupe Figaro and OpenAI signifies a growing trend of media organizations embracing AI platforms for content distribution, allowing ChatGPT to provide summaries and excerpts with links to original stories. Such collaborations are crucial for publishers seeking to maintain relevance and reach in an AI-driven information ecosystem, while ensuring proper attribution and monetization of journalistic content.\n\n### **[Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/)**\nA concerning report indicates that Google's AI-powered answers are significantly reducing search traffic to external websites, potentially by as much as 40%. This development poses a substantial strategic challenge to Google's long-standing advertising-based business model and the broader web economy, forcing a re-evaluation of how information is discovered and monetized in the age of generative AI.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs](https://binaryverseai.com?p=1397)**\nChina's DeepSeek has released a substantial update to its flagship LLM, dramatically boosting reasoning accuracy from 70% to 87.5% and improving \"vibe coding\" capabilities. This advancement underscores the intense global competition in LLM development and provides developers with increasingly sophisticated tools for building more reliable and context-aware AI applications.\n\n### **[MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-2-flash/)**\nMicrosoft's introduction of MAI Code 2 and Code 2 Flash marks a significant step forward for developers seeking advanced AI assistance in coding. These models are poised to enhance productivity through superior code generation, completion, and debugging, further integrating AI into the core of software development workflows.\n\n### **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**\nThe Qwen3.8-27B model is rapidly gaining traction on Hugging Face, demonstrating its versatility with image-text-to-text and conversational capabilities under an Apache 2.0 license. Its popularity highlights the developer community's demand for powerful, open-source multi-modal models that can be adapted for a wide array of applications, from advanced chatbots to content creation.\n\n### **[MiniMaxAI/MiniMax-H3-Image](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image)**\nMiniMax-H3-Image is trending on Hugging Face, showcasing its robust capabilities in text-to-image, image-to-image, and image-editing tasks. This model offers developers powerful tools for creative applications, design automation, and visual content generation, reflecting the continued innovation in the generative AI space for visual media.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/)**\nThe revelation that Claude was trained on protein sequences at scale opens up a fascinating new research avenue for large language models beyond traditional linguistic tasks. This interdisciplinary approach could unlock groundbreaking applications in bioinformatics, drug discovery, and materials science, bridging the gap between AI and biological research.\n\n### **[Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/)**\nHarvard researchers have identified that while AI coding agents accelerate code generation, they've inadvertently shifted the development bottleneck to code review. This finding highlights a critical area for future research: developing AI-assisted code review tools and methodologies to ensure quality and efficiency in human-AI collaborative software development.\n\n---\n**Today's Signal:** The rapid proliferation of advanced generative AI models is simultaneously driving unprecedented innovation across industries and creating new strategic challenges, particularly in content distribution and human-AI collaboration.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Major AI breakthroughs have occurred in the last two days. This is a must-read article. ](https://www.linkedin.com/pulse/major-ai-breakthroughs-have-occurred-last-two-days-article-cholleti-0in0c) | 1. OpenAI revealed Sora, a text-to-video AI, currently limited to select creator... |\n| [Latest Generative AI News: This Week\u2019s Top 16 Breakthroughs ](https://binaryverseai.com?p=1397) | China\u2019s DeepSeek pushed a hefty patch to its flagship LLM, boosting reasoning ac... |\n| [Generative AI: Latest breakthroughs and developments | S&P Global ](https://www.spglobal.com/market-intelligence/en/news-insights/research/generative-ai-latest-breakthroughs-and-developments) | The first chatbots approved under China's new regulatory framework were released... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT ](https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership) | Le Groupe Figaro and OpenAI partner to bring Le Figaro\u2019s journalism to ChatGPT t... |\n| [Introducing GPT-6.2 Astra and Sol ](https://openai.com/index/introducing-gpt-6-2-astra-sol) | Introducing GPT\u20116.2 Astra and Sol, with better professional outputs, coding, com... |\n| [Strengthening NATO and allied cyber defenses with AI ](https://openai.com/index/strengthening-nato-allied-cyber-defences-ai) | How OpenAI is working with NATO and allied cyber agencies to help trusted defend... |\n| [Introducing ChatGPT for Sales ](https://openai.com/index/introducing-chatgpt-for-sales) | Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT... |\n| [Astra for Law leads in legal intelligence ](https://openai.com/index/astra-law-6-2) | Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Ever... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching ](http://arxiv.org/abs/2611.23229v1) | Collecting large-scale, diverse, and high-quality post-training datasets for aut... |\n| [Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models ](http://arxiv.org/abs/2611.23228v1) | Applications such as visual accessibility agents and robotics require answering ... |\n| [StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics ](http://arxiv.org/abs/2611.23225v1) | We present StringQFT as a textbook collection for string constructions of quantu... |\n| [An inexact stochastic variance-reduced gradient method for constrained convex finite-sum optimization ](http://arxiv.org/abs/2611.23221v1) | In this paper, we study a class of constrained convex finite-sum optimization pr... |\n| [Do LLM Agents Still Need to Be Told How to Self-Improve? ](http://arxiv.org/abs/2611.23219v1) | LLM agents increasingly drive their own learning. Self-improvement methods deleg... |\n| [What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attribution ](http://arxiv.org/abs/2611.23218v1) | Methods that localise social bias in large language models to individual attenti... |\n| [Bidirectional Random Projections ](http://arxiv.org/abs/2606.10377v2) | This paper analyzes bidirectional random projections for ordinary least squares ... |\n| [Higher-Scoring Coding Models Did Not Get More Work Done ](http://arxiv.org/abs/2611.23216v1) | New coding models advertise themselves on score improvements of coding benchmark... |\n| [LynnReal-Hand: Unlocking World Interaction with Hand Control ](http://arxiv.org/abs/2611.21479v2) | Interactive video world models enable exploration through text and camera contro... |\n| [First-order methods for stochastic and finite-sum convex optimization with deterministic constraints ](http://arxiv.org/abs/2506.20630v2) | In this paper, we study a class of stochastic and finite-sum convex optimization... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [MiniMaxAI/MiniMax-H3-Image ](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image) | Trending HF Model. Tags: minimax-h3, diffusers, safetensors, text-to-image, imag... |\n| [Qwen/Qwen3.8-27B ](https://huggingface.co/Qwen/Qwen3.8-27B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n| [higurashi-ai/Haru-4B ](https://huggingface.co/higurashi-ai/Haru-4B) | Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speec... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Google's AI answers reducing search traffic by 40%](https://revscope.co/blog/search-seo-geo-2026/) | HN Score: 406. Comments: 302 |\n| [[HackerNews] AI is killing All About Berlin](https://nicolasbouliane.com/blog/death-by-ai) | HN Score: 356. Comments: 323 |\n| [[HackerNews] MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/) | HN Score: 363. Comments: 155 |\n| [[HackerNews] Claude was trained on protein sequences at scale](http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/) | HN Score: 59. Comments: 25 |\n| [[HackerNews] Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/) | HN Score: 188. Comments: 262 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
