@@ -1,0 +1,523 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] Generative AI advancements: A roundup of latest breakthroughs",
+      "url": "https://blog.451alliance.com/generative-ai-advancements-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "OpenAI and Mistral AI are two organizations pushing the boundaries of what AI can achieve. OpenAI\u2019s introduction of ChatGPT search capabilities marks a strategic move to compete with established search engines, integrating partnerships with major publishing and data providers to enhance search results. Meanwhile, Mistral AI\u2019s enhancements to its Le Chat platform, including web search with citations and advanced content creation tools, demonstrate the growing sophistication of AI-driven [...] Similarly, Red Hat\u2019s acquisition of Neural Magic reflects a strategic move to bolster its AI offerings by integrating open-source technologies that optimize AI inferencing workloads. This acquisition aligns with Red Hat\u2019s commitment to open-source innovation and enhances its ability to deliver efficient AI solutions to customers.\n\n## Are we the data? Data ownership and control dynamics in the GenAI age\n\nRead Report\n\n## Regulatory implications and global initiatives [...] As we step into 2025, the landscape of artificial intelligence (AI) continues to evolve at a rapid pace, offering new opportunities and challenges for organizations worldwide. A recent report from 451 Research, a part of S&P Global Market Intelligence, highlighted significant breakthroughs and strategic shifts in the AI sector, driven by major announcements from industry giants such as Google, Microsoft, and Amazon were. These advancements are not only reshaping technological capabilities but",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [18:03] we got Gemini 3.6 Flash, 3.5 Flash Light, and 3.5 Flash Cyber. 3.6 Flash is\n[18:13] their new workhorse model that delivers better coding, knowledge work, and multimodal performance. It uses less tokens than 3.5 Flash and is just\n[18:22] overall, you know, less expensive to use. 3.5 Flash Light is a faster, more cost-effective model. And 3.5 Flash",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "source": "https://openai.com/blog/rss.xml"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
+      "url": "http://arxiv.org/abs/2605.00778v3",
+      "summary": "In biomechanical systems, observable performance is often used as a proxy for underlying organization, although similar outputs may arise from different adaptive configurations. This study considers t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Randomness Necessary for Adaptive Data Analysis?",
+      "url": "http://arxiv.org/abs/2607.07085v3",
+      "summary": "The Adaptive Data Analysis (ADA) problem formalizes the challenge of preventing false discovery and overfitting when a dataset is repeatedly reused. Formally, our input is a dataset containing $n$ i.i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "url": "http://arxiv.org/abs/2611.15789v2",
+      "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by generating a 4D scene in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "url": "http://arxiv.org/abs/2611.24936v1",
+      "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Anticipating or Speculating? Making Futures Pay in AI Ethics",
+      "url": "http://arxiv.org/abs/2611.22268v2",
+      "summary": "Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+      "url": "http://arxiv.org/abs/2505.16959v3",
+      "summary": "Diffusion probabilistic models have become a cornerstone of modern generative AI, yet the mechanisms underlying their generalization remain poorly understood. In fact, if these models were perfectly m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Data to Action: Accelerating Refinery Optimization with AI",
+      "url": "http://arxiv.org/abs/2605.15085v2",
+      "summary": "Nowadays refinery optimization utilizes sheer amounts of data, which can be handled with modern Linear Programming (LP) software, but the interpreting and applying the results remains challenging. Lar...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 5314",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v4_flash, text-generation, hunyuan, hy4-flash. Downloads: 159",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6888351",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "summary": "HN Score: 126. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "summary": "HN Score: 237. Comments: 379",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "HN Score: 541. Comments: 354",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "HN Score: 218. Comments: 52",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "summary": "HN Score: 218. Comments: 76",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] Generative AI advancements: A roundup of latest breakthroughs",
+      "url": "https://blog.451alliance.com/generative-ai-advancements-a-roundup-of-latest-breakthroughs-and-developments",
+      "summary": "OpenAI and Mistral AI are two organizations pushing the boundaries of what AI can achieve. OpenAI\u2019s introduction of ChatGPT search capabilities marks a strategic move to compete with established search engines, integrating partnerships with major publishing and data providers to enhance search results. Meanwhile, Mistral AI\u2019s enhancements to its Le Chat platform, including web search with citations and advanced content creation tools, demonstrate the growing sophistication of AI-driven [...] Similarly, Red Hat\u2019s acquisition of Neural Magic reflects a strategic move to bolster its AI offerings by integrating open-source technologies that optimize AI inferencing workloads. This acquisition aligns with Red Hat\u2019s commitment to open-source innovation and enhances its ability to deliver efficient AI solutions to customers.\n\n## Are we the data? Data ownership and control dynamics in the GenAI age\n\nRead Report\n\n## Regulatory implications and global initiatives [...] As we step into 2025, the landscape of artificial intelligence (AI) continues to evolve at a rapid pace, offering new opportunities and challenges for organizations worldwide. A recent report from 451 Research, a part of S&P Global Market Intelligence, highlighted significant breakthroughs and strategic shifts in the AI sector, driven by major announcements from industry giants such as Google, Microsoft, and Amazon were. These advancements are not only reshaping technological capabilities but",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [18:03] we got Gemini 3.6 Flash, 3.5 Flash Light, and 3.5 Flash Cyber. 3.6 Flash is\n[18:13] their new workhorse model that delivers better coding, knowledge work, and multimodal performance. It uses less tokens than 3.5 Flash and is just\n[18:22] overall, you know, less expensive to use. 3.5 Flash Light is a faster, more cost-effective model. And 3.5 Flash",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Guides: Artificial Intelligence (Generative) Resources: Latest News on AI",
+      "url": "https://guides.library.georgetown.edu/ai/news",
+      "summary": "Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The company, co-founded by Mobileye CEO Amnon Shashua, says it slashed one early customer's compute costs by 67%This link opens in a new window_Lin, Belle Wall Street Journal (Online) 19 Oct 2026Formats: Citation,Full text,Find Full Text @ GU,Find Full Text @ GU_ Oct 19, 2026",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[ArXiv] Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint",
+      "url": "http://arxiv.org/abs/2605.00778v3",
+      "summary": "In biomechanical systems, observable performance is often used as a proxy for underlying organization, although similar outputs may arise from different adaptive configurations. This study considers t...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Is Randomness Necessary for Adaptive Data Analysis?",
+      "url": "http://arxiv.org/abs/2607.07085v3",
+      "summary": "The Adaptive Data Analysis (ADA) problem formalizes the challenge of preventing false discovery and overfitting when a dataset is repeatedly reused. Formally, our input is a dataset containing $n$ i.i...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "url": "http://arxiv.org/abs/2611.15789v2",
+      "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by generating a 4D scene in ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "url": "http://arxiv.org/abs/2611.24936v1",
+      "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the align...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Anticipating or Speculating? Making Futures Pay in AI Ethics",
+      "url": "http://arxiv.org/abs/2611.22268v2",
+      "summary": "Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+      "url": "http://arxiv.org/abs/2505.16959v3",
+      "summary": "Diffusion probabilistic models have become a cornerstone of modern generative AI, yet the mechanisms underlying their generalization remain poorly understood. In fact, if these models were perfectly m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] From Data to Action: Accelerating Refinery Optimization with AI",
+      "url": "http://arxiv.org/abs/2605.15085v2",
+      "summary": "Nowadays refinery optimization utilizes sheer amounts of data, which can be handled with modern Linear Programming (LP) software, but the interpreting and applying the results remains challenging. Lar...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 5314",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] tencent/Hy4-flash",
+      "url": "https://huggingface.co/tencent/Hy4-flash",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, hy_v4_flash, text-generation, hunyuan, hy4-flash. Downloads: 159",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6888351",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] Ruby2\u00dfhell: Pre-authentication RCE on stock Rails",
+      "url": "https://verialabs.com/ruby2shell/",
+      "summary": "HN Score: 126. Comments: 45",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "summary": "HN Score: 237. Comments: 379",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "HN Score: 541. Comments: 354",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "HN Score: 218. Comments: 52",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] DaisyRose-27B",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "summary": "HN Score: 218. Comments: 76",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [
+      {
+        "title": "[RSS] The Silent Consensus",
+        "url": "https://openai.com/index/the-silent-consensus",
+        "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+      },
+      {
+        "title": "[RSS] How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life",
+        "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+      },
+      {
+        "title": "[ArXiv] Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+        "url": "http://arxiv.org/abs/2611.24927v1",
+        "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh..."
+      },
+      {
+        "title": "[HackerNews] Anthropic prices initial public offering",
+        "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+        "summary": "HN Score: 237. Comments: 379"
+      },
+      {
+        "title": "[HackerNews] Seven new models at scalable price-performance",
+        "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+        "summary": "HN Score: 541. Comments: 354"
+      }
+    ],
+    "technical": [
+      {
+        "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+        "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+        "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [18:03] we got Gemini 3.6 Flash, 3.5 Flash Light, and 3.5 Flash Cyber. 3.6 Flash is\n[18:13] their new workhorse model that delivers better coding, knowledge work, and multimodal performance. It uses less tokens than 3.5 Flash and is just\n[18:22] overall, you know, less expensive to use. 3.5 Flash Light is a faster, more cost-effective model. And 3.5 Flash"
+      },
+      {
+        "title": "[ArXiv] Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+        "url": "http://arxiv.org/abs/2611.24924v1",
+        "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require..."
+      },
+      {
+        "title": "[HuggingFace] higurashi-ai/Haru-4B",
+        "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+        "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 5314"
+      },
+      {
+        "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+        "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6888351"
+      },
+      {
+        "title": "[HackerNews] LLM assisted reverse engineering",
+        "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+        "summary": "HN Score: 218. Comments: 52"
+      }
+    ],
+    "research": [
+      {
+        "title": "[RSS] Research acceleration: The jagged frontier",
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+        "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+      },
+      {
+        "title": "[RSS] Managing frontier AI risk: From training to deployment",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
+        "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+      },
+      {
+        "title": "[ArXiv] VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+        "url": "http://arxiv.org/abs/2611.15789v2",
+        "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by generating a 4D scene in ..."
+      },
+      {
+        "title": "[ArXiv] Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+        "url": "http://arxiv.org/abs/2611.24936v1",
+        "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ..."
+      },
+      {
+        "title": "[ArXiv] Anticipating or Speculating? Making Futures Pay in AI Ethics",
+        "url": "http://arxiv.org/abs/2611.22268v2",
+        "summary": "Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. ..."
+      }
+    ]
+  },
+  "curated_news": [
+    {
+      "title": "[RSS] The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions."
+    },
+    {
+      "title": "[RSS] How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption."
+    },
+    {
+      "title": "[ArXiv] Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationsh..."
+    },
+    {
+      "title": "[HackerNews] Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "summary": "HN Score: 237. Comments: 379"
+    },
+    {
+      "title": "[HackerNews] Seven new models at scalable price-performance",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "summary": "HN Score: 541. Comments: 354"
+    },
+    {
+      "title": "[Tavily] AI News: Kimi K3 Has Big AI Labs Panicking!",
+      "url": "https://www.youtube.com/watch?v=Ww3EYbuHSfo",
+      "summary": "[27:01] Like we can just kind of generate everything and anything. And now we have another model that will do that. But while we're on the topic, Flux 3 was\n[27:10] also announced this week from Black Forest Labs. Now, Flux 3 is a multimodal foundation model that jointly learns\n[27:17] from images, videos, and audio. And this Flux 3 model is a model that can generate videos or images. Now, the [...] Resources From Today's Video:\nKimi K3 Launch: \nChinese AI Sanctions Threat: \nKimi K3 Training Debate: \nOpenAI Hugging Face Incident: \nNew Gemini Flash Models: \nQwen3.8 Open-Weight Coming: \nHealth In ChatGPT: \nOpenAI On X: \nClaude Voice Mode Thinking: \nClaude Cowork Skill Recording: \nMicrosoft MAI Model Releases: \nFLUX 3 Released: \nRunway On X: \nGoogle Selfie Sign-In: \n\nLet\u2019s work together!\nBrand, sponsorship & business inquiries: mattwolfe@smoothmedia.co [...] [18:03] we got Gemini 3.6 Flash, 3.5 Flash Light, and 3.5 Flash Cyber. 3.6 Flash is\n[18:13] their new workhorse model that delivers better coding, knowledge work, and multimodal performance. It uses less tokens than 3.5 Flash and is just\n[18:22] overall, you know, less expensive to use. 3.5 Flash Light is a faster, more cost-effective model. And 3.5 Flash"
+    },
+    {
+      "title": "[ArXiv] Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit require..."
+    },
+    {
+      "title": "[HuggingFace] higurashi-ai/Haru-4B",
+      "url": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "summary": "Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speech, audio-to-audio. Downloads: 5314"
+    },
+    {
+      "title": "[HuggingFace] Qwen/Qwen3.8-27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text, conversational, license:apache-2.0. Downloads: 6888351"
+    },
+    {
+      "title": "[HackerNews] LLM assisted reverse engineering",
+      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
+      "summary": "HN Score: 218. Comments: 52"
+    },
+    {
+      "title": "[RSS] Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement."
+    },
+    {
+      "title": "[RSS] Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring."
+    },
+    {
+      "title": "[ArXiv] VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "url": "http://arxiv.org/abs/2611.15789v2",
+      "summary": "Controllable real-world video generation models can condition on a rendered graybox proxy video, which fixes layout, motion and camera. Coding agents can build such videos by generating a 4D scene in ..."
+    },
+    {
+      "title": "[ArXiv] Jailbreak Detection on Large Language Models via Contrastive Prototype Structures",
+      "url": "http://arxiv.org/abs/2611.24936v1",
+      "summary": "Jailbreak attempts and harmful prompts remain a challenge for the safe deployment of large language models. We study whether contrastively learned representations can support safety detection without ..."
+    },
+    {
+      "title": "[ArXiv] Anticipating or Speculating? Making Futures Pay in AI Ethics",
+      "url": "http://arxiv.org/abs/2611.22268v2",
+      "summary": "Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. ..."
+    }
+  ],
+  "final_report": "# AI Intelligence Report: Navigating the Maturing Frontier\n\nToday's intelligence report highlights a dynamic AI landscape marked by significant market maturation, a surge in new model releases, and a deepening focus on both practical enterprise adoption and the critical challenges of AI safety and supply chain resilience. As AI capabilities accelerate, the industry is grappling with how to effectively deploy, manage, and secure these powerful technologies across all sectors.\n\n## \ud83c\udfe2 AI Business & Strategy\n\n### **[The Silent Consensus](https://openai.com/index/the-silent-consensus)**\nOpenAI's Head of Strategic Futures explores the profound societal shifts anticipated with increasingly capable AI. Business leaders must proactively consider how AI will fundamentally reshape industries and institutions, emphasizing the strategic imperative to maintain human oversight and control amidst rapid technological evolution.\n\n### **[How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise](https://openai.com/business/customer-stories/sumitomo-life)**\nThis case study from Sumitomo Life demonstrates the critical role of executive leadership in driving successful enterprise AI adoption. Their strategic use of ChatGPT Enterprise for tasks like research and proposal drafting highlights how top-down engagement can overcome internal resistance and accelerate the integration of AI tools into core business operations.\n\n### **[Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem](http://arxiv.org/abs/2611.24927v1)**\nA new ArXiv paper sheds light on the intricate and often opaque AI supply chain, detailing dependencies and potential vulnerabilities. For executives and investors, understanding this ecosystem is crucial for strategic planning, risk management, and identifying areas of market concentration that could impact future innovation and stability.\n\n### **[Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)**\nAnthropic's initial public offering marks a significant milestone, signaling growing investor confidence and the maturation of the generative AI market. This event will set benchmarks for valuation and intensify competition among leading AI developers, influencing future investment strategies and market consolidation.\n\n### **[Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)**\nMicrosoft's announcement of seven new models with scalable price-performance underscores a strategic push for broader AI accessibility and cost-efficiency. This move is designed to attract a wider range of enterprise clients, intensifying the competitive landscape for cloud AI services and driving down the operational costs of advanced AI deployments.\n\n## \ud83d\udee0\ufe0f AI Architects & Developers\n\n### **[AI News: Kimi K3 Has Big AI Labs Panicking!](https://www.youtube.com/watch?v=Ww3EYbuHSfo)**\nThe emergence of Kimi K3 and Flux 3, new multimodal foundation models capable of generating diverse content from images to video and audio, signals a significant leap in generative AI capabilities. Developers should watch these models closely, alongside new Gemini Flash iterations, for their potential to unlock novel applications and streamline complex creative workflows.\n\n### **[Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses](http://arxiv.org/abs/2611.24924v1)**\nThis research introduces a beta approach to agentic harness engineering, emphasizing requirement-centered evolution for building robust AI agents. Practitioners should explore these methods to develop more reliable and user-aligned AI systems, moving beyond ad-hoc development to structured, requirement-driven agent design.\n\n### **[higurashi-ai/Haru-4B](https://huggingface.co/higurashi-ai/Haru-4B)**\nThe Haru-4B model is trending on HuggingFace, offering full-duplex speech-to-speech capabilities. Developers focused on real-time audio applications, conversational AI, or advanced voice interfaces should investigate this model for its potential to create more natural and interactive user experiences.\n\n### **[Qwen/Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B)**\nQwen3.8-27B is gaining significant traction on HuggingFace, offering a powerful open-weight multimodal model for image-text-to-text and conversational tasks. Its Apache-2.0 license makes it an attractive option for developers seeking a robust, flexible foundation model for a wide array of applications, from content generation to advanced chatbots.\n\n### **[LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering)**\nThis HackerNews discussion highlights the practical application of LLMs in reverse engineering, demonstrating their utility in complex analytical and problem-solving tasks. Engineers should consider integrating LLMs into their toolkits for code analysis, vulnerability assessment, and understanding legacy systems, potentially accelerating traditionally labor-intensive processes.\n\n## \ud83d\udd2c Research Frontiers\n\n### **[Research acceleration: The jagged frontier](https://openai.com/index/research-acceleration-jagged-frontier)**\nOpenAI's analysis of how coding agents accelerate AI research reveals both immense potential and uneven performance, offering insights into the path toward recursive self-improvement. Researchers should focus on understanding these \"jagged frontiers\" to optimize agentic workflows and push the boundaries of autonomous scientific discovery.\n\n### **[Managing frontier AI risk: From training to deployment](https://openai.com/index/managing-frontier-ai-risk)**\nOpenAI details its comprehensive approach to managing frontier AI risks, encompassing model alignment, sandboxing, blocking safeguards, and continuous monitoring. This provides a critical framework for researchers developing advanced AI, emphasizing the necessity of integrating robust safety protocols throughout the entire AI lifecycle.\n\n### **[VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender](http://arxiv.org/abs/2611.15789v2)**\nThis paper explores the use of coding agents for 4D scene generation in Blender, a significant step towards controllable real-world video creation. Researchers in generative AI and computer graphics should note this work for its implications in automating complex animation and visual effects, potentially revolutionizing content production.\n\n### **[Jailbreak Detection on Large Language Models via Contrastive Prototype Structures](http://arxiv.org/abs/2611.24936v1)**\nAddressing the persistent challenge of harmful prompts, this research proposes a novel method for jailbreak detection using contrastively learned representations. This approach offers a promising avenue for enhancing the safety and ethical deployment of LLMs, providing researchers with new tools for robust prompt filtering and anomaly detection.\n\n### **[Anticipating or Speculating? Making Futures Pay in AI Ethics](http://arxiv.org/abs/2611.22268v2)**\nThis paper delves into the philosophical complexities of AI ethics, particularly concerning decision rules when human judgment diverges from AI recommendations in critical fields like medicine. Researchers in AI ethics and philosophy must engage with these questions to develop frameworks that ensure responsible and trustworthy AI integration, especially in high-stakes scenarios.\n\n---\n**Today's Signal:** The AI ecosystem is rapidly professionalizing, with a dual focus on scaling advanced capabilities for enterprise adoption and rigorously addressing the inherent risks and ethical challenges of frontier AI.\n\n---\n\n## \ud83d\udcda Raw Intelligence Index\n> All sources gathered during this run. Collapsed by default.\n\n<details>\n<summary><strong>\ud83d\udcf0 Tavily / Web Search</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Generative AI advancements: A roundup of latest breakthroughs ](https://blog.451alliance.com/generative-ai-advancements-a-roundup-of-latest-breakthroughs-and-developments) | OpenAI and Mistral AI are two organizations pushing the boundaries of what AI ca... |\n| [AI News: Kimi K3 Has Big AI Labs Panicking! ](https://www.youtube.com/watch?v=Ww3EYbuHSfo) | [27:01] Like we can just kind of generate everything and anything. And now we ha... |\n| [Guides: Artificial Intelligence (Generative) Resources: Latest News on AI ](https://guides.library.georgetown.edu/ai/news) | Nvidia-Backed Startup doubleAI Launches Model to Pare Cost of Compute; The compa... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udce1 RSS Feeds</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [The Silent Consensus ](https://openai.com/index/the-silent-consensus) | Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI cou... |\n| [Research acceleration: The jagged frontier ](https://openai.com/index/research-acceleration-jagged-frontier) | OpenAI measures how coding agents are accelerating AI research, where their perf... |\n| [How Sumitomo Life\u2019s leaders helped teams adopt ChatGPT Enterprise ](https://openai.com/business/customer-stories/sumitomo-life) | Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, a... |\n| [Inside the Codex sandbox ](https://openai.com/index/inside-the-codex-sandbox) | See how Codex runs commands on your machine while enforcing the filesystem and n... |\n| [Managing frontier AI risk: From training to deployment ](https://openai.com/index/managing-frontier-ai-risk) | OpenAI explains how it manages frontier AI risk from training through deployment... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udcdd ArXiv Papers</strong> (10 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [Observable Performance Does Not Fully Reflect Adaptive System Organization: A Multi-Level Analysis of Gait Dynamics Under Occlusal Constraint ](http://arxiv.org/abs/2605.00778v3) | In biomechanical systems, observable performance is often used as a proxy for un... |\n| [Is Randomness Necessary for Adaptive Data Analysis? ](http://arxiv.org/abs/2607.07085v3) | The Adaptive Data Analysis (ADA) problem formalizes the challenge of preventing ... |\n| [VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender ](http://arxiv.org/abs/2611.15789v2) | Controllable real-world video generation models can condition on a rendered gray... |\n| [Jailbreak Detection on Large Language Models via Contrastive Prototype Structures ](http://arxiv.org/abs/2611.24936v1) | Jailbreak attempts and harmful prompts remain a challenge for the safe deploymen... |\n| [Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Systems ](http://arxiv.org/abs/2611.24932v1) | When a capable model and a human reviewer cooperate on the same decision, which ... |\n| [Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem ](http://arxiv.org/abs/2611.24927v1) | AI systems are built across many organizations that contribute models, data, com... |\n| [Anticipating or Speculating? Making Futures Pay in AI Ethics ](http://arxiv.org/abs/2611.22268v2) | Philosophers have recently been trying to develop uniform decision rules for ins... |\n| [Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnesses ](http://arxiv.org/abs/2611.24924v1) | Real-world harness engineering is driven by explicit and implicit user requireme... |\n| [Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models ](http://arxiv.org/abs/2505.16959v3) | Diffusion probabilistic models have become a cornerstone of modern generative AI... |\n| [From Data to Action: Accelerating Refinery Optimization with AI ](http://arxiv.org/abs/2605.15085v2) | Nowadays refinery optimization utilizes sheer amounts of data, which can be hand... |\n\n</details>\n\n<details>\n<summary><strong>\ud83e\udd17 HuggingFace Trending</strong> (3 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [higurashi-ai/Haru-4B ](https://huggingface.co/higurashi-ai/Haru-4B) | Trending HF Model. Tags: safetensors, haru, speech, full-duplex, speech-to-speec... |\n| [tencent/Hy4-flash ](https://huggingface.co/tencent/Hy4-flash) | Trending HF Model. Tags: transformers, safetensors, hy_v4_flash, text-generation... |\n| [Qwen/Qwen3.8-27B ](https://huggingface.co/Qwen/Qwen3.8-27B) | Trending HF Model. Tags: transformers, safetensors, qwen3_5, image-text-to-text,... |\n\n</details>\n\n<details>\n<summary><strong>\ud83d\udd25 HackerNews</strong> (5 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[HackerNews] Ruby2\u00dfhell: Pre-authentication RCE on stock Rails](https://verialabs.com/ruby2shell/) | HN Score: 126. Comments: 45 |\n| [[HackerNews] Anthropic prices initial public offering](https://www.anthropic.com/news/anthropic-prices-initial-public-offering) | HN Score: 237. Comments: 379 |\n| [[HackerNews] Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/) | HN Score: 541. Comments: 354 |\n| [[HackerNews] LLM assisted reverse engineering](https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering) | HN Score: 218. Comments: 52 |\n| [[HackerNews] DaisyRose-27B](https://www.radixark.com/blog/daisyrose-27b) | HN Score: 218. Comments: 76 |\n\n</details>\n\n<details>\n<summary><strong>\ud83c\udfa5 YouTube AI Channels</strong> (2 items)</summary>\n\n| Title | Summary |\n|---|---|\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=583ThJIqQ7k) | Video transcript unavailable. |\n| [[YouTube AI] Keyboard shortcuts](https://www.youtube.com/watch?v=xHi8PUIVyoo) | Video transcript unavailable. |\n\n</details>",
+  "email_log": {
+    "status": "success",
+    "subscribers_found": 10,
+    "sheet_status": "ok_9_subscribers_from_9_rows",
+    "email_status": "sent_to_10"
+  }
+}
