@@ -1,0 +1,357 @@
+{
+  "search_query": "latest breakthroughs, releases, and news in Generative AI",
+  "days": 2,
+  "tavily_news": [
+    {
+      "title": "[Tavily] ai news last 24 hours model releases research breakthroughs",
+      "url": "https://talk.everout.com/ai-news-last-24-hours-model-releases-research-breakthroughs-funding",
+      "summary": "| Cohere Command R+ | Cohere | June 5, 2024 |  Diffusion-transformer hybrid for text-to-image/video (1280x720 resolution).  Fine-tuned on 500M+ high-quality image-text pairs.  Supports conditional generation (e.g., \"a cyberpunk city at night, neon lights, cinematic\").  API with watermarking for provenance tracking. |  Creative industries (advertising, gaming, film).  Compliance-ready generative AI for enterprise use.  Direct competitor to MidJourney v6 in commercial sectors. | [...] Paper Title: \"Diffusion Models with Learned Noise Schedules for Efficient Multimodal Generation\" Authors: Wang et al. (arXiv preprint)  \n   Key Contribution: Introduces a noise scheduling mechanism in diffusion models that reduces sampling steps by 40% while maintaining fidelity in text-to-image and text-to-video tasks.  \n   Potential Applications: Real-time generative applications, low-latency creative tools, and edge deployment of multimodal models. [...] Two papers have garnered significant attention due to their potential to redefine industry standards: \"Diffusion Models with Learned Noise Schedules\" and \"Neuro-Symbolic Reasoning for Drug Discovery.\" The former addresses a critical bottleneck in generative AI\u2014sampling efficiency\u2014by dynamically optimizing noise schedules, reducing inference time without sacrificing quality. However, its applicability is constrained by the need for model-specific retraining and the computational overhead of",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest Breakthroughs in Generative AI for 2024",
+      "url": "https://www.analyticsinsight.net/ampstories/generative-ai/latest-breakthroughs-in-generative-ai-for-2024",
+      "summary": "# Latest Breakthroughs in Generative AI for 2024\n\nSumedha Sen\n\n#### One of the most exciting breakthroughs in 2024 is the development of multimodal AI systems.\n\n#### Retrieval-Augmented Generation (RAG) has matured significantly in 2024.\n\n#### In 2024, researchers have successfully integrated quantum computing techniques with generative models, leading to significant improvements in processing speed and model accuracy. [...] #### The open-source community has made remarkable strides in 2024, with several new generative AI models.\n\n#### Personalization has reached new heights with the latest generative AI technologies.\n\nRead More Stories",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Last 24 Hours: April 2026 Latest Model Releases & Breakthroughs",
+      "url": "https://bigdigital.ch/ai-news-last-24-hours-april-2026-latest",
+      "summary": "## Key Takeaways\n\n Anthropic\u2019s Claude Mythos\u202f5 is the first widely available ten\u2011trillion\u2011parameter model, targeting cybersecurity, research and complex coding.\n Google\u2019s TurboQuant reduces KV\u2011cache memory usage to 3\u202fbits, delivering up to an 8\u00d7 speed\u2011up in attention logit computation.\n Agentic AI projects such as OpenClaw now exceed 300\u202fk GitHub stars, enabling autonomous shell\u2011command execution via messaging platforms.\n\n## Understanding the Impact of Ten\u2011Trillion\u2011Parameter Models [...] The release of Claude Mythos\u202f5 by Anthropic marks a historic milestone: a model with 10\u202ftrillion parameters that can perform multi\u2011step reasoning with near\u2011human precision. Early benchmarks show a 94.7\u202f% score on the HumanEval coding test and leading performance on cybersecurity\u2011focused planning tasks. [...] [Placeholder: Diagram showing before/after TurboQuant quantisation pipeline]\n\nEarly adopters include major cloud providers who have begun offering TurboQuant\u2011optimised instances for Llama\u202f2\u201170B and Gemini\u20113.1 Ultra. The technology also benefits edge\u2011deployment scenarios: quantised models can now run on smartphones with acceptable latency, opening doors to on\u2011device AI assistants that previously relied on cloud round\u2011trips.",
+      "source": "Tavily Search"
+    }
+  ],
+  "rss_news": [
+    {
+      "title": "[RSS] Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    }
+  ],
+  "arxiv_news": [
+    {
+      "title": "[ArXiv] Optimal Linear Regression Without a Variance",
+      "url": "http://arxiv.org/abs/2611.27983v1",
+      "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $\u03b1$-moment $\u03bd$ for some unknown $\u03b1\\in(1,2)$, and the covariates ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+      "url": "http://arxiv.org/abs/2602.04417v3",
+      "summary": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+      "url": "http://arxiv.org/abs/2611.27978v1",
+      "summary": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+      "url": "http://arxiv.org/abs/2605.08144v3",
+      "summary": "Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and we...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "url": "http://arxiv.org/abs/2611.27973v1",
+      "summary": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+      "url": "http://arxiv.org/abs/2611.27970v1",
+      "summary": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+      "url": "http://arxiv.org/abs/2609.38721v2",
+      "summary": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SPARC: Evidence-guided adaptive model composition for materials discovery",
+      "url": "http://arxiv.org/abs/2611.19050v2",
+      "summary": "Closed-loop experimentation requires more than selecting the next experiment. It must also determine which existing measurements and model-derived relationships are sufficiently supported to influence...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Non-penetrating World Models",
+      "url": "http://arxiv.org/abs/2611.27963v1",
+      "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "http://arxiv.org/abs/2611.27962v1",
+      "summary": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer...",
+      "source": "ArXiv API"
+    }
+  ],
+  "github_news": [],
+  "hf_news": [
+    {
+      "title": "[HuggingFace] thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, inkling2_loop, image-text-to-text, conversational, moe. Downloads: 41888",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, conversational, image-text-to-text, moe, unsloth, base_model:thinkingmachines/Inkling-2-Mini. Downloads: 1292888",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "summary": "Trending HF Model. Tags: inworld-voice-isolation, audio, speech, speech-enhancement, speech-denoising, noise-suppression. Downloads: 0",
+      "source": "Hugging Face API"
+    }
+  ],
+  "hn_news": [
+    {
+      "title": "[HackerNews] A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "HN Score: 532. Comments: 225",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "summary": "HN Score: 25. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "summary": "HN Score: 321. Comments: 78",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "summary": "HN Score: 46. Comments: 1",
+      "source": "HackerNews Top Stories"
+    }
+  ],
+  "reddit_news": [],
+  "youtube_news": [
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "[Tavily] ai news last 24 hours model releases research breakthroughs",
+      "url": "https://talk.everout.com/ai-news-last-24-hours-model-releases-research-breakthroughs-funding",
+      "summary": "| Cohere Command R+ | Cohere | June 5, 2024 |  Diffusion-transformer hybrid for text-to-image/video (1280x720 resolution).  Fine-tuned on 500M+ high-quality image-text pairs.  Supports conditional generation (e.g., \"a cyberpunk city at night, neon lights, cinematic\").  API with watermarking for provenance tracking. |  Creative industries (advertising, gaming, film).  Compliance-ready generative AI for enterprise use.  Direct competitor to MidJourney v6 in commercial sectors. | [...] Paper Title: \"Diffusion Models with Learned Noise Schedules for Efficient Multimodal Generation\" Authors: Wang et al. (arXiv preprint)  \n   Key Contribution: Introduces a noise scheduling mechanism in diffusion models that reduces sampling steps by 40% while maintaining fidelity in text-to-image and text-to-video tasks.  \n   Potential Applications: Real-time generative applications, low-latency creative tools, and edge deployment of multimodal models. [...] Two papers have garnered significant attention due to their potential to redefine industry standards: \"Diffusion Models with Learned Noise Schedules\" and \"Neuro-Symbolic Reasoning for Drug Discovery.\" The former addresses a critical bottleneck in generative AI\u2014sampling efficiency\u2014by dynamically optimizing noise schedules, reducing inference time without sacrificing quality. However, its applicability is constrained by the need for model-specific retraining and the computational overhead of",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] Latest Breakthroughs in Generative AI for 2024",
+      "url": "https://www.analyticsinsight.net/ampstories/generative-ai/latest-breakthroughs-in-generative-ai-for-2024",
+      "summary": "# Latest Breakthroughs in Generative AI for 2024\n\nSumedha Sen\n\n#### One of the most exciting breakthroughs in 2024 is the development of multimodal AI systems.\n\n#### Retrieval-Augmented Generation (RAG) has matured significantly in 2024.\n\n#### In 2024, researchers have successfully integrated quantum computing techniques with generative models, leading to significant improvements in processing speed and model accuracy. [...] #### The open-source community has made remarkable strides in 2024, with several new generative AI models.\n\n#### Personalization has reached new heights with the latest generative AI technologies.\n\nRead More Stories",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[Tavily] AI News Last 24 Hours: April 2026 Latest Model Releases & Breakthroughs",
+      "url": "https://bigdigital.ch/ai-news-last-24-hours-april-2026-latest",
+      "summary": "## Key Takeaways\n\n Anthropic\u2019s Claude Mythos\u202f5 is the first widely available ten\u2011trillion\u2011parameter model, targeting cybersecurity, research and complex coding.\n Google\u2019s TurboQuant reduces KV\u2011cache memory usage to 3\u202fbits, delivering up to an 8\u00d7 speed\u2011up in attention logit computation.\n Agentic AI projects such as OpenClaw now exceed 300\u202fk GitHub stars, enabling autonomous shell\u2011command execution via messaging platforms.\n\n## Understanding the Impact of Ten\u2011Trillion\u2011Parameter Models [...] The release of Claude Mythos\u202f5 by Anthropic marks a historic milestone: a model with 10\u202ftrillion parameters that can perform multi\u2011step reasoning with near\u2011human precision. Early benchmarks show a 94.7\u202f% score on the HumanEval coding test and leading performance on cybersecurity\u2011focused planning tasks. [...] [Placeholder: Diagram showing before/after TurboQuant quantisation pipeline]\n\nEarly adopters include major cloud providers who have begun offering TurboQuant\u2011optimised instances for Llama\u202f2\u201170B and Gemini\u20113.1 Ultra. The technology also benefits edge\u2011deployment scenarios: quantised models can now run on smartphones with acceptable latency, opening doors to on\u2011device AI assistants that previously relied on cloud round\u2011trips.",
+      "source": "Tavily Search"
+    },
+    {
+      "title": "[RSS] Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "source": "https://openai.com/blog/rss.xml"
+    },
+    {
+      "title": "[RSS] How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] OpenAI\u2019s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[RSS] Signal restricts mobile screenshots as it confronts \u2018existential threat\u2019 of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    },
+    {
+      "title": "[ArXiv] Optimal Linear Regression Without a Variance",
+      "url": "http://arxiv.org/abs/2611.27983v1",
+      "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $\u03b1$-moment $\u03bd$ for some unknown $\u03b1\\in(1,2)$, and the covariates ma...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] EMA Policy Gradient: Taming Reinforcement Learning for LLMs with EMA Anchor and Top-k KL",
+      "url": "http://arxiv.org/abs/2602.04417v3",
+      "summary": "Reinforcement Learning (RL) has enabled Large Language Models (LLMs) to acquire increasingly complex reasoning and agentic behaviors. In this work, we propose two simple techniques to improve policy g...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P 500 Forecasting:Identifying Sources of Performance Inflation in Financial DeepLearning",
+      "url": "http://arxiv.org/abs/2611.27978v1",
+      "summary": "This study examines one-day-ahead forecasting of the S&P 500 closing level using a 2006-2025 dataset that includes fundamental price data, macroeconomic indicators, and engineered technical features. ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] NoiseRater: Meta-Learned Noise Valuation for Diffusion Model Training",
+      "url": "http://arxiv.org/abs/2605.08144v3",
+      "summary": "Training a diffusion model involves two sources of randomness for each data sample: the timestep and the Gaussian noise realization. The timestep has been studied extensively through scheduling and we...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "url": "http://arxiv.org/abs/2611.27973v1",
+      "summary": "Deploying large language models (LLMs) in long-horizon and continual interactions requires maintaining reusable memory states for future inference, posing challenges for existing architectures. Standa...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] On the Complete Feature Set for ADHD Classification in Children and Adolescents Based on EEG Signals",
+      "url": "http://arxiv.org/abs/2611.27970v1",
+      "summary": "Attention-deficit/hyperactivity disorder is a neurodevelopmental condition that can affect attention, activity and impulse control. Electroencephalography (EEG) records brain activity as children and ...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+      "url": "http://arxiv.org/abs/2609.38721v2",
+      "summary": "Modern multimodal models bring generation and understanding into a single unified system, which enables them to provide and learn from their own feedback. Motivated by this unified capacity, we introd...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] SPARC: Evidence-guided adaptive model composition for materials discovery",
+      "url": "http://arxiv.org/abs/2611.19050v2",
+      "summary": "Closed-loop experimentation requires more than selecting the next experiment. It must also determine which existing measurements and model-derived relationships are sufficiently supported to influence...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Non-penetrating World Models",
+      "url": "http://arxiv.org/abs/2611.27963v1",
+      "summary": "We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world m...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[ArXiv] Model Carving: Training Transformers That Optimize Their Own Topology",
+      "url": "http://arxiv.org/abs/2611.27962v1",
+      "summary": "Machine learning has largely kept separate the choice of architecture and the process of training. A classic Transformer, for instance, trains a fixed set of attention and MLP sublayers at every layer...",
+      "source": "ArXiv API"
+    },
+    {
+      "title": "[HuggingFace] thinkingmachines/Inkling-2-Mini",
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "summary": "Trending HF Model. Tags: transformers, safetensors, inkling2_loop, image-text-to-text, conversational, moe. Downloads: 41888",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] unsloth/Inkling-2-Mini-GGUF",
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "summary": "Trending HF Model. Tags: gguf, conversational, image-text-to-text, moe, unsloth, base_model:thinkingmachines/Inkling-2-Mini. Downloads: 1292888",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HuggingFace] inworld/voice-isolator",
+      "url": "https://huggingface.co/inworld/voice-isolator",
+      "summary": "Trending HF Model. Tags: inworld-voice-isolation, audio, speech, speech-enhancement, speech-denoising, noise-suppression. Downloads: 0",
+      "source": "Hugging Face API"
+    },
+    {
+      "title": "[HackerNews] A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "HN Score: 532. Comments: 225",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Brake Check: Hijacking Trailer Brakes over Bluetooth",
+      "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+      "summary": "HN Score: 25. Comments: 19",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "summary": "HN Score: 321. Comments: 78",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[HackerNews] Verifying formal models of Raft implementations",
+      "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+      "summary": "HN Score: 46. Comments: 1",
+      "source": "HackerNews Top Stories"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    },
+    {
+      "title": "[YouTube AI] Keyboard shortcuts",
+      "url": "https://www.youtube.com/watch?v=xHi8PUIVyoo",
+      "summary": "Video transcript unavailable.",
+      "source": "YouTube AI Channels"
+    }
+  ],
+  "categorized_news": {
+    "business": [],
+    "technical": [],
+    "research": []
+  },
+  "curated_news": [],
+  "final_report": "No significant news found today.",
+  "email_log": {
+    "status": "skipped_no_report",
+    "subscribers_found": 0,
+    "sheet_status": "not_attempted",
+    "email_status": "not_attempted"
+  }
+}
